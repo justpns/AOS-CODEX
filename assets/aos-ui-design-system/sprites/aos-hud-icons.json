@@ -1,0 +1,201 @@
+{
+  "name": "AOS HUD Icon Starter Atlas",
+  "version": "1.0.0",
+  "status": "illustrative UI placeholders; replace with approved production art",
+  "format": "RGBA PNG atlas with SVG source",
+  "atlas": {
+    "file": "aos-hud-icons.png",
+    "source": "aos-hud-icons.svg",
+    "width": 512,
+    "height": 512,
+    "cellWidth": 128,
+    "cellHeight": 128,
+    "columns": 4,
+    "rows": 4,
+    "transparentBackground": true,
+    "padding": 0
+  },
+  "style": {
+    "stroke": "#C5A15A",
+    "strokeWidth": 4,
+    "note": "Muted antique-gold outline glyphs on transparent cells."
+  },
+  "frames": {
+    "attack": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "dodge": {
+      "x": 128,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "auto_combat": {
+      "x": 256,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "health": {
+      "x": 384,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "mana": {
+      "x": 0,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "target": {
+      "x": 128,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "monster": {
+      "x": 256,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "inventory": {
+      "x": 384,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "party": {
+      "x": 0,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "summon": {
+      "x": 128,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "daily_hunt": {
+      "x": 256,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "settings": {
+      "x": 384,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "chat": {
+      "x": 0,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "mail": {
+      "x": 128,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "add": {
+      "x": 256,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    },
+    "close": {
+      "x": 384,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64.0,
+        "y": 64.0
+      },
+      "trimmed": false
+    }
+  }
+}

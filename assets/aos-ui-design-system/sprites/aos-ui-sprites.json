@@ -1,0 +1,858 @@
+{
+  "name": "AOS UI Sprite Atlas",
+  "version": "1.1.0",
+  "status": "illustrative generic interface glyphs; review and replace with approved production art before shipping",
+  "format": "RGBA PNG atlas with editable SVG source",
+  "atlas": {
+    "file": "aos-ui-sprites.png",
+    "source": "aos-ui-sprites.svg",
+    "width": 1024,
+    "height": 1024,
+    "cellWidth": 128,
+    "cellHeight": 128,
+    "columns": 8,
+    "rows": 8,
+    "transparentBackground": true,
+    "padding": 0
+  },
+  "style": {
+    "stroke": "#C5A15A",
+    "strokeWidth": 4,
+    "cellInset": "glyph paths use an approximately 16–24 px visual inset at 128 px cell scale",
+    "note": "Muted antique-gold outline glyphs; scale to 24 px or 20 px UI use as appropriate."
+  },
+  "frames": {
+    "attack": {
+      "x": 0,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "combat",
+      "description": "Primary attack action"
+    },
+    "dodge": {
+      "x": 128,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "combat",
+      "description": "Dodge or evasive action"
+    },
+    "auto_combat": {
+      "x": 256,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "combat",
+      "description": "Auto Combat control"
+    },
+    "health": {
+      "x": 384,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "HP and health status"
+    },
+    "mana": {
+      "x": 512,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "MP and mana status"
+    },
+    "target": {
+      "x": 640,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "combat",
+      "description": "Target selection"
+    },
+    "monster": {
+      "x": 768,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "combat",
+      "description": "Generic monster category"
+    },
+    "inventory": {
+      "x": 896,
+      "y": 0,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Inventory"
+    },
+    "party": {
+      "x": 0,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "Party panel"
+    },
+    "summon": {
+      "x": 128,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "Summon panel"
+    },
+    "daily_hunt": {
+      "x": 256,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "Daily Hunt objectives"
+    },
+    "settings": {
+      "x": 384,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Settings"
+    },
+    "chat": {
+      "x": 512,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "communication",
+      "description": "Chat panel"
+    },
+    "mail": {
+      "x": 640,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "communication",
+      "description": "Mail"
+    },
+    "add": {
+      "x": 768,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Add or assign"
+    },
+    "close": {
+      "x": 896,
+      "y": 128,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Close or dismiss"
+    },
+    "storage": {
+      "x": 0,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "quick-access",
+      "description": "Storage"
+    },
+    "market": {
+      "x": 128,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "quick-access",
+      "description": "Market or trade"
+    },
+    "potion": {
+      "x": 256,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "quick-access",
+      "description": "Consumable category; use game item art for actual items"
+    },
+    "enchant": {
+      "x": 384,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "quick-access",
+      "description": "Enchanting feature"
+    },
+    "menu_grid": {
+      "x": 512,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Feature menu"
+    },
+    "map": {
+      "x": 640,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "World map"
+    },
+    "player": {
+      "x": 768,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hud",
+      "description": "Player marker"
+    },
+    "map_pin": {
+      "x": 896,
+      "y": 256,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "map",
+      "description": "Map location marker"
+    },
+    "warp": {
+      "x": 0,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "map",
+      "description": "Travel or warp action"
+    },
+    "zoom_in": {
+      "x": 128,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "map",
+      "description": "Map zoom in"
+    },
+    "zoom_out": {
+      "x": 256,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "map",
+      "description": "Map zoom out"
+    },
+    "boss_marker": {
+      "x": 384,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "map",
+      "description": "Generic boss marker; use verified game data"
+    },
+    "drop": {
+      "x": 512,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "monster-inspection",
+      "description": "Drop or loot category"
+    },
+    "expand": {
+      "x": 640,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Expand panel or view"
+    },
+    "collapse": {
+      "x": 768,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Collapse panel"
+    },
+    "chevron_right": {
+      "x": 896,
+      "y": 384,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Open next level"
+    },
+    "chevron_down": {
+      "x": 0,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Open or close dropdown"
+    },
+    "search": {
+      "x": 128,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Search"
+    },
+    "filter": {
+      "x": 256,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Filter results"
+    },
+    "info": {
+      "x": 384,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Information tooltip"
+    },
+    "warning": {
+      "x": 512,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Warning or validation state"
+    },
+    "check": {
+      "x": 640,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Confirmed or complete state"
+    },
+    "lock": {
+      "x": 768,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Locked state"
+    },
+    "unlock": {
+      "x": 896,
+      "y": 512,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Unlocked state"
+    },
+    "reset": {
+      "x": 0,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Reset settings or meter"
+    },
+    "notification": {
+      "x": 128,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Notifications"
+    },
+    "coin": {
+      "x": 256,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "currency",
+      "description": "Currency marker; not a specific item"
+    },
+    "gem": {
+      "x": 384,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "currency",
+      "description": "Premium currency category; not a specific item"
+    },
+    "reward": {
+      "x": 512,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "rewards",
+      "description": "Reward claim"
+    },
+    "battle_pass": {
+      "x": 640,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "rewards",
+      "description": "Battle pass"
+    },
+    "guild": {
+      "x": 768,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Guild"
+    },
+    "friend": {
+      "x": 896,
+      "y": 640,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Friend list"
+    },
+    "character": {
+      "x": 0,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Character profile; class art remains game-specific"
+    },
+    "skills": {
+      "x": 128,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Skills or passive tree"
+    },
+    "quest": {
+      "x": 256,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "navigation",
+      "description": "Quest or objectives"
+    },
+    "general_settings": {
+      "x": 384,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "General settings category"
+    },
+    "interface": {
+      "x": 512,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Interface settings category"
+    },
+    "graphics": {
+      "x": 640,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Graphics settings category"
+    },
+    "audio": {
+      "x": 768,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Audio settings category"
+    },
+    "controls": {
+      "x": 896,
+      "y": 768,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Controls settings category"
+    },
+    "keybindings": {
+      "x": 0,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Keybinding settings category"
+    },
+    "auto_loot": {
+      "x": 128,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Auto Loot settings category"
+    },
+    "account": {
+      "x": 256,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "settings",
+      "description": "Account settings category"
+    },
+    "back": {
+      "x": 384,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "utility",
+      "description": "Go back"
+    },
+    "send": {
+      "x": 512,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "communication",
+      "description": "Send message"
+    },
+    "cooldown": {
+      "x": 640,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hotbar-state",
+      "description": "Cooldown timer background; overlay remaining time as text"
+    },
+    "insufficient_mana": {
+      "x": 768,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hotbar-state",
+      "description": "Insufficient MP state cue"
+    },
+    "unavailable": {
+      "x": 896,
+      "y": 896,
+      "width": 128,
+      "height": 128,
+      "pivot": {
+        "x": 64,
+        "y": 64
+      },
+      "trimmed": false,
+      "category": "hotbar-state",
+      "description": "Unavailable state cue"
+    }
+  }
+}

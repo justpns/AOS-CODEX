@@ -1,26 +1,26 @@
 Boss,Level,Tier,Race,Element,HP,ATK,MATK,DEF,MDEF,Range,Interval,STR,AGI,VIT,INT,DEX,LUK,Archetype,Primary Axis,Secondary Axis,Signature Skill,Counterplay
-Flora Queen,15,T1,Plant,Earth,240000000,140,235,40,35,4,1.25,43,25,28,30,30,20,Summoner,Target Management,Spatial,Royal Bloom,AoE / Kill Summons
-Lanar,25,T1,Brute,Neutral,280000000,260,120,65,45,2,0.95,68,50,57,24,50,20,Berserker,Tempo,Physical,Wild Charge,Block / Side-step
-Sand Spirit,30,T1,Demi-Human,Earth,260000000,160,300,70,100,5,1.4,41,54,63,87,65,20,Controller,Spatial,Status,Sand Vortex,Movement / Slow Resist
-Baby Yoh,45,T1,Demi-Human,Neutral,360000000,380,130,55,50,1.5,1.1,55,38,39,24,38,15,Assassin,Reaction,Burst,Echoing Dash,Dodge Timing
-Forest Guardian,50,T1,Plant,Earth,280000000,300,140,150,95,3,1.8,124,50,155,54,85,25,Juggernaut,Durability,Physical,Timber Slam,Magic / Penetration / Positioning
-King Kobold,50,T1,Demi-Human,Earth,280000000,400,170,125,90,2,1.25,103,61,110,35,90,35,Bruiser,Physical,Sustain,Royal Cleave,Block / DEF / Dodge
-Growtliat,55,T1,Plant,Earth,320000000,280,390,115,135,4,1.5,74,41,113,102,80,25,Summoner,Target Management,Sustain,Ancient Root,AoE / Destroy Roots
-Goblin Champion,60,T1,Demi-Human,Wind,340000000,580,180,85,75,1.5,0.95,66,56,59,26,51,20,Berserker,Tempo,Reaction,Gale Combo,Defensive Timing
-Snow Empress,75,T2,Demi-Human,Water,480000000,350,950,90,145,8,1.5,36,53,63,90,75,25,Controller,Status Control,Spatial,Frozen Court,Cleanse / Status Resist / Movement
-Anubis,80,T2,Demon,Chaos,540000000,650,650,185,185,3,1.2,146,70,148,156,120,35,Strategist,Adaptation,Timing,Judgment Mark,Pattern Reading / Positioning
-Mummy King,90,T2,Undead,Undead,600000000,650,750,200,210,4,1.5,149,51,170,177,135,40,Summoner,Target Management,Durability,Awaken Mummy,AoE / Target Priority
-Death Root,100,T2,Plant,Poison,660000000,950,650,260,160,3,1.7,152,59,209,101,120,30,Juggernaut,Durability,Spatial,Root Network,Magic / Penetration / Movement
-Poisoned Spirit,105,T2,Undead,Poison,720000000,550,1150,145,220,5,1.4,79,92,132,173,130,40,Controller,Sustain,Status,Venom Stack,Cleanse / Poison Resist / Healing
-Lava Spirit,110,T3,Formless,Fire,720000000,1100,1400,230,230,4,1.4,145,78,182,213,135,35,Controller,Spatial,Sustain,Molten Ground,Positioning / Fire Resist
-Mark of Flame,125,T3,Demon,Fire,800000000,1600,3000,240,380,8,1.5,148,103,137,227,180,60,Spellcaster,Magic Burst,Timing,Inferno Ritual,Interrupt / Dodge / MDEF
-Volcano Wraith,135,T3,Undead,Fire,900000000,2800,2300,190,210,3,1,156,130,128,129,145,45,Assassin,Mobility,Spatial,Cinder Dash,Reaction / Positioning
-Chaola,145,T3,Demon,Chaos,1000000000,1200,3600,220,400,8,1.45,100,98,111,211,139,49,Spellcaster,Pattern Reading,Magic Burst,Chaos Sequence,Telegraph / Timing / Physical DPS
-Queen of Undead,150,T3,Undead,Undead,1080000000,1400,2900,300,340,7,1.5,116,96,139,167,144,51,Summoner,Target Management,Status,Soul Harvest,AoE / Kill Adds
-Ice King,155,T4,Undead,Water,1080000000,4200,2800,450,300,3,1.6,173,92,238,130,160,55,Juggernaut,Durability,Physical,Glacial Slam,Magic / Block / Dodge
-Fallen Angel,160,T4,Angel,Chaos,1200000000,2000,4500,280,450,8,1.5,140,105,137,290,210,70,Spellcaster,Magic Burst,Spatial,Celestial Judgment,Physical DPS / MDEF / Movement
-Atlanette,166,T4,Demi-Human,Fire,1320000000,3000,4000,380,380,8,1.3,221,141,156,243,220,80,Strategist,Pattern Reading,Target Management,Equation Grid,Safe Zone / Device Management
-Curse Weaver,170,T4,Demi-Human,Ghost,1440000000,2800,4600,300,400,7,1.4,144,161,211,321,250,100,Controller,Status Control,Sustain,Ritual Totem,Cleanse / Curse Resist / Destroy Totems
+Flora Queen,15,T1,Plant,Earth,276000000,140,235,40,35,4,1.25,43,25,28,30,30,20,Summoner,Target Management,Spatial,Royal Bloom,AoE / Kill Summons
+Lanar,25,T1,Brute,Neutral,322000000,260,120,65,45,2,0.95,68,50,57,24,50,20,Berserker,Tempo,Physical,Wild Charge,Block / Side-step
+Sand Spirit,30,T1,Demi-Human,Earth,299000000,160,300,70,100,5,1.4,41,54,63,87,65,20,Controller,Spatial,Status,Sand Vortex,Movement / Slow Resist
+Baby Yoh,45,T1,Demi-Human,Neutral,414000000,380,130,55,50,1.5,1.1,55,38,39,24,38,15,Assassin,Reaction,Burst,Echoing Dash,Dodge Timing
+Forest Guardian,50,T1,Plant,Earth,322000000,300,140,150,95,3,1.8,124,50,155,54,85,25,Juggernaut,Durability,Physical,Timber Slam,Magic / Penetration / Positioning
+King Kobold,50,T1,Demi-Human,Earth,322000000,400,170,125,90,2,1.25,103,61,110,35,90,35,Bruiser,Physical,Sustain,Royal Cleave,Block / DEF / Dodge
+Growtliat,55,T1,Plant,Earth,368000000,280,390,115,135,4,1.5,74,41,113,102,80,25,Summoner,Target Management,Sustain,Ancient Root,AoE / Destroy Roots
+Goblin Champion,60,T1,Demi-Human,Wind,391000000,580,180,85,75,1.5,0.95,66,56,59,26,51,20,Berserker,Tempo,Reaction,Gale Combo,Defensive Timing
+Snow Empress,75,T2,Demi-Human,Water,552000000,350,950,90,145,8,1.5,36,53,63,90,75,25,Controller,Status Control,Spatial,Frozen Court,Cleanse / Status Resist / Movement
+Anubis,80,T2,Demon,Chaos,621000000,650,650,185,185,3,1.2,146,70,148,156,120,35,Strategist,Adaptation,Timing,Judgment Mark,Pattern Reading / Positioning
+Mummy King,90,T2,Undead,Undead,690000000,650,750,200,210,4,1.5,149,51,170,177,135,40,Summoner,Target Management,Durability,Awaken Mummy,AoE / Target Priority
+Death Root,100,T2,Plant,Poison,759000000,950,650,260,160,3,1.7,152,59,209,101,120,30,Juggernaut,Durability,Spatial,Root Network,Magic / Penetration / Movement
+Poisoned Spirit,105,T2,Undead,Poison,828000000,550,1150,145,220,5,1.4,79,92,132,173,130,40,Controller,Sustain,Status,Venom Stack,Cleanse / Poison Resist / Healing
+Lava Spirit,110,T3,Formless,Fire,828000000,1100,1400,230,230,4,1.4,145,78,182,213,135,35,Controller,Spatial,Sustain,Molten Ground,Positioning / Fire Resist
+Mark of Flame,125,T3,Demon,Fire,920000000,1600,3000,240,380,8,1.5,148,103,137,227,180,60,Spellcaster,Magic Burst,Timing,Inferno Ritual,Interrupt / Dodge / MDEF
+Volcano Wraith,135,T3,Undead,Fire,1035000000,2800,2300,190,210,3,1,156,130,128,129,145,45,Assassin,Mobility,Spatial,Cinder Dash,Reaction / Positioning
+Chaola,145,T3,Demon,Chaos,1150000000,1200,3600,220,400,8,1.45,100,98,111,211,139,49,Spellcaster,Pattern Reading,Magic Burst,Chaos Sequence,Telegraph / Timing / Physical DPS
+Queen of Undead,150,T3,Undead,Undead,1242000000,1400,2900,300,340,7,1.5,116,96,139,167,144,51,Summoner,Target Management,Status,Soul Harvest,AoE / Kill Adds
+Ice King,155,T4,Undead,Water,1242000000,4200,2800,450,300,3,1.6,173,92,238,130,160,55,Juggernaut,Durability,Physical,Glacial Slam,Magic / Block / Dodge
+Fallen Angel,160,T4,Angel,Chaos,1380000000,2000,4500,280,450,8,1.5,140,105,137,290,210,70,Spellcaster,Magic Burst,Spatial,Celestial Judgment,Physical DPS / MDEF / Movement
+Atlanette,166,T4,Demi-Human,Fire,1518000000,3000,4000,380,380,8,1.3,221,141,156,243,220,80,Strategist,Pattern Reading,Target Management,Equation Grid,Safe Zone / Device Management
+Curse Weaver,170,T4,Demi-Human,Ghost,1656000000,2800,4600,300,400,7,1.4,144,161,211,321,250,100,Controller,Status Control,Sustain,Ritual Totem,Cleanse / Curse Resist / Destroy Totems
 Abyss Adventurer,160,Abyss,Ghost,Neutral,5300000000,3200,3200,300,300,3,1.2,170,114,223,202,210,90,Strategist,Adaptation,Timing,Combat Stance,Rotation Switching
 Abyss Mage,160,Abyss,Ghost,Chaos,4400000000,1200,4800,170,400,9,1.6,90,145,168,309,240,130,Spellcaster,Magic Burst,Timing,Abyss Cataclysm,Interrupt / MDEF / Physical DPS
 Abyss Ranger,160,Abyss,Ghost,Wind,4150000000,3800,1000,190,210,9,0.9,120,220,154,81,260,130,Artillery,Spatial,Tempo,Arrow Barrage,Gap Closing / Movement

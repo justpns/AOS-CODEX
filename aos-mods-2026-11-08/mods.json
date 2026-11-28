@@ -1,0 +1,1433 @@
+{
+  "game": "Age of Sylvanus",
+  "category": "MOD",
+  "source": "https://ageofsylvanus.com/codex?lang=th",
+  "exportedAt": "2026-11-08T08:55:19.416Z",
+  "rule": "Choose only one Mod per row",
+  "expected": {
+    "groups": 10,
+    "rows": 36,
+    "options": 107
+  },
+  "validation": {
+    "groups": 10,
+    "rows": 36,
+    "options": 107,
+    "invalidValues": 0,
+    "complete": true
+  },
+  "groups": [
+    {
+      "id": "status",
+      "name": "Status",
+      "groupIndex": 1,
+      "rowCount": 1,
+      "optionCount": 6,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 6,
+          "options": [
+            {
+              "id": "Status_I_STR",
+              "stat": "STR",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Status_I_AGI",
+              "stat": "AGI",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Status_I_VIT",
+              "stat": "VIT",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Status_I_INT",
+              "stat": "INT",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Status_I_DEX",
+              "stat": "DEX",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 5
+            },
+            {
+              "id": "Status_I_LUK",
+              "stat": "LUK",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "melee",
+      "name": "Melee",
+      "groupIndex": 2,
+      "rowCount": 4,
+      "optionCount": 15,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Melee_I_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "5%",
+              "min": 5,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Melee_I_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "5%",
+              "min": 5,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Melee_I_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Melee_II_DamageMelee",
+              "stat": "DamageMelee",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Melee_II_DamageMagic",
+              "stat": "DamageMagic",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 5,
+          "options": [
+            {
+              "id": "Melee_III_Crit",
+              "stat": "Crit",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Melee_III_Hit",
+              "stat": "Hit",
+              "valueText": "15–20",
+              "min": 15,
+              "max": 20,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Melee_III_AtkSpd",
+              "stat": "AtkSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Melee_III_Atk",
+              "stat": "Atk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Melee_III_Matk",
+              "stat": "Matk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 5
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 5,
+          "options": [
+            {
+              "id": "Melee_IV_CritDamage",
+              "stat": "CritDamage",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Melee_IV_Leech",
+              "stat": "Leech",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Melee_IV_Chain",
+              "stat": "Chain",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Melee_IV_DoubleAttack",
+              "stat": "DoubleAttack",
+              "valueText": "20–25%",
+              "min": 20,
+              "max": 25,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Melee_IV_MinionAttackChain",
+              "stat": "MinionAttackChain",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ranged",
+      "name": "Ranged",
+      "groupIndex": 3,
+      "rowCount": 4,
+      "optionCount": 16,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Ranged_I_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Ranged_I_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Ranged_I_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Ranged_II_DamageRanged",
+              "stat": "DamageRanged",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Ranged_II_DamageMagic",
+              "stat": "DamageMagic",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 5,
+          "options": [
+            {
+              "id": "Ranged_III_Crit",
+              "stat": "Crit",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Ranged_III_Hit",
+              "stat": "Hit",
+              "valueText": "15–20",
+              "min": 15,
+              "max": 20,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Ranged_III_AtkSpd",
+              "stat": "AtkSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Ranged_III_Atk",
+              "stat": "Atk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Ranged_III_Matk",
+              "stat": "Matk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 5
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 6,
+          "options": [
+            {
+              "id": "Ranged_IV_CritDamage",
+              "stat": "CritDamage",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Ranged_IV_Leech",
+              "stat": "Leech",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Ranged_IV_Range",
+              "stat": "Range",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Ranged_IV_DoubleAttack",
+              "stat": "DoubleAttack",
+              "valueText": "20–25%",
+              "min": 20,
+              "max": 25,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Ranged_IV_CastSpd",
+              "stat": "CastSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 5
+            },
+            {
+              "id": "Ranged_IV_MinionAttackChain",
+              "stat": "MinionAttackChain",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magic",
+      "name": "Magic",
+      "groupIndex": 4,
+      "rowCount": 4,
+      "optionCount": 15,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Magic_I_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Magic_I_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Magic_I_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Magic_II_DamageMelee",
+              "stat": "DamageMelee",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Magic_II_DamageMagic",
+              "stat": "DamageMagic",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 6,
+          "options": [
+            {
+              "id": "Magic_III_CastSpd",
+              "stat": "CastSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Magic_III_MpCost",
+              "stat": "MpCost",
+              "valueText": "-10–-7%",
+              "min": -10,
+              "max": -7,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Magic_III_AtkSpd",
+              "stat": "AtkSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Magic_III_Atk",
+              "stat": "Atk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Magic_III_Matk",
+              "stat": "Matk",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 5
+            },
+            {
+              "id": "Magic_III_MinionAttackChain",
+              "stat": "MinionAttackChain",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 6
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 4,
+          "options": [
+            {
+              "id": "Magic_IV_CooldownRecovery",
+              "stat": "CooldownRecovery",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Magic_IV_Healing",
+              "stat": "Healing",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Magic_IV_CastRange",
+              "stat": "CastRange",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Magic_IV_AuraRange",
+              "stat": "AuraRange",
+              "valueText": "1–2",
+              "min": 1,
+              "max": 2,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chest",
+      "name": "Chest",
+      "groupIndex": 5,
+      "rowCount": 6,
+      "optionCount": 18,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Chest_I_HpMult",
+              "stat": "HpMult",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_I_MpMult",
+              "stat": "MpMult",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Chest_II_Def",
+              "stat": "Def",
+              "valueText": "7–10",
+              "min": 7,
+              "max": 10,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_II_Mdef",
+              "stat": "Mdef",
+              "valueText": "7–10",
+              "min": 7,
+              "max": 10,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Chest_III_DefMult",
+              "stat": "DefMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_III_MdefMult",
+              "stat": "MdefMult",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Chest_IV_DamageFromMelee",
+              "stat": "DamageFromMelee",
+              "valueText": "-5–-3%",
+              "min": -5,
+              "max": -3,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_IV_DamageFromMagic",
+              "stat": "DamageFromMagic",
+              "valueText": "-5–-3%",
+              "min": -5,
+              "max": -3,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Chest_IV_ElementalResist",
+              "stat": "ElementalResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "V",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Chest_V_HealingReceived",
+              "stat": "HealingReceived",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_V_PerfectDodge",
+              "stat": "PerfectDodge",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Chest_V_StunResist",
+              "stat": "StunResist",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "VI",
+          "selectionLimit": 1,
+          "optionCount": 6,
+          "options": [
+            {
+              "id": "Chest_VI_PlayerResist",
+              "stat": "PlayerResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Chest_VI_BruteResist",
+              "stat": "BruteResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Chest_VI_UndeadResist",
+              "stat": "UndeadResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Chest_VI_InsectResist",
+              "stat": "InsectResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 4
+            },
+            {
+              "id": "Chest_VI_DemonResist",
+              "stat": "DemonResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 5
+            },
+            {
+              "id": "Chest_VI_FormlessResist",
+              "stat": "FormlessResist",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feet",
+      "name": "Feet",
+      "groupIndex": 6,
+      "rowCount": 4,
+      "optionCount": 6,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 1,
+          "options": [
+            {
+              "id": "Feet_I_AtkSpd",
+              "stat": "AtkSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 1,
+          "options": [
+            {
+              "id": "Feet_II_MoveSpd",
+              "stat": "MoveSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 1,
+          "options": [
+            {
+              "id": "Feet_III_CastSpd",
+              "stat": "CastSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Feet_IV_AtkSpdLimit",
+              "stat": "AtkSpdLimit",
+              "valueText": "1",
+              "min": 1,
+              "max": 1,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Feet_IV_SlowResist",
+              "stat": "SlowResist",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Feet_IV_FreezeResist",
+              "stat": "FreezeResist",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legs",
+      "name": "Legs",
+      "groupIndex": 7,
+      "rowCount": 4,
+      "optionCount": 8,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Legs_I_HpRegenMult",
+              "stat": "HpRegenMult",
+              "valueText": "20–25%",
+              "min": 20,
+              "max": 25,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Legs_I_MpRegenMult",
+              "stat": "MpRegenMult",
+              "valueText": "20–25%",
+              "min": 20,
+              "max": 25,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Legs_II_Leech",
+              "stat": "Leech",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Legs_II_CastSpd",
+              "stat": "CastSpd",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Legs_II_MPonkill",
+              "stat": "MPonkill",
+              "valueText": "1%",
+              "min": 1,
+              "max": 1,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Legs_III_Flee",
+              "stat": "Flee",
+              "valueText": "12–15",
+              "min": 12,
+              "max": 15,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Legs_III_PerfectDodge",
+              "stat": "PerfectDodge",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 1,
+          "options": [
+            {
+              "id": "Legs_IV_MpCost",
+              "stat": "MpCost",
+              "valueText": "-10–-7%",
+              "min": -10,
+              "max": -7,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sigil",
+      "name": "Sigil",
+      "groupIndex": 8,
+      "rowCount": 2,
+      "optionCount": 5,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Sigil_I_HpMult",
+              "stat": "HpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Sigil_I_MpMult",
+              "stat": "MpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Sigil_II_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Sigil_II_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Sigil_II_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "2–4%",
+              "min": 2,
+              "max": 4,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessory",
+      "name": "Accessory",
+      "groupIndex": 9,
+      "rowCount": 3,
+      "optionCount": 9,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Accessory_I_HpMult",
+              "stat": "HpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Accessory_I_MpMult",
+              "stat": "MpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Accessory_II_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Accessory_II_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Accessory_II_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 4,
+          "options": [
+            {
+              "id": "Accessory_III_Crit",
+              "stat": "Crit",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Accessory_III_Hit",
+              "stat": "Hit",
+              "valueText": "7–10",
+              "min": 7,
+              "max": 10,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Accessory_III_AtkSpd",
+              "stat": "AtkSpd",
+              "valueText": "3–5%",
+              "min": 3,
+              "max": 5,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            },
+            {
+              "id": "Accessory_III_ExposureEffect",
+              "stat": "ExposureEffect",
+              "valueText": "7–10%",
+              "min": 7,
+              "max": 10,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "headgear",
+      "name": "Headgear",
+      "groupIndex": 10,
+      "rowCount": 4,
+      "optionCount": 9,
+      "rows": [
+        {
+          "tier": "I",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Headgear_I_HpMult",
+              "stat": "HpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Headgear_I_MpMult",
+              "stat": "MpMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "II",
+          "selectionLimit": 1,
+          "optionCount": 3,
+          "options": [
+            {
+              "id": "Headgear_II_AtkMult",
+              "stat": "AtkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Headgear_II_MatkMult",
+              "stat": "MatkMult",
+              "valueText": "1–2%",
+              "min": 1,
+              "max": 2,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 2
+            },
+            {
+              "id": "Headgear_II_DamageMinion",
+              "stat": "DamageMinion",
+              "valueText": "3–4%",
+              "min": 3,
+              "max": 4,
+              "unit": "%",
+              "parseSuccess": true,
+              "column": 3
+            }
+          ]
+        },
+        {
+          "tier": "III",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Headgear_III_Atk",
+              "stat": "Atk",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Headgear_III_Matk",
+              "stat": "Matk",
+              "valueText": "2–3",
+              "min": 2,
+              "max": 3,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        },
+        {
+          "tier": "IV",
+          "selectionLimit": 1,
+          "optionCount": 2,
+          "options": [
+            {
+              "id": "Headgear_IV_Def",
+              "stat": "Def",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 1
+            },
+            {
+              "id": "Headgear_IV_Mdef",
+              "stat": "Mdef",
+              "valueText": "3–5",
+              "min": 3,
+              "max": 5,
+              "unit": "flat",
+              "parseSuccess": true,
+              "column": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aos-game-balance-workbench",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline interconnected balance workbench for Age of Sylvanus.",
+  "scripts": {
+    "serve": "python3 -m http.server 4173",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.js",
+    "check": "node scripts/check.mjs"
+  }
+}

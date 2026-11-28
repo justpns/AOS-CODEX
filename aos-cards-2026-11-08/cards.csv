@@ -1,0 +1,2529 @@
+﻿"id","name","category","slot","type","stats","effectText","dropSources","imageUrl","imageFile","page","rawText"
+"card_01_01","Sprout Card","CARD","","","{}","อาวุธ
+อาวุธ
+HP สูงสุด +100
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Sprout Card
+อาวุธ
+อาวุธ
+HP สูงสุด +100
+Hemeralis South Field 1"
+"card_01_02","Baby Potato Card","CARD","","","{}","โล่
+โล่
+Plant Resist +20%
+Hemeralis South Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Baby Potato Card
+โล่
+โล่
+Plant Resist +20%
+Hemeralis South Field 2"
+"card_01_03","Dillo Card","CARD","","","{}","โล่
+โล่
+Knockback Resist +50%
+Ruin Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Dillo Card
+โล่
+โล่
+Knockback Resist +50%
+Ruin Desert 1"
+"card_01_04","Cactus Card","CARD","","","{}","โล่
+โล่
+Reflect Damage +20%
+Ruin Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Cactus Card
+โล่
+โล่
+Reflect Damage +20%
+Ruin Desert 2"
+"card_01_05","Rage Sandy Card","CARD","","","{""ATK"":[""+15""]}","อาวุธ
+อาวุธ
+ATK +15
+Atlan East Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Rage Sandy Card
+อาวุธ
+อาวุธ
+ATK +15
+Atlan East Desert 2"
+"card_01_06","Sand Golem Card","CARD","","","{""DEF"":[""+15""]}","โล่
+โล่
+DEF +15
+Atlan East Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Sand Golem Card
+โล่
+โล่
+DEF +15
+Atlan East Desert 2"
+"card_01_07","Rock Golem Card","CARD","","","{}","โล่
+โล่
+Stone Curse Resist +50%
+Atlan East Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Rock Golem Card
+โล่
+โล่
+Stone Curse Resist +50%
+Atlan East Desert 2"
+"card_01_08","Paprika Card","CARD","weapon","Auto Attack: Firebolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Firebolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Atlan East Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Paprika Card
+อาวุธ
+อาวุธ
+Auto Attack: Firebolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Atlan East Desert 1"
+"card_01_09","Mud Card","CARD","","","{}","โล่
+โล่
+Formless Resist +20%
+Atlan South Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Mud Card
+โล่
+โล่
+Formless Resist +20%
+Atlan South Desert 1"
+"card_01_10","Sheldon Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Holy Light Damage +20%
+Atlan Beach","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Sheldon Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Holy Light Damage +20%
+Atlan Beach"
+"card_01_11","Corpse Eater Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Insect +20%
+Ancient Pyramid 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Corpse Eater Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Insect +20%
+Ancient Pyramid 1"
+"card_01_12","Curse Mummy Card","CARD","","","{}","โล่
+โล่
+Curse Resist +50%
+Ancient Pyramid 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Curse Mummy Card
+โล่
+โล่
+Curse Resist +50%
+Ancient Pyramid 2"
+"card_01_13","Muddy Card","CARD","","","{}","โล่
+โล่
+Slow Resist +50%
+Forest Steppe 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Muddy Card
+โล่
+โล่
+Slow Resist +50%
+Forest Steppe 1"
+"card_01_14","Winkle Card","CARD","","","{}","โล่
+โล่
+On Block: recover 1% HP สูงสุด; Internal คูลดาวน์ 3 sec
+Forest Steppe 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Winkle Card
+โล่
+โล่
+On Block: recover 1% HP สูงสุด; Internal คูลดาวน์ 3 sec
+Forest Steppe 2"
+"card_01_15","Platypus Card","CARD","","","{}","โล่
+โล่
+Brute Resist +20%
+Yggdra North Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Platypus Card
+โล่
+โล่
+Brute Resist +20%
+Yggdra North Forest 2"
+"card_01_16","Kitchi Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุลม +20%
+Yggdra North Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Kitchi Card
+โล่
+โล่
+ต้านทานธาตุลม +20%
+Yggdra North Forest 2"
+"card_01_17","Saboar Card","CARD","","","{}","โล่
+โล่
+Stun Resist +50%
+Yggdra North Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Saboar Card
+โล่
+โล่
+Stun Resist +50%
+Yggdra North Forest 1"
+"card_01_18","Mound Card","CARD","","","{}","โล่
+โล่
+Range ความเสียหายที่ได้รับ -15%
+Yggdra East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Mound Card
+โล่
+โล่
+Range ความเสียหายที่ได้รับ -15%
+Yggdra East Forest 1"
+"card_01_19","Mimi Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุลม +20%
+Yggdra East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Mimi Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุลม +20%
+Yggdra East Forest 2"
+"card_01_20","Timber Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Plant +20%
+Yggdra South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Timber Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Plant +20%
+Yggdra South Forest 2"
+"card_01_21","Sand Spirit Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุดิน +20%; Skill คูลดาวน์ -10%
+Atlan East Desert 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","1","MVP
+Sand Spirit Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุดิน +20%; Skill คูลดาวน์ -10%
+Atlan East Desert 2"
+"card_01_22","Brown Hare Card","CARD","","","{""ATK"":[""+5%""]}","อาวุธ
+อาวุธ
+ATK +5%
+Hemeralis West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Brown Hare Card
+อาวุธ
+อาวุธ
+ATK +5%
+Hemeralis West Field 1"
+"card_01_23","Taro Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุพิษ +20%
+Hemeralis West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Taro Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุพิษ +20%
+Hemeralis West Field 2"
+"card_01_24","Terratail Card","CARD","","","{}","โล่
+โล่
+ต้านทานไร้ธาตุance +15%
+Hemeralis West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","1","Terratail Card
+โล่
+โล่
+ต้านทานไร้ธาตุance +15%
+Hemeralis West Field 2"
+"card_02_01","Grub Card","CARD","","","{}","โล่
+โล่
+Insect Resist +20%
+Anima East Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Grub Card
+โล่
+โล่
+Insect Resist +20%
+Anima East Swamp 2"
+"card_02_02","Alpha Hound Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายของมินเนียน +15%
+Anima North Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Alpha Hound Card
+อาวุธ
+อาวุธ
+ความเสียหายของมินเนียน +15%
+Anima North Swamp 1"
+"card_02_03","Deadfang Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Bleeding targets +30%
+Soloden South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Deadfang Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Bleeding targets +30%
+Soloden South Forest 1"
+"card_02_04","Poison Deadhorn Card","CARD","","","{}","โล่
+โล่
+Poison Status Resist +50%
+Soloden East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Poison Deadhorn Card
+โล่
+โล่
+Poison Status Resist +50%
+Soloden East Forest 1"
+"card_02_05","Poison Deadfang Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Poisoned targets +20%
+Soloden East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Poison Deadfang Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Poisoned targets +20%
+Soloden East Forest 1"
+"card_02_06","Kaidown Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Formless +20%; recover 1% MP สูงสุด on Formless kill
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Kaidown Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Formless +20%; recover 1% MP สูงสุด on Formless kill
+Lava Mine 1"
+"card_02_07","Chaos Guard Card","CARD","","","{}","โล่
+โล่
+ต้านทานเคออส +20%
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Chaos Guard Card
+โล่
+โล่
+ต้านทานเคออส +20%
+Lava Mine 1"
+"card_02_08","Poison Guard Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุพิษ +20%
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Poison Guard Card
+โล่
+โล่
+ต้านทานธาตุพิษ +20%
+Lava Mine 1"
+"card_02_09","Flame Guard Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุไฟ +20%
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Flame Guard Card
+โล่
+โล่
+ต้านทานธาตุไฟ +20%
+Lava Mine 1"
+"card_02_10","Ember Card","CARD","weapon","Auto Attack: Fire Ball (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Fire Ball (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Lava Mine 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Ember Card
+อาวุธ
+อาวุธ
+Auto Attack: Fire Ball (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Lava Mine 3"
+"card_02_11","Necrowisp Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุวิญญาณ +20%
+Lava Mine 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Necrowisp Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุวิญญาณ +20%
+Lava Mine 3"
+"card_02_12","Hamgole Card","CARD","","","{}","โล่
+โล่
+On Block: 20% โอกาส to inflict Ignite on attacker
+The Volcano 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Hamgole Card
+โล่
+โล่
+On Block: 20% โอกาส to inflict Ignite on attacker
+The Volcano 1"
+"card_02_13","Cinderpit Card","CARD","","","{""DEF"":[""+5%""],""MDEF"":[""+5%""]}","โล่
+โล่
+DEF +5%; MDEF +5%
+The Volcano 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Cinderpit Card
+โล่
+โล่
+DEF +5%; MDEF +5%
+The Volcano 2"
+"card_02_14","Cinderbeast Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Fire-element targets +15%
+The Volcano 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Cinderbeast Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Fire-element targets +15%
+The Volcano 2"
+"card_02_15","Shadowhoof Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายเคออส +20%
+The Volcano 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Shadowhoof Card
+อาวุธ
+อาวุธ
+ความเสียหายเคออส +20%
+The Volcano 3"
+"card_02_16","Smoker Card","CARD","","","{}","โล่
+โล่
+ต้านทานตาบอด +50%
+The Grand Smelter 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Smoker Card
+โล่
+โล่
+ต้านทานตาบอด +50%
+The Grand Smelter 1"
+"card_02_17","Ashwing Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุวิญญาณ +20%
+The Grand Smelter 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Ashwing Card
+โล่
+โล่
+ต้านทานธาตุวิญญาณ +20%
+The Grand Smelter 2"
+"card_02_18","Flamefang Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุไฟ +20%
+The Grand Smelter 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Flamefang Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุไฟ +20%
+The Grand Smelter 2"
+"card_02_19","Cinderweb Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุไฟance +20%; Ignite Resistance +30%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Cinderweb Card
+โล่
+โล่
+ต้านทานธาตุไฟance +20%; Ignite Resistance +30%
+Atlas's Workshop"
+"card_02_20","Mark of Flame Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อมอนสเตอร์บอส +25%; ความเสียหายทั้งหมดที่ได้รับ +20%
+Lava Mine 3","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","2","MVP
+Mark of Flame Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อมอนสเตอร์บอส +25%; ความเสียหายทั้งหมดที่ได้รับ +20%
+Lava Mine 3"
+"card_02_21","Rootle Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุดินance +20%
+Hemeralis East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Rootle Card
+โล่
+โล่
+ต้านทานธาตุดินance +20%
+Hemeralis East Field 1"
+"card_02_22","Solava Card","CARD","weapon","Auto Attack: Lightningbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Lightningbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Solava Card
+อาวุธ
+อาวุธ
+Auto Attack: Lightningbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2"
+"card_02_23","Bandit Dagger Card","CARD","","","{}","อาวุธ
+อาวุธ
+อัตราคริติคอล +10
+Crossroad","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Bandit Dagger Card
+อาวุธ
+อาวุธ
+อัตราคริติคอล +10
+Crossroad"
+"card_02_24","Ruffian Archer Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายระยะไกล +15%
+North Road","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","2","Ruffian Archer Card
+อาวุธ
+อาวุธ
+ความเสียหายระยะไกล +15%
+North Road"
+"card_03_01","Kobold Card","CARD","","","{}","อาวุธ
+อาวุธ
+Attack Chain +1
+Crystalland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Kobold Card
+อาวุธ
+อาวุธ
+Attack Chain +1
+Crystalland West Field 2"
+"card_03_02","Grand Kobold Card","CARD","","","{}","โล่
+โล่
+Demi-Human Resistance +20%
+Crystalland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Grand Kobold Card
+โล่
+โล่
+Demi-Human Resistance +20%
+Crystalland West Field 2"
+"card_03_03","Hobgoblin Warrior Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายระยะประชิด +15%
+Crystalland North Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Hobgoblin Warrior Card
+อาวุธ
+อาวุธ
+ความเสียหายระยะประชิด +15%
+Crystalland North Field 1"
+"card_03_04","Goblin Champion Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Demi-Human +30%; All ความเสียหายที่ได้รับ +10%
+Crystalland North Field 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","3","MVP
+Goblin Champion Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Demi-Human +30%; All ความเสียหายที่ได้รับ +10%
+Crystalland North Field 1"
+"card_03_05","Highorc Warrior Card","CARD","","","{""DEF"":[""-5%""]}","อาวุธ
+อาวุธ
+ความเสียหายกายภาพ +20%; DEF -5%
+Orc Village","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Highorc Warrior Card
+อาวุธ
+อาวุธ
+ความเสียหายกายภาพ +20%; DEF -5%
+Orc Village"
+"card_03_06","Orczombie Warrior Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Undead +20%; recover 1% HP สูงสุด on Undead kill
+Orc Den","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Orczombie Warrior Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Undead +20%; recover 1% HP สูงสุด on Undead kill
+Orc Den"
+"card_03_07","Orczombie Mage Card","CARD","","","{""MDEF"":[""+10%""]}","โล่
+โล่
+ความเสียหายธาตุผีดิบ Resistance +20%; MDEF +10%
+Orc Den","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Orczombie Mage Card
+โล่
+โล่
+ความเสียหายธาตุผีดิบ Resistance +20%; MDEF +10%
+Orc Den"
+"card_03_08","Widow Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Poison-element targets +15%
+Soloden East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Widow Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Poison-element targets +15%
+Soloden East Forest 2"
+"card_03_09","White Wolf Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Brute +20%; recover 1% HP สูงสุด on Brute kill
+Snowland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","White Wolf Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Brute +20%; recover 1% HP สูงสุด on Brute kill
+Snowland West Field 2"
+"card_03_10","Snow Bear Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุน้ำance +20%; Frozen Resistance +20%
+Snowland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Snow Bear Card
+โล่
+โล่
+ต้านทานธาตุน้ำance +20%; Frozen Resistance +20%
+Snowland West Field 1"
+"card_03_11","Kuroma Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Cursed targets +20%
+Snowland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Kuroma Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Cursed targets +20%
+Snowland West Field 1"
+"card_03_12","Ice Cube Card","CARD","","","{}","โล่
+โล่
+Formless Resistance +20%; Frozen Resistance +20%
+Snowland East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Ice Cube Card
+โล่
+โล่
+Formless Resistance +20%; Frozen Resistance +20%
+Snowland East Field 2"
+"card_03_13","Icy Cube Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุน้ำ +20%
+Snowland East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Icy Cube Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุน้ำ +20%
+Snowland East Field 2"
+"card_03_14","Angrybear Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายเวท +15%
+Snowland East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Angrybear Card
+อาวุธ
+อาวุธ
+ความเสียหายเวท +15%
+Snowland East Field 1"
+"card_03_15","Lesser Evil Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Ghost-element targets +15%
+Shadowfen Cemetery","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Lesser Evil Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Ghost-element targets +15%
+Shadowfen Cemetery"
+"card_03_16","Murderer Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ targets with HP <=30% +15%
+Cemetery Underground 1st Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Murderer Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ targets with HP <=30% +15%
+Cemetery Underground 1st Floor"
+"card_03_17","Grimreap Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Demon race +20%
+Cemetery Underground 1st Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Grimreap Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Demon race +20%
+Cemetery Underground 1st Floor"
+"card_03_18","Grimblack Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Demi-Human race +20%
+Cemetery Underground 1st Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Grimblack Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Demi-Human race +20%
+Cemetery Underground 1st Floor"
+"card_03_19","Dark Trooper Card","CARD","","","{}","โล่
+โล่
+Damage received from Demon race -20%
+Cemetery Underground 2nd Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Dark Trooper Card
+โล่
+โล่
+Damage received from Demon race -20%
+Cemetery Underground 2nd Floor"
+"card_03_20","Mirrorking Card","CARD","","","{""DEF"":[""-10""]}","โล่
+โล่
+Physical Reflect Damage +30%; DEF -10
+Hellgate","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Mirrorking Card
+โล่
+โล่
+Physical Reflect Damage +30%; DEF -10
+Hellgate"
+"card_03_21","Mirrorempress Card","CARD","","","{""MDEF"":[""-10""]}","โล่
+โล่
+Magical Reflect Damage +30%; MDEF -10
+Hellgate","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Mirrorempress Card
+โล่
+โล่
+Magical Reflect Damage +30%; MDEF -10
+Hellgate"
+"card_03_22","Abyss Demon Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Holy-element targets +15%
+Hellgate","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Abyss Demon Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Holy-element targets +15%
+Hellgate"
+"card_03_23","Greenshroom Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Undead-element targets +15%
+The Burrow 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Greenshroom Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Undead-element targets +15%
+The Burrow 1"
+"card_03_24","Naga Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Water-element targets +15%
+The Burrow 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","3","Naga Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Water-element targets +15%
+The Burrow 2"
+"card_04_01","Moleman Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Earth-element targets +15%
+The Burrow 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Moleman Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Earth-element targets +15%
+The Burrow 2"
+"card_04_02","Bluewerewolf Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Chaos-element targets +15%
+The Burrow 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Bluewerewolf Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Chaos-element targets +15%
+The Burrow 3"
+"card_04_03","Holy Angel Card","CARD","","","{}","โล่
+โล่
+ต้านทานธาตุศักดิ์สิทธิ์ance +20%
+The Falling Heaven 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Holy Angel Card
+โล่
+โล่
+ต้านทานธาตุศักดิ์สิทธิ์ance +20%
+The Falling Heaven 1"
+"card_04_04","Crimsonsand Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายคริติคอล +20%; CRI +5
+The Falling Heaven 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Crimsonsand Card
+อาวุธ
+อาวุธ
+ความเสียหายคริติคอล +20%; CRI +5
+The Falling Heaven 2"
+"card_04_05","Fallen Celestial Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายเคออส +20%
+The Falling Heaven 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Fallen Celestial Card
+อาวุธ
+อาวุธ
+ความเสียหายเคออส +20%
+The Falling Heaven 3"
+"card_04_06","Fallen Angel Card","CARD","","","{}","อาวุธ
+อาวุธ
+CRI +15; ความเสียหายคริติคอล +30%; HP สูงสุด -25%
+The Falling Heaven 3","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","4","MVP
+Fallen Angel Card
+อาวุธ
+อาวุธ
+CRI +15; ความเสียหายคริติคอล +30%; HP สูงสุด -25%
+The Falling Heaven 3"
+"card_04_07","Dabi Card","CARD","","","{""MDEF"":[""+30%""]}","อาวุธ
+อาวุธ
+Against Ignited targets: ละเลย MDEF +30%
+The Lost Island 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Dabi Card
+อาวุธ
+อาวุธ
+Against Ignited targets: ละเลย MDEF +30%
+The Lost Island 1"
+"card_04_08","Scarlera Card","CARD","","","{}","อาวุธ
+อาวุธ
+Bleeding applied by a critical physical attack deals 30% more damage. Only the Bleeding instance created by that attack is enhanced.
+The Lost Island 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Scarlera Card
+อาวุธ
+อาวุธ
+Bleeding applied by a critical physical attack deals 30% more damage. Only the Bleeding instance created by that attack is enhanced.
+The Lost Island 2"
+"card_04_09","Venora Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุพิษ +15%; Poison Status Effect +20%
+The Lost Island 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Venora Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุพิษ +15%; Poison Status Effect +20%
+The Lost Island 2"
+"card_04_10","Dageo Card","CARD","","","{}","โล่
+โล่
+ความเสียหายที่ได้รับ from targets affected by Exposure -35%
+The Lost Island 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Dageo Card
+โล่
+โล่
+ความเสียหายที่ได้รับ from targets affected by Exposure -35%
+The Lost Island 1"
+"card_04_11","Revenger Card","CARD","Weapon","Weapon Element: Ghost","{}","อาวุธ
+อาวุธ
+Weapon Element: Ghost
+Sunken Ship 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Revenger Card
+อาวุธ
+อาวุธ
+Weapon Element: Ghost
+Sunken Ship 1"
+"card_04_12","Sailor Fungirate Card","CARD","","","{}","อาวุธ
+อาวุธ
+Multistrike +30%
+Sunken Ship 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Sailor Fungirate Card
+อาวุธ
+อาวุธ
+Multistrike +30%
+Sunken Ship 2"
+"card_04_13","Boarders Fungirate Card","CARD","","","{""DEF"":[""+20%""]}","อาวุธ
+อาวุธ
+Ignore Target DEF +20%
+Sunken Ship 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Boarders Fungirate Card
+อาวุธ
+อาวุธ
+Ignore Target DEF +20%
+Sunken Ship 2"
+"card_04_14","Captain Fungirate Card","CARD","","","{}","อาวุธ
+อาวุธ
+Cannon Damage +40%
+Sunken Ship 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Captain Fungirate Card
+อาวุธ
+อาวุธ
+Cannon Damage +40%
+Sunken Ship 2"
+"card_04_15","Ice Knight Card","CARD","","","{}","อาวุธ
+อาวุธ
+Cross Spear +1 chain attack
+The Ancient Battlefield","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Ice Knight Card
+อาวุธ
+อาวุธ
+Cross Spear +1 chain attack
+The Ancient Battlefield"
+"card_04_16","King Kobold Card","CARD","","","{}","อาวุธ
+อาวุธ
+Critical โอกาส +10%; ความเสียหายคริติคอล +20%; HP สูงสุด -10%
+Crystalland West Field 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","4","MVP
+King Kobold Card
+อาวุธ
+อาวุธ
+Critical โอกาส +10%; ความเสียหายคริติคอล +20%; HP สูงสุด -10%
+Crystalland West Field 2"
+"card_04_17","Forest Guardian Card","CARD","","","{}","โล่
+โล่
+HP สูงสุด +10%; ความเสียหายกายภาพ Reduction +15%
+Soloden South Forest 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","4","MVP
+Forest Guardian Card
+โล่
+โล่
+HP สูงสุด +10%; ความเสียหายกายภาพ Reduction +15%
+Soloden South Forest 2"
+"card_04_18","Wood Shaman Card","CARD","","","{}","อาวุธ
+อาวุธ
+Stone Curse โอกาส +50 percentage points
+The Cursed Swamp","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Wood Shaman Card
+อาวุธ
+อาวุธ
+Stone Curse โอกาส +50 percentage points
+The Cursed Swamp"
+"card_04_19","Lou Card","CARD","","","{""STR"":[""+2""]}","เสื้อ
+เสื้อ
+STR +2
+Hemeralis South Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Lou Card
+เสื้อ
+เสื้อ
+STR +2
+Hemeralis South Field 2"
+"card_04_20","Desphant Card","CARD","","","{}","เสื้อ
+เสื้อ
+ต้านทานไร้ธาตุ +10%
+Atlan South Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Desphant Card
+เสื้อ
+เสื้อ
+ต้านทานไร้ธาตุ +10%
+Atlan South Desert 2"
+"card_04_21","Mummy Card","CARD","","","{}","เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Undead
+Ancient Pyramid 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Mummy Card
+เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Undead
+Ancient Pyramid 2"
+"card_04_22","Honey Card","CARD","","","{""HP"":[""+10%""]}","เสื้อ
+เสื้อ
+การฟื้นฟู HP +10%
+Forest Steppe 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Honey Card
+เสื้อ
+เสื้อ
+การฟื้นฟู HP +10%
+Forest Steppe 1"
+"card_04_23","Pile Card","CARD","","","{}","เสื้อ
+เสื้อ
+Magical ความเสียหายที่ได้รับ -10%
+Yggdra East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Pile Card
+เสื้อ
+เสื้อ
+Magical ความเสียหายที่ได้รับ -10%
+Yggdra East Forest 1"
+"card_04_24","Potae Card","CARD","","","{}","เสื้อ
+เสื้อ
+การฟื้นฟูที่ได้รับ +20%
+Yggdra East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","4","Potae Card
+เสื้อ
+เสื้อ
+การฟื้นฟูที่ได้รับ +20%
+Yggdra East Forest 2"
+"card_05_01","Bogi Card","CARD","","","{""HP"":[""+10%""]}","เสื้อ
+เสื้อ
+Physical ความเสียหายที่ได้รับ -5%; การฟื้นฟู HP +10%
+Yggdra South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Bogi Card
+เสื้อ
+เสื้อ
+Physical ความเสียหายที่ได้รับ -5%; การฟื้นฟู HP +10%
+Yggdra South Forest 1"
+"card_05_02","Treant Card","CARD","","","{}","เสื้อ
+เสื้อ
+Debuff ระยะเวลา Received -10%
+Yggdra South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Treant Card
+เสื้อ
+เสื้อ
+Debuff ระยะเวลา Received -10%
+Yggdra South Forest 2"
+"card_05_03","Growtliat Card","CARD","","","{""DEF"":[""+5%""],""MDEF"":[""+5%""]}","เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Earth; DEF +5%; MDEF +5%
+Yggdra South Forest 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","5","MVP
+Growtliat Card
+เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Earth; DEF +5%; MDEF +5%
+Yggdra South Forest 2"
+"card_05_04","Jaba Card","CARD","","","{""VIT"":[""+2""],""DEF"":[""+5""]}","เสื้อ
+เสื้อ
+VIT +2; DEF +5
+Anima North Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Jaba Card
+เสื้อ
+เสื้อ
+VIT +2; DEF +5
+Anima North Swamp 2"
+"card_05_05","Kumachi Card","CARD","","","{}","เสื้อ
+เสื้อ
+HP สูงสุด +20%; ความเร็วเคลื่อนที่ -5%
+Soloden South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Kumachi Card
+เสื้อ
+เสื้อ
+HP สูงสุด +20%; ความเร็วเคลื่อนที่ -5%
+Soloden South Forest 2"
+"card_05_06","Hambacon Card","CARD","","","{}","เสื้อ
+เสื้อ
+HP สูงสุด +10%; การฟื้นฟูที่ได้รับ -5%
+The Volcano 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Hambacon Card
+เสื้อ
+เสื้อ
+HP สูงสุด +10%; การฟื้นฟูที่ได้รับ -5%
+The Volcano 1"
+"card_05_07","Atlanette Card","CARD","","","{}","เสื้อ
+เสื้อ
+ความเสียหายต่อมอนสเตอร์บอส +40%; ความเสียหายทั้งหมดที่ได้รับ +20%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","5","MVP
+Atlanette Card
+เสื้อ
+เสื้อ
+ความเสียหายต่อมอนสเตอร์บอส +40%; ความเสียหายทั้งหมดที่ได้รับ +20%
+Atlas's Workshop"
+"card_05_08","Ironfang Card","CARD","","","{""DEF"":[""+15%""]}","เสื้อ
+เสื้อ
+DEF +15%
+The Grand Smelter 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Ironfang Card
+เสื้อ
+เสื้อ
+DEF +15%
+The Grand Smelter 2"
+"card_05_09","Melting Slime Card","CARD","","","{}","เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Fire
+The Grand Smelter 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Melting Slime Card
+เสื้อ
+เสื้อ
+เปลี่ยนธาตุเกราะเป็น Fire
+The Grand Smelter 1"
+"card_05_10","Muddle Card","CARD","weapon","Auto Attack: Earthbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Earthbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Muddle Card
+อาวุธ
+อาวุธ
+Auto Attack: Earthbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 1"
+"card_05_11","Bandit Swordman Card","CARD","","","{}","เสื้อ
+เสื้อ
+Physical ความเสียหายที่ได้รับ -10%
+Crossroad
+North Road","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Bandit Swordman Card
+เสื้อ
+เสื้อ
+Physical ความเสียหายที่ได้รับ -10%
+Crossroad
+North Road"
+"card_05_12","Goblin Trooper Card","CARD","","","{""DEF"":[""+10%""]}","เสื้อ
+เสื้อ
+DEF +10%
+Crystalland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Goblin Trooper Card
+เสื้อ
+เสื้อ
+DEF +10%
+Crystalland West Field 1"
+"card_05_13","Hobgoblin Trooper Card","CARD","","","{""DEF"":[""+5""]}","เสื้อ
+เสื้อ
+HP สูงสุด +15%; DEF +5
+Crystalland North Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Hobgoblin Trooper Card
+เสื้อ
+เสื้อ
+HP สูงสุด +15%; DEF +5
+Crystalland North Field 1"
+"card_05_14","Polar Bear Card","CARD","","","{}","เสื้อ
+เสื้อ
+ต้านทานธาตุน้ำance +15%
+Snowland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Polar Bear Card
+เสื้อ
+เสื้อ
+ต้านทานธาตุน้ำance +15%
+Snowland West Field 2"
+"card_05_15","Fallenstar Card","CARD","","","{}","เสื้อ
+เสื้อ
+Magical ความเสียหายที่ได้รับ -10%; Physical ความเสียหายที่ได้รับ +5%
+Snowland East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Fallenstar Card
+เสื้อ
+เสื้อ
+Magical ความเสียหายที่ได้รับ -10%; Physical ความเสียหายที่ได้รับ +5%
+Snowland East Field 2"
+"card_05_16","Penchan Card","CARD","","","{}","เสื้อ
+เสื้อ
+HP สูงสุด +10%; ต้านทานธาตุน้ำance +5%
+Snowland East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Penchan Card
+เสื้อ
+เสื้อ
+HP สูงสุด +10%; ต้านทานธาตุน้ำance +5%
+Snowland East Field 1"
+"card_05_17","Queen of Undead Card","CARD","Armor","On ความเสียหายที่ได้รับ: Curse attacker โอกาส = Armor Refine Level x 0.3%","{}","เสื้อ
+เสื้อ
+On ความเสียหายที่ได้รับ: Curse attacker โอกาส = Armor Refine Level x 0.3%
+Hellgate","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","5","MVP
+Queen of Undead Card
+เสื้อ
+เสื้อ
+On ความเสียหายที่ได้รับ: Curse attacker โอกาส = Armor Refine Level x 0.3%
+Hellgate"
+"card_05_18","Flyeater Card","CARD","","","{}","เสื้อ
+เสื้อ
+HP สูงสุด +10%; ต้านทานธาตุพิษance +10%
+The Burrow 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Flyeater Card
+เสื้อ
+เสื้อ
+HP สูงสุด +10%; ต้านทานธาตุพิษance +10%
+The Burrow 1"
+"card_05_19","Aureliansand Card","CARD","","","{}","เสื้อ
+เสื้อ
+HP สูงสุด +15%; ต้านทานธาตุศักดิ์สิทธิ์ance +10%
+The Falling Heaven 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Aureliansand Card
+เสื้อ
+เสื้อ
+HP สูงสุด +15%; ต้านทานธาตุศักดิ์สิทธิ์ance +10%
+The Falling Heaven 2"
+"card_05_20","Pearla Card","CARD","","","{}","เสื้อ
+เสื้อ
+ความเสียหายที่ได้รับ from periodic status effects -20% (including Poison, Bleeding and Ignite)
+The Lost Island 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Pearla Card
+เสื้อ
+เสื้อ
+ความเสียหายที่ได้รับ from periodic status effects -20% (including Poison, Bleeding and Ignite)
+The Lost Island 2"
+"card_05_21","Ice King Card","CARD","armor","When struck by Physical attacks, 1% โอกาส per armor refine to Freeze the attacker for 7 sec","{}","เสื้อ
+เสื้อ
+When struck by Physical attacks, 1% โอกาส per armor refine to Freeze the attacker for 7 sec
+The Ancient Battlefield","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","5","MVP
+Ice King Card
+เสื้อ
+เสื้อ
+When struck by Physical attacks, 1% โอกาส per armor refine to Freeze the attacker for 7 sec
+The Ancient Battlefield"
+"card_05_22","Ice Doll Card","CARD","","","{}","เสื้อ
+เสื้อ
+Immune to Frozen
+The Ancient Battlefield","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Ice Doll Card
+เสื้อ
+เสื้อ
+Immune to Frozen
+The Ancient Battlefield"
+"card_05_23","Lava Spirit Card","CARD","","","{}","เสื้อ
+เสื้อ
+ต้านทานธาตุไฟance +30%; ต้านทานธาตุน้ำance -15%
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","5","MVP
+Lava Spirit Card
+เสื้อ
+เสื้อ
+ต้านทานธาตุไฟance +30%; ต้านทานธาตุน้ำance -15%
+Lava Mine 1"
+"card_05_24","Wood Trooper Card","CARD","","","{}","เสื้อ
+เสื้อ
+Immune to Stone Curse
+The Cursed Swamp","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","5","Wood Trooper Card
+เสื้อ
+เสื้อ
+Immune to Stone Curse
+The Cursed Swamp"
+"card_06_01","Tuber Card","CARD","","","{""DEF"":[""+5""]}","กางเกง
+กางเกง
+DEF +5
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Tuber Card
+กางเกง
+กางเกง
+DEF +5
+Hemeralis South Field 1"
+"card_06_02","Snail Card","CARD","","","{""MDEF"":[""+3""]}","กางเกง
+กางเกง
+MDEF +3
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Snail Card
+กางเกง
+กางเกง
+MDEF +3
+Hemeralis South Field 1"
+"card_06_03","Spike Card","CARD","","","{}","กางเกง
+กางเกง
+Bleeding โอกาส +15%
+Hemeralis South Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Spike Card
+กางเกง
+กางเกง
+Bleeding โอกาส +15%
+Hemeralis South Field 2"
+"card_06_04","Scorpion Card","CARD","","","{}","กางเกง
+กางเกง
+ความเสียหายธาตุพิษ +10%
+Ruin Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Scorpion Card
+กางเกง
+กางเกง
+ความเสียหายธาตุพิษ +10%
+Ruin Desert 1"
+"card_06_05","Desmoth Card","CARD","","","{}","กางเกง
+กางเกง
+HP สูงสุด +5%; additional HP สูงสุด +10% with Desphant Card
+Atlan South Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Desmoth Card
+กางเกง
+กางเกง
+HP สูงสุด +5%; additional HP สูงสุด +10% with Desphant Card
+Atlan South Desert 2"
+"card_06_06","Corpse Spider Card","CARD","","","{}","กางเกง
+กางเกง
+ต้านทานธาตุพิษ +30%
+Ancient Pyramid 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Corpse Spider Card
+กางเกง
+กางเกง
+ต้านทานธาตุพิษ +30%
+Ancient Pyramid 1"
+"card_06_07","Minby Card","CARD","","","{""MP"":[""+10%""]}","กางเกง
+กางเกง
+การฟื้นฟู MP +10%
+Forest Steppe 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Minby Card
+กางเกง
+กางเกง
+การฟื้นฟู MP +10%
+Forest Steppe 1"
+"card_06_08","Peachy Card","CARD","","","{}","กางเกง
+กางเกง
+Ignite Resist +30%
+Forest Steppe 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Peachy Card
+กางเกง
+กางเกง
+Ignite Resist +30%
+Forest Steppe 1"
+"card_06_09","Berry Card","CARD","","","{}","กางเกง
+กางเกง
+HP Potion Recovery +20%
+Yggdra North Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Berry Card
+กางเกง
+กางเกง
+HP Potion Recovery +20%
+Yggdra North Forest 1"
+"card_06_10","Haystack Card","CARD","","","{}","กางเกง
+กางเกง
+Bleeding Resist +30%
+Yggdra East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Haystack Card
+กางเกง
+กางเกง
+Bleeding Resist +30%
+Yggdra East Forest 1"
+"card_06_11","Coco Card","CARD","","","{}","กางเกง
+กางเกง
+Stun Resistance +30%
+Hemeralis West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Coco Card
+กางเกง
+กางเกง
+Stun Resistance +30%
+Hemeralis West Field 2"
+"card_06_12","Taboar Card","CARD","","","{""DEF"":[""+5""]}","กางเกง
+กางเกง
+HP สูงสุด +10%; DEF +5
+Anima North Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Taboar Card
+กางเกง
+กางเกง
+HP สูงสุด +10%; DEF +5
+Anima North Swamp 2"
+"card_06_13","Poison Deadpaw Card","CARD","","","{}","กางเกง
+กางเกง
+Poison ระยะเวลา Received -30%
+Soloden East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Poison Deadpaw Card
+กางเกง
+กางเกง
+Poison ระยะเวลา Received -30%
+Soloden East Forest 1"
+"card_06_14","Ash Card","CARD","","","{}","กางเกง
+กางเกง
+Ignite ความเสียหายที่ได้รับ -30%
+Lava Mine 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Ash Card
+กางเกง
+กางเกง
+Ignite ความเสียหายที่ได้รับ -30%
+Lava Mine 3"
+"card_06_15","Embercrawl Card","CARD","","","{}","กางเกง
+กางเกง
+ความเสียหายที่ได้รับ from Damage over Time -10%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Embercrawl Card
+กางเกง
+กางเกง
+ความเสียหายที่ได้รับ from Damage over Time -10%
+Atlas's Workshop"
+"card_06_16","Budle Card","CARD","","","{""HP"":[""+20%""]}","กางเกง
+กางเกง
+การฟื้นฟู HP +20%
+Hemeralis East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Budle Card
+กางเกง
+กางเกง
+การฟื้นฟู HP +20%
+Hemeralis East Field 1"
+"card_06_17","Ruffian Warrior Card","CARD","","","{""STR"":[""+2""],""DEF"":[""+5""]}","กางเกง
+กางเกง
+STR +2; DEF +5
+North Road","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Ruffian Warrior Card
+กางเกง
+กางเกง
+STR +2; DEF +5
+North Road"
+"card_06_18","Goblin Warrior Card","CARD","","","{""STR"":[""+3""]}","กางเกง
+กางเกง
+STR +3; HP สูงสุด +5%
+Crystalland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Goblin Warrior Card
+กางเกง
+กางเกง
+STR +3; HP สูงสุด +5%
+Crystalland West Field 1"
+"card_06_19","Prisoner Card","CARD","","","{""VIT"":[""+5""]}","กางเกง
+กางเกง
+VIT +5; Stun Resistance +30%
+Cemetery Underground 1st Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Prisoner Card
+กางเกง
+กางเกง
+VIT +5; Stun Resistance +30%
+Cemetery Underground 1st Floor"
+"card_06_20","Grimred Card","CARD","","","{}","กางเกง
+กางเกง
+Bleeding Damage +15%; ความเสียหายคริติคอล +10%
+Cemetery Underground 1st Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Grimred Card
+กางเกง
+กางเกง
+Bleeding Damage +15%; ความเสียหายคริติคอล +10%
+Cemetery Underground 1st Floor"
+"card_06_21","Book of Anger Card","CARD","","","{""STR"":[""+3""]}","กางเกง
+กางเกง
+ความเร็วโจมตี +10%; STR +3
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Book of Anger Card
+กางเกง
+กางเกง
+ความเร็วโจมตี +10%; STR +3
+Solomon's Laboratory"
+"card_06_22","Ice Warrior Card","CARD","","","{}","กางเกง
+กางเกง
+ความเสียหายกายภาพ Reduction 15%
+The Ancient Battlefield","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","6","Ice Warrior Card
+กางเกง
+กางเกง
+ความเสียหายกายภาพ Reduction 15%
+The Ancient Battlefield"
+"card_06_23","Abyss Adventurer Card","CARD","","","{""VIT"":[""+10""]}","กางเกง
+กางเกง
+VIT +10; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","6","MVP
+Abyss Adventurer Card
+กางเกง
+กางเกง
+VIT +10; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_06_24","Abyss Rogue Card","CARD","","","{""AGI"":[""+10""]}","กางเกง
+กางเกง
+AGI +10; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","6","MVP
+Abyss Rogue Card
+กางเกง
+กางเกง
+AGI +10; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_01","Abyss Ranger Card","CARD","","","{""DEX"":[""+10""]}","กางเกง
+กางเกง
+DEX +10; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Abyss Ranger Card
+กางเกง
+กางเกง
+DEX +10; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_02","Abyss Tamer Card","CARD","","","{""STR"":[""+2""],""AGI"":[""+2""],""VIT"":[""+2""],""INT"":[""+2""],""DEX"":[""+2""],""LUK"":[""+2""]}","กางเกง
+กางเกง
+STR +2; AGI +2; VIT +2; INT +2; DEX +2; LUK +2; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Abyss Tamer Card
+กางเกง
+กางเกง
+STR +2; AGI +2; VIT +2; INT +2; DEX +2; LUK +2; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_03","Abyss Warrior Card","CARD","","","{""STR"":[""+10""]}","กางเกง
+กางเกง
+STR +10; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Abyss Warrior Card
+กางเกง
+กางเกง
+STR +10; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_04","Abyss Mage Card","CARD","","","{""INT"":[""+10""]}","กางเกง
+กางเกง
+INT +10; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Abyss Mage Card
+กางเกง
+กางเกง
+INT +10; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_05","Abyss Technician Card","CARD","","","{""STR"":[""+5""],""INT"":[""+5""]}","กางเกง
+กางเกง
+STR +5; INT +5; HP สูงสุด +20%; MP สูงสุด +20%","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Abyss Technician Card
+กางเกง
+กางเกง
+STR +5; INT +5; HP สูงสุด +20%; MP สูงสุด +20%
+ไม่พบแหล่งดรอป"
+"card_07_06","Wood Warrior Card","CARD","","","{""DEF"":[""+20%""],""ASPD"":[""-5%""]}","กางเกง
+กางเกง
+ละเลย DEF +20%; ASPD -5%
+The Cursed Swamp","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Wood Warrior Card
+กางเกง
+กางเกง
+ละเลย DEF +20%; ASPD -5%
+The Cursed Swamp"
+"card_07_07","Rock Spike Card","CARD","","","{""VIT"":[""+2""]}","รองเท้า
+รองเท้า
+VIT +2
+Ruin Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Rock Spike Card
+รองเท้า
+รองเท้า
+VIT +2
+Ruin Desert 2"
+"card_07_08","Croant Card","CARD","","","{""FLEE"":[""+15""]}","รองเท้า
+รองเท้า
+Flee +15
+Atlan East Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Croant Card
+รองเท้า
+รองเท้า
+Flee +15
+Atlan East Desert 1"
+"card_07_09","Blackchi Card","CARD","","","{""AGI"":[""+1""]}","รองเท้า
+รองเท้า
+MP สูงสุด +10%; AGI +1
+Atlan South Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Blackchi Card
+รองเท้า
+รองเท้า
+MP สูงสุด +10%; AGI +1
+Atlan South Desert 2"
+"card_07_10","Corpse Fly Card","CARD","","","{}","รองเท้า
+รองเท้า
+Perfect Dodge +3%
+Ancient Pyramid 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Corpse Fly Card
+รองเท้า
+รองเท้า
+Perfect Dodge +3%
+Ancient Pyramid 1"
+"card_07_11","Duskwing Card","CARD","","","{""ASPD"":[""+5%""]}","รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ASPD +5%
+Yggdra East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Duskwing Card
+รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ASPD +5%
+Yggdra East Forest 1"
+"card_07_12","White Hare Card","CARD","","","{""ASPD"":[""+10%""]}","รองเท้า
+รองเท้า
+ASPD +10%
+Hemeralis West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","White Hare Card
+รองเท้า
+รองเท้า
+ASPD +10%
+Hemeralis West Field 1"
+"card_07_13","Lanar Card","CARD","","","{""AGI"":[""+3""]}","รองเท้า
+รองเท้า
+AGI +3; ASPD Limit +1
+Hemeralis West Field 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","7","MVP
+Lanar Card
+รองเท้า
+รองเท้า
+AGI +3; ASPD Limit +1
+Hemeralis West Field 1"
+"card_07_14","Mellow Card","CARD","","","{}","รองเท้า
+รองเท้า
+MP สูงสุด +5%; ความเร็วร่าย +5%
+Anima East Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Mellow Card
+รองเท้า
+รองเท้า
+MP สูงสุด +5%; ความเร็วร่าย +5%
+Anima East Swamp 2"
+"card_07_15","Grey Hound Card","CARD","","","{""AGI"":[""+2""],""FLEE"":[""+5""]}","รองเท้า
+รองเท้า
+AGI +2; Flee +5
+Anima North Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Grey Hound Card
+รองเท้า
+รองเท้า
+AGI +2; Flee +5
+Anima North Swamp 1"
+"card_07_16","Deadpaw Card","CARD","","","{""FLEE"":[""+5""]}","รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; Flee +5
+Soloden South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Deadpaw Card
+รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; Flee +5
+Soloden South Forest 1"
+"card_07_17","Blazer Card","CARD","","","{}","รองเท้า
+รองเท้า
+On killing a Fire enemy: ความเร็วเคลื่อนที่ +10% for 5s
+Lava Mine 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Blazer Card
+รองเท้า
+รองเท้า
+On killing a Fire enemy: ความเร็วเคลื่อนที่ +10% for 5s
+Lava Mine 3"
+"card_07_18","Cinderkit Card","CARD","","","{}","รองเท้า
+รองเท้า
+Perfect Dodge +10%
+The Volcano 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Cinderkit Card
+รองเท้า
+รองเท้า
+Perfect Dodge +10%
+The Volcano 2"
+"card_07_19","Amberhoof Card","CARD","","","{""STR"":[""+2""]}","รองเท้า
+รองเท้า
+STR +2; HP สูงสุด +10%
+The Volcano 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Amberhoof Card
+รองเท้า
+รองเท้า
+STR +2; HP สูงสุด +10%
+The Volcano 3"
+"card_07_20","Flarewing Card","CARD","","","{""ASPD"":[""+15%""]}","รองเท้า
+รองเท้า
+ASPD +15%; ความเร็วเคลื่อนที่ +5%; ต้านทานธาตุไฟ -5%
+The Grand Smelter 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Flarewing Card
+รองเท้า
+รองเท้า
+ASPD +15%; ความเร็วเคลื่อนที่ +5%; ต้านทานธาตุไฟ -5%
+The Grand Smelter 2"
+"card_07_21","Firepup Card","CARD","","","{""ATK"":[""+5%""]}","รองเท้า
+รองเท้า
+ATK +5%; ความเร็วเคลื่อนที่ +5%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Firepup Card
+รองเท้า
+รองเท้า
+ATK +5%; ความเร็วเคลื่อนที่ +5%
+Atlas's Workshop"
+"card_07_22","Flutterose Card","CARD","","","{""FLEE"":[""+10""]}","รองเท้า
+รองเท้า
+Flee +10; ความเร็วเคลื่อนที่ +10%
+Hemeralis East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Flutterose Card
+รองเท้า
+รองเท้า
+Flee +10; ความเร็วเคลื่อนที่ +10%
+Hemeralis East Field 2"
+"card_07_23","Ruffian Thief Card","CARD","","","{""AGI"":[""+2""],""FLEE"":[""+10""]}","รองเท้า
+รองเท้า
+AGI +2; Flee +10
+North Road","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Ruffian Thief Card
+รองเท้า
+รองเท้า
+AGI +2; Flee +10
+North Road"
+"card_07_24","Sele Card","CARD","","","{}","รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ต้านทานธาตุลมance +5%
+Soloden East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","7","Sele Card
+รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ต้านทานธาตุลมance +5%
+Soloden East Forest 2"
+"card_08_01","Ghosty Card","CARD","","","{}","รองเท้า
+รองเท้า
+Perfect Dodge +5; ต้านทานธาตุวิญญาณance +10%
+Shadowfen Cemetery","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Ghosty Card
+รองเท้า
+รองเท้า
+Perfect Dodge +5; ต้านทานธาตุวิญญาณance +10%
+Shadowfen Cemetery"
+"card_08_02","Book of Lust Card","CARD","","","{""MP"":[""+5%""]}","รองเท้า
+รองเท้า
+MP สูงสุด +10%; การฟื้นฟู MP +5%
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Book of Lust Card
+รองเท้า
+รองเท้า
+MP สูงสุด +10%; การฟื้นฟู MP +5%
+Solomon's Laboratory"
+"card_08_03","Moler Card","CARD","","","{}","รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ต้านทานธาตุดินance +5%
+The Burrow 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Moler Card
+รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; ต้านทานธาตุดินance +5%
+The Burrow 2"
+"card_08_04","Baby Angel Card","CARD","","","{}","รองเท้า
+รองเท้า
+HP สูงสุด +10%; การฟื้นฟูที่ได้รับ +10%
+The Falling Heaven 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Baby Angel Card
+รองเท้า
+รองเท้า
+HP สูงสุด +10%; การฟื้นฟูที่ได้รับ +10%
+The Falling Heaven 1"
+"card_08_05","Daminari Card","CARD","","","{}","รองเท้า
+รองเท้า
+On applying Exposure: ความเร็วเคลื่อนที่ +15% for 3 sec. Refresh ระยะเวลา; does not stack.
+The Lost Island 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Daminari Card
+รองเท้า
+รองเท้า
+On applying Exposure: ความเร็วเคลื่อนที่ +15% for 3 sec. Refresh ระยะเวลา; does not stack.
+The Lost Island 1"
+"card_08_06","Hydrola Card","CARD","","","{""MP"":[""+30%""]}","รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; การฟื้นฟู MP +30%
+Sunken Ship 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Hydrola Card
+รองเท้า
+รองเท้า
+ความเร็วเคลื่อนที่ +10%; การฟื้นฟู MP +30%
+Sunken Ship 1"
+"card_08_07","Fluffy Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล +3
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Fluffy Card
+เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล +3
+Hemeralis South Field 1"
+"card_08_08","Fly Card","CARD","","","{""AGI"":[""+2""],""FLEE"":[""+5""]}","เครื่องประดับ
+เครื่องประดับ
+AGI +2; Flee +5
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Fly Card
+เครื่องประดับ
+เครื่องประดับ
+AGI +2; Flee +5
+Hemeralis South Field 1"
+"card_08_09","Sandy Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุดิน +5%
+Hemeralis South Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Sandy Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุดิน +5%
+Hemeralis South Field 2"
+"card_08_10","Choochi Card","CARD","","","{""ASPD"":[""+5%""]}","เครื่องประดับ
+เครื่องประดับ
+ASPD +5%
+Ruin Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Choochi Card
+เครื่องประดับ
+เครื่องประดับ
+ASPD +5%
+Ruin Desert 1"
+"card_08_11","Diggy Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ต้านทานธาตุดิน +5%
+Ruin Desert 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Diggy Card
+เครื่องประดับ
+เครื่องประดับ
+ต้านทานธาตุดิน +5%
+Ruin Desert 2"
+"card_08_12","Chilli Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุไฟ +5%
+Atlan East Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Chilli Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุไฟ +5%
+Atlan East Desert 1"
+"card_08_13","Coral Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Grants Heal Lv.5
+Atlan East Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Coral Card
+เครื่องประดับ
+เครื่องประดับ
+Grants Heal Lv.5
+Atlan East Desert 1"
+"card_08_14","Blackdilo Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Grants Shadow Cloak Lv. 3
+Atlan South Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Blackdilo Card
+เครื่องประดับ
+เครื่องประดับ
+Grants Shadow Cloak Lv. 3
+Atlan South Desert 1"
+"card_08_15","Scarlepion Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Ignite Damage +20%
+Atlan South Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Scarlepion Card
+เครื่องประดับ
+เครื่องประดับ
+Ignite Damage +20%
+Atlan South Desert 1"
+"card_08_16","Red Crap Card","CARD","","","{""VIT"":[""+2""]}","เครื่องประดับ
+เครื่องประดับ
+VIT +2; HP สูงสุด +100
+Atlan Beach","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Red Crap Card
+เครื่องประดับ
+เครื่องประดับ
+VIT +2; HP สูงสุด +100
+Atlan Beach"
+"card_08_17","Starfish Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Coldbolt Damage +20%
+Atlan Beach","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Starfish Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Coldbolt Damage +20%
+Atlan Beach"
+"card_08_18","Bat Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+HP Leech +2%
+Ancient Pyramid 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Bat Card
+เครื่องประดับ
+เครื่องประดับ
+HP Leech +2%
+Ancient Pyramid 1"
+"card_08_19","Dead Hound Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+HP on Kill +50
+Ancient Pyramid 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Dead Hound Card
+เครื่องประดับ
+เครื่องประดับ
+HP on Kill +50
+Ancient Pyramid 2"
+"card_08_20","Black Cobra Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Poison ระยะเวลา +20%
+Ancient Pyramid 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Black Cobra Card
+เครื่องประดับ
+เครื่องประดับ
+Poison ระยะเวลา +20%
+Ancient Pyramid 2"
+"card_08_21","Moss Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+การฟื้นฟูที่ได้รับ +5%
+Forest Steppe 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Moss Card
+เครื่องประดับ
+เครื่องประดับ
+การฟื้นฟูที่ได้รับ +5%
+Forest Steppe 2"
+"card_08_22","Butterfly Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Normal Attack Damage +5%
+Forest Steppe 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Butterfly Card
+เครื่องประดับ
+เครื่องประดับ
+Normal Attack Damage +5%
+Forest Steppe 2"
+"card_08_23","Puffy Card","CARD","","","{""DEX"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+DEX +3
+Yggdra North Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Puffy Card
+เครื่องประดับ
+เครื่องประดับ
+DEX +3
+Yggdra North Forest 2"
+"card_08_24","Tanuki Card","CARD","","","{""LUK"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+LUK +3
+Yggdra North Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","8","Tanuki Card
+เครื่องประดับ
+เครื่องประดับ
+LUK +3
+Yggdra North Forest 2"
+"card_09_01","Sparrow Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุลม +5%
+Yggdra North Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Sparrow Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุลม +5%
+Yggdra North Forest 1"
+"card_09_02","Caterpillar Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Attack Range +1
+Yggdra East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Caterpillar Card
+เครื่องประดับ
+เครื่องประดับ
+Attack Range +1
+Yggdra East Forest 1"
+"card_09_03","Daisy Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Status Effect โอกาส +10%
+Yggdra East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Daisy Card
+เครื่องประดับ
+เครื่องประดับ
+Status Effect โอกาส +10%
+Yggdra East Forest 2"
+"card_09_04","Pinky Card","CARD","","","{""STR"":[""+2""]}","เครื่องประดับ
+เครื่องประดับ
+STR +2; ความเสียหายต่อ Plant +5%
+Yggdra East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Pinky Card
+เครื่องประดับ
+เครื่องประดับ
+STR +2; ความเสียหายต่อ Plant +5%
+Yggdra East Forest 2"
+"card_09_05","Rosa Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเวท +5%
+Yggdra East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Rosa Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเวท +5%
+Yggdra East Forest 2"
+"card_09_06","Bramblehog Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายระยะประชิด +5%
+Yggdra South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Bramblehog Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายระยะประชิด +5%
+Yggdra South Forest 1"
+"card_09_07","Sandpuff Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Critical ความเสียหายที่ได้รับ -10%
+Yggdra South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Sandpuff Card
+เครื่องประดับ
+เครื่องประดับ
+Critical ความเสียหายที่ได้รับ -10%
+Yggdra South Forest 1"
+"card_09_08","Poison Moth Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Damage over Time +5%
+Yggdra South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Poison Moth Card
+เครื่องประดับ
+เครื่องประดับ
+Damage over Time +5%
+Yggdra South Forest 1"
+"card_09_09","Ent Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Earth targets +5%
+Yggdra South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Ent Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Earth targets +5%
+Yggdra South Forest 2"
+"card_09_10","Anubis Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +5%; Curse ระยะเวลา +20%; ความเสียหายต่อ Cursed targets +10%
+Ancient Pyramid 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","9","MVP
+Anubis Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +5%; Curse ระยะเวลา +20%; ความเสียหายต่อ Cursed targets +10%
+Ancient Pyramid 1"
+"card_09_11","Mummy King Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Grants Raise Undead Lv.3; Summoned ความเสียหายธาตุผีดิบ +20%
+Ancient Pyramid 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","9","MVP
+Mummy King Card
+เครื่องประดับ
+เครื่องประดับ
+Grants Raise Undead Lv.3; Summoned ความเสียหายธาตุผีดิบ +20%
+Ancient Pyramid 2"
+"card_09_12","Mint Hare Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Slow Resistance +20%
+Hemeralis West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Mint Hare Card
+เครื่องประดับ
+เครื่องประดับ
+Slow Resistance +20%
+Hemeralis West Field 1"
+"card_09_13","Larva Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ต้านทานธาตุไฟ +5%
+Anima East Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Larva Card
+เครื่องประดับ
+เครื่องประดับ
+ต้านทานธาตุไฟ +5%
+Anima East Swamp 2"
+"card_09_14","Monarch Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Poison Status ความเสียหายที่ได้รับ -15%
+Anima East Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Monarch Card
+เครื่องประดับ
+เครื่องประดับ
+Poison Status ความเสียหายที่ได้รับ -15%
+Anima East Swamp 2"
+"card_09_15","Hound Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Brute +5%
+Anima North Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Hound Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Brute +5%
+Anima North Swamp 1"
+"card_09_16","Crimson Stag Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Ignite โอกาส +20%
+Anima East Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Crimson Stag Card
+เครื่องประดับ
+เครื่องประดับ
+Ignite โอกาส +20%
+Anima East Swamp 1"
+"card_09_17","Moose Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Stunned targets +10%
+Anima East Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Moose Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Stunned targets +10%
+Anima East Swamp 1"
+"card_09_18","White Fang Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Bleeding Damage +20%
+Anima North Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","White Fang Card
+เครื่องประดับ
+เครื่องประดับ
+Bleeding Damage +20%
+Anima North Swamp 2"
+"card_09_19","Kumataro Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Stun โอกาส +20%
+Soloden South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Kumataro Card
+เครื่องประดับ
+เครื่องประดับ
+Stun โอกาส +20%
+Soloden South Forest 2"
+"card_09_20","Grizzly Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Stun ระยะเวลา +20%
+Soloden South Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Grizzly Card
+เครื่องประดับ
+เครื่องประดับ
+Stun ระยะเวลา +20%
+Soloden South Forest 2"
+"card_09_21","Poison Deadhound Card","CARD","","","{""INT"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+INT +3
+Soloden East Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Poison Deadhound Card
+เครื่องประดับ
+เครื่องประดับ
+INT +3
+Soloden East Forest 1"
+"card_09_22","Grimmscar Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Formless +5%
+Lava Mine 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Grimmscar Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Formless +5%
+Lava Mine 2"
+"card_09_23","Toothserf Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Poison-element targets +5%
+Lava Mine 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Toothserf Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Poison-element targets +5%
+Lava Mine 2"
+"card_09_24","Lavatear Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Ignited targets +10%
+Lava Mine 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","9","Lavatear Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Ignited targets +10%
+Lava Mine 2"
+"card_10_01","Angrybacon Card","CARD","","","{""HP"":[""+10%""]}","เครื่องประดับ
+เครื่องประดับ
+Damage to targets above 80% HP +10%
+The Volcano 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Angrybacon Card
+เครื่องประดับ
+เครื่องประดับ
+Damage to targets above 80% HP +10%
+The Volcano 1"
+"card_10_02","Pyrotail Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Ignite ระยะเวลา +20%
+The Volcano 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Pyrotail Card
+เครื่องประดับ
+เครื่องประดับ
+Ignite ระยะเวลา +20%
+The Volcano 2"
+"card_10_03","Blazehoof Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายคริติคอล against Ignited targets +15%
+The Volcano 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Blazehoof Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายคริติคอล against Ignited targets +15%
+The Volcano 3"
+"card_10_04","Sprite Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Lightningbolt Damage +20%
+Atlan East Desert 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Sprite Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Lightningbolt Damage +20%
+Atlan East Desert 1"
+"card_10_05","Polute Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Poison โอกาส +20%
+The Grand Smelter 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Polute Card
+เครื่องประดับ
+เครื่องประดับ
+Poison โอกาส +20%
+The Grand Smelter 1"
+"card_10_06","Toxino Card","CARD","","","{""INT"":[""+2""]}","เครื่องประดับ
+เครื่องประดับ
+INT +2; Poison ความเสียหายจากสถานะผิดปกติ +15%
+The Grand Smelter 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Toxino Card
+เครื่องประดับ
+เครื่องประดับ
+INT +2; Poison ความเสียหายจากสถานะผิดปกติ +15%
+The Grand Smelter 1"
+"card_10_07","Emberwing Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล against Ignited targets +15%
+The Grand Smelter 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Emberwing Card
+เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล against Ignited targets +15%
+The Grand Smelter 2"
+"card_10_08","Shadoweb Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Shadow Strike Damage +15%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Shadoweb Card
+เครื่องประดับ
+เครื่องประดับ
+Shadow Strike Damage +15%
+Atlas's Workshop"
+"card_10_09","Poddle Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+MP สูงสุด +30
+Hemeralis East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Poddle Card
+เครื่องประดับ
+เครื่องประดับ
+MP สูงสุด +30
+Hemeralis East Field 1"
+"card_10_10","Aquava Card","CARD","weapon","Auto Attack: Coldbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Coldbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Aquava Card
+อาวุธ
+อาวุธ
+Auto Attack: Coldbolt (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2"
+"card_10_11","Ruffian Sorcerer Card","CARD","","","{""MP"":[""+10%""]}","เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +10%; การฟื้นฟู MP +10%
+North Road","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Ruffian Sorcerer Card
+เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +10%; การฟื้นฟู MP +10%
+North Road"
+"card_10_12","Blue Kobold Card","CARD","","","{""MATK"":[""+7""]}","เครื่องประดับ
+เครื่องประดับ
+MATK +7
+Crystalland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Blue Kobold Card
+เครื่องประดับ
+เครื่องประดับ
+MATK +7
+Crystalland West Field 2"
+"card_10_13","Goblin Archer Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล +5; ความเสียหายคริติคอล +10%
+Crystalland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Goblin Archer Card
+เครื่องประดับ
+เครื่องประดับ
+อัตราคริติคอล +5; ความเสียหายคริติคอล +10%
+Crystalland West Field 1"
+"card_10_14","Hobgoblin Archer Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Arrow Storm Damage +15%
+Crystalland North Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Hobgoblin Archer Card
+เครื่องประดับ
+เครื่องประดับ
+Arrow Storm Damage +15%
+Crystalland North Field 1"
+"card_10_15","Orc Mage Card","CARD","","","{""MATK"":[""+5%""]}","เครื่องประดับ
+เครื่องประดับ
+MATK +5%; MP สูงสุด +5%
+Crystalland North Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Orc Mage Card
+เครื่องประดับ
+เครื่องประดับ
+MATK +5%; MP สูงสุด +5%
+Crystalland North Field 2"
+"card_10_16","Highorc Warlock Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +10%; ความเสียหายจากสถานะผิดปกติ +10%; การฟื้นฟูที่ได้รับ -10%
+Orc Village","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Highorc Warlock Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +10%; ความเสียหายจากสถานะผิดปกติ +10%; การฟื้นฟูที่ได้รับ -10%
+Orc Village"
+"card_10_17","Taruntula Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุพิษ +5%; Poison โอกาส +10%
+Soloden East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Taruntula Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุพิษ +5%; Poison โอกาส +10%
+Soloden East Forest 2"
+"card_10_18","Viole Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Plant +5%; ต้านทานธาตุพิษance +5%
+Soloden East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Viole Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Plant +5%; ต้านทานธาตุพิษance +5%
+Soloden East Forest 2"
+"card_10_19","Santama Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Sanctuary Damage +15%
+Snowland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Santama Card
+เครื่องประดับ
+เครื่องประดับ
+Sanctuary Damage +15%
+Snowland West Field 1"
+"card_10_20","Starbind Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Shooting Stars Damage +15%
+Snowland East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Starbind Card
+เครื่องประดับ
+เครื่องประดับ
+Shooting Stars Damage +15%
+Snowland East Field 2"
+"card_10_21","Snow Empress Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุน้ำ +10%; Frozen ระยะเวลา +20%; ความเสียหายต่อ Frozen targets +10%
+Snowland East Field 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","10","MVP
+Snow Empress Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุน้ำ +10%; Frozen ระยะเวลา +20%; ความเสียหายต่อ Frozen targets +10%
+Snowland East Field 1"
+"card_10_22","Evily Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +5%; Curse โอกาส +10%
+Shadowfen Cemetery","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Evily Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายเคออส +5%; Curse โอกาส +10%
+Shadowfen Cemetery"
+"card_10_23","Mimic Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Perfect Dodge +3; ความเร็วเคลื่อนที่ +5%
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Mimic Card
+เครื่องประดับ
+เครื่องประดับ
+Perfect Dodge +3; ความเร็วเคลื่อนที่ +5%
+Solomon's Laboratory"
+"card_10_24","Book of Envy Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +5%; Skill คูลดาวน์ Reduction +5%
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","10","Book of Envy Card
+เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +5%; Skill คูลดาวน์ Reduction +5%
+Solomon's Laboratory"
+"card_11_01","Chaola Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+CTR cap increased from 90% to 95%; MP Cost +20%
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","11","MVP
+Chaola Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+CTR cap increased from 90% to 95%; MP Cost +20%
+Solomon's Laboratory"
+"card_11_02","Redshroom Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Poisoned targets +5%
+The Burrow 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Redshroom Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Poisoned targets +5%
+The Burrow 1"
+"card_11_03","Beetle Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Insect race +5%
+The Burrow 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Beetle Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Insect race +5%
+The Burrow 1"
+"card_11_04","Dracular Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+HP Leech +3%; การฟื้นฟูที่ได้รับ -5%
+The Burrow 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Dracular Card
+เครื่องประดับ
+เครื่องประดับ
+HP Leech +3%; การฟื้นฟูที่ได้รับ -5%
+The Burrow 1"
+"card_11_05","Poisoned Naga Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Ignore ต้านทานธาตุพิษance +10%
+The Burrow 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Poisoned Naga Card
+เครื่องประดับ
+เครื่องประดับ
+Ignore ต้านทานธาตุพิษance +10%
+The Burrow 2"
+"card_11_06","Crimsonwerewolf Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Fire-element targets +5%
+The Burrow 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Crimsonwerewolf Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายต่อ Fire-element targets +5%
+The Burrow 3"
+"card_11_07","Angel Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+The Falling Heaven 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Angel Card
+เครื่องประดับ
+เครื่องประดับ
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+The Falling Heaven 1"
+"card_11_08","Aethelsand Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +10%; MP สูงสุด +5%
+The Falling Heaven 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Aethelsand Card
+เครื่องประดับ
+เครื่องประดับ
+ความเร็วร่าย +10%; MP สูงสุด +5%
+The Falling Heaven 2"
+"card_11_09","Dakura Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Exposure Effect +10%; MP สูงสุด +5%
+The Lost Island 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Dakura Card
+เครื่องประดับ
+เครื่องประดับ
+Exposure Effect +10%; MP สูงสุด +5%
+The Lost Island 1"
+"card_11_10","Daqua Card","CARD","","","{""INT"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+Exposure ระยะเวลา +20%; INT +3
+The Lost Island 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Daqua Card
+เครื่องประดับ
+เครื่องประดับ
+Exposure ระยะเวลา +20%; INT +3
+The Lost Island 1"
+"card_11_11","Darla Card","CARD","","","{""STR"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+Life Leech +3%; STR +3
+The Lost Island 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Darla Card
+เครื่องประดับ
+เครื่องประดับ
+Life Leech +3%; STR +3
+The Lost Island 2"
+"card_11_12","Bleela Card","CARD","","","{""STR"":[""+3""]}","เครื่องประดับ
+เครื่องประดับ
+Bleeding ระยะเวลา +15%; STR +3
+The Lost Island 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Bleela Card
+เครื่องประดับ
+เครื่องประดับ
+Bleeding ระยะเวลา +15%; STR +3
+The Lost Island 2"
+"card_11_13","Ice Walker Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Slow Resistance +30%
+The Ancient Battlefield","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Ice Walker Card
+เครื่องประดับ
+เครื่องประดับ
+Slow Resistance +30%
+The Ancient Battlefield"
+"card_11_14","Volcano Wraith Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Ignite Damage +100%
+The Volcano 3","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","11","MVP
+Volcano Wraith Card
+เครื่องประดับ
+เครื่องประดับ
+Ignite Damage +100%
+The Volcano 3"
+"card_11_15","Death Root Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Leech +15%; HP สูงสุด -20%
+The Burrow 3","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","11","MVP
+Death Root Card
+เครื่องประดับ
+เครื่องประดับ
+Leech +15%; HP สูงสุด -20%
+The Burrow 3"
+"card_11_16","Poisoned Spirit Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+Poison ความเสียหายจากสถานะผิดปกติ +50%; Poison ระยะเวลา +20%
+Sunken Ship 2","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","11","MVP
+Poisoned Spirit Card
+เครื่องประดับ
+เครื่องประดับ
+Poison ความเสียหายจากสถานะผิดปกติ +50%; Poison ระยะเวลา +20%
+Sunken Ship 2"
+"card_11_17","Wood Hunter Card","CARD","","","{}","เครื่องประดับ
+เครื่องประดับ
+3% โอกาส on successful Auto Attack to AutoCast Stone Curse Lv.3
+The Cursed Swamp","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Wood Hunter Card
+เครื่องประดับ
+เครื่องประดับ
+3% โอกาส on successful Auto Attack to AutoCast Stone Curse Lv.3
+The Cursed Swamp"
+"card_11_18","Flora Queen Card","CARD","","","{""INT"":[""+5""],""MATK"":[""+3%""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+INT +5; MATK +3%
+Hemeralis South Field 1","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","11","MVP
+Flora Queen Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+INT +5; MATK +3%
+Hemeralis South Field 1"
+"card_11_19","Red Shell Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายต่อ Fire-element targets +10%
+Atlan Beach","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Red Shell Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายต่อ Fire-element targets +10%
+Atlan Beach"
+"card_11_20","Sunflower Moss Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Earthbolt Damage +20%
+Forest Steppe 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Sunflower Moss Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Earthbolt Damage +20%
+Forest Steppe 2"
+"card_11_21","Parroty Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Grants Free Cast Lv.2
+Yggdra North Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Parroty Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Grants Free Cast Lv.2
+Yggdra North Forest 1"
+"card_11_22","Pepper Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Firebolt Damage +20%
+Hemeralis West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Pepper Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Firebolt Damage +20%
+Hemeralis West Field 2"
+"card_11_23","Old Tuber Card","CARD","","","{""VIT"":[""+2""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+VIT +2; HP สูงสุด +100
+Hemeralis West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Old Tuber Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+VIT +2; HP สูงสุด +100
+Hemeralis West Field 1"
+"card_11_24","Stag Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+HP สูงสุด +10%
+Anima East Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","11","Stag Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+HP สูงสุด +10%
+Anima East Swamp 1"
+"card_12_01","Oak Elk Card","CARD","","","{""DEF"":[""+5""],""MDEF"":[""+5""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+DEF +5; MDEF +5
+Anima East Swamp 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Oak Elk Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+DEF +5; MDEF +5
+Anima East Swamp 1"
+"card_12_02","Bali Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Command Skill Damage +10%
+Anima North Swamp 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Bali Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Command Skill Damage +10%
+Anima North Swamp 2"
+"card_12_03","Deadhorn Card","CARD","","","{""DEF"":[""+10""],""MDEF"":[""+5""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+DEF +10; MDEF +5
+Soloden South Forest 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Deadhorn Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+DEF +10; MDEF +5
+Soloden South Forest 1"
+"card_12_04","Flame Furnance Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Flame Turret Totem Damage +20%
+Lava Mine 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Flame Furnance Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Flame Turret Totem Damage +20%
+Lava Mine 1"
+"card_12_05","Flameye Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Fire Skill MP Cost -10%
+Lava Mine 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Flameye Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Fire Skill MP Cost -10%
+Lava Mine 2"
+"card_12_06","Rage Hamgole Card","CARD","","","{""ATK"":[""+5%""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ATK +5%; HP สูงสุด -5%
+The Volcano 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Rage Hamgole Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ATK +5%; HP สูงสุด -5%
+The Volcano 1"
+"card_12_07","Volcantail Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +5%; ความเสียหายคริติคอล +10%
+The Volcano 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Volcantail Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +5%; ความเสียหายคริติคอล +10%
+The Volcano 2"
+"card_12_08","Salamander Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +15%; ต้านทานธาตุน้ำ -10%
+The Volcano 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Salamander Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +15%; ต้านทานธาตุน้ำ -10%
+The Volcano 3"
+"card_12_09","Ember Slime Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Flame Pillar Damage +15%
+The Grand Smelter 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Ember Slime Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Flame Pillar Damage +15%
+The Grand Smelter 1"
+"card_12_10","Baby Cactus Card","CARD","","","{""VIT"":[""+1""],""DEF"":[""+2""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+VIT +1; DEF +2
+Hemeralis South Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Baby Cactus Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+VIT +1; DEF +2
+Hemeralis South Field 2"
+"card_12_11","Firefox Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Meteor Storm Damage +15%
+Atlas's Workshop","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Firefox Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Meteor Storm Damage +15%
+Atlas's Workshop"
+"card_12_12","Petal Card","CARD","weapon","Auto Attack: Holy Light (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.","{}","อาวุธ
+อาวุธ
+Auto Attack: Holy Light (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Petal Card
+อาวุธ
+อาวุธ
+Auto Attack: Holy Light (3% +2% ต่อระดับตีบวก of the socketed weapon; max 100%). Uses the higher of the card minimum Lv.3 and the owner's current learned level, capped at the target skill maximum.
+Hemeralis East Field 2"
+"card_12_13","Bandit Archer Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายระยะไกล +5%
+Crossroad","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Bandit Archer Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายระยะไกล +5%
+Crossroad"
+"card_12_14","Baby Yoh Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+All Stat +5; ความเร็วเคลื่อนที่ +10%
+North Road","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","12","MVP
+Baby Yoh Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+All Stat +5; ความเร็วเคลื่อนที่ +10%
+North Road"
+"card_12_15","Goblin Warlock Card","CARD","","","{""MATK"":[""+5%""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+MATK +5%; ความเร็วร่าย +10%
+Crystalland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Goblin Warlock Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+MATK +5%; ความเร็วร่าย +10%
+Crystalland West Field 1"
+"card_12_16","Hobgoblin Warlock Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Casting cannot be interrupted by damage; ความเร็วร่าย -15%
+Crystalland North Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Hobgoblin Warlock Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Casting cannot be interrupted by damage; ความเร็วร่าย -15%
+Crystalland North Field 1"
+"card_12_17","Orc Warlock Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายจากสถานะผิดปกติ +10%; ความเร็วร่าย +10%
+Crystalland North Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Orc Warlock Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายจากสถานะผิดปกติ +10%; ความเร็วร่าย +10%
+Crystalland North Field 2"
+"card_12_18","Highorc Mage Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Earthstrain Damage +15%
+Orc Village","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Highorc Mage Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Earthstrain Damage +15%
+Orc Village"
+"card_12_19","Orczombie Warlock Card","CARD","","","{""MDEF"":[""+10%"",""-10%""]}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ละเลย MDEF +10%; MDEF -10%
+Orc Den","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Orczombie Warlock Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ละเลย MDEF +10%; MDEF -10%
+Orc Den"
+"card_12_20","Witch Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Chaos Devouring Damage +15%
+Soloden East Forest 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Witch Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Chaos Devouring Damage +15%
+Soloden East Forest 2"
+"card_12_21","Reindeer Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายต่อ Water-element targets +10%
+Snowland West Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Reindeer Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายต่อ Water-element targets +10%
+Snowland West Field 2"
+"card_12_22","Santa Bear Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+การฟื้นฟูที่ได้รับ +10%; HP สูงสุด +5%
+Snowland West Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Santa Bear Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+การฟื้นฟูที่ได้รับ +10%; HP สูงสุด +5%
+Snowland West Field 1"
+"card_12_23","Starlight Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายธาตุศักดิ์สิทธิ์ +20%
+Snowland East Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Starlight Card
+อาวุธ
+อาวุธ
+ความเสียหายธาตุศักดิ์สิทธิ์ +20%
+Snowland East Field 2"
+"card_12_24","Penqueen Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Freezing Field Damage +15%
+Snowland East Field 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","12","Penqueen Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Freezing Field Damage +15%
+Snowland East Field 1"
+"card_13_01","Postergeist Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Wraith of Thunder Damage +15%
+Shadowfen Cemetery","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Postergeist Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Wraith of Thunder Damage +15%
+Shadowfen Cemetery"
+"card_13_02","Dark Brutal Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Blood Bullet Damage +15%
+Cemetery Underground 2nd Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Dark Brutal Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Blood Bullet Damage +15%
+Cemetery Underground 2nd Floor"
+"card_13_03","Dark Ray Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Ark Lightning Damage +15%
+Cemetery Underground 2nd Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Dark Ray Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Ark Lightning Damage +15%
+Cemetery Underground 2nd Floor"
+"card_13_04","Dark Knight Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Blood Tornado Damage +15%
+Cemetery Underground 2nd Floor","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Dark Knight Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Blood Tornado Damage +15%
+Cemetery Underground 2nd Floor"
+"card_13_05","Book of Death Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายจากสถานะผิดปกติ +10%; ความเสียหายเคออส +5%
+Solomon's Laboratory","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Book of Death Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายจากสถานะผิดปกติ +10%; ความเสียหายเคออส +5%
+Solomon's Laboratory"
+"card_13_06","Chaos Mage Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Night Trap Damage +15%
+Hellgate","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Chaos Mage Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Night Trap Damage +15%
+Hellgate"
+"card_13_07","Orc Warrior Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Cross Spear Damage +15%
+Crystalland North Field 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Orc Warrior Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Cross Spear Damage +15%
+Crystalland North Field 2"
+"card_13_08","Lizardman Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Shield Boomerang Damage +15%
+The Burrow 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Lizardman Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Shield Boomerang Damage +15%
+The Burrow 3"
+"card_13_09","Lizarder Card","CARD","","","{}","อาวุธ
+อาวุธ
+ความเสียหายต่อ Wind-element targets +15%
+The Burrow 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Lizarder Card
+อาวุธ
+อาวุธ
+ความเสียหายต่อ Wind-element targets +15%
+The Burrow 3"
+"card_13_10","Holy Seraphine Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Cross of Hemera Damage +15%
+The Falling Heaven 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Holy Seraphine Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Cross of Hemera Damage +15%
+The Falling Heaven 3"
+"card_13_11","Holy Celestial Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Divine Descend Damage +15%
+The Falling Heaven 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Holy Celestial Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Divine Descend Damage +15%
+The Falling Heaven 3"
+"card_13_12","Pyro Fragmentum Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุไฟance +10%
+The Shattering Crystal 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Pyro Fragmentum Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุไฟance +10%
+The Shattering Crystal 1"
+"card_13_13","Animo Fragmentum Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุลมance +10%
+The Shattering Crystal 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Animo Fragmentum Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุลมance +10%
+The Shattering Crystal 1"
+"card_13_14","Hydro Fragmentum Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุน้ำance +10%
+The Shattering Crystal 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Hydro Fragmentum Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุน้ำance +10%
+The Shattering Crystal 1"
+"card_13_15","Geo Fragmentum Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุดินance +10%
+The Shattering Crystal 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Geo Fragmentum Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ต้านทานธาตุดินance +10%
+The Shattering Crystal 1"
+"card_13_16","Pyro Spirit Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +10%
+The Shattering Crystal 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Pyro Spirit Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุไฟ +10%
+The Shattering Crystal 2"
+"card_13_17","Animo Spirit Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุลม +10%
+The Shattering Crystal 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Animo Spirit Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุลม +10%
+The Shattering Crystal 2"
+"card_13_18","Hydro Spirit Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุน้ำ +10%
+The Shattering Crystal 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Hydro Spirit Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุน้ำ +10%
+The Shattering Crystal 2"
+"card_13_19","Geo Spirit Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุดิน +10%
+The Shattering Crystal 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Geo Spirit Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+ความเสียหายธาตุดิน +10%
+The Shattering Crystal 2"
+"card_13_20","Cyro Angel Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Winter Storm Damage +15%
+The Falling Heaven 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Cyro Angel Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Winter Storm Damage +15%
+The Falling Heaven 1"
+"card_13_21","Pyro Angel Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Fire Ball Damage +15%
+The Falling Heaven 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Pyro Angel Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Fire Ball Damage +15%
+The Falling Heaven 1"
+"card_13_22","Obsidiansand Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Elemental Wave Damage +15%
+The Falling Heaven 2","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Obsidiansand Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Elemental Wave Damage +15%
+The Falling Heaven 2"
+"card_13_23","Azure Seraphine Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Lux Castrum Damage +15%
+The Falling Heaven 3","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Azure Seraphine Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Lux Castrum Damage +15%
+The Falling Heaven 3"
+"card_13_24","Poisonous Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Venomous Attack Poison Base x2
+Sunken Ship 1","[]","https://ageofsylvanus.com/codex/assets/27b9e883d021d18d.webp","images/card_001.webp","13","Poisonous Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Venomous Attack Poison Base x2
+Sunken Ship 1"
+"card_14_01","Curse Weaver Card","CARD","","","{}","เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Curse inflicted by the wearer additionally reduces the target’s DEF and MDEF by30%.
+The Cursed Swamp","[]","https://ageofsylvanus.com/codex/assets/91200380a9b46d55.webp","images/card_002.webp","14","MVP
+Curse Weaver Card
+เครื่องประดับศีรษะ
+เครื่องประดับศีรษะ
+Curse inflicted by the wearer additionally reduces the target’s DEF and MDEF by30%.
+The Cursed Swamp"

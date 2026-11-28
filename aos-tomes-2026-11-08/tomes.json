@@ -1,0 +1,3565 @@
+{
+  "game": "Age of Sylvanus",
+  "category": "TOME",
+  "source": "https://ageofsylvanus.com/codex?lang=th",
+  "exportedAt": "2026-11-08T08:53:09.121Z",
+  "expectedCount": 165,
+  "total": 165,
+  "pagesRead": 7,
+  "imagesDownloaded": 0,
+  "imagesFailed": 0,
+  "complete": true,
+  "tomes": [
+    {
+      "id": "101",
+      "name": "Executioner's Wake",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Finish Strike"
+      ],
+      "effects": [
+        "เมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์"
+      ],
+      "effectText": "เมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 1,
+      "rawText": "▤\nExecutioner's Wake\nAdventurer\nFinish Strike\nเมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "102",
+      "name": "Shield Chain",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Throwing Shield"
+      ],
+      "effects": [
+        "Throwing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ"
+      ],
+      "effectText": "Throwing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 2,
+      "rawText": "▤\nShield Chain\nAdventurer\nThrowing Shield\nThrowing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "103",
+      "name": "Hundred Spear",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Spear Pierce"
+      ],
+      "effects": [
+        "Spear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที"
+      ],
+      "effectText": "Spear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 3,
+      "rawText": "▤\nHundred Spear\nAdventurer\nSpear Pierce\nSpear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "104",
+      "name": "Standy Bash",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Shield Bash"
+      ],
+      "effects": [
+        "เมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที"
+      ],
+      "effectText": "เมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 4,
+      "rawText": "▤\nStandy Bash\nAdventurer\nShield Bash\nเมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "105",
+      "name": "Light Up the Way",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Holy Light"
+      ],
+      "effects": [
+        "เมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี"
+      ],
+      "effectText": "เมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 5,
+      "rawText": "▤\nLight Up the Way\nAdventurer\nHoly Light\nเมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "106",
+      "name": "Healer Plus",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Heal"
+      ],
+      "effects": [
+        "เมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%"
+      ],
+      "effectText": "เมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%",
+      "dropSources": [
+        "North Road"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 6,
+      "rawText": "▤\nHealer Plus\nAdventurer\nHeal\nเมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%\nNorth Road"
+    },
+    {
+      "id": "107",
+      "name": "Provoker",
+      "category": "TOME",
+      "characterClass": "Adventurer",
+      "relatedSkills": [
+        "Taunt"
+      ],
+      "effects": [
+        "Taunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ"
+      ],
+      "effectText": "Taunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ",
+      "dropSources": [
+        "Snowland East Field 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 7,
+      "rawText": "▤\nProvoker\nAdventurer\nTaunt\nTaunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ\nSnowland East Field 1"
+    },
+    {
+      "id": "201",
+      "name": "Spear of Atonement",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Cross Spear"
+      ],
+      "effects": [
+        "แต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก"
+      ],
+      "effectText": "แต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 8,
+      "rawText": "▤\nSpear of Atonement\nPaladin\nCross Spear\nแต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "202",
+      "name": "Heavy Heaven",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Fallen Cross"
+      ],
+      "effects": [
+        "Fallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ"
+      ],
+      "effectText": "Fallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 9,
+      "rawText": "▤\nHeavy Heaven\nPaladin\nFallen Cross\nFallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "203",
+      "name": "Unshakable Faith",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Cross of Hemera"
+      ],
+      "effects": [
+        "ฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera"
+      ],
+      "effectText": "ฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 10,
+      "rawText": "▤\nUnshakable Faith\nPaladin\nCross of Hemera\nฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "204",
+      "name": "Martyr",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Holy Sacrificial"
+      ],
+      "effects": [
+        "Holy Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้"
+      ],
+      "effectText": "Holy Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 11,
+      "rawText": "▤\nMartyr\nPaladin\nHoly Sacrificial\nHoly Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "205",
+      "name": "Boomerang Master",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Shield Boomerang"
+      ],
+      "effects": [
+        "หลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ"
+      ],
+      "effectText": "หลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 12,
+      "rawText": "▤\nBoomerang Master\nPaladin\nShield Boomerang\nหลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "206",
+      "name": "Charge Impact",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Shield Impact"
+      ],
+      "effects": [
+        "สกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%"
+      ],
+      "effectText": "สกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%",
+      "dropSources": [
+        "Yggdra North Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 13,
+      "rawText": "▤\nCharge Impact\nPaladin\nShield Impact\nสกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%\nYggdra North Forest 2"
+    },
+    {
+      "id": "207",
+      "name": "Guardian Angel",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Protection Bond"
+      ],
+      "effects": [
+        "ถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่"
+      ],
+      "effectText": "ถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่",
+      "dropSources": [
+        "Yggdra East Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 14,
+      "rawText": "▤\nGuardian Angel\nPaladin\nProtection Bond\nถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่\nYggdra East Forest 1"
+    },
+    {
+      "id": "208",
+      "name": "Blessing Shield",
+      "category": "TOME",
+      "characterClass": "Paladin",
+      "relatedSkills": [
+        "Shield Stance"
+      ],
+      "effects": [
+        "ในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%"
+      ],
+      "effectText": "ในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%",
+      "dropSources": [
+        "Yggdra South Forest 2",
+        "Yggdra South Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 15,
+      "rawText": "▤\nBlessing Shield\nPaladin\nShield Stance\nในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%\nYggdra South Forest 2\nYggdra South Forest 1"
+    },
+    {
+      "id": "301",
+      "name": "Following Sanctuary",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Sanctuary"
+      ],
+      "effects": [
+        "Sanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%"
+      ],
+      "effectText": "Sanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 16,
+      "rawText": "▤\nFollowing Sanctuary\nPriest\nSanctuary\nSanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "302",
+      "name": "Second Dawn",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Resurrection"
+      ],
+      "effects": [
+        "พันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%"
+      ],
+      "effectText": "พันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 17,
+      "rawText": "▤\nSecond Dawn\nPriest\nResurrection\nพันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "303",
+      "name": "Suddenly Rebirth",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Miracle of Light"
+      ],
+      "effects": [
+        "เมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย"
+      ],
+      "effectText": "เมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 18,
+      "rawText": "▤\nSuddenly Rebirth\nPriest\nMiracle of Light\nเมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "304",
+      "name": "Pray After Faith",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Aegis of Faith"
+      ],
+      "effects": [
+        "ผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน"
+      ],
+      "effectText": "ผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 19,
+      "rawText": "▤\nPray After Faith\nPriest\nAegis of Faith\nผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "305",
+      "name": "Grand Exorcism",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Lux Castrum"
+      ],
+      "effects": [
+        "เมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล"
+      ],
+      "effectText": "เมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 20,
+      "rawText": "▤\nGrand Exorcism\nPriest\nLux Castrum\nเมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "306",
+      "name": "Divine Provider",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Divine Descend"
+      ],
+      "effects": [
+        "Divine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%"
+      ],
+      "effectText": "Divine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%",
+      "dropSources": [
+        "Soloden East Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 21,
+      "rawText": "▤\nDivine Provider\nPriest\nDivine Descend\nDivine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%\nSoloden East Forest 2"
+    },
+    {
+      "id": "307",
+      "name": "Unbreakable Holy Bind",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Holy Bind"
+      ],
+      "effects": [
+        "ศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง"
+      ],
+      "effectText": "ศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง",
+      "dropSources": [
+        "Snowland East Field 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 22,
+      "rawText": "▤\nUnbreakable Holy Bind\nPriest\nHoly Bind\nศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง\nSnowland East Field 2"
+    },
+    {
+      "id": "308",
+      "name": "Counseler of Faith",
+      "category": "TOME",
+      "characterClass": "Priest",
+      "relatedSkills": [
+        "Smite"
+      ],
+      "effects": [
+        "เมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ"
+      ],
+      "effectText": "เมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ",
+      "dropSources": [
+        "Crystalland North Field 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 23,
+      "rawText": "▤\nCounseler of Faith\nPriest\nSmite\nเมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ\nCrystalland North Field 1"
+    },
+    {
+      "id": "401",
+      "name": "Triple Shot",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Double Shot"
+      ],
+      "effects": [
+        "Double Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม"
+      ],
+      "effectText": "Double Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 1,
+      "position": 24,
+      "rawText": "▤\nTriple Shot\nRanger\nDouble Shot\nDouble Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "402",
+      "name": "Second Wind",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Rifting Wind"
+      ],
+      "effects": [
+        "Rifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม"
+      ],
+      "effectText": "Rifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 1,
+      "rawText": "▤\nSecond Wind\nRanger\nRifting Wind\nRifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "403",
+      "name": "Charge Shot",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Spiral Shot"
+      ],
+      "effects": [
+        "Spiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้"
+      ],
+      "effectText": "Spiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 2,
+      "rawText": "▤\nCharge Shot\nRanger\nSpiral Shot\nSpiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "404",
+      "name": "Momentum",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Arrow of the Wind"
+      ],
+      "effects": [
+        "Arrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%"
+      ],
+      "effectText": "Arrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 3,
+      "rawText": "▤\nMomentum\nRanger\nArrow of the Wind\nArrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "405",
+      "name": "Smooth Criminal",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Smooth Melody"
+      ],
+      "effects": [
+        "Smooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit"
+      ],
+      "effectText": "Smooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 4,
+      "rawText": "▤\nSmooth Criminal\nRanger\nSmooth Melody\nSmooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "406",
+      "name": "Storm Terror",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Song of the Wind"
+      ],
+      "effects": [
+        "Song of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย"
+      ],
+      "effectText": "Song of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย",
+      "dropSources": [
+        "Yggdra North Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 5,
+      "rawText": "▤\nStorm Terror\nRanger\nSong of the Wind\nSong of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย\nYggdra North Forest 2"
+    },
+    {
+      "id": "407",
+      "name": "Scientist",
+      "category": "TOME",
+      "characterClass": "Ranger",
+      "relatedSkills": [
+        "Experimenter"
+      ],
+      "effects": [
+        "Experimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม"
+      ],
+      "effectText": "Experimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม",
+      "dropSources": [
+        "Yggdra East Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 6,
+      "rawText": "▤\nScientist\nRanger\nExperimenter\nExperimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม\nYggdra East Forest 1"
+    },
+    {
+      "id": "501",
+      "name": "Acuurate Storm",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Arrow Storm"
+      ],
+      "effects": [
+        "Arrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%"
+      ],
+      "effectText": "Arrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 7,
+      "rawText": "▤\nAcuurate Storm\nHunter\nArrow Storm\nArrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "502",
+      "name": "Focus Twice",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Focus Aimed"
+      ],
+      "effects": [
+        "Focus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ"
+      ],
+      "effectText": "Focus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 8,
+      "rawText": "▤\nFocus Twice\nHunter\nFocus Aimed\nFocus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "503",
+      "name": "Inteligence Owl",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Owl's Feather / Owl's Storm"
+      ],
+      "effects": [
+        "ลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที"
+      ],
+      "effectText": "ลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 9,
+      "rawText": "▤\nInteligence Owl\nHunter\nOwl's Feather / Owl's Storm\nลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "504",
+      "name": "Gale Master",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Owl's Feather / Owl's Storm"
+      ],
+      "effects": [
+        "Owl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด"
+      ],
+      "effectText": "Owl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 10,
+      "rawText": "▤\nGale Master\nHunter\nOwl's Feather / Owl's Storm\nOwl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "505",
+      "name": "Trusted Partner",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "The Partnership"
+      ],
+      "effects": [
+        "การโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang"
+      ],
+      "effectText": "การโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 11,
+      "rawText": "▤\nTrusted Partner\nHunter\nThe Partnership\nการโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "506",
+      "name": "Frenzy Attack",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Warg Attack"
+      ],
+      "effects": [
+        "Warg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%"
+      ],
+      "effectText": "Warg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%",
+      "dropSources": [
+        "Yggdra East Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 12,
+      "rawText": "▤\nFrenzy Attack\nHunter\nWarg Attack\nWarg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%\nYggdra East Forest 2"
+    },
+    {
+      "id": "507",
+      "name": "Tornado",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Wind Trap"
+      ],
+      "effects": [
+        "Wind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน"
+      ],
+      "effectText": "Wind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน",
+      "dropSources": [
+        "Yggdra South Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 13,
+      "rawText": "▤\nTornado\nHunter\nWind Trap\nWind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน\nYggdra South Forest 2"
+    },
+    {
+      "id": "508",
+      "name": "Heavy Grap",
+      "category": "TOME",
+      "characterClass": "Hunter",
+      "relatedSkills": [
+        "Vine Trap"
+      ],
+      "effects": [
+        "Vine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ"
+      ],
+      "effectText": "Vine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ",
+      "dropSources": [
+        "Crystalland West Field 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 14,
+      "rawText": "▤\nHeavy Grap\nHunter\nVine Trap\nVine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ\nCrystalland West Field 1"
+    },
+    {
+      "id": "601",
+      "name": "Rising Crescendo",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Crescendo"
+      ],
+      "effects": [
+        "Crescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%"
+      ],
+      "effectText": "Crescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 15,
+      "rawText": "▤\nRising Crescendo\nBard\nCrescendo\nCrescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "602",
+      "name": "Sonic String",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Sonic Tempest"
+      ],
+      "effects": [
+        "ลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo"
+      ],
+      "effectText": "ลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 16,
+      "rawText": "▤\nSonic String\nBard\nSonic Tempest\nลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "603",
+      "name": "Spark Melody",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Voice Echo"
+      ],
+      "effects": [
+        "Voice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก"
+      ],
+      "effectText": "Voice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 17,
+      "rawText": "▤\nSpark Melody\nBard\nVoice Echo\nVoice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "604",
+      "name": "Auto Resonance",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Chain Resonance"
+      ],
+      "effects": [
+        "Chain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo"
+      ],
+      "effectText": "Chain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 18,
+      "rawText": "▤\nAuto Resonance\nBard\nChain Resonance\nChain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "605",
+      "name": "Epic Symphony",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Symphony of The End"
+      ],
+      "effects": [
+        "Symphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun"
+      ],
+      "effectText": "Symphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 19,
+      "rawText": "▤\nEpic Symphony\nBard\nSymphony of The End\nSymphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "606",
+      "name": "Impression Show",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Encore"
+      ],
+      "effects": [
+        "Encore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%"
+      ],
+      "effectText": "Encore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%",
+      "dropSources": [
+        "North Road"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 20,
+      "rawText": "▤\nImpression Show\nBard\nEncore\nEncore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%\nNorth Road"
+    },
+    {
+      "id": "607",
+      "name": "Noise Melodic",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Dissonance Song"
+      ],
+      "effects": [
+        "Dissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง"
+      ],
+      "effectText": "Dissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง",
+      "dropSources": [
+        "Anima East Swamp 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 21,
+      "rawText": "▤\nNoise Melodic\nBard\nDissonance Song\nDissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง\nAnima East Swamp 2"
+    },
+    {
+      "id": "608",
+      "name": "Chill Guy",
+      "category": "TOME",
+      "characterClass": "Bard",
+      "relatedSkills": [
+        "Lazy Song"
+      ],
+      "effects": [
+        "Lazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง"
+      ],
+      "effectText": "Lazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง",
+      "dropSources": [
+        "Hemeralis East Field 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 22,
+      "rawText": "▤\nChill Guy\nBard\nLazy Song\nLazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง\nHemeralis East Field 2"
+    },
+    {
+      "id": "701",
+      "name": "Duplicated Bolt",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Extra Bolt"
+      ],
+      "effects": [
+        "เมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ"
+      ],
+      "effectText": "เมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 23,
+      "rawText": "▤\nDuplicated Bolt\nMage\nExtra Bolt\nเมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "702",
+      "name": "Fire Fortress",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Firewall"
+      ],
+      "effects": [
+        "Fire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม"
+      ],
+      "effectText": "Fire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 2,
+      "position": 24,
+      "rawText": "▤\nFire Fortress\nMage\nFirewall\nFire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "703",
+      "name": "World of Frost",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Chain Frost"
+      ],
+      "effects": [
+        "Chain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ"
+      ],
+      "effectText": "Chain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 1,
+      "rawText": "▤\nWorld of Frost\nMage\nChain Frost\nChain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "704",
+      "name": "Fastly Thunderstorm",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Thunderstorm"
+      ],
+      "effects": [
+        "Thunderstorm คูลดาวน์ -1 วินาที"
+      ],
+      "effectText": "Thunderstorm คูลดาวน์ -1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 2,
+      "rawText": "▤\nFastly Thunderstorm\nMage\nThunderstorm\nThunderstorm คูลดาวน์ -1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "705",
+      "name": "Stone Reflect",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Stoneform"
+      ],
+      "effects": [
+        "ระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที"
+      ],
+      "effectText": "ระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 3,
+      "rawText": "▤\nStone Reflect\nMage\nStoneform\nระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "706",
+      "name": "Bless of Zephyrous",
+      "category": "TOME",
+      "characterClass": "Mage",
+      "relatedSkills": [
+        "Blink"
+      ],
+      "effects": [
+        "Blink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที"
+      ],
+      "effectText": "Blink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที",
+      "dropSources": [
+        "Snowland East Field 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 4,
+      "rawText": "▤\nBless of Zephyrous\nMage\nBlink\nBlink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที\nSnowland East Field 2"
+    },
+    {
+      "id": "801",
+      "name": "Meteor Cluster",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Meteor Storm"
+      ],
+      "effects": [
+        "สุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม"
+      ],
+      "effectText": "สุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 5,
+      "rawText": "▤\nMeteor Cluster\nElementalist\nMeteor Storm\nสุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "802",
+      "name": "Breaking Field",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Freezing Field"
+      ],
+      "effects": [
+        "Freeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี"
+      ],
+      "effectText": "Freeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 6,
+      "rawText": "▤\nBreaking Field\nElementalist\nFreezing Field\nFreeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "803",
+      "name": "Thunder Momentum",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Wraith of Thunder"
+      ],
+      "effects": [
+        "เมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม"
+      ],
+      "effectText": "เมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 7,
+      "rawText": "▤\nThunder Momentum\nElementalist\nWraith of Thunder\nเมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "804",
+      "name": "Speedy Strain",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Earthstrain"
+      ],
+      "effects": [
+        "Earthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม"
+      ],
+      "effectText": "Earthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 8,
+      "rawText": "▤\nSpeedy Strain\nElementalist\nEarthstrain\nEarthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "805",
+      "name": "Triangle Flame Pillar",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Flame Pillar"
+      ],
+      "effects": [
+        "Flame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน"
+      ],
+      "effectText": "Flame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 9,
+      "rawText": "▤\nTriangle Flame Pillar\nElementalist\nFlame Pillar\nFlame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "806",
+      "name": "Cross of Ocean",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Breath of Ocean"
+      ],
+      "effects": [
+        "Breath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น"
+      ],
+      "effectText": "Breath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น",
+      "dropSources": [
+        "Anima East Swamp 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 10,
+      "rawText": "▤\nCross of Ocean\nElementalist\nBreath of Ocean\nBreath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น\nAnima East Swamp 2"
+    },
+    {
+      "id": "807",
+      "name": "Super Ark",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Ark Lightning"
+      ],
+      "effects": [
+        "Ark Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit"
+      ],
+      "effectText": "Ark Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit",
+      "dropSources": [
+        "Anima East Swamp 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 11,
+      "rawText": "▤\nSuper Ark\nElementalist\nArk Lightning\nArk Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit\nAnima East Swamp 1"
+    },
+    {
+      "id": "808",
+      "name": "Over the Wall",
+      "category": "TOME",
+      "characterClass": "Elementalist",
+      "relatedSkills": [
+        "Wall of Atlas"
+      ],
+      "effects": [
+        "Wall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%"
+      ],
+      "effectText": "Wall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%",
+      "dropSources": [
+        "Anima North Swamp 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 12,
+      "rawText": "▤\nOver the Wall\nElementalist\nWall of Atlas\nWall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%\nAnima North Swamp 1"
+    },
+    {
+      "id": "901",
+      "name": "Unstable Overdrive",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Auto-Cast Overdrive"
+      ],
+      "effects": [
+        "สกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร"
+      ],
+      "effectText": "สกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 13,
+      "rawText": "▤\nUnstable Overdrive\nEnchanter\nAuto-Cast Overdrive\nสกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "902",
+      "name": "Archmage",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Magic Enchant"
+      ],
+      "effects": [
+        "Bolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ"
+      ],
+      "effectText": "Bolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 14,
+      "rawText": "▤\nArchmage\nEnchanter\nMagic Enchant\nBolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "903",
+      "name": "Land Protector",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Enchanted ground"
+      ],
+      "effects": [
+        "ลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที"
+      ],
+      "effectText": "ลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 15,
+      "rawText": "▤\nLand Protector\nEnchanter\nEnchanted ground\nลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "904",
+      "name": "Evil Intention",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Disenchant"
+      ],
+      "effects": [
+        "ลดคูลดาวน์ของ Disenchant ลง 15 วินาที"
+      ],
+      "effectText": "ลดคูลดาวน์ของ Disenchant ลง 15 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 16,
+      "rawText": "▤\nEvil Intention\nEnchanter\nDisenchant\nลดคูลดาวน์ของ Disenchant ลง 15 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "905",
+      "name": "Huge Resonance",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Crystal Resonance"
+      ],
+      "effects": [
+        "Crystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง"
+      ],
+      "effectText": "Crystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 17,
+      "rawText": "▤\nHuge Resonance\nEnchanter\nCrystal Resonance\nCrystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "906",
+      "name": "Domain Expansion",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Domain of Fire / Domain of Water / Domain of Wind / Domain of Earth"
+      ],
+      "effects": [
+        "ขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์"
+      ],
+      "effectText": "ขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์",
+      "dropSources": [
+        "Yggdra North Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 18,
+      "rawText": "▤\nDomain Expansion\nEnchanter\nDomain of Fire / Domain of Water / Domain of Wind / Domain of Earth\nขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์\nYggdra North Forest 1"
+    },
+    {
+      "id": "907",
+      "name": "Elemental Burst",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Elemental Wave"
+      ],
+      "effects": [
+        "ลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที"
+      ],
+      "effectText": "ลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที",
+      "dropSources": [
+        "Anima East Swamp 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 19,
+      "rawText": "▤\nElemental Burst\nEnchanter\nElemental Wave\nลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที\nAnima East Swamp 2"
+    },
+    {
+      "id": "908",
+      "name": "Arcane Storm",
+      "category": "TOME",
+      "characterClass": "Enchanter",
+      "relatedSkills": [
+        "Arcane Magnetic"
+      ],
+      "effects": [
+        "Arcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที"
+      ],
+      "effectText": "Arcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที",
+      "dropSources": [
+        "Soloden East Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 20,
+      "rawText": "▤\nArcane Storm\nEnchanter\nArcane Magnetic\nArcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที\nSoloden East Forest 1"
+    },
+    {
+      "id": "1001",
+      "name": "Pack of Wolves",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Summon Wolf Pack"
+      ],
+      "effects": [
+        "ลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%"
+      ],
+      "effectText": "ลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 21,
+      "rawText": "▤\nPack of Wolves\nTamer\nSummon Wolf Pack\nลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1002",
+      "name": "Fresh Blood",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Blood Scent"
+      ],
+      "effects": [
+        "เมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%"
+      ],
+      "effectText": "เมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 22,
+      "rawText": "▤\nFresh Blood\nTamer\nBlood Scent\nเมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1003",
+      "name": "Summon Relocation",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Come to Me"
+      ],
+      "effects": [
+        "Summon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที"
+      ],
+      "effectText": "Summon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 23,
+      "rawText": "▤\nSummon Relocation\nTamer\nCome to Me\nSummon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1004",
+      "name": "Deep Scratch",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Beast Scratch"
+      ],
+      "effects": [
+        "เมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)"
+      ],
+      "effectText": "เมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 3,
+      "position": 24,
+      "rawText": "▤\nDeep Scratch\nTamer\nBeast Scratch\nเมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1005",
+      "name": "Resistance Heart",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Primal Heart"
+      ],
+      "effects": [
+        "Summon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล"
+      ],
+      "effectText": "Summon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 1,
+      "rawText": "▤\nResistance Heart\nTamer\nPrimal Heart\nSummon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1006",
+      "name": "Focus Hex",
+      "category": "TOME",
+      "characterClass": "Tamer",
+      "relatedSkills": [
+        "Hex Mark"
+      ],
+      "effects": [
+        "Hex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%"
+      ],
+      "effectText": "Hex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 2,
+      "rawText": "▤\nFocus Hex\nTamer\nHex Mark\nHex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1101",
+      "name": "Unbreakable Guardian",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Summon Guardian Bear"
+      ],
+      "effects": [
+        "เมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้"
+      ],
+      "effectText": "เมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 3,
+      "rawText": "▤\nUnbreakable Guardian\nSummoner\nSummon Guardian Bear\nเมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1102",
+      "name": "Bloody Tusks",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Summon Alpha Boar"
+      ],
+      "effects": [
+        "Boar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย"
+      ],
+      "effectText": "Boar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 4,
+      "rawText": "▤\nBloody Tusks\nSummoner\nSummon Alpha Boar\nBoar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1103",
+      "name": "Gigantic Ape",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Summon Primate Ape"
+      ],
+      "effects": [
+        "Primate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%"
+      ],
+      "effectText": "Primate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 5,
+      "rawText": "▤\nGigantic Ape\nSummoner\nSummon Primate Ape\nPrimate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1104",
+      "name": "Punishment of Lightning",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Summon Spiritual Stag"
+      ],
+      "effects": [
+        "Nature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%"
+      ],
+      "effectText": "Nature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 6,
+      "rawText": "▤\nPunishment of Lightning\nSummoner\nSummon Spiritual Stag\nNature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1105",
+      "name": "True Leader",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Pack Leader"
+      ],
+      "effects": [
+        "เมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่"
+      ],
+      "effectText": "เมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 7,
+      "rawText": "▤\nTrue Leader\nSummoner\nPack Leader\nเมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1106",
+      "name": "Double Bonds",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Companion Bond"
+      ],
+      "effects": [
+        "เมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ"
+      ],
+      "effectText": "เมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 8,
+      "rawText": "▤\nDouble Bonds\nSummoner\nCompanion Bond\nเมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1107",
+      "name": "Infinite Command",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Fatigue Recovery"
+      ],
+      "effects": [
+        "Fatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ"
+      ],
+      "effectText": "Fatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 9,
+      "rawText": "▤\nInfinite Command\nSummoner\nFatigue Recovery\nFatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1108",
+      "name": "Predator's Exposure",
+      "category": "TOME",
+      "characterClass": "Summoner",
+      "relatedSkills": [
+        "Predator’s Mark"
+      ],
+      "effects": [
+        "ผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร"
+      ],
+      "effectText": "ผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 10,
+      "rawText": "▤\nPredator's Exposure\nSummoner\nPredator’s Mark\nผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1201",
+      "name": "Rebirth of Shifter",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Animajust"
+      ],
+      "effects": [
+        "Animajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที"
+      ],
+      "effectText": "Animajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 11,
+      "rawText": "▤\nRebirth of Shifter\nShapeshifter\nAnimajust\nAnimajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1202",
+      "name": "One Focus",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "All for One"
+      ],
+      "effects": [
+        "เลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น"
+      ],
+      "effectText": "เลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 12,
+      "rawText": "▤\nOne Focus\nShapeshifter\nAll for One\nเลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1203",
+      "name": "Tank Crusher",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Maul"
+      ],
+      "effects": [
+        "Maul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที"
+      ],
+      "effectText": "Maul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 13,
+      "rawText": "▤\nTank Crusher\nShapeshifter\nMaul\nMaul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1204",
+      "name": "Unstoppable Charge",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Brutal Charge"
+      ],
+      "effects": [
+        "ขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%"
+      ],
+      "effectText": "ขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 14,
+      "rawText": "▤\nUnstoppable Charge\nShapeshifter\nBrutal Charge\nขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1205",
+      "name": "Twin Strike",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Panther’s Claw"
+      ],
+      "effects": [
+        "Panther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%"
+      ],
+      "effectText": "Panther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 15,
+      "rawText": "▤\nTwin Strike\nShapeshifter\nPanther’s Claw\nPanther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1206",
+      "name": "Deadly Apart",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Tear Apart"
+      ],
+      "effects": [
+        "หลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที"
+      ],
+      "effectText": "หลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที",
+      "dropSources": [
+        "Atlan Beach"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 16,
+      "rawText": "▤\nDeadly Apart\nShapeshifter\nTear Apart\nหลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที\nAtlan Beach"
+    },
+    {
+      "id": "1207",
+      "name": "Corrosive Toxin",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Toxin Splash"
+      ],
+      "effects": [
+        "Toxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด"
+      ],
+      "effectText": "Toxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด",
+      "dropSources": [
+        "Snowland West Field 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 17,
+      "rawText": "▤\nCorrosive Toxin\nShapeshifter\nToxin Splash\nToxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด\nSnowland West Field 1"
+    },
+    {
+      "id": "1208",
+      "name": "Toxin Split",
+      "category": "TOME",
+      "characterClass": "Shapeshifter",
+      "relatedSkills": [
+        "Acid Toxin"
+      ],
+      "effects": [
+        "Acid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank"
+      ],
+      "effectText": "Acid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank",
+      "dropSources": [
+        "Lava Mine 1",
+        "Lava Mine 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 18,
+      "rawText": "▤\nToxin Split\nShapeshifter\nAcid Toxin\nAcid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank\nLava Mine 1\nLava Mine 2"
+    },
+    {
+      "id": "1301",
+      "name": "Double Throw",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "Heavy Throw"
+      ],
+      "effects": [
+        "Heavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก"
+      ],
+      "effectText": "Heavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 19,
+      "rawText": "▤\nDouble Throw\nTechnician\nHeavy Throw\nHeavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1302",
+      "name": "Energy Burst",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "EMP Shock"
+      ],
+      "effects": [
+        "EMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3"
+      ],
+      "effectText": "EMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 20,
+      "rawText": "▤\nEnergy Burst\nTechnician\nEMP Shock\nEMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1303",
+      "name": "The Factory",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "Repairing"
+      ],
+      "effects": [
+        "เปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง"
+      ],
+      "effectText": "เปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 21,
+      "rawText": "▤\nThe Factory\nTechnician\nRepairing\nเปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1304",
+      "name": "Headshot",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "Silver Bullet"
+      ],
+      "effects": [
+        "Silver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%"
+      ],
+      "effectText": "Silver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 22,
+      "rawText": "▤\nHeadshot\nTechnician\nSilver Bullet\nSilver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1305",
+      "name": "Cannon Rain",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "Bullet Rain"
+      ],
+      "effects": [
+        "Bullet Rain ความแรงเพิ่มขึ้น 50%"
+      ],
+      "effectText": "Bullet Rain ความแรงเพิ่มขึ้น 50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 23,
+      "rawText": "▤\nCannon Rain\nTechnician\nBullet Rain\nBullet Rain ความแรงเพิ่มขึ้น 50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1306",
+      "name": "Rune Resonance",
+      "category": "TOME",
+      "characterClass": "Technician",
+      "relatedSkills": [
+        "Runebreaker"
+      ],
+      "effects": [
+        "Rune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit"
+      ],
+      "effectText": "Rune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit",
+      "dropSources": [
+        "North Road"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 4,
+      "position": 24,
+      "rawText": "▤\nRune Resonance\nTechnician\nRunebreaker\nRune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit\nNorth Road"
+    },
+    {
+      "id": "1401",
+      "name": "Clean Sweep",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Sweep Shot"
+      ],
+      "effects": [
+        "เพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling"
+      ],
+      "effectText": "เพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 1,
+      "rawText": "▤\nClean Sweep\nGunslinger\nSweep Shot\nเพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1402",
+      "name": "Refraction Shot",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Ricochet Bullet"
+      ],
+      "effects": [
+        "ทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง"
+      ],
+      "effectText": "ทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 2,
+      "rawText": "▤\nRefraction Shot\nGunslinger\nRicochet Bullet\nทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1403",
+      "name": "Omnirange",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Gunkata"
+      ],
+      "effects": [
+        "ทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)"
+      ],
+      "effectText": "ทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 3,
+      "rawText": "▤\nOmnirange\nGunslinger\nGunkata\nทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1404",
+      "name": "Artillery Cycle",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Siege Cannon"
+      ],
+      "effects": [
+        "ลดคูลดาวน์ของ Siege Cannon 1 วินาที"
+      ],
+      "effectText": "ลดคูลดาวน์ของ Siege Cannon 1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 4,
+      "rawText": "▤\nArtillery Cycle\nGunslinger\nSiege Cannon\nลดคูลดาวน์ของ Siege Cannon 1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1405",
+      "name": "Rain of Starfall",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Shooting Stars"
+      ],
+      "effects": [
+        "Shooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม"
+      ],
+      "effectText": "Shooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 5,
+      "rawText": "▤\nRain of Starfall\nGunslinger\nShooting Stars\nShooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1406",
+      "name": "Energy Synthesis",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Railgun Charge"
+      ],
+      "effects": [
+        "Railgun Charge คูลดาวน์ -8 s"
+      ],
+      "effectText": "Railgun Charge คูลดาวน์ -8 s",
+      "dropSources": [
+        "Soloden East Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 6,
+      "rawText": "▤\nEnergy Synthesis\nGunslinger\nRailgun Charge\nRailgun Charge คูลดาวน์ -8 s\nSoloden East Forest 2"
+    },
+    {
+      "id": "1407",
+      "name": "Winter Splash",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Ice Beam"
+      ],
+      "effects": [
+        "Ice Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%"
+      ],
+      "effectText": "Ice Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%",
+      "dropSources": [
+        "Lava Mine 3"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 7,
+      "rawText": "▤\nWinter Splash\nGunslinger\nIce Beam\nIce Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%\nLava Mine 3"
+    },
+    {
+      "id": "1408",
+      "name": "Deafening Bullet",
+      "category": "TOME",
+      "characterClass": "Gunslinger",
+      "relatedSkills": [
+        "Point Blank Precision"
+      ],
+      "effects": [
+        "การยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank"
+      ],
+      "effectText": "การยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank",
+      "dropSources": [
+        "Lava Mine 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 8,
+      "rawText": "▤\nDeafening Bullet\nGunslinger\nPoint Blank Precision\nการยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank\nLava Mine 1"
+    },
+    {
+      "id": "1501",
+      "name": "Cannon Turret",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Flame Turret Totem"
+      ],
+      "effects": [
+        "Flame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ"
+      ],
+      "effectText": "Flame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 9,
+      "rawText": "▤\nCannon Turret\nMechanic\nFlame Turret Totem\nFlame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1502",
+      "name": "Napalm Fleet",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Kamikaze"
+      ],
+      "effects": [
+        "Kamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30"
+      ],
+      "effectText": "Kamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 10,
+      "rawText": "▤\nNapalm Fleet\nMechanic\nKamikaze\nKamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1503",
+      "name": "Flying Jam",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Jamming Pulse Totem"
+      ],
+      "effects": [
+        "Jamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้"
+      ],
+      "effectText": "Jamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 11,
+      "rawText": "▤\nFlying Jam\nMechanic\nJamming Pulse Totem\nJamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1504",
+      "name": "Reflect Shot",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Laser Pulse"
+      ],
+      "effects": [
+        "Laser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย"
+      ],
+      "effectText": "Laser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 12,
+      "rawText": "▤\nReflect Shot\nMechanic\nLaser Pulse\nLaser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1505",
+      "name": "Cooling Tower",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Emergency Cooldown"
+      ],
+      "effects": [
+        "ทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที"
+      ],
+      "effectText": "ทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 13,
+      "rawText": "▤\nCooling Tower\nMechanic\nEmergency Cooldown\nทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1506",
+      "name": "Infinite Pulse",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Overclock"
+      ],
+      "effects": [
+        "ลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock"
+      ],
+      "effectText": "ลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock",
+      "dropSources": [
+        "Atlan Beach"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 14,
+      "rawText": "▤\nInfinite Pulse\nMechanic\nOverclock\nลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock\nAtlan Beach"
+    },
+    {
+      "id": "1507",
+      "name": "Hero Time",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Self-Destruct"
+      ],
+      "effects": [
+        "ลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ"
+      ],
+      "effectText": "ลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ",
+      "dropSources": [
+        "Anima North Swamp 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 15,
+      "rawText": "▤\nHero Time\nMechanic\nSelf-Destruct\nลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ\nAnima North Swamp 2"
+    },
+    {
+      "id": "1508",
+      "name": "Totem Master",
+      "category": "TOME",
+      "characterClass": "Mechanic",
+      "relatedSkills": [
+        "Overtime"
+      ],
+      "effects": [
+        "ลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime"
+      ],
+      "effectText": "ลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime",
+      "dropSources": [
+        "Atlan South Desert 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 16,
+      "rawText": "▤\nTotem Master\nMechanic\nOvertime\nลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime\nAtlan South Desert 2"
+    },
+    {
+      "id": "1601",
+      "name": "Stomp",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Savage Leap"
+      ],
+      "effects": [
+        "Savage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที"
+      ],
+      "effectText": "Savage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 17,
+      "rawText": "▤\nStomp\nWarrior\nSavage Leap\nSavage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1602",
+      "name": "Provoke",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Warcry"
+      ],
+      "effects": [
+        "Warcry เพิ่มผล Taunt แก่เป้าหมายในระยะ"
+      ],
+      "effectText": "Warcry เพิ่มผล Taunt แก่เป้าหมายในระยะ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 18,
+      "rawText": "▤\nProvoke\nWarrior\nWarcry\nWarcry เพิ่มผล Taunt แก่เป้าหมายในระยะ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1603",
+      "name": "Collaspe",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Ground Breaker"
+      ],
+      "effects": [
+        "Ground Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s"
+      ],
+      "effectText": "Ground Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 19,
+      "rawText": "▤\nCollaspe\nWarrior\nGround Breaker\nGround Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1604",
+      "name": "Death Wheel",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Round Slash"
+      ],
+      "effects": [
+        "Round Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน"
+      ],
+      "effectText": "Round Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 20,
+      "rawText": "▤\nDeath Wheel\nWarrior\nRound Slash\nRound Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1605",
+      "name": "Heavy Smash",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Faceshaker"
+      ],
+      "effects": [
+        "Faceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที"
+      ],
+      "effectText": "Faceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 21,
+      "rawText": "▤\nHeavy Smash\nWarrior\nFaceshaker\nFaceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1606",
+      "name": "Nemesis",
+      "category": "TOME",
+      "characterClass": "Warrior",
+      "relatedSkills": [
+        "Revenge"
+      ],
+      "effects": [
+        "Revenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%"
+      ],
+      "effectText": "Revenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 22,
+      "rawText": "▤\nNemesis\nWarrior\nRevenge\nRevenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1701",
+      "name": "Refresh",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Undying Vitality"
+      ],
+      "effects": [
+        "Undying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้"
+      ],
+      "effectText": "Undying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 23,
+      "rawText": "▤\nRefresh\nBerserker\nUndying Vitality\nUndying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1702",
+      "name": "Drag to Hell",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Whirlwind Axe"
+      ],
+      "effects": [
+        "Whirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity"
+      ],
+      "effectText": "Whirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 5,
+      "position": 24,
+      "rawText": "▤\nDrag to Hell\nBerserker\nWhirlwind Axe\nWhirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1703",
+      "name": "Sharpen Breeze",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Razor Breeze"
+      ],
+      "effects": [
+        "Razor Breeze ความเสียหายคริติคอล +50%"
+      ],
+      "effectText": "Razor Breeze ความเสียหายคริติคอล +50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 1,
+      "rawText": "▤\nSharpen Breeze\nBerserker\nRazor Breeze\nRazor Breeze ความเสียหายคริติคอล +50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1704",
+      "name": "Boomerang Tomahawk",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Tomahawk Spin"
+      ],
+      "effects": [
+        "Tomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ"
+      ],
+      "effectText": "Tomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 2,
+      "rawText": "▤\nBoomerang Tomahawk\nBerserker\nTomahawk Spin\nTomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1705",
+      "name": "Magic Trick",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Frenzy Throw"
+      ],
+      "effects": [
+        "เมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank"
+      ],
+      "effectText": "เมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 3,
+      "rawText": "▤\nMagic Trick\nBerserker\nFrenzy Throw\nเมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1706",
+      "name": "Immortal Duration",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Berserk"
+      ],
+      "effects": [
+        "สถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง"
+      ],
+      "effectText": "สถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง",
+      "dropSources": [
+        "Crossroad"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 4,
+      "rawText": "▤\nImmortal Duration\nBerserker\nBerserk\nสถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง\nCrossroad"
+    },
+    {
+      "id": "1707",
+      "name": "High Calcium",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Protein Shake"
+      ],
+      "effects": [
+        "Protein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม"
+      ],
+      "effectText": "Protein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม",
+      "dropSources": [
+        "North Road"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 5,
+      "rawText": "▤\nHigh Calcium\nBerserker\nProtein Shake\nProtein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม\nNorth Road"
+    },
+    {
+      "id": "1708",
+      "name": "Dead Cry",
+      "category": "TOME",
+      "characterClass": "Berserker",
+      "relatedSkills": [
+        "Die Hard"
+      ],
+      "effects": [
+        "Die Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม"
+      ],
+      "effectText": "Die Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม",
+      "dropSources": [
+        "Yggdra East Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 6,
+      "rawText": "▤\nDead Cry\nBerserker\nDie Hard\nDie Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม\nYggdra East Forest 2"
+    },
+    {
+      "id": "1801",
+      "name": "Lord Asura",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Judgement of Asura"
+      ],
+      "effects": [
+        "เพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG"
+      ],
+      "effectText": "เพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 7,
+      "rawText": "▤\nLord Asura\nAsura\nJudgement of Asura\nเพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1802",
+      "name": "Bloodsucker",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Vampiric Strike"
+      ],
+      "effects": [
+        "Vampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s"
+      ],
+      "effectText": "Vampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 8,
+      "rawText": "▤\nBloodsucker\nAsura\nVampiric Strike\nVampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1803",
+      "name": "Secret of Rage",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Rampage"
+      ],
+      "effects": [
+        "ลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด"
+      ],
+      "effectText": "ลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 9,
+      "rawText": "▤\nSecret of Rage\nAsura\nRampage\nลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1804",
+      "name": "Vital Burst",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Bloodburst"
+      ],
+      "effects": [
+        "Bloodburst เพิ่ม ความเสียหายคริติคอล 50%"
+      ],
+      "effectText": "Bloodburst เพิ่ม ความเสียหายคริติคอล 50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 10,
+      "rawText": "▤\nVital Burst\nAsura\nBloodburst\nBloodburst เพิ่ม ความเสียหายคริติคอล 50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1805",
+      "name": "Sustain Blood",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Bloodseeker"
+      ],
+      "effects": [
+        "ขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ"
+      ],
+      "effectText": "ขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 11,
+      "rawText": "▤\nSustain Blood\nAsura\nBloodseeker\nขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1806",
+      "name": "Hand of Abyss",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Asura Palm"
+      ],
+      "effects": [
+        "Asura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2"
+      ],
+      "effectText": "Asura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2",
+      "dropSources": [
+        "North Road"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 12,
+      "rawText": "▤\nHand of Abyss\nAsura\nAsura Palm\nAsura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2\nNorth Road"
+    },
+    {
+      "id": "1807",
+      "name": "Bomber Blood",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Blood Bullet"
+      ],
+      "effects": [
+        "Bloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง"
+      ],
+      "effectText": "Bloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง",
+      "dropSources": [
+        "Anima North Swamp 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 13,
+      "rawText": "▤\nBomber Blood\nAsura\nBlood Bullet\nBloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง\nAnima North Swamp 1"
+    },
+    {
+      "id": "1808",
+      "name": "Heaven Break",
+      "category": "TOME",
+      "characterClass": "Asura",
+      "relatedSkills": [
+        "Stone Breaker"
+      ],
+      "effects": [
+        "Stone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)"
+      ],
+      "effectText": "Stone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)",
+      "dropSources": [
+        "Anima East Swamp 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 14,
+      "rawText": "▤\nHeaven Break\nAsura\nStone Breaker\nStone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)\nAnima East Swamp 1"
+    },
+    {
+      "id": "1901",
+      "name": "Black in Black",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Dark Blade"
+      ],
+      "effects": [
+        "เปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที"
+      ],
+      "effectText": "เปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 15,
+      "rawText": "▤\nBlack in Black\nRogue\nDark Blade\nเปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1902",
+      "name": "Poison Coated",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Enchant Poison"
+      ],
+      "effects": [
+        "ขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion"
+      ],
+      "effectText": "ขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 16,
+      "rawText": "▤\nPoison Coated\nRogue\nEnchant Poison\nขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1903",
+      "name": "Lunar Lover",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Lunar Step"
+      ],
+      "effects": [
+        "Lunar Step ลดคูลดาวน์ลง 50%"
+      ],
+      "effectText": "Lunar Step ลดคูลดาวน์ลง 50%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 17,
+      "rawText": "▤\nLunar Lover\nRogue\nLunar Step\nLunar Step ลดคูลดาวน์ลง 50%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1904",
+      "name": "Death Shot",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Death Dealer"
+      ],
+      "effects": [
+        "Death Dealer เพิ่มเป็น 5 hit"
+      ],
+      "effectText": "Death Dealer เพิ่มเป็น 5 hit",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 18,
+      "rawText": "▤\nDeath Shot\nRogue\nDeath Dealer\nDeath Dealer เพิ่มเป็น 5 hit\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1905",
+      "name": "Giant Zombie",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Raise Undead"
+      ],
+      "effects": [
+        "Zombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%"
+      ],
+      "effectText": "Zombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 19,
+      "rawText": "▤\nGiant Zombie\nRogue\nRaise Undead\nZombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "1906",
+      "name": "Chaos Cannon",
+      "category": "TOME",
+      "characterClass": "Rogue",
+      "relatedSkills": [
+        "Chaosbolt"
+      ],
+      "effects": [
+        "เมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล"
+      ],
+      "effectText": "เมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 20,
+      "rawText": "▤\nChaos Cannon\nRogue\nChaosbolt\nเมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2001",
+      "name": "Decaying Armour",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Venomous Cross"
+      ],
+      "effects": [
+        "Venomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที"
+      ],
+      "effectText": "Venomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 21,
+      "rawText": "▤\nDecaying Armour\nAssassin\nVenomous Cross\nVenomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2002",
+      "name": "Darkness Hand",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Shadow Strike"
+      ],
+      "effects": [
+        "เพิ่มระยะใช้งาน Shadow Strike 2 ช่อง"
+      ],
+      "effectText": "เพิ่มระยะใช้งาน Shadow Strike 2 ช่อง",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 22,
+      "rawText": "▤\nDarkness Hand\nAssassin\nShadow Strike\nเพิ่มระยะใช้งาน Shadow Strike 2 ช่อง\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2003",
+      "name": "Crimson Shadow",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Shadow Avatar"
+      ],
+      "effects": [
+        "เพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้"
+      ],
+      "effectText": "เพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 23,
+      "rawText": "▤\nCrimson Shadow\nAssassin\nShadow Avatar\nเพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2004",
+      "name": "Deadly Poison",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Venomous Attack"
+      ],
+      "effects": [
+        "พิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา"
+      ],
+      "effectText": "พิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 6,
+      "position": 24,
+      "rawText": "▤\nDeadly Poison\nAssassin\nVenomous Attack\nพิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2005",
+      "name": "Killing Zone",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Venomous Mist"
+      ],
+      "effects": [
+        "Venomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว"
+      ],
+      "effectText": "Venomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 1,
+      "rawText": "▤\nKilling Zone\nAssassin\nVenomous Mist\nVenomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2006",
+      "name": "Death Maker",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Poison Accelerator"
+      ],
+      "effects": [
+        "เมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank"
+      ],
+      "effectText": "เมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 2,
+      "rawText": "▤\nDeath Maker\nAssassin\nPoison Accelerator\nเมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2007",
+      "name": "Poison Tear",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Triple Dose"
+      ],
+      "effects": [
+        "ลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%"
+      ],
+      "effectText": "ลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 3,
+      "rawText": "▤\nPoison Tear\nAssassin\nTriple Dose\nลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2008",
+      "name": "Don't Breath",
+      "category": "TOME",
+      "characterClass": "Assassin",
+      "relatedSkills": [
+        "Smoking Toxin"
+      ],
+      "effects": [
+        "ทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที"
+      ],
+      "effectText": "ทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 4,
+      "rawText": "▤\nDon't Breath\nAssassin\nSmoking Toxin\nทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2101",
+      "name": "Ricochet Shot",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Rapid Shot"
+      ],
+      "effects": [
+        "Rapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ"
+      ],
+      "effectText": "Rapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 5,
+      "rawText": "▤\nRicochet Shot\nNight Walker\nRapid Shot\nRapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2102",
+      "name": "Barely Nake",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Night Strip"
+      ],
+      "effects": [
+        "Weakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที"
+      ],
+      "effectText": "Weakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 6,
+      "rawText": "▤\nBarely Nake\nNight Walker\nNight Strip\nWeakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2103",
+      "name": "Broken Arm",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Brick and Bat"
+      ],
+      "effects": [
+        "Weak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที"
+      ],
+      "effectText": "Weak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 7,
+      "rawText": "▤\nBroken Arm\nNight Walker\nBrick and Bat\nWeak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2104",
+      "name": "Dark Flash",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Shadow Cloak"
+      ],
+      "effects": [
+        "Shadow Cloak ความเร็วเคลื่อนที่ + 20%"
+      ],
+      "effectText": "Shadow Cloak ความเร็วเคลื่อนที่ + 20%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 8,
+      "rawText": "▤\nDark Flash\nNight Walker\nShadow Cloak\nShadow Cloak ความเร็วเคลื่อนที่ + 20%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2105",
+      "name": "Binding Life",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Shadow Bind"
+      ],
+      "effects": [
+        "Shadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind"
+      ],
+      "effectText": "Shadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 9,
+      "rawText": "▤\nBinding Life\nNight Walker\nShadow Bind\nShadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "2106",
+      "name": "Mana Chaos",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Night Trap"
+      ],
+      "effects": [
+        "Night Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)"
+      ],
+      "effectText": "Night Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)",
+      "dropSources": [
+        "Soloden East Forest 1"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 10,
+      "rawText": "▤\nMana Chaos\nNight Walker\nNight Trap\nNight Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)\nSoloden East Forest 1"
+    },
+    {
+      "id": "2107",
+      "name": "Gluttony",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Chaos Devouring"
+      ],
+      "effects": [
+        "Chaos Devouring speed +50% AoE + 3"
+      ],
+      "effectText": "Chaos Devouring speed +50% AoE + 3",
+      "dropSources": [
+        "Soloden South Forest 2"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 11,
+      "rawText": "▤\nGluttony\nNight Walker\nChaos Devouring\nChaos Devouring speed +50% AoE + 3\nSoloden South Forest 2"
+    },
+    {
+      "id": "2108",
+      "name": "Fatal Strike",
+      "category": "TOME",
+      "characterClass": "Night Walker",
+      "relatedSkills": [
+        "Chaotic Cut"
+      ],
+      "effects": [
+        "Chaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%"
+      ],
+      "effectText": "Chaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%",
+      "dropSources": [
+        "Crossroad"
+      ],
+      "dropStatus": "FOUND",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 12,
+      "rawText": "▤\nFatal Strike\nNight Walker\nChaotic Cut\nChaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%\nCrossroad"
+    },
+    {
+      "id": "10001",
+      "name": "Tome of Experience",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "ได้รับโบนัสค่าประสบการณ์ 10%"
+      ],
+      "effectText": "ได้รับโบนัสค่าประสบการณ์ 10%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 13,
+      "rawText": "▤\nTome of Experience\nAll\nAll\nได้รับโบนัสค่าประสบการณ์ 10%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10002",
+      "name": "Tome of Rarity",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "โบนัสโอกาสดรอปไอเทม +5%"
+      ],
+      "effectText": "โบนัสโอกาสดรอปไอเทม +5%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 14,
+      "rawText": "▤\nTome of Rarity\nAll\nAll\nโบนัสโอกาสดรอปไอเทม +5%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10003",
+      "name": "Tome of Gold",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "โบนัส Gold drop จากมอนสเตอร์ +10%"
+      ],
+      "effectText": "โบนัส Gold drop จากมอนสเตอร์ +10%",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 15,
+      "rawText": "▤\nTome of Gold\nAll\nAll\nโบนัส Gold drop จากมอนสเตอร์ +10%\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10004",
+      "name": "Tome of Inteligence",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "INT+5"
+      ],
+      "effectText": "INT+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 16,
+      "rawText": "▤\nTome of Inteligence\nAll\nAll\nINT+5\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10005",
+      "name": "Tome of Strength",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "STR+5"
+      ],
+      "effectText": "STR+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 17,
+      "rawText": "▤\nTome of Strength\nAll\nAll\nSTR+5\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10006",
+      "name": "Tome of Dexterity",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "DEX+5"
+      ],
+      "effectText": "DEX+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 18,
+      "rawText": "▤\nTome of Dexterity\nAll\nAll\nDEX+5\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10007",
+      "name": "Tome of Agility",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "AGI+5"
+      ],
+      "effectText": "AGI+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 19,
+      "rawText": "▤\nTome of Agility\nAll\nAll\nAGI+5\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10008",
+      "name": "Tome of Luck",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "LUK+5"
+      ],
+      "effectText": "LUK+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 20,
+      "rawText": "▤\nTome of Luck\nAll\nAll\nLUK+5\nไม่พบแหล่งดรอป"
+    },
+    {
+      "id": "10009",
+      "name": "Tome of Vitality",
+      "category": "TOME",
+      "characterClass": "All",
+      "relatedSkills": [
+        "All"
+      ],
+      "effects": [
+        "VIT+5"
+      ],
+      "effectText": "VIT+5",
+      "dropSources": [],
+      "dropStatus": "NOT_LISTED",
+      "imageUrl": null,
+      "imageFile": null,
+      "fallbackIcon": "▤",
+      "page": 7,
+      "position": 21,
+      "rawText": "▤\nTome of Vitality\nAll\nAll\nVIT+5\nไม่พบแหล่งดรอป"
+    }
+  ]
+}

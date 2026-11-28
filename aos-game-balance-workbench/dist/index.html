@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111519">
+  <title>Age of Sylvanus — Game Balance Workbench</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#dashboard"><span class="brand-mark">A</span><span><b>AGE OF SYLVANUS</b><small>GAME BALANCE WORKBENCH</small></span></a>
+      <div class="project-mini"><span class="status-dot"></span><span id="project-name">AOS Balance Draft</span><small id="save-state">Local project</small></div>
+      <nav id="navigation" aria-label="Workbench navigation"></nav>
+      <div class="sidebar-foot"><span id="source-label">SOURCE · loading</span><span>Offline design workspace</span></div>
+    </aside>
+    <main class="main">
+      <header class="topbar">
+        <button class="icon-button mobile-menu" id="menu-toggle" aria-label="Open navigation">☰</button>
+        <div><div class="breadcrumb" id="breadcrumb">Overview / Dashboard</div><h1 id="page-title">Game Design Dashboard</h1></div>
+        <div class="top-actions"><label class="compact-field">Active data<select id="dataset-mode"><option value="original">Original</option><option value="proposed" selected>Proposed</option><option value="custom">Custom</option></select></label><label class="compact-field">Sync mode<select id="sync-mode"><option value="impact">Impact Analysis</option><option value="auto-exp">Auto EXP Table</option><option value="auto-rewards">Auto Monster Rewards</option></select></label><span class="validation-pill" id="validation-pill">Checking</span><button class="button subtle" id="save-version" data-action="save-version">Save Version</button></div>
+      </header>
+      <div class="notice" id="source-notice" hidden></div>
+      <section id="content" class="content" aria-live="polite"></section>
+    </main>
+  </div>
+  <dialog id="detail-dialog" class="dialog"><div class="dialog-head"><h2 id="dialog-title">Details</h2><button class="icon-button" id="dialog-close" aria-label="Close">×</button></div><div id="dialog-body"></div></dialog>
+  <input type="file" id="import-file" accept=".json,.csv,.html,application/json,text/csv,text/html" hidden>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,993 @@
+﻿"id","name","category","characterClass","relatedSkills","effects","effectText","dropSources","dropStatus","imageUrl","imageFile","fallbackIcon","page","position","rawText"
+"101","Executioner's Wake","TOME","Adventurer","[""Finish Strike""]","[""เมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์""]","เมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์","[]","NOT_LISTED","","","▤","1","1","▤
+Executioner's Wake
+Adventurer
+Finish Strike
+เมื่อ Finish Strike สังหารเป้าหมาย จะรีเซ็ตคูลดาวน์ Air Slash และปล่อย Air Slash ระยะใกล้ออกไปด้านหน้าทันทีโดยไม่ใช้ MP และไม่มีคูลดาวน์
+ไม่พบแหล่งดรอป"
+"102","Shield Chain","TOME","Adventurer","[""Throwing Shield""]","[""Throwing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ""]","Throwing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ","[]","NOT_LISTED","","","▤","1","2","▤
+Shield Chain
+Adventurer
+Throwing Shield
+Throwing Shield ชิ่งเพิ่ม 2 เป้าหมายในรัศมีค้นหา 3 ช่อง ดาเมจลดลง 20% ต่อการชิ่ง และห้ามโดนเป้าหมายเดิมซ้ำ
+ไม่พบแหล่งดรอป"
+"103","Hundred Spear","TOME","Adventurer","[""Spear Pierce""]","[""Spear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที""]","Spear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที","[]","NOT_LISTED","","","▤","1","3","▤
+Hundred Spear
+Adventurer
+Spear Pierce
+Spear Pierce โจมตี 10 hit โดยแต่ละ hit ใช้ความเสียหายเต็มตามสูตรเดิม ใช้เวลา 0.5 วินาที จากเดิม 1 วินาที
+ไม่พบแหล่งดรอป"
+"104","Standy Bash","TOME","Adventurer","[""Shield Bash""]","[""เมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที""]","เมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที","[]","NOT_LISTED","","","▤","1","4","▤
+Standy Bash
+Adventurer
+Shield Bash
+เมื่อได้รับความเสียหาย มีโอกาส 25% ใช้ Shield Bash ใส่ผู้โจมตีโดยอัตโนมัติ มี Internal คูลดาวน์ 1 วินาที
+ไม่พบแหล่งดรอป"
+"105","Light Up the Way","TOME","Adventurer","[""Holy Light""]","[""เมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี""]","เมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี","[]","NOT_LISTED","","","▤","1","5","▤
+Light Up the Way
+Adventurer
+Holy Light
+เมื่อการโจมตีปกติโดนเป้าหมาย มีโอกาส 10% ใช้ Holy Light ใส่เป้าหมายเดียวกันโดยอัตโนมัติ ไม่เกินหนึ่งครั้งต่อการโจมตี
+ไม่พบแหล่งดรอป"
+"106","Healer Plus","TOME","Adventurer","[""Heal""]","[""เมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%""]","เมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%","[""North Road""]","FOUND","","","▤","1","6","▤
+Healer Plus
+Adventurer
+Heal
+เมื่อเป้าหมายมี HP ต่ำกว่า 50% ก่อนรับการรักษา ความแรงของ Heal เพิ่มขึ้น 25%
+North Road"
+"107","Provoker","TOME","Adventurer","[""Taunt""]","[""Taunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ""]","Taunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ","[""Snowland East Field 1""]","FOUND","","","▤","1","7","▤
+Provoker
+Adventurer
+Taunt
+Taunt เปลี่ยนจากเป้าหมายเดี่ยวเป็นศัตรูทั้งหมดในพื้นที่ 5×5 ช่องรอบเป้าหมายที่เลือก หลังใช้ Taunt สำเร็จ ผู้ใช้ได้รับ Elemental Resist +10% นาน 5 วินาที ใช้ซ้ำรีเฟรชเวลาโดยไม่ซ้อนบัฟ
+Snowland East Field 1"
+"201","Spear of Atonement","TOME","Paladin","[""Cross Spear""]","[""แต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก""]","แต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก","[]","NOT_LISTED","","","▤","1","8","▤
+Spear of Atonement
+Paladin
+Cross Spear
+แต่ละ hit ของ Cross Spear ที่โจมตีโดน มีโอกาส 4% ต่อระดับตีบวกอาวุธมือหลัก สูงสุด 100% เรียก Fallen Cross Rank 3 ใส่เป้าหมายเดียวกัน โดยไม่ใช้ MP หรือคูลดาวน์ของสกิลที่ถูกเรียก
+ไม่พบแหล่งดรอป"
+"202","Heavy Heaven","TOME","Paladin","[""Fallen Cross""]","[""Fallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ""]","Fallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ","[]","NOT_LISTED","","","▤","1","9","▤
+Heavy Heaven
+Paladin
+Fallen Cross
+Fallen Cross เปลี่ยนจากเวทเป็นกายภาพ Holy และเปลี่ยน MATK/INT เป็น ATK/STR คงตัวคูณดาเมจและจำนวน Hit เดิม ใช้ DEF และกฎคริติคอล/Flee ของกายภาพ
+ไม่พบแหล่งดรอป"
+"203","Unshakable Faith","TOME","Paladin","[""Cross of Hemera""]","[""ฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera""]","ฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera","[]","NOT_LISTED","","","▤","1","10","▤
+Unshakable Faith
+Paladin
+Cross of Hemera
+ฟื้นฟูพลังชีวิต 10% จากความเสียหายที่สร้างขึ้นด้วยสกิล Cross of Hemera
+ไม่พบแหล่งดรอป"
+"204","Martyr","TOME","Paladin","[""Holy Sacrificial""]","[""Holy Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้""]","Holy Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้","[]","NOT_LISTED","","","▤","1","11","▤
+Martyr
+Paladin
+Holy Sacrificial
+Holy Sacrificial พยายามใช้ HP 50% ของ HP สูงสุด แต่จะไม่ทำให้ผู้ร่ายเหลือ HP ต่ำกว่า 1 หน่วย ความแรงของสกิลคำนวณจาก HP ที่เสียจริง หากจ่ายไม่ครบ ดาเมจจะลดลงตามจำนวน HP ที่จ่ายได้
+ไม่พบแหล่งดรอป"
+"205","Boomerang Master","TOME","Paladin","[""Shield Boomerang""]","[""หลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ""]","หลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ","[]","NOT_LISTED","","","▤","1","12","▤
+Boomerang Master
+Paladin
+Shield Boomerang
+หลัง Shield Boomerang และการ Chain จาก Eternal Boomerang ทำงานเสร็จ โล่จะกลับมาลอยรอบ Paladin เป็นเวลา 6 วินาที ทุก 1 วินาทีจะสร้างความเสียหาย 50% ของความเสียหายรวม Shield Boomerang แก่ศัตรูสูงสุด 5 เป้าหมายในรัศมี 3 ช่อง การร่ายซ้ำจะรีเฟรชระยะเวลาและไม่ซ้อนทับ รวมทั้งไม่กระตุ้น Multistrike, On-hit หรือ Tome นี้ซ้ำ
+ไม่พบแหล่งดรอป"
+"206","Charge Impact","TOME","Paladin","[""Shield Impact""]","[""สกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%""]","สกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%","[""Yggdra North Forest 2""]","FOUND","","","▤","1","13","▤
+Charge Impact
+Paladin
+Shield Impact
+สกิลโล่กระแทกทำให้สามารถพุ่งเข้าหาเป้าหมายในระยะเจ็ดช่อง โอกาสสตัน 100%
+Yggdra North Forest 2"
+"207","Guardian Angel","TOME","Paladin","[""Protection Bond""]","[""ถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่""]","ถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่","[""Yggdra East Forest 1""]","FOUND","","","▤","1","14","▤
+Guardian Angel
+Paladin
+Protection Bond
+ถ้าหากสกิลคุ้มภัยกำลังทำงาน เป้าหมายของสกิลสายใยปกป้องจะได้รับความเสียหายน้อยลง 10% และจะไม่ได้รับโทษของการสูญเสียความเร็วการเคลื่อนที่
+Yggdra East Forest 1"
+"208","Blessing Shield","TOME","Paladin","[""Shield Stance""]","[""ในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%""]","ในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%","[""Yggdra South Forest 2"",""Yggdra South Forest 1""]","FOUND","","","▤","1","15","▤
+Blessing Shield
+Paladin
+Shield Stance
+ในสถานะยกโล่ อัตราการบล็อคเพิ่มขึ้น 10%
+Yggdra South Forest 2
+Yggdra South Forest 1"
+"301","Following Sanctuary","TOME","Priest","[""Sanctuary""]","[""Sanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%""]","Sanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%","[]","NOT_LISTED","","","▤","1","16","▤
+Following Sanctuary
+Priest
+Sanctuary
+Sanctuary เคลื่อนที่ตามผู้ร่าย แต่ระยะเวลาของสกิลลดลง 30%
+ไม่พบแหล่งดรอป"
+"302","Second Dawn","TOME","Priest","[""Resurrection""]","[""พันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%""]","พันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%","[]","NOT_LISTED","","","▤","1","17","▤
+Second Dawn
+Priest
+Resurrection
+พันธมิตรที่ฟื้นด้วย Resurrection จะเป็นอมตะ 2 วินาที แต่คูลดาวน์ของ Resurrection เพิ่มขึ้น 30% และ MP Cost +30%
+ไม่พบแหล่งดรอป"
+"303","Suddenly Rebirth","TOME","Priest","[""Miracle of Light""]","[""เมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย""]","เมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย","[]","NOT_LISTED","","","▤","1","18","▤
+Suddenly Rebirth
+Priest
+Miracle of Light
+เมื่อกดใช้ ชุบชีวิตเพื่อนในบริเวณรอบตัวทันที (ไม่ต้องร่าย) แต่ทำให้ตัวเองมี HP หลือ 1 หน่วย
+ไม่พบแหล่งดรอป"
+"304","Pray After Faith","TOME","Priest","[""Aegis of Faith""]","[""ผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน""]","ผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน","[]","NOT_LISTED","","","▤","1","19","▤
+Pray After Faith
+Priest
+Aegis of Faith
+ผู้ได้รับ Aegis of Faith ได้รับ Pray แยก 180 วินาทีตาม Rank ที่เจ้าของเรียน แม้โล่หมดหรือแตก ใช้ Pray ที่แรงที่สุดและไม่ซ้อน
+ไม่พบแหล่งดรอป"
+"305","Grand Exorcism","TOME","Priest","[""Lux Castrum""]","[""เมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล""]","เมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล","[]","NOT_LISTED","","","▤","1","20","▤
+Grand Exorcism
+Priest
+Lux Castrum
+เมื่อมีศัตรูอย่างน้อยสามตัวอยู่ใน Lux Castrum ให้ศัตรูทุกตัวภายในได้รับ Divine Descend ทุก 1.5 วินาที ตาม Rank ที่เจ้าของเรียน หากยังไม่เรียนจะไม่ได้ผล
+ไม่พบแหล่งดรอป"
+"306","Divine Provider","TOME","Priest","[""Divine Descend""]","[""Divine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%""]","Divine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%","[""Soloden East Forest 2""]","FOUND","","","▤","1","21","▤
+Divine Provider
+Priest
+Divine Descend
+Divine Descend ลด คูลดาวน์ ลง 0.5 วินาที และลดการใช้ MP Cost -20%
+Soloden East Forest 2"
+"307","Unbreakable Holy Bind","TOME","Priest","[""Holy Bind""]","[""ศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง""]","ศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง","[""Snowland East Field 2""]","FOUND","","","▤","1","22","▤
+Unbreakable Holy Bind
+Priest
+Holy Bind
+ศัตรูทุกตัวที่อยู่ในกรง Holy Bind ทั้งตอนสร้างและเมื่อเข้ามาใหม่ ได้รับผล Divine Descend ตาม Rank ที่เจ้าของเรียน ตัวละหนึ่งครั้งต่อกรง ไม่ต้องชนขอบกรง
+Snowland East Field 2"
+"308","Counseler of Faith","TOME","Priest","[""Smite""]","[""เมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ""]","เมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ","[""Crystalland North Field 1""]","FOUND","","","▤","1","23","▤
+Counseler of Faith
+Priest
+Smite
+เมื่อทำการโจมตีปกติ มีโอกาสใช้งาน Smite 20% โดยอัตโนมัติ
+Crystalland North Field 1"
+"401","Triple Shot","TOME","Ranger","[""Double Shot""]","[""Double Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม""]","Double Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม","[]","NOT_LISTED","","","▤","1","24","▤
+Triple Shot
+Ranger
+Double Shot
+Double Shot ยิงเพิ่ม 1 Hit ทำให้รวมเป็น 3 Hit โดยแต่ละ Hit สร้างความเสียหายเต็ม
+ไม่พบแหล่งดรอป"
+"402","Second Wind","TOME","Ranger","[""Rifting Wind""]","[""Rifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม""]","Rifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม","[]","NOT_LISTED","","","▤","2","1","▤
+Second Wind
+Ranger
+Rifting Wind
+Rifting Wind มี 2 Charge แบบฟื้นเรียงลำดับ โดยเวลา Recharge ของแต่ละ Charge เท่ากับ 200% ของคูลดาวน์เดิม
+ไม่พบแหล่งดรอป"
+"403","Charge Shot","TOME","Ranger","[""Spiral Shot""]","[""Spiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้""]","Spiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้","[]","NOT_LISTED","","","▤","2","2","▤
+Charge Shot
+Ranger
+Spiral Shot
+Spiral Shot ร่าย 4 วินาที ยิงกระสุนเต็มดาเมจ 3 ลูก มุมกางรวม 60 องศา (−30° / 0° / +30°) สามารถโดนเป้าหมายเดียวกันครบสามลูกได้
+ไม่พบแหล่งดรอป"
+"404","Momentum","TOME","Ranger","[""Arrow of the Wind""]","[""Arrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%""]","Arrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%","[]","NOT_LISTED","","","▤","2","3","▤
+Momentum
+Ranger
+Arrow of the Wind
+Arrow of the Wind ใช้โอกาสและกลไก Chain เดิม แต่ดาเมจตามลำดับเปลี่ยนเป็น 100% / 125% / 150% / 175%
+ไม่พบแหล่งดรอป"
+"405","Smooth Criminal","TOME","Ranger","[""Smooth Melody""]","[""Smooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit""]","Smooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit","[]","NOT_LISTED","","","▤","2","4","▤
+Smooth Criminal
+Ranger
+Smooth Melody
+Smooth Melody เพิ่มจำนวนโจมตี 1 Hit ทำให้รวมเป็น 4 Hit
+ไม่พบแหล่งดรอป"
+"406","Storm Terror","TOME","Ranger","[""Song of the Wind""]","[""Song of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย""]","Song of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย","[""Yggdra North Forest 2""]","FOUND","","","▤","2","5","▤
+Storm Terror
+Ranger
+Song of the Wind
+Song of the Wind มีโอกาส 10% ต่อการร่าย ใช้ Smooth Melody ใส่ศัตรูตัวแรกที่สกิลโดนโดยอัตโนมัติ และทำงานไม่เกินหนึ่งครั้งต่อการร่าย
+Yggdra North Forest 2"
+"407","Scientist","TOME","Ranger","[""Experimenter""]","[""Experimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม""]","Experimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม","[""Yggdra East Forest 1""]","FOUND","","","▤","2","6","▤
+Scientist
+Ranger
+Experimenter
+Experimenter ทำให้ Bow Mastery และ I'm Poet มีประสิทธิภาพ 150% เมื่อใช้งานกับอาวุธนอกประเภทเดิม
+Yggdra East Forest 1"
+"501","Acuurate Storm","TOME","Hunter","[""Arrow Storm""]","[""Arrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%""]","Arrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%","[]","NOT_LISTED","","","▤","2","7","▤
+Acuurate Storm
+Hunter
+Arrow Storm
+Arrow Storm เพิ่ม ความเสียหายคริติคอล 50% และ อัตราคริติคอล 15%
+ไม่พบแหล่งดรอป"
+"502","Focus Twice","TOME","Hunter","[""Focus Aimed""]","[""Focus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ""]","Focus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ","[]","NOT_LISTED","","","▤","2","8","▤
+Focus Twice
+Hunter
+Focus Aimed
+Focus Aimed มีโอกาส 50% คัดลอกยอดดาเมจ HP สุดท้ายซ้ำ 1 ครั้ง ไม่คำนวณคริติคอล โบนัส หรือการป้องกันซ้ำ และไม่กระตุ้น Proc ต่อ
+ไม่พบแหล่งดรอป"
+"503","Inteligence Owl","TOME","Hunter","[""Owl's Feather / Owl's Storm""]","[""ลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที""]","ลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที","[]","NOT_LISTED","","","▤","2","9","▤
+Inteligence Owl
+Hunter
+Owl's Feather / Owl's Storm
+ลดคูลดาวน์ Owl's Storm 2 วินาที และฟื้น HP ให้เจ้าของ 2% ของดาเมจ HP ที่ Owl's Feather หรือ Owl's Storm ทำได้จริง ใช้เพดานร่วมกับ Leech รวมไม่เกิน 40% HP สูงสุด ต่อวินาที
+ไม่พบแหล่งดรอป"
+"504","Gale Master","TOME","Hunter","[""Owl's Feather / Owl's Storm""]","[""Owl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด""]","Owl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด","[]","NOT_LISTED","","","▤","2","10","▤
+Gale Master
+Hunter
+Owl's Feather / Owl's Storm
+Owl's Feather เพิ่มความเสียหายธาตุลม 30% และเมื่อร่าย Owl's Storm สำเร็จ จะปล่อย Owl's Feather ตาม Rank ที่เรียนใส่ศัตรูในรัศมี 3 ช่องจากจุดศูนย์กลางพายุ 1 ชุด
+ไม่พบแหล่งดรอป"
+"505","Trusted Partner","TOME","Hunter","[""The Partnership""]","[""การโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang""]","การโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang","[]","NOT_LISTED","","","▤","2","11","▤
+Trusted Partner
+Hunter
+The Partnership
+การโจมตีปกติแต่ละครั้งของเจ้าของ สุ่มโอกาส 10% แยกต่างหากเพื่อเรียก Warg Fang ตาม Rank ที่เรียน คงการทำงาน Warg Attack เดิม และไม่มี ICD ของการสุ่ม Warg Fang
+ไม่พบแหล่งดรอป"
+"506","Frenzy Attack","TOME","Hunter","[""Warg Attack""]","[""Warg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%""]","Warg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%","[""Yggdra East Forest 2""]","FOUND","","","▤","2","12","▤
+Frenzy Attack
+Hunter
+Warg Attack
+Warg Attack โจมตีศัตรูใกล้เป้าหมายเพิ่ม 2 เป้าหมาย และ อัตราคริติคอล +15%
+Yggdra East Forest 2"
+"507","Tornado","TOME","Hunter","[""Wind Trap""]","[""Wind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน""]","Wind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน","[""Yggdra South Forest 2""]","FOUND","","","▤","2","13","▤
+Tornado
+Hunter
+Wind Trap
+Wind Trap มีรัศมี AoE 7 ช่อง ดึงศัตรูที่เข้าเงื่อนไขเข้าศูนย์กลาง 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง ไม่ผ่านกำแพงและไม่ดึงเป้าหมายที่มีภูมิคุ้มกัน
+Yggdra South Forest 2"
+"508","Heavy Grap","TOME","Hunter","[""Vine Trap""]","[""Vine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ""]","Vine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ","[""Crystalland West Field 1""]","FOUND","","","▤","2","14","▤
+Heavy Grap
+Hunter
+Vine Trap
+Vine Trap เปลี่ยนจาก Root เป็น Stun โดยใช้เวลาล็อกที่เหลือของกับดัก และใช้กฎต้านทาน Stun/ภูมิคุ้มกันบอสตามปกติ
+Crystalland West Field 1"
+"601","Rising Crescendo","TOME","Bard","[""Crescendo""]","[""Crescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%""]","Crescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%","[]","NOT_LISTED","","","▤","2","15","▤
+Rising Crescendo
+Bard
+Crescendo
+Crescendo เพิ่มประสิทธิภาพความรุนแรงต่อการ Stack = 20%
+ไม่พบแหล่งดรอป"
+"602","Sonic String","TOME","Bard","[""Sonic Tempest""]","[""ลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo""]","ลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo","[]","NOT_LISTED","","","▤","2","16","▤
+Sonic String
+Bard
+Sonic Tempest
+ลดคูลดาวน์ Sonic Tempest 0.5 วินาที และมีโอกาส 10% ใช้งาน Crescendo
+ไม่พบแหล่งดรอป"
+"603","Spark Melody","TOME","Bard","[""Voice Echo""]","[""Voice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก""]","Voice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก","[]","NOT_LISTED","","","▤","2","17","▤
+Spark Melody
+Bard
+Voice Echo
+Voice Echo ปล่อยโน้ตกระจายรอบตัวระหว่าง Channel โน้ตแต่ละลูกโจมตีเป้าหมายเดิมซ้ำได้ทุก 0.2 วินาที โดยแยกเวลาของแต่ละลูก
+ไม่พบแหล่งดรอป"
+"604","Auto Resonance","TOME","Bard","[""Chain Resonance""]","[""Chain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo""]","Chain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo","[]","NOT_LISTED","","","▤","2","18","▤
+Auto Resonance
+Bard
+Chain Resonance
+Chain Resonance กลายเป็นการใช้งานแบบอัตโนมัติโดยมีโอกาส 10% ที่จะใช้งานเมื่อมีมอนสเตอร์ได้รับผลของ Voice Echo
+ไม่พบแหล่งดรอป"
+"605","Epic Symphony","TOME","Bard","[""Symphony of The End""]","[""Symphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun""]","Symphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun","[]","NOT_LISTED","","","▤","2","19","▤
+Epic Symphony
+Bard
+Symphony of The End
+Symphony of the End ทำให้ศัตรูที่อยู่ในพื้นที่ติดสถานะ Slow และ Stun
+ไม่พบแหล่งดรอป"
+"606","Impression Show","TOME","Bard","[""Encore""]","[""Encore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%""]","Encore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%","[""North Road""]","FOUND","","","▤","2","20","▤
+Impression Show
+Bard
+Encore
+Encore ทำให้สกิลที่ใช้งานซ้ำลดระยะเวลาคูลดาวน์ลง 50%
+North Road"
+"607","Noise Melodic","TOME","Bard","[""Dissonance Song""]","[""Dissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง""]","Dissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง","[""Anima East Swamp 2""]","FOUND","","","▤","2","21","▤
+Noise Melodic
+Bard
+Dissonance Song
+Dissonance Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง
+Anima East Swamp 2"
+"608","Chill Guy","TOME","Bard","[""Lazy Song""]","[""Lazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง""]","Lazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง","[""Hemeralis East Field 2""]","FOUND","","","▤","2","22","▤
+Chill Guy
+Bard
+Lazy Song
+Lazy Song กลายเป็นออร่าแสดงผลรอบตัว 9 ช่อง
+Hemeralis East Field 2"
+"701","Duplicated Bolt","TOME","Mage","[""Extra Bolt""]","[""เมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ""]","เมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ","[]","NOT_LISTED","","","▤","2","23","▤
+Duplicated Bolt
+Mage
+Extra Bolt
+เมื่อ Extra Bolt ทำงาน จะใช้ Bolt ชนิดเดียวกับสกิลต้นทาง ตาม Rank ที่เรียนจริง และเพิ่มจำนวน Hit อีก 1 ครั้ง คงโอกาสเกิด Extra Bolt เดิม และไม่กระตุ้น Extra Bolt ต่อ
+ไม่พบแหล่งดรอป"
+"702","Fire Fortress","TOME","Mage","[""Firewall""]","[""Fire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม""]","Fire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม","[]","NOT_LISTED","","","▤","2","24","▤
+Fire Fortress
+Mage
+Firewall
+Fire Wall สร้างวงแหวนรอบผู้ร่าย เส้นผ่านศูนย์กลางแนววงแหวน 7 ช่อง โจมตีศัตรูที่ห่างจากแนววงแหวนไม่เกิน 2 ช่องทั้งด้านในและด้านนอก คงดาเมจและระยะเวลาเดิม
+ไม่พบแหล่งดรอป"
+"703","World of Frost","TOME","Mage","[""Chain Frost""]","[""Chain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ""]","Chain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ","[]","NOT_LISTED","","","▤","3","1","▤
+World of Frost
+Mage
+Chain Frost
+Chain Frost ชิ่งเพิ่ม 1 เป้าหมายในรัศมีค้นหา 3 ช่อง สร้างความเสียหาย 100% และห้ามโดนเป้าหมายเดิมซ้ำ
+ไม่พบแหล่งดรอป"
+"704","Fastly Thunderstorm","TOME","Mage","[""Thunderstorm""]","[""Thunderstorm คูลดาวน์ -1 วินาที""]","Thunderstorm คูลดาวน์ -1 วินาที","[]","NOT_LISTED","","","▤","3","2","▤
+Fastly Thunderstorm
+Mage
+Thunderstorm
+Thunderstorm คูลดาวน์ -1 วินาที
+ไม่พบแหล่งดรอป"
+"705","Stone Reflect","TOME","Mage","[""Stoneform""]","[""ระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที""]","ระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที","[]","NOT_LISTED","","","▤","3","3","▤
+Stone Reflect
+Mage
+Stoneform
+ระหว่าง Stoneform ผู้โจมตีทั้งระยะประชิดและระยะไกลที่โจมตีโดนจะติด Stone Curse เป็นเวลา 7 วินาที
+ไม่พบแหล่งดรอป"
+"706","Bless of Zephyrous","TOME","Mage","[""Blink""]","[""Blink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที""]","Blink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที","[""Snowland East Field 2""]","FOUND","","","▤","3","4","▤
+Bless of Zephyrous
+Mage
+Blink
+Blink คูลดาวน์ -1 วินาที และเมื่อ Blink สำเร็จ ได้รับ Move Speed +20% เป็นเวลา 2 วินาที
+Snowland East Field 2"
+"801","Meteor Cluster","TOME","Elementalist","[""Meteor Storm""]","[""สุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม""]","สุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม","[]","NOT_LISTED","","","▤","3","5","▤
+Meteor Cluster
+Elementalist
+Meteor Storm
+สุ่ม 33% หนึ่งครั้งต่อการร่าย Meteor Storm หากติดจะเพิ่มดาวตกอีก 4 Hit ลงจุดเดิม โดยตกหลังดาวตกแรกสร้างดาเมจ 0.5 / 1.0 / 1.5 / 2.0 วินาที แต่ละ Hit มีดาเมจเต็มเท่าดาวตกเดิมหนึ่งลูก พร้อมผลสถานะเดิม
+ไม่พบแหล่งดรอป"
+"802","Breaking Field","TOME","Elementalist","[""Freezing Field""]","[""Freeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี""]","Freeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี","[]","NOT_LISTED","","","▤","3","6","▤
+Breaking Field
+Elementalist
+Freezing Field
+Freeze ที่เกิดจากสกิล Freezing Field มีโอกาส 50% ได้รับผลของ Ice Breaker ตาม level skill ที่มี
+ไม่พบแหล่งดรอป"
+"803","Thunder Momentum","TOME","Elementalist","[""Wraith of Thunder""]","[""เมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม""]","เมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม","[]","NOT_LISTED","","","▤","3","7","▤
+Thunder Momentum
+Elementalist
+Wraith of Thunder
+เมื่อใช้ Wraith of Thunder สร้าง Electric Field 2 วินาทีตาม Rank ที่เรียน วงซ้อนพื้นที่กันได้ แต่เป้าหมายรับดาเมจเพียงหนึ่งชุดต่อรอบ tick จากเจ้าของคนเดียวกัน วงที่ร่ายเองคงระยะเวลาเดิม
+ไม่พบแหล่งดรอป"
+"804","Speedy Strain","TOME","Elementalist","[""Earthstrain""]","[""Earthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม""]","Earthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม","[]","NOT_LISTED","","","▤","3","8","▤
+Speedy Strain
+Elementalist
+Earthstrain
+Earthstrain เดินทางเร็วขึ้นสองเท่า โดยไม่เปลี่ยนทิศทางคลื่นหรือยกเลิกผล Passive Returning Earthstrain ตัว Tome ไม่ได้เพิ่มคลื่นย้อนกลับเอง เมื่อคลื่นจบทั้งขาไปและขากลับ (ถ้ามี Passive) ได้รับ MATK +20 ต่อศัตรูแต่ละตัวที่โดน เป็นเวลา 3 วินาที นับศัตรูไม่ซ้ำตลอด cast การร่ายครั้งใหม่แทนที่บัฟเดิม จำนวน Hit และดาเมจใช้กฎของสกิลและ Passive เดิม
+ไม่พบแหล่งดรอป"
+"805","Triangle Flame Pillar","TOME","Elementalist","[""Flame Pillar""]","[""Flame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน""]","Flame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน","[]","NOT_LISTED","","","▤","3","9","▤
+Triangle Flame Pillar
+Elementalist
+Flame Pillar
+Flame Pillar ขยายรัศมี AoE เป็น 9 ช่อง รูปสามเหลี่ยมเป็น VFX เท่านั้น ใช้วัตถุสำหรับคำนวณผลหนึ่งชุดและจังหวะ hit เดิม เพิ่มความเสียหาย Ignite 500% (คูณ 6) ทุก hit ที่โดนทำให้ติดหรือรีเฟรช Ignite 100% นาน 5 วินาที ไม่ซ้อน ใช้ดาเมจสุดท้ายของ hit นั้นเป็นฐาน
+ไม่พบแหล่งดรอป"
+"806","Cross of Ocean","TOME","Elementalist","[""Breath of Ocean""]","[""Breath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น""]","Breath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น","[""Anima East Swamp 2""]","FOUND","","","▤","3","10","▤
+Cross of Ocean
+Elementalist
+Breath of Ocean
+Breath of Ocean ปล่อยคลื่นสี่ทิศตั้งฉากจากผู้ร่าย ศัตรูแต่ละตัวได้รับผลจากคลื่นเดียวต่อการร่าย โดยคง hit และผลเดิมของคลื่นนั้น
+Anima East Swamp 2"
+"807","Super Ark","TOME","Elementalist","[""Ark Lightning""]","[""Ark Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit""]","Ark Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit","[""Anima East Swamp 1""]","FOUND","","","▤","3","11","▤
+Super Ark
+Elementalist
+Ark Lightning
+Ark Lightning ช็อตเป้าหมายเดิมซ้ำอีก 2 ครั้ง รวม 3 ชุด ชุดละ 4 Hit เต็ม (รวม 12 Hit) โดยไม่ชิ่งไปเป้าหมายอื่นและไม่มีการลดดาเมจแต่ละ Hit
+Anima East Swamp 1"
+"808","Over the Wall","TOME","Elementalist","[""Wall of Atlas""]","[""Wall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%""]","Wall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%","[""Anima North Swamp 1""]","FOUND","","","▤","3","12","▤
+Over the Wall
+Elementalist
+Wall of Atlas
+Wall of Atlas สร้างสถานะ Slow มากขึ้น 100% และดาเมจ Overtime มากขึ้น 100%
+Anima North Swamp 1"
+"901","Unstable Overdrive","TOME","Enchanter","[""Auto-Cast Overdrive""]","[""สกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร""]","สกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร","[]","NOT_LISTED","","","▤","3","13","▤
+Unstable Overdrive
+Enchanter
+Auto-Cast Overdrive
+สกิลที่ทำงานแบบ Auto-cast มีโอกาส 25% สร้างดาเมจซ้ำ 40% ของเดิม ใช้เฉพาะส่วนดาเมจ ไม่ทำ Heal/Buff/สถานะซ้ำ ไม่ใช้ MP และไม่สุ่มซ้ำต่อเป็นวงจร
+ไม่พบแหล่งดรอป"
+"902","Archmage","TOME","Enchanter","[""Magic Enchant""]","[""Bolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ""]","Bolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ","[]","NOT_LISTED","","","▤","3","14","▤
+Archmage
+Enchanter
+Magic Enchant
+Bolt สี่ธาตุที่ Auto-cast จาก Magic Enchant สามารถเรียก Extra Bolt ที่เรียนแล้ว ตามเงื่อนไขปกติของ Extra Bolt ไม่ต้องใส่ Tome Duplicated Bolt และ hit ที่เกิดเพิ่มจะไม่เรียกวนซ้ำ
+ไม่พบแหล่งดรอป"
+"903","Land Protector","TOME","Enchanter","[""Enchanted ground""]","[""ลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที""]","ลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที","[]","NOT_LISTED","","","▤","3","15","▤
+Land Protector
+Enchanter
+Enchanted ground
+ลดคูลดาวน์ของ Enchanted Ground ลง 15 วินาที
+ไม่พบแหล่งดรอป"
+"904","Evil Intention","TOME","Enchanter","[""Disenchant""]","[""ลดคูลดาวน์ของ Disenchant ลง 15 วินาที""]","ลดคูลดาวน์ของ Disenchant ลง 15 วินาที","[]","NOT_LISTED","","","▤","3","16","▤
+Evil Intention
+Enchanter
+Disenchant
+ลดคูลดาวน์ของ Disenchant ลง 15 วินาที
+ไม่พบแหล่งดรอป"
+"905","Huge Resonance","TOME","Enchanter","[""Crystal Resonance""]","[""Crystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง""]","Crystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง","[]","NOT_LISTED","","","▤","3","17","▤
+Huge Resonance
+Enchanter
+Crystal Resonance
+Crystal Resonance ร่ายซ้ำใส่เป้าหมายข้างเคียงได้สูงสุด 50 ตัวในรัศมี 5 ช่อง
+ไม่พบแหล่งดรอป"
+"906","Domain Expansion","TOME","Enchanter","[""Domain of Fire / Domain of Water / Domain of Wind / Domain of Earth""]","[""ขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์""]","ขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์","[""Yggdra North Forest 1""]","FOUND","","","▤","3","18","▤
+Domain Expansion
+Enchanter
+Domain of Fire / Domain of Water / Domain of Wind / Domain of Earth
+ขณะเปิด Domain มอนสเตอร์ที่ได้รับความเสียหายจากผู้ใช้ Domain จะถูกคำนวณเสมือนเป็นธาตุที่แพ้ทางต่อ Domain นั้นเฉพาะดาเมจครั้งนั้น โดยไม่เปลี่ยนธาตุจริงของมอนสเตอร์
+Yggdra North Forest 1"
+"907","Elemental Burst","TOME","Enchanter","[""Elemental Wave""]","[""ลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที""]","ลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที","[""Anima East Swamp 2""]","FOUND","","","▤","3","19","▤
+Elemental Burst
+Enchanter
+Elemental Wave
+ลดระยะเวลาของ Elemental Wave เหลือ 1.5 วินาทีโดยคงจำนวน 24 Hit ทำให้ Tick Rate เพิ่มเป็น 16 Hit/วินาที และลดคูลดาวน์ลง 2 วินาที
+Anima East Swamp 2"
+"908","Arcane Storm","TOME","Enchanter","[""Arcane Magnetic""]","[""Arcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที""]","Arcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที","[""Soloden East Forest 1""]","FOUND","","","▤","3","20","▤
+Arcane Storm
+Enchanter
+Arcane Magnetic
+Arcane Magnetic กลายเป็นพายุเคลื่อนตรงไปด้านหน้า ไม่สร้างดาเมจ ดึงเป้าหมายที่สัมผัสเข้าหาศูนย์กลางที่เคลื่อนอยู่ 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และตรวจสิ่งกีดขวาง/ภูมิคุ้มกัน พายุเคลื่อนหน้า 2 ช่อง/วินาที
+Soloden East Forest 1"
+"1001","Pack of Wolves","TOME","Tamer","[""Summon Wolf Pack""]","[""ลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%""]","ลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%","[]","NOT_LISTED","","","▤","3","21","▤
+Pack of Wolves
+Tamer
+Summon Wolf Pack
+ลดเงื่อนไขการเพิ่มจำนวน Wolf จากทุก 20 INT เหลือเพียง 15 INT แต่ Wolf Pack ทั้งหมดจะสร้างความเสียหายลดลง 10%
+ไม่พบแหล่งดรอป"
+"1002","Fresh Blood","TOME","Tamer","[""Blood Scent""]","[""เมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%""]","เมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%","[]","NOT_LISTED","","","▤","3","22","▤
+Fresh Blood
+Tamer
+Blood Scent
+เมื่อศัตรูติด Bleeding จะเปิดการใช้งาน Blood Scent ทันที โดยไม่สนใจ HP%
+ไม่พบแหล่งดรอป"
+"1003","Summon Relocation","TOME","Tamer","[""Come to Me""]","[""Summon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที""]","Summon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที","[]","NOT_LISTED","","","▤","3","23","▤
+Summon Relocation
+Tamer
+Come to Me
+Summon ทุกตัวที่ถูกเรียก จะเพิ่ม Move Speed 25% และต้านทานสถานะทั้งหมด เป็นระยะเวลา 3 วินาที
+ไม่พบแหล่งดรอป"
+"1004","Deep Scratch","TOME","Tamer","[""Beast Scratch""]","[""เมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)""]","เมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)","[]","NOT_LISTED","","","▤","3","24","▤
+Deep Scratch
+Tamer
+Beast Scratch
+เมื่ื่อใช้ Beast Scratch ทำให้ศัตรูติด Bleeding 100% (มีผลกับ Summon ด้วย)
+ไม่พบแหล่งดรอป"
+"1005","Resistance Heart","TOME","Tamer","[""Primal Heart""]","[""Summon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล""]","Summon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล","[]","NOT_LISTED","","","▤","4","1","▤
+Resistance Heart
+Tamer
+Primal Heart
+Summon ของเจ้าของได้รับ Primal Heart ตาม Rank ที่เจ้าของเรียน โดยใช้ค่าสเตตัสที่เกี่ยวข้องของ Summon เอง คงเพดานค่าต้านจากสเตตัส 50% และค่าต้านรวม 90% หากยังไม่เรียน Primal Heart จะไม่ได้ผล
+ไม่พบแหล่งดรอป"
+"1006","Focus Hex","TOME","Tamer","[""Hex Mark""]","[""Hex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%""]","Hex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%","[]","NOT_LISTED","","","▤","4","2","▤
+Focus Hex
+Tamer
+Hex Mark
+Hex Mark ไม่สามารถแพร่กระจายได้ แต่ผลของสถานะผิดปกติจะเพิ่มขึ้นจาก 20% เป็น 50%
+ไม่พบแหล่งดรอป"
+"1101","Unbreakable Guardian","TOME","Summoner","[""Summon Guardian Bear""]","[""เมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้""]","เมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้","[]","NOT_LISTED","","","▤","4","3","▤
+Unbreakable Guardian
+Summoner
+Summon Guardian Bear
+เมื่อ Guardian Bear มี HP ลดผ่านต่ำกว่า 50% ล้างสถานะผิดปกติและเพิ่ม DEF/MDEF ให้หมีและเจ้าของ 20% เป็นเวลา 10 วินาที บัฟไม่ซ้อน ICD 10 วินาที ต้องฟื้น HP ถึง 50% ก่อนจึงกระตุ้นรอบใหม่ได้
+ไม่พบแหล่งดรอป"
+"1102","Bloody Tusks","TOME","Summoner","[""Summon Alpha Boar""]","[""Boar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย""]","Boar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย","[]","NOT_LISTED","","","▤","4","4","▤
+Bloody Tusks
+Summoner
+Summon Alpha Boar
+Boar ของเจ้าของทุกตัวได้รับ Auto Skill Beast Scratch หนึ่งชุด ใช้ Rank ของสกิลอัญเชิญไม่เกิน Max Rank ของ Beast Scratch การโจมตีตรงใส่เป้าหมาย Bleeding ฟื้น HP ให้ Boar ตัวที่โจมตี 5% ของดาเมจสุดท้าย
+ไม่พบแหล่งดรอป"
+"1103","Gigantic Ape","TOME","Summoner","[""Summon Primate Ape""]","[""Primate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%""]","Primate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%","[]","NOT_LISTED","","","▤","4","5","▤
+Gigantic Ape
+Summoner
+Summon Primate Ape
+Primate Ape มีขนาดใหญ่ขึ้น 20% เพิ่ม STR, HP% และระยะในการโจมตี แต่จะลด ความเร็วโจมตี ลง 15%
+ไม่พบแหล่งดรอป"
+"1104","Punishment of Lightning","TOME","Summoner","[""Summon Spiritual Stag""]","[""Nature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%""]","Nature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%","[]","NOT_LISTED","","","▤","4","6","▤
+Punishment of Lightning
+Summoner
+Summon Spiritual Stag
+Nature's Punishment เปลี่ยนเป็นธาตุสายฟ้า ความเสียหายเวท เพิ่มขึ้น 20% แต่จะใช้ MP มากขึ้น 20%
+ไม่พบแหล่งดรอป"
+"1105","True Leader","TOME","Summoner","[""Pack Leader""]","[""เมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่""]","เมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่","[]","NOT_LISTED","","","▤","4","7","▤
+True Leader
+Summoner
+Pack Leader
+เมื่อ Summon ถูกสังหาร Summoner จะเสีย HP ปัจจุบัน 10% ทันที และ Summon ที่เหลือได้รับ DEF/MDEF และ ATK/MATK +10% เป็นเวลา 10 วินาที ผลนี้ไม่ซ้อนทับกัน และการตายของ Summon อีกตัวจะเริ่มนับเวลาใหม่
+ไม่พบแหล่งดรอป"
+"1106","Double Bonds","TOME","Summoner","[""Companion Bond""]","[""เมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ""]","เมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ","[]","NOT_LISTED","","","▤","4","8","▤
+Double Bonds
+Summoner
+Companion Bond
+เมื่อเจ้าของโจมตีปกติใส่เป้าหมายของ Summon ที่ผูกอยู่ เจ้าของสุ่มโจมตีเพิ่ม 50% และ Summon สุ่ม 50% เมื่อโจมตีปกติครั้งถัดไปที่เข้าเงื่อนไข การโจมตีเพิ่มไม่สุ่มวนซ้ำ
+ไม่พบแหล่งดรอป"
+"1107","Infinite Command","TOME","Summoner","[""Fatigue Recovery""]","[""Fatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ""]","Fatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ","[]","NOT_LISTED","","","▤","4","9","▤
+Infinite Command
+Summoner
+Fatigue Recovery
+Fatigue Recovery ให้ Free Command 5 วินาที สกิล Command ของ Summon ไม่ติดเงื่อนไขคูลดาวน์ แต่ยังใช้ทรัพยากรและตรวจเป้าหมาย/เงื่อนไขการกระทำตามปกติ
+ไม่พบแหล่งดรอป"
+"1108","Predator's Exposure","TOME","Summoner","[""Predator’s Mark""]","[""ผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร""]","ผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร","[]","NOT_LISTED","","","▤","4","10","▤
+Predator's Exposure
+Summoner
+Predator’s Mark
+ผลของ Predator's Mark เพิ่มขึ้น 100% และ เมื่อศัตรูที่ติด Predator's Mark ตาย จะกระจายสู่ศัตรูในบริเวณรอบภายในระยะ 7 เมตร
+ไม่พบแหล่งดรอป"
+"1201","Rebirth of Shifter","TOME","Shapeshifter","[""Animajust""]","[""Animajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที""]","Animajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที","[]","NOT_LISTED","","","▤","4","11","▤
+Rebirth of Shifter
+Shapeshifter
+Animajust
+Animajust เพิ่ม HP และ MP 100% และล้างสถานะผิดปกติทุกอย่าง แต่จะมี คูลดาวน์ 45 วินาที
+ไม่พบแหล่งดรอป"
+"1202","One Focus","TOME","Shapeshifter","[""All for One""]","[""เลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น""]","เลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น","[]","NOT_LISTED","","","▤","4","12","▤
+One Focus
+Shapeshifter
+All for One
+เลือกประเภท Summon ผ่านหน้า UI Summon แล้ว All for One สลายทุกตัวของประเภทนั้น เพิ่มผลรับ Core Stat เป็นสองเท่า โดยไม่สลายประเภทอื่น
+ไม่พบแหล่งดรอป"
+"1203","Tank Crusher","TOME","Shapeshifter","[""Maul""]","[""Maul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที""]","Maul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที","[]","NOT_LISTED","","","▤","4","13","▤
+Tank Crusher
+Shapeshifter
+Maul
+Maul เพิ่มดาเมจ 20% ของ HP สูงสุด เป้าหมาย บอสใช้ 2% ของ HP สูงสุด หนึ่งครั้งต่อการร่าย และลดค่าต้าน Stun 25 จุดเปอร์เซ็นต์ 5 วินาที
+ไม่พบแหล่งดรอป"
+"1204","Unstoppable Charge","TOME","Shapeshifter","[""Brutal Charge""]","[""ขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%""]","ขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%","[]","NOT_LISTED","","","▤","4","14","▤
+Unstoppable Charge
+Shapeshifter
+Brutal Charge
+ขณะที่ใช้ Brutal Charge จะไม่ได้รับ CC ทุกประเภท และได้รับ Damage Reduction 20%
+ไม่พบแหล่งดรอป"
+"1205","Twin Strike","TOME","Shapeshifter","[""Panther’s Claw""]","[""Panther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%""]","Panther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%","[]","NOT_LISTED","","","▤","4","15","▤
+Twin Strike
+Shapeshifter
+Panther’s Claw
+Panther's Claw มีโอกาสออก 2 ครั้ง มีโอกาสออก 50%
+ไม่พบแหล่งดรอป"
+"1206","Deadly Apart","TOME","Shapeshifter","[""Tear Apart""]","[""หลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที""]","หลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที","[""Atlan Beach""]","FOUND","","","▤","4","16","▤
+Deadly Apart
+Shapeshifter
+Tear Apart
+หลัง Tear Apart ได้รับบัฟรอใช้ 10 วินาที สกิลโจมตีกายภาพที่ร่ายสำเร็จครั้งถัดไปเพิ่ม ความเสียหายคริติคอล 50 จุดเปอร์เซ็นต์ตลอดการร่าย และลด Critical Resistance ของศัตรูที่โดน 25 จุดเปอร์เซ็นต์ 5 วินาที
+Atlan Beach"
+"1207","Corrosive Toxin","TOME","Shapeshifter","[""Toxin Splash""]","[""Toxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด""]","Toxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด","[""Snowland West Field 1""]","FOUND","","","▤","4","17","▤
+Corrosive Toxin
+Shapeshifter
+Toxin Splash
+Toxin Splash ขยายรัศมี 1 ช่องทุกวินาที สูงสุดเพิ่ม 3 ช่อง ศัตรูในพื้นที่ถูกลด DEF/MDEF สะสม 5% → 10% → 15% ผลอยู่ต่อ 3 วินาทีหลัง tick ล่าสุด
+Snowland West Field 1"
+"1208","Toxin Split","TOME","Shapeshifter","[""Acid Toxin""]","[""Acid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank""]","Acid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank","[""Lava Mine 1"",""Lava Mine 2""]","FOUND","","","▤","4","18","▤
+Toxin Split
+Shapeshifter
+Acid Toxin
+Acid Toxin ชิ่งไปศัตรูเพิ่มอีกหนึ่งตัวในระยะ 2 ช่องจากเป้าหมายแรก รวมสองเป้าหมายไม่ซ้ำ ดาเมจและผลเดิมเท่ากัน ลดค่าต้านธาตุ Poison 25 จุดเปอร์เซ็นต์ เป็นเวลา 1.5 วินาทีต่อ Rank
+Lava Mine 1
+Lava Mine 2"
+"1301","Double Throw","TOME","Technician","[""Heavy Throw""]","[""Heavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก""]","Heavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก","[]","NOT_LISTED","","","▤","4","19","▤
+Double Throw
+Technician
+Heavy Throw
+Heavy Throw ออกซ้ำอีก 1 ชุด โดยชุดที่สองสร้างความเสียหาย 50% ของชุดแรก
+ไม่พบแหล่งดรอป"
+"1302","Energy Burst","TOME","Technician","[""EMP Shock""]","[""EMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3""]","EMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3","[]","NOT_LISTED","","","▤","4","20","▤
+Energy Burst
+Technician
+EMP Shock
+EMP Shock เพิ่มเวลา stun = 3s และทำให้เกิด Knockback 3
+ไม่พบแหล่งดรอป"
+"1303","The Factory","TOME","Technician","[""Repairing""]","[""เปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง""]","เปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง","[]","NOT_LISTED","","","▤","4","21","▤
+The Factory
+Technician
+Repairing
+เปลี่ยน Repairing เป็นสกิลวางพื้นที่ เลือกจุดวางได้ไกล 5 ช่อง และมีรัศมีผล 5 ช่อง
+ไม่พบแหล่งดรอป"
+"1304","Headshot","TOME","Technician","[""Silver Bullet""]","[""Silver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%""]","Silver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%","[]","NOT_LISTED","","","▤","4","22","▤
+Headshot
+Technician
+Silver Bullet
+Silver Bullet ความเสียหายคริติคอล เพิ่มขึ้น 100%
+ไม่พบแหล่งดรอป"
+"1305","Cannon Rain","TOME","Technician","[""Bullet Rain""]","[""Bullet Rain ความแรงเพิ่มขึ้น 50%""]","Bullet Rain ความแรงเพิ่มขึ้น 50%","[]","NOT_LISTED","","","▤","4","23","▤
+Cannon Rain
+Technician
+Bullet Rain
+Bullet Rain ความแรงเพิ่มขึ้น 50%
+ไม่พบแหล่งดรอป"
+"1306","Rune Resonance","TOME","Technician","[""Runebreaker""]","[""Rune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit""]","Rune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit","[""North Road""]","FOUND","","","▤","4","24","▤
+Rune Resonance
+Technician
+Runebreaker
+Rune Breaker เพิ่ม AoE เป็น 7 และเพิ่มความเสียหาย 2 hit
+North Road"
+"1401","Clean Sweep","TOME","Gunslinger","[""Sweep Shot""]","[""เพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling""]","เพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling","[]","NOT_LISTED","","","▤","5","1","▤
+Clean Sweep
+Gunslinger
+Sweep Shot
+เพิ่มจำนวน Hit ของ Sweep Shot 2 hit สำหรับ Pistol และ 4 hit สำหรับ Gatling
+ไม่พบแหล่งดรอป"
+"1402","Refraction Shot","TOME","Gunslinger","[""Ricochet Bullet""]","[""ทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง""]","ทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง","[]","NOT_LISTED","","","▤","5","2","▤
+Refraction Shot
+Gunslinger
+Ricochet Bullet
+ทำให้ Ricochet Bullet ไม่มีผลที่ทำให้ความรุนแรงลดลงหลังการชิ่ง
+ไม่พบแหล่งดรอป"
+"1403","Omnirange","TOME","Gunslinger","[""Gunkata""]","[""ทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)""]","ทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)","[]","NOT_LISTED","","","▤","5","3","▤
+Omnirange
+Gunslinger
+Gunkata
+ทำให้ค่า DEX มีผลต่อ ATK แม้จะเปลี่ยนเป็นการโจมตีระยะใกล้ก็ตาม (STR ก็มีผลเช่นกัน)
+ไม่พบแหล่งดรอป"
+"1404","Artillery Cycle","TOME","Gunslinger","[""Siege Cannon""]","[""ลดคูลดาวน์ของ Siege Cannon 1 วินาที""]","ลดคูลดาวน์ของ Siege Cannon 1 วินาที","[]","NOT_LISTED","","","▤","5","4","▤
+Artillery Cycle
+Gunslinger
+Siege Cannon
+ลดคูลดาวน์ของ Siege Cannon 1 วินาที
+ไม่พบแหล่งดรอป"
+"1405","Rain of Starfall","TOME","Gunslinger","[""Shooting Stars""]","[""Shooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม""]","Shooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม","[]","NOT_LISTED","","","▤","5","5","▤
+Rain of Starfall
+Gunslinger
+Shooting Stars
+Shooting Stars ระยะเวลา ลดลงเหลือ 1.5 วินาทีโดยที่จำนวน hit และดาเมจคงเดิม
+ไม่พบแหล่งดรอป"
+"1406","Energy Synthesis","TOME","Gunslinger","[""Railgun Charge""]","[""Railgun Charge คูลดาวน์ -8 s""]","Railgun Charge คูลดาวน์ -8 s","[""Soloden East Forest 2""]","FOUND","","","▤","5","6","▤
+Energy Synthesis
+Gunslinger
+Railgun Charge
+Railgun Charge คูลดาวน์ -8 s
+Soloden East Forest 2"
+"1407","Winter Splash","TOME","Gunslinger","[""Ice Beam""]","[""Ice Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%""]","Ice Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%","[""Lava Mine 3""]","FOUND","","","▤","5","7","▤
+Winter Splash
+Gunslinger
+Ice Beam
+Ice Beam เพิ่ม Frozen โอกาส เป็น 70% และ Slow เป้าหมาย 30%
+Lava Mine 3"
+"1408","Deafening Bullet","TOME","Gunslinger","[""Point Blank Precision""]","[""การยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank""]","การยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank","[""Lava Mine 1""]","FOUND","","","▤","5","8","▤
+Deafening Bullet
+Gunslinger
+Point Blank Precision
+การยิงระยะเผาขนทำให้มีโอกาสเกิด Stun 0.5 s 1% per rank
+Lava Mine 1"
+"1501","Cannon Turret","TOME","Mechanic","[""Flame Turret Totem""]","[""Flame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ""]","Flame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ","[]","NOT_LISTED","","","▤","5","9","▤
+Cannon Turret
+Mechanic
+Flame Turret Totem
+Flame Turret Totem เปลี่ยนเป็นป้อมปืนใหญ่ รัศมีระเบิด5ช่อง ยิงทุก0.75วินาที และทำให้ Ignite แรงขึ้น3เท่า โดยใช้INTและโบนัส Ignite Damage ของเจ้าของ
+ไม่พบแหล่งดรอป"
+"1502","Napalm Fleet","TOME","Mechanic","[""Kamikaze""]","[""Kamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30""]","Kamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30","[]","NOT_LISTED","","","▤","5","10","▤
+Napalm Fleet
+Mechanic
+Kamikaze
+Kamikaze ทิ้งพื้นที่ไฟรัศมี 5 ช่องนาน 5 วินาที ทุกวินาทีทำให้ติดหรือรีเฟรช Ignite หนึ่งชุดนาน 5 วินาที ใช้ 10% ของดาเมจสุดท้าย Kamikaze เป็นฐาน และคูณดาเมจ Ignite 1.30
+ไม่พบแหล่งดรอป"
+"1503","Flying Jam","TOME","Mechanic","[""Jamming Pulse Totem""]","[""Jamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้""]","Jamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้","[]","NOT_LISTED","","","▤","5","11","▤
+Flying Jam
+Mechanic
+Jamming Pulse Totem
+Jamming Pulse Totem กลายเป็นสกิลเคลื่อนที่ไปยังทิศทางที่กดใช้
+ไม่พบแหล่งดรอป"
+"1504","Reflect Shot","TOME","Mechanic","[""Laser Pulse""]","[""Laser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย""]","Laser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย","[]","NOT_LISTED","","","▤","5","12","▤
+Reflect Shot
+Mechanic
+Laser Pulse
+Laser Pulse chain ใส่เป้าหมายที่อยู่รอบๆจำนวน 3 เป้าหมาย
+ไม่พบแหล่งดรอป"
+"1505","Cooling Tower","TOME","Mechanic","[""Emergency Cooldown""]","[""ทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที""]","ทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที","[]","NOT_LISTED","","","▤","5","13","▤
+Cooling Tower
+Mechanic
+Emergency Cooldown
+ทำให้ Emergency คูลดาวน์ ใช้งานไม่ได้ และเพิ่ม Heat Decay 0.8% ต่อ Rank ของ Emergency คูลดาวน์ ต่อวินาทีจากค่าเดิม 2% ที่ Rank 5 จะลด Heat รวม 6% ต่อวินาที
+ไม่พบแหล่งดรอป"
+"1506","Infinite Pulse","TOME","Mechanic","[""Overclock""]","[""ลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock""]","ลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock","[""Atlan Beach""]","FOUND","","","▤","5","14","▤
+Infinite Pulse
+Mechanic
+Overclock
+ลบคูลดาวน์ของ Laser Pulse เมื่ออยู่ในสถานะ Overclock
+Atlan Beach"
+"1507","Hero Time","TOME","Mechanic","[""Self-Destruct""]","[""ลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ""]","ลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ","[""Anima North Swamp 2""]","FOUND","","","▤","5","15","▤
+Hero Time
+Mechanic
+Self-Destruct
+ลด เวลาร่าย ของ Self-Destruct เหลือ 3 วินาทีและทำให้ไม่สามารถถูกขัดหรือเพิ่มเวลาร่ายได้ แต่เป็น Penalty ให้ HP ผู้ใช้เหลือ 1 หลังสกิลสำเร็จ
+Anima North Swamp 2"
+"1508","Totem Master","TOME","Mechanic","[""Overtime""]","[""ลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime""]","ลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime","[""Atlan South Desert 2""]","FOUND","","","▤","5","16","▤
+Totem Master
+Mechanic
+Overtime
+ลบระยะเวลาร่ายของ Flame Turret Totem ทั้งหมด ลดคูลดาวน์ของ Flame Turret Totem เหลือ 2 วินาทีเมื่ออยู่ในสถานะ Overtime
+Atlan South Desert 2"
+"1601","Stomp","TOME","Warrior","[""Savage Leap""]","[""Savage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที""]","Savage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที","[]","NOT_LISTED","","","▤","5","17","▤
+Stomp
+Warrior
+Savage Leap
+Savage Leap เพิ่มรัศมีพื้นที่ลงพื้นเป็น 5 ช่อง และสร้างพื้น Slow ศัตรู 20% เป็นเวลา 2 วินาที
+ไม่พบแหล่งดรอป"
+"1602","Provoke","TOME","Warrior","[""Warcry""]","[""Warcry เพิ่มผล Taunt แก่เป้าหมายในระยะ""]","Warcry เพิ่มผล Taunt แก่เป้าหมายในระยะ","[]","NOT_LISTED","","","▤","5","18","▤
+Provoke
+Warrior
+Warcry
+Warcry เพิ่มผล Taunt แก่เป้าหมายในระยะ
+ไม่พบแหล่งดรอป"
+"1603","Collaspe","TOME","Warrior","[""Ground Breaker""]","[""Ground Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s""]","Ground Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s","[]","NOT_LISTED","","","▤","5","19","▤
+Collaspe
+Warrior
+Ground Breaker
+Ground Breaker ทำให้เป้าหมายในพื้นที่ได้รับผล Slow 30% ระยะ 3s
+ไม่พบแหล่งดรอป"
+"1604","Death Wheel","TOME","Warrior","[""Round Slash""]","[""Round Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน""]","Round Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน","[]","NOT_LISTED","","","▤","5","20","▤
+Death Wheel
+Warrior
+Round Slash
+Round Slash เพิ่มจำนวน Hit เป็น 2 เท่าภายในระยะเวลาเดิม และเพิ่ม ความเร็วเคลื่อนที่ +20% ขณะใช้งาน
+ไม่พบแหล่งดรอป"
+"1605","Heavy Smash","TOME","Warrior","[""Faceshaker""]","[""Faceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที""]","Faceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที","[]","NOT_LISTED","","","▤","5","21","▤
+Heavy Smash
+Warrior
+Faceshaker
+Faceshaker เพิ่มความรุนแรงขึ้น 50% เปลี่ยน Stun โอกาส เป็น 40% และลด คูลดาวน์ เหลือ 1 วินาที
+ไม่พบแหล่งดรอป"
+"1606","Nemesis","TOME","Warrior","[""Revenge""]","[""Revenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%""]","Revenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%","[]","NOT_LISTED","","","▤","5","22","▤
+Nemesis
+Warrior
+Revenge
+Revenge เมื่อเข้าถึงตัวเป้าหมายจะสร้างความเสียหายรุนแรงขึ้น 100%
+ไม่พบแหล่งดรอป"
+"1701","Refresh","TOME","Berserker","[""Undying Vitality""]","[""Undying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้""]","Undying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้","[]","NOT_LISTED","","","▤","5","23","▤
+Refresh
+Berserker
+Undying Vitality
+Undying Vitality เพิ่มผลลบล้างสถานะผิดปกติเมื่อกดใช้
+ไม่พบแหล่งดรอป"
+"1702","Drag to Hell","TOME","Berserker","[""Whirlwind Axe""]","[""Whirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity""]","Whirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity","[]","NOT_LISTED","","","▤","5","24","▤
+Drag to Hell
+Berserker
+Whirlwind Axe
+Whirlwind Axe ดึงศัตรูเข้าหาผู้ใช้ด้วยความเร็ว 5 ช่อง/วินาที หยุดห่าง 0.5 ช่อง และทำให้ Slow 20% เป็นเวลา 2 วินาที รีเฟรชเมื่อโดน hit ไม่ดึงผ่านกำแพงหรือ Pull Immunity
+ไม่พบแหล่งดรอป"
+"1703","Sharpen Breeze","TOME","Berserker","[""Razor Breeze""]","[""Razor Breeze ความเสียหายคริติคอล +50%""]","Razor Breeze ความเสียหายคริติคอล +50%","[]","NOT_LISTED","","","▤","6","1","▤
+Sharpen Breeze
+Berserker
+Razor Breeze
+Razor Breeze ความเสียหายคริติคอล +50%
+ไม่พบแหล่งดรอป"
+"1704","Boomerang Tomahawk","TOME","Berserker","[""Tomahawk Spin""]","[""Tomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ""]","Tomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ","[]","NOT_LISTED","","","▤","6","2","▤
+Boomerang Tomahawk
+Berserker
+Tomahawk Spin
+Tomahawk Spin ชิ่งเพิ่ม 2 เป้าหมาย โดยค้นหาเป้าหมายถัดไปในระยะ 3 ช่องจากเป้าหมายล่าสุด เป้าหมาย Chain ได้รับครบทั้ง 3 Hit และแต่ละ Hit มีดาเมจเท่ากับ Hit หลัก ห้ามย้อนกลับไปหาเป้าหมายที่เคยโดนในการใช้สกิลครั้งเดียวกัน และ On-hit, Critical, Bleeding, Death Wound ทำงานตามปกติ
+ไม่พบแหล่งดรอป"
+"1705","Magic Trick","TOME","Berserker","[""Frenzy Throw""]","[""เมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank""]","เมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank","[]","NOT_LISTED","","","▤","6","3","▤
+Magic Trick
+Berserker
+Frenzy Throw
+เมื่อเปิดใช้ Frenzy Throw จะทำให้ Auto Attack ได้รับผล ASPD และ อัตราคริติคอล จาก Frenzy Throw การ Auto attack จะมีโอกาส proc Tomahawk Spin 4% per rank
+ไม่พบแหล่งดรอป"
+"1706","Immortal Duration","TOME","Berserker","[""Berserk""]","[""สถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง""]","สถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง","[""Crossroad""]","FOUND","","","▤","6","4","▤
+Immortal Duration
+Berserker
+Berserk
+สถานะ Berserk จะทำให้ผู้เล่นไม่ตายแม้ว่าจะถูกโจมตีจนพลังชีวิตหมดก็ตาม พลังชีวิตต่ำสุดจะถูกจำกัดไว้ที่ 1 จนกว่าระยะเวลาสกิลจะหมดลง
+Crossroad"
+"1707","High Calcium","TOME","Berserker","[""Protein Shake""]","[""Protein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม""]","Protein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม","[""North Road""]","FOUND","","","▤","6","5","▤
+High Calcium
+Berserker
+Protein Shake
+Protein Shake ทำให้ได้ผล ATK% 3% per rank เพิ่ม
+North Road"
+"1708","Dead Cry","TOME","Berserker","[""Die Hard""]","[""Die Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม""]","Die Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม","[""Yggdra East Forest 2""]","FOUND","","","▤","6","6","▤
+Dead Cry
+Berserker
+Die Hard
+Die Hard ทำให้ได้ผล Elemental Resist ยกเว้น Neutral 2% per rank เพิ่ม
+Yggdra East Forest 2"
+"1801","Lord Asura","TOME","Asura","[""Judgement of Asura""]","[""เพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG""]","เพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG","[]","NOT_LISTED","","","▤","6","7","▤
+Lord Asura
+Asura
+Judgement of Asura
+เพิ่มเวลาร่าย Judgement of Asura 5 วินาที และทำให้ดาเมจข้าม DEF/MDEF, Element Resist, Race Resist, Physical Resist, Melee Resist, General Damage Reduction และ Final Skill Damage Reduction ที่มาจาก Defender สกิลยังเป็นดาเมจกายภาพ และยังติด Block, Shield, Damage Immunity, ผลป้องกันอื่นที่ไม่ได้ระบุให้ข้าม และตัวคูณโหมด PvP/GvG
+ไม่พบแหล่งดรอป"
+"1802","Bloodsucker","TOME","Asura","[""Vampiric Strike""]","[""Vampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s""]","Vampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s","[]","NOT_LISTED","","","▤","6","8","▤
+Bloodsucker
+Asura
+Vampiric Strike
+Vampric Strike เปลี่ยนเป็น Buff ทำให้ได้อัตราดูดพลังชีวิต 3% per rank จากความเสียหายที่สร้างขึ้น ระยะเวลา = 180s
+ไม่พบแหล่งดรอป"
+"1803","Secret of Rage","TOME","Asura","[""Rampage""]","[""ลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด""]","ลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด","[]","NOT_LISTED","","","▤","6","9","▤
+Secret of Rage
+Asura
+Rampage
+ลด เวลาร่าย ของ Rampage 2.5 วินาที เพิ่ม Rage Droplet Cap เป็น 10 และทำให้ Rampage สร้าง 10 หยดพร้อมกัน แต่ Blood of Rage ยังคงสร้างได้ไม่เกิน 5 หยด
+ไม่พบแหล่งดรอป"
+"1804","Vital Burst","TOME","Asura","[""Bloodburst""]","[""Bloodburst เพิ่ม ความเสียหายคริติคอล 50%""]","Bloodburst เพิ่ม ความเสียหายคริติคอล 50%","[]","NOT_LISTED","","","▤","6","10","▤
+Vital Burst
+Asura
+Bloodburst
+Bloodburst เพิ่ม ความเสียหายคริติคอล 50%
+ไม่พบแหล่งดรอป"
+"1805","Sustain Blood","TOME","Asura","[""Bloodseeker""]","[""ขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ""]","ขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ","[]","NOT_LISTED","","","▤","6","11","▤
+Sustain Blood
+Asura
+Bloodseeker
+ขณะ Bloodseeker ทำงาน ตีปกติต้นทางที่โดนมีโอกาสเรียก Bloodburst ตาม Rank ที่เรียน: มือเปล่า50%; Mace30%+2จุดเปอร์เซ็นต์ต่อ refine สูงสุด100%. ไม่มีคูลดาวน์ภายใน ไม่ใช้ MP/หยดเลือด ไม่กระทบคูลดาวน์กดเองและไม่กระตุ้นซ้ำ
+ไม่พบแหล่งดรอป"
+"1806","Hand of Abyss","TOME","Asura","[""Asura Palm""]","[""Asura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2""]","Asura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2","[""North Road""]","FOUND","","","▤","6","12","▤
+Hand of Abyss
+Asura
+Asura Palm
+Asura Palm ดาเมจแรงขึ้น 30% และมีระยะมากขึ้น 2
+North Road"
+"1807","Bomber Blood","TOME","Asura","[""Blood Bullet""]","[""Bloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง""]","Bloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง","[""Anima North Swamp 1""]","FOUND","","","▤","6","13","▤
+Bomber Blood
+Asura
+Blood Bullet
+Bloodbullet เมื่อโจมตีใส่เป้าหมายจะระเบิดอย่างรุนแรงกระจายความเสียหายออกไปรอบๆในระยะ 3 ช่อง
+Anima North Swamp 1"
+"1808","Heaven Break","TOME","Asura","[""Stone Breaker""]","[""Stone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)""]","Stone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)","[""Anima East Swamp 1""]","FOUND","","","▤","6","14","▤
+Heaven Break
+Asura
+Stone Breaker
+Stone Breaker เพิ่มรัศมีเป็น 7 และทำให้ Stun ระยะเวลา =2s (100% โอกาส)
+Anima East Swamp 1"
+"1901","Black in Black","TOME","Rogue","[""Dark Blade""]","[""เปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที""]","เปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที","[]","NOT_LISTED","","","▤","6","15","▤
+Black in Black
+Rogue
+Dark Blade
+เปลี่ยน Dark Blade จากบัฟตัวเองเป็นสกิลโจมตีเป้าหมายเดี่ยว ธาตุ Chaos ประเภท Physical ระยะ 2 ช่อง จำนวน 1 Hit ไม่มีคูลดาวน์ แต่มี Global After-cast Delay ตาม ASPD สูตรดาเมจ = (ATK × 1200%) × (10% + 10% × DarkBladeRank) และเมื่อตีโดนจะลด การฟื้นฟู HP ของเป้าหมาย 30% เป็นเวลา 3 วินาที
+ไม่พบแหล่งดรอป"
+"1902","Poison Coated","TOME","Rogue","[""Enchant Poison""]","[""ขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion""]","ขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion","[]","NOT_LISTED","","","▤","6","16","▤
+Poison Coated
+Rogue
+Enchant Poison
+ขณะ Enchant Poison ทำงาน การโจมตีปกติและสกิลกายภาพเปลี่ยนเป็น Poison แทนธาตุเดิม ไม่มีผลต่อเวทและ Minion
+ไม่พบแหล่งดรอป"
+"1903","Lunar Lover","TOME","Rogue","[""Lunar Step""]","[""Lunar Step ลดคูลดาวน์ลง 50%""]","Lunar Step ลดคูลดาวน์ลง 50%","[]","NOT_LISTED","","","▤","6","17","▤
+Lunar Lover
+Rogue
+Lunar Step
+Lunar Step ลดคูลดาวน์ลง 50%
+ไม่พบแหล่งดรอป"
+"1904","Death Shot","TOME","Rogue","[""Death Dealer""]","[""Death Dealer เพิ่มเป็น 5 hit""]","Death Dealer เพิ่มเป็น 5 hit","[]","NOT_LISTED","","","▤","6","18","▤
+Death Shot
+Rogue
+Death Dealer
+Death Dealer เพิ่มเป็น 5 hit
+ไม่พบแหล่งดรอป"
+"1905","Giant Zombie","TOME","Rogue","[""Raise Undead""]","[""Zombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%""]","Zombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%","[]","NOT_LISTED","","","▤","6","19","▤
+Giant Zombie
+Rogue
+Raise Undead
+Zombie จาก Raise Undead จะมีสถานะเป็น Giant ทำให้ HP สูงสุด +300%
+ไม่พบแหล่งดรอป"
+"1906","Chaos Cannon","TOME","Rogue","[""Chaosbolt""]","[""เมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล""]","เมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล","[]","NOT_LISTED","","","▤","6","20","▤
+Chaos Cannon
+Rogue
+Chaosbolt
+เมื่อสวม Tome จะเปลี่ยน Chaosbolt จากสกิลเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยมีศัตรูที่เลือกเป็นจุดศูนย์กลาง ศัตรูทุกตัวในพื้นที่ได้รับดาเมจ จำนวน Hit ธาตุ Chaos และ Chaos Weakness ตามผลเดิมของสกิล
+ไม่พบแหล่งดรอป"
+"2001","Decaying Armour","TOME","Assassin","[""Venomous Cross""]","[""Venomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที""]","Venomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที","[]","NOT_LISTED","","","▤","6","21","▤
+Decaying Armour
+Assassin
+Venomous Cross
+Venomous Cross ลด DEF 6% ต่อ Stack สูงสุด 5 Stack รวม 30% แยกผู้ร่าย เพิ่มซ้ำรีเฟรชกองของผู้ร่ายเดิมเป็น 3 วินาที
+ไม่พบแหล่งดรอป"
+"2002","Darkness Hand","TOME","Assassin","[""Shadow Strike""]","[""เพิ่มระยะใช้งาน Shadow Strike 2 ช่อง""]","เพิ่มระยะใช้งาน Shadow Strike 2 ช่อง","[]","NOT_LISTED","","","▤","6","22","▤
+Darkness Hand
+Assassin
+Shadow Strike
+เพิ่มระยะใช้งาน Shadow Strike 2 ช่อง
+ไม่พบแหล่งดรอป"
+"2003","Crimson Shadow","TOME","Assassin","[""Shadow Avatar""]","[""เพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้""]","เพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้","[]","NOT_LISTED","","","▤","6","23","▤
+Crimson Shadow
+Assassin
+Shadow Avatar
+เพิ่มโบนัสดาเมจสกิล Shadow Avatar 25% ไม่เพิ่มโอกาสเรียกเงาหรือดาเมจโจมตีปกติของผู้ใช้
+ไม่พบแหล่งดรอป"
+"2004","Deadly Poison","TOME","Assassin","[""Venomous Attack""]","[""พิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา""]","พิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา","[]","NOT_LISTED","","","▤","6","24","▤
+Deadly Poison
+Assassin
+Venomous Attack
+พิษจาก Venomous Attack อยู่ 7 วินาทีเมื่อเป้าหมายติด Poison Weakness ตอนติดพิษ หากไม่ติดยังอยู่ 5 วินาที เพิ่มฐานพิษรวมส่วน ATK ×1.65 ครั้งเดียว ไม่มีผลลดคูลดาวน์ แต่ละ Stack แยกเวลา
+ไม่พบแหล่งดรอป"
+"2005","Killing Zone","TOME","Assassin","[""Venomous Mist""]","[""Venomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว""]","Venomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว","[]","NOT_LISTED","","","▤","7","1","▤
+Killing Zone
+Assassin
+Venomous Mist
+Venomous Mist poisonbase เพิ่มความรุนแรงขึ้น 2 เท่า ตัวคูณ ×2 ใช้กับฐานพิษรวมทั้งส่วน ATK ใหม่ครั้งเดียว
+ไม่พบแหล่งดรอป"
+"2006","Death Maker","TOME","Assassin","[""Poison Accelerator""]","[""เมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank""]","เมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank","[]","NOT_LISTED","","","▤","7","2","▤
+Death Maker
+Assassin
+Poison Accelerator
+เมื่อสวม Tome จะเปลี่ยน Poison Accelerator จากดีบัฟเป้าหมายเดี่ยวเป็นสกิล Area รูปวงกลมรัศมี 5 ช่อง โดยเล็งศัตรูหนึ่งตัวเป็นจุดศูนย์กลางและกระจายผลออกรอบเป้าหมาย Poison Weakness ของศัตรูทุกตัวในพื้นที่เพิ่ม Poison ความเสียหายที่ได้รับ เป็น 8% × Rank
+ไม่พบแหล่งดรอป"
+"2007","Poison Tear","TOME","Assassin","[""Triple Dose""]","[""ลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%""]","ลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%","[]","NOT_LISTED","","","▤","7","3","▤
+Poison Tear
+Assassin
+Triple Dose
+ลด HP สูงสุด เป็น 40% เพิ่ม ATK /MATK 20%
+ไม่พบแหล่งดรอป"
+"2008","Don't Breath","TOME","Assassin","[""Smoking Toxin""]","[""ทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที""]","ทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที","[]","NOT_LISTED","","","▤","7","4","▤
+Don't Breath
+Assassin
+Smoking Toxin
+ทำให้เป้าหมายในพื้นที่ Smoking Toxin มีโอกาสได้รับ Anti-Life Toxin และ Silent Toxin 5% กระตุ้นผลทุก 1 วินาที
+ไม่พบแหล่งดรอป"
+"2101","Ricochet Shot","TOME","Night Walker","[""Rapid Shot""]","[""Rapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ""]","Rapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ","[]","NOT_LISTED","","","▤","7","5","▤
+Ricochet Shot
+Night Walker
+Rapid Shot
+Rapid Shot ชิ่งเพิ่มได้สูงสุด 3 เป้าหมาย ระยะค้นหา 2 ช่องจากเป้าหมายล่าสุด ทุกเป้าหมายที่ชิ่งได้รับครบทุก Hit ของสกิล โดยดาเมจต่อ Hit เท่ากับ 75%, 50% และ 25% ของ Hit ต้นฉบับตามลำดับ
+ไม่พบแหล่งดรอป"
+"2102","Barely Nake","TOME","Night Walker","[""Night Strip""]","[""Weakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที""]","Weakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที","[]","NOT_LISTED","","","▤","7","6","▤
+Barely Nake
+Night Walker
+Night Strip
+Weakness Exposed เพิ่มระยะเวลาเป็น 14 วินาที และลด Elemental Resistance ทุกธาตุยกเว้น Neutral 20% เป็นเวลา 14 วินาที
+ไม่พบแหล่งดรอป"
+"2103","Broken Arm","TOME","Night Walker","[""Brick and Bat""]","[""Weak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที""]","Weak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที","[]","NOT_LISTED","","","▤","7","7","▤
+Broken Arm
+Night Walker
+Brick and Bat
+Weak เพิ่มระยะเวลาเป็น 14 วินาที ASPD ลดลง 30% เป็นเวลา 14 วินาที
+ไม่พบแหล่งดรอป"
+"2104","Dark Flash","TOME","Night Walker","[""Shadow Cloak""]","[""Shadow Cloak ความเร็วเคลื่อนที่ + 20%""]","Shadow Cloak ความเร็วเคลื่อนที่ + 20%","[]","NOT_LISTED","","","▤","7","8","▤
+Dark Flash
+Night Walker
+Shadow Cloak
+Shadow Cloak ความเร็วเคลื่อนที่ + 20%
+ไม่พบแหล่งดรอป"
+"2105","Binding Life","TOME","Night Walker","[""Shadow Bind""]","[""Shadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind""]","Shadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind","[]","NOT_LISTED","","","▤","7","9","▤
+Binding Life
+Night Walker
+Shadow Bind
+Shadow Bind ส่งผลต่อศัตรูเพิ่ม 1 เป้าหมายภายในรัศมี 3 ช่องจากเป้าหมายหลัก หากตอนแรกไม่มีเป้าหมายรอง ศัตรูตัวแรกที่เข้ามาในรัศมีจะถูกจับและรีเฟรชระยะเวลาของ Shadow Bind
+ไม่พบแหล่งดรอป"
+"2106","Mana Chaos","TOME","Night Walker","[""Night Trap""]","[""Night Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)""]","Night Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)","[""Soloden East Forest 1""]","FOUND","","","▤","7","10","▤
+Mana Chaos
+Night Walker
+Night Trap
+Night Trap จะลด mana ของเป้าหมาย 10%/s และมานาที่เสียไปจะถูกนำมาคำนวณในดาเมจของ Night Trap ด้วย(ยิ่ง Mana เยอะยิ่งโดนแรง)
+Soloden East Forest 1"
+"2107","Gluttony","TOME","Night Walker","[""Chaos Devouring""]","[""Chaos Devouring speed +50% AoE + 3""]","Chaos Devouring speed +50% AoE + 3","[""Soloden South Forest 2""]","FOUND","","","▤","7","11","▤
+Gluttony
+Night Walker
+Chaos Devouring
+Chaos Devouring speed +50% AoE + 3
+Soloden South Forest 2"
+"2108","Fatal Strike","TOME","Night Walker","[""Chaotic Cut""]","[""Chaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%""]","Chaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%","[""Crossroad""]","FOUND","","","▤","7","12","▤
+Fatal Strike
+Night Walker
+Chaotic Cut
+Chaotic Cut: ความเสียหายคริติคอล +50%; อัตราคริติคอล +15%
+Crossroad"
+"10001","Tome of Experience","TOME","All","[""All""]","[""ได้รับโบนัสค่าประสบการณ์ 10%""]","ได้รับโบนัสค่าประสบการณ์ 10%","[]","NOT_LISTED","","","▤","7","13","▤
+Tome of Experience
+All
+All
+ได้รับโบนัสค่าประสบการณ์ 10%
+ไม่พบแหล่งดรอป"
+"10002","Tome of Rarity","TOME","All","[""All""]","[""โบนัสโอกาสดรอปไอเทม +5%""]","โบนัสโอกาสดรอปไอเทม +5%","[]","NOT_LISTED","","","▤","7","14","▤
+Tome of Rarity
+All
+All
+โบนัสโอกาสดรอปไอเทม +5%
+ไม่พบแหล่งดรอป"
+"10003","Tome of Gold","TOME","All","[""All""]","[""โบนัส Gold drop จากมอนสเตอร์ +10%""]","โบนัส Gold drop จากมอนสเตอร์ +10%","[]","NOT_LISTED","","","▤","7","15","▤
+Tome of Gold
+All
+All
+โบนัส Gold drop จากมอนสเตอร์ +10%
+ไม่พบแหล่งดรอป"
+"10004","Tome of Inteligence","TOME","All","[""All""]","[""INT+5""]","INT+5","[]","NOT_LISTED","","","▤","7","16","▤
+Tome of Inteligence
+All
+All
+INT+5
+ไม่พบแหล่งดรอป"
+"10005","Tome of Strength","TOME","All","[""All""]","[""STR+5""]","STR+5","[]","NOT_LISTED","","","▤","7","17","▤
+Tome of Strength
+All
+All
+STR+5
+ไม่พบแหล่งดรอป"
+"10006","Tome of Dexterity","TOME","All","[""All""]","[""DEX+5""]","DEX+5","[]","NOT_LISTED","","","▤","7","18","▤
+Tome of Dexterity
+All
+All
+DEX+5
+ไม่พบแหล่งดรอป"
+"10007","Tome of Agility","TOME","All","[""All""]","[""AGI+5""]","AGI+5","[]","NOT_LISTED","","","▤","7","19","▤
+Tome of Agility
+All
+All
+AGI+5
+ไม่พบแหล่งดรอป"
+"10008","Tome of Luck","TOME","All","[""All""]","[""LUK+5""]","LUK+5","[]","NOT_LISTED","","","▤","7","20","▤
+Tome of Luck
+All
+All
+LUK+5
+ไม่พบแหล่งดรอป"
+"10009","Tome of Vitality","TOME","All","[""All""]","[""VIT+5""]","VIT+5","[]","NOT_LISTED","","","▤","7","21","▤
+Tome of Vitality
+All
+All
+VIT+5
+ไม่พบแหล่งดรอป"

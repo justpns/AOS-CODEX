@@ -1,0 +1,2557 @@
+﻿"name","type","level","levelRequirement","cardSlots","atk","matk","bonuses","refineBonuses","dropAreas","imageUrl","imageFile","page","rawText"
+"Gale Edge","ดาบ","","ไม่จำกัดเลเวล","4","18","4","Air Slash Damage +15%","","North Road","https://ageofsylvanus.com/codex/assets/5a7868d15c425df9.webp","images/weapon_001.webp","1","Gale Edge
+ดาบ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+18
+MATK
+4
+Air Slash Damage +15%
+ไม่มีโบนัสครบชุด
+North Road"
+"Bastion Breaker","ดาบ","","ไม่จำกัดเลเวล","3","20","4","Shield Bash Damage +15% | Shield Bash Stun โอกาส +5%","","Snowland East Field 1","https://ageofsylvanus.com/codex/assets/c6bea4d9a467370f.webp","images/weapon_002.webp","1","Bastion Breaker
+ดาบ · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+20
+MATK
+4
+Shield Bash Damage +15%
+Shield Bash Stun โอกาส +5%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Dawnlight Sword","ดาบ","","ไม่จำกัดเลเวล","3","18","18","Holy Light Damage +15% | ความเสียหายธาตุศักดิ์สิทธิ์ +5%","","Snowland East Field 2","https://ageofsylvanus.com/codex/assets/ab8ba7dbf2fe3575.webp","images/weapon_003.webp","1","Dawnlight Sword
+ดาบ · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+18
+MATK
+18
+Holy Light Damage +15%
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Sword of the Fallen Oath","ดาบ","50","Lv. 50","3","26","30","Fallen Cross Damage +20% | ความเสียหายธาตุศักดิ์สิทธิ์ +5%","","Crystalland North Field 2","https://ageofsylvanus.com/codex/assets/9b826484cedac450.webp","images/weapon_004.webp","1","Sword of the Fallen Oath
+ดาบ · Lv. 50 · 3 ช่องการ์ด
+ATK
+26
+MATK
+30
+Fallen Cross Damage +20%
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Hemera's Radiant Cross","ดาบ","100","Lv. 100","2","34","40","Cross of Hemera Damage +15% | Cross of Hemera คูลดาวน์ -0.8s | ความเสียหายธาตุศักดิ์สิทธิ์ +5% | Cross of Hemera Damage +2% ต่อระดับตีบวก","Cross of Hemera Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/f309b6e9958124e8.webp","images/weapon_005.webp","1","Hemera's Radiant Cross
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+34
+MATK
+40
+Cross of Hemera Damage +15%
+Cross of Hemera คูลดาวน์ -0.8s
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+ต่อระดับตีบวก
+Cross of Hemera Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Luminous Templar Blade","ดาบ","50","Lv. 50","3","26","30","MATK +5% | ความเสียหายเวท +5% | ความเสียหายธาตุศักดิ์สิทธิ์ +5%","","Crystalland North Field 1","https://ageofsylvanus.com/codex/assets/22d55f2edc5dff78.webp","images/weapon_006.webp","1","Luminous Templar Blade
+ดาบ · Lv. 50 · 3 ช่องการ์ด
+ATK
+26
+MATK
+30
+MATK +5%
+ความเสียหายเวท +5%
+ความเสียหายธาตุศักดิ์สิทธิ์ +5%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Solarium Excalibur","ดาบ","100","Lv. 100","2","34","40","MATK +10% | ความเสียหายเวท +10% | ความเสียหายธาตุศักดิ์สิทธิ์ +10% | ความเสียหายเวท +2% ต่อระดับตีบวก","ความเสียหายเวท +2% ต่อระดับตีบวก","The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/09cf1756d246b342.webp","images/weapon_007.webp","1","Solarium Excalibur
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+34
+MATK
+40
+MATK +10%
+ความเสียหายเวท +10%
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+ต่อระดับตีบวก
+ความเสียหายเวท +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Aegisbound Sanctifier","ดาบ","100","Lv. 100","2","32","36","HP สูงสุด +10% | DEF / MDEF +10% | Elemental Resist +5% | DEF / MDEF +2% ต่อระดับตีบวก","DEF / MDEF +2% ต่อระดับตีบวก","The Falling Heaven 1 | The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/787d887f917aa1bb.webp","images/weapon_008.webp","1","Aegisbound Sanctifier
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+36
+HP สูงสุด +10%
+DEF / MDEF +10%
+Elemental Resist +5%
+ต่อระดับตีบวก
+DEF / MDEF +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1
+The Falling Heaven 2"
+"Adventure Sword","ดาบ","1","Lv. 1","4","10","5","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/955c29ee50a931fc.webp","images/weapon_009.webp","1","Adventure Sword
+ดาบ · Lv. 1 · 4 ช่องการ์ด
+ATK
+10
+MATK
+5
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Greenfield Sword","ดาบ","","ไม่จำกัดเลเวล","4","16","10","ความเสียหายกายภาพ +5%","","Ruin Desert 1","https://ageofsylvanus.com/codex/assets/ea18608b72a2d1e2.webp","images/weapon_010.webp","1","Greenfield Sword
+ดาบ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+16
+MATK
+10
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Ruin Desert 1"
+"Atlas’s Masterwork Blade","ดาบ","100","Lv. 100","2","46","46","ATK +10% / MATK +10% | ความเสียหายระยะประชิด +10% | ความเสียหายเวท +10% | ATK / MATK +2 ต่อระดับตีบวก","ATK / MATK +2 ต่อระดับตีบวก","Atlas's Workshop","https://ageofsylvanus.com/codex/assets/ccd1312715487cfb.webp","images/weapon_011.webp","1","Atlas’s Masterwork Blade
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+46
+MATK
+46
+ATK +10% / MATK +10%
+ความเสียหายระยะประชิด +10%
+ความเสียหายเวท +10%
+ต่อระดับตีบวก
+ATK / MATK +2 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Sunforge Brand","ดาบ","100","Lv. 100","2","38","32","Weapon Element: Fire | Shield Bash Damage +20%; ความเสียหายธาตุไฟ +10% | Damage to Ignited Targets +15% | Shield Bash Damage +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","Shield Bash Damage +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","The Volcano 1","https://ageofsylvanus.com/codex/assets/bd452a67efc9f111.webp","images/weapon_012.webp","1","Sunforge Brand
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+38
+MATK
+32
+Weapon Element: Fire
+Shield Bash Damage +20%; ความเสียหายธาตุไฟ +10%
+Damage to Ignited Targets +15%
+ต่อระดับตีบวก
+Shield Bash Damage +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage
+Ignite โอกาส +5% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Bloodrend Greatsword","ดาบ","100","Lv. 100","3","75","24","ATK +10% | Bleeding ความเสียหายจากสถานะผิดปกติ +40% | Bleeding ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก","Bleeding ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก","The Lost Island 2","","","1","⚔
+Bloodrend Greatsword
+ดาบ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+24
+ATK +10%
+Bleeding ความเสียหายจากสถานะผิดปกติ +40%
+ต่อระดับตีบวก
+Bleeding ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Mutineer’s Cutlass","ดาบ","100","Lv. 100","2","36","14","STR +5 | ASPD +15% | On direct physical hit: target DEF / MDEF -10% for 5s (Boss: -5%); does not stack","","Sunken Ship 2","","","1","⚔
+Mutineer’s Cutlass
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+14
+STR +5
+ASPD +15%
+On direct physical hit: target DEF / MDEF -10% for 5s (Boss: -5%); does not stack
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Kingsguard Frostblade","ดาบ","100","Lv. 100","2","40","60","ASPD +15% | MATK +10% | On Hit: 1% โอกาส ต่อระดับตีบวก to cast Freezing Field Rank 6","On Hit: 1% โอกาส ต่อระดับตีบวก to cast Freezing Field Rank 6","The Ancient Battlefield","","","1","⚔
+Kingsguard Frostblade
+ดาบ · Lv. 100 · 2 ช่องการ์ด
+ATK
+40
+MATK
+60
+ASPD +15%
+MATK +10%
+ต่อระดับตีบวก
+On Hit: 1% โอกาส ต่อระดับตีบวก to cast Freezing Field Rank 6
+ไม่มีโบนัสครบชุด
+The Ancient Battlefield"
+"Stormpiercer","หอก","","ไม่จำกัดเลเวล","4","20","2","Spear Pierce Damage +15%","","Yggdra North Forest 2","https://ageofsylvanus.com/codex/assets/b04f889bfd78d514.webp","images/weapon_013.webp","1","Stormpiercer
+หอก · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+20
+MATK
+2
+Spear Pierce Damage +15%
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 2"
+"Wildhunt Lance","หอก","","ไม่จำกัดเลเวล","3","19","3","Hunting Spear Damage +15% | Hunting Spear Range +1","","Yggdra East Forest 1","https://ageofsylvanus.com/codex/assets/45f802b29679e78e.webp","images/weapon_014.webp","1","Wildhunt Lance
+หอก · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+19
+MATK
+3
+Hunting Spear Damage +15%
+Hunting Spear Range +1
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 1"
+"Silverwing Javelin","หอก","50","Lv. 50","3","28","12","ความเร็วโจมตี +10% | ความเสียหายคริติคอล +15% | Spear Throw Damage +10%","","Yggdra South Forest 2 | Yggdra South Forest 1","https://ageofsylvanus.com/codex/assets/7801a844e2bc3d68.webp","images/weapon_015.webp","1","Silverwing Javelin
+หอก · Lv. 50 · 3 ช่องการ์ด
+ATK
+28
+MATK
+12
+ความเร็วโจมตี +10%
+ความเสียหายคริติคอล +15%
+Spear Throw Damage +10%
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2
+Yggdra South Forest 1"
+"Suncrest Vanguard","หอก","50","Lv. 50","3","30","10","ATK +5% | ความเร็วโจมตี +10% | อัตราคริติคอล +10","","Crystalland North Field 2","https://ageofsylvanus.com/codex/assets/331b5f71d4410f14.webp","images/weapon_016.webp","1","Suncrest Vanguard
+หอก · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+10
+ATK +5%
+ความเร็วโจมตี +10%
+อัตราคริติคอล +10
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Dominus War Lance","หอก","100","Lv. 100","2","40","16","ATK +15% | ความเสียหายกายภาพ +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","The Grand Smelter 1","https://ageofsylvanus.com/codex/assets/e5d2d72b7da6b6bb.webp","images/weapon_017.webp","1","Dominus War Lance
+หอก · Lv. 100 · 2 ช่องการ์ด
+ATK
+40
+MATK
+16
+ATK +15%
+ความเสียหายกายภาพ +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Spear of the Radiant Cross","หอก","100","Lv. 100","2","38","18","Cross Spear Damage +20% | ความเสียหายธาตุศักดิ์สิทธิ์ +10% | ละเลย DEF +10% | Cross Spear Damage +2% ต่อระดับตีบวก","Cross Spear Damage +2% ต่อระดับตีบวก","The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/369923f0935929f6.webp","images/weapon_018.webp","1","Spear of the Radiant Cross
+หอก · Lv. 100 · 2 ช่องการ์ด
+ATK
+38
+MATK
+18
+Cross Spear Damage +20%
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+ละเลย DEF +10%
+ต่อระดับตีบวก
+Cross Spear Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Adventurer Spear","หอก","1","Lv. 1","4","20","3","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/e06175104e4fce3f.webp","images/weapon_019.webp","1","Adventurer Spear
+หอก · Lv. 1 · 4 ช่องการ์ด
+ATK
+20
+MATK
+3
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Meadowlance","หอก","","ไม่จำกัดเลเวล","4","31","7","ความเสียหายกายภาพ +5%","","Hemeralis East Field 2","https://ageofsylvanus.com/codex/assets/dbf7435f1517841b.webp","images/weapon_020.webp","1","Meadowlance
+หอก · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+31
+MATK
+7
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 2"
+"Spear of Perfect Alignment","หอก","100","Lv. 100","2","54","18","ATK +10% | ความเสียหายกายภาพ +10% | อัตราคริติคอล +10% | ละเลย DEF +1% ต่อระดับตีบวก","ละเลย DEF +1% ต่อระดับตีบวก","Atlas's Workshop","https://ageofsylvanus.com/codex/assets/d5ee11f94087641f.webp","images/weapon_021.webp","1","Spear of Perfect Alignment
+หอก · Lv. 100 · 2 ช่องการ์ด
+ATK
+54
+MATK
+18
+ATK +10%
+ความเสียหายกายภาพ +10%
+อัตราคริติคอล +10%
+ต่อระดับตีบวก
+ละเลย DEF +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Lance of the Magma Wyrm","หอก","100","Lv. 100","3","75","20","Weapon Element: Fire | Spear Throw Damage +20%; ความเสียหายธาตุไฟ +10% | ความเสียหายคริติคอล +20% | Spear Throw Damage +2% ต่อระดับตีบวก","Spear Throw Damage +2% ต่อระดับตีบวก","The Volcano 1","https://ageofsylvanus.com/codex/assets/ada80deab55865af.webp","images/weapon_022.webp","2","Lance of the Magma Wyrm
+หอก · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+20
+Weapon Element: Fire
+Spear Throw Damage +20%; ความเสียหายธาตุไฟ +10%
+ความเสียหายคริติคอล +20%
+ต่อระดับตีบวก
+Spear Throw Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Wintermarch Lance","หอก","100","Lv. 100","2","58","20","Cross Spear Chain +1 | ASPD +20% | Critical โอกาส +2% ต่อระดับตีบวก","Critical โอกาส +2% ต่อระดับตีบวก","The Ancient Battlefield","","","2","⚔
+Wintermarch Lance
+หอก · Lv. 100 · 2 ช่องการ์ด
+ATK
+58
+MATK
+20
+Cross Spear Chain +1
+ASPD +20%
+ต่อระดับตีบวก
+Critical โอกาส +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Ancient Battlefield"
+"Pilgrim's Arcane Scripture","คัมภีร์","","ไม่จำกัดเลเวล","3","6","28","MATK +10% | ความเร็วร่าย +10%","","Soloden East Forest 2","https://ageofsylvanus.com/codex/assets/3d8b6a49d6472ee6.webp","images/weapon_023.webp","2","Pilgrim's Arcane Scripture
+คัมภีร์ · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+6
+MATK
+28
+MATK +10%
+ความเร็วร่าย +10%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Gospel of the First Light","คัมภีร์","","ไม่จำกัดเลเวล","3","6","29","Holy Light Damage +20% | ความเสียหายธาตุศักดิ์สิทธิ์ +10%","","Snowland East Field 2","https://ageofsylvanus.com/codex/assets/6ad77b24467d6fa4.webp","images/weapon_024.webp","2","Gospel of the First Light
+คัมภีร์ · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+6
+MATK
+29
+Holy Light Damage +20%
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Codex of Abundant Grace","คัมภีร์","50","Lv. 50","3","10","35","High Heal Healing +20% | Healing +10% | INT +5","","Crystalland North Field 1","https://ageofsylvanus.com/codex/assets/d70d525a6e7828ff.webp","images/weapon_025.webp","2","Codex of Abundant Grace
+คัมภีร์ · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+35
+High Heal Healing +20%
+Healing +10%
+INT +5
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Radiant Psalter","คัมภีร์","50","Lv. 50","3","10","36","ความเสียหายธาตุศักดิ์สิทธิ์ +10% | MATK +10% | ความเร็วร่าย +15%","","Snowland East Field 1","https://ageofsylvanus.com/codex/assets/926aae8f46710555.webp","images/weapon_026.webp","2","Radiant Psalter
+คัมภีร์ · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+36
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+MATK +10%
+ความเร็วร่าย +15%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Scripture of the Swift Prayer","คัมภีร์","50","Lv. 50","3","15","32","ASPD +20% | ASPD Limit +1 | MATK +10%","","Crystalland North Field 2","https://ageofsylvanus.com/codex/assets/b01afd4ef3223f2c.webp","images/weapon_027.webp","2","Scripture of the Swift Prayer
+คัมภีร์ · Lv. 50 · 3 ช่องการ์ด
+ATK
+15
+MATK
+32
+ASPD +20%
+ASPD Limit +1
+MATK +10%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Archbishop's Grand Testament","คัมภีร์","100","Lv. 100","2","14","46","MATK +10% | ความเสียหายเวท +10% | INT +8 | ความเสียหายเวท +2% ต่อระดับตีบวก","ความเสียหายเวท +2% ต่อระดับตีบวก","The Shattering Crystal 1","https://ageofsylvanus.com/codex/assets/7fffd1d0113a22bf.webp","images/weapon_028.webp","2","Archbishop's Grand Testament
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+46
+MATK +10%
+ความเสียหายเวท +10%
+INT +8
+ต่อระดับตีบวก
+ความเสียหายเวท +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Sanctuary of the Living Gospel","คัมภีร์","100","Lv. 100","2","14","44","Sanctuary Healing +20% | Sanctuary เวลาร่าย -2s | Sanctuary Area +1 | Sanctuary Healing +2% ต่อระดับตีบวก","Sanctuary Healing +2% ต่อระดับตีบวก","The Falling Heaven 1","https://ageofsylvanus.com/codex/assets/01bc3039d0ab8299.webp","images/weapon_029.webp","2","Sanctuary of the Living Gospel
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Sanctuary Healing +20%
+Sanctuary เวลาร่าย -2s
+Sanctuary Area +1
+ต่อระดับตีบวก
+Sanctuary Healing +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1"
+"Lux Castrum Illuminated Codex","คัมภีร์","100","Lv. 100","2","14","44","Lux Castrum Damage +20% | ความเสียหายธาตุศักดิ์สิทธิ์ +10% | Lux Castrum Area +1 | Lux Castrum Damage +2% ต่อระดับตีบวก","Lux Castrum Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/9dca6144e0beaee5.webp","images/weapon_030.webp","2","Lux Castrum Illuminated Codex
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Lux Castrum Damage +20%
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+Lux Castrum Area +1
+ต่อระดับตีบวก
+Lux Castrum Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Heavenfall Scripture","คัมภีร์","100","Lv. 100","2","14","45","Divine Descend Damage +20% | Divine Descend คูลดาวน์ -1s | ความเสียหายธาตุศักดิ์สิทธิ์ +10% | Divine Descend Damage +2% ต่อระดับตีบวก","Divine Descend Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/54185ac350764836.webp","images/weapon_031.webp","2","Heavenfall Scripture
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+45
+Divine Descend Damage +20%
+Divine Descend คูลดาวน์ -1s
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+ต่อระดับตีบวก
+Divine Descend Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Judicator's Smite Bible","คัมภีร์","100","Lv. 100","2","24","40","Smite Damage +20% | Smite Stun โอกาส +10% | ASPD +15% | Smite Damage +2% ต่อระดับตีบวก","Smite Damage +2% ต่อระดับตีบวก","The Shattering Crystal 2","https://ageofsylvanus.com/codex/assets/b3647f0302bd0517.webp","images/weapon_032.webp","2","Judicator's Smite Bible
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+24
+MATK
+40
+Smite Damage +20%
+Smite Stun โอกาส +10%
+ASPD +15%
+ต่อระดับตีบวก
+Smite Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Codex of the Unbroken Prayer","คัมภีร์","100","Lv. 100","2","12","44","Purify คูลดาวน์ -3s | Cleanse คูลดาวน์ -1s | ความเร็วร่าย +20% | Support คูลดาวน์ Recovery +2% ต่อระดับตีบวก","Support คูลดาวน์ Recovery +2% ต่อระดับตีบวก","The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/0833bdbfbc020d31.webp","images/weapon_033.webp","2","Codex of the Unbroken Prayer
+คัมภีร์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+12
+MATK
+44
+Purify คูลดาวน์ -3s
+Cleanse คูลดาวน์ -1s
+ความเร็วร่าย +20%
+ต่อระดับตีบวก
+Support คูลดาวน์ Recovery +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Adventurer Bible","คัมภีร์","1","Lv. 1","4","5","10","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/be9d7bf49ea4943e.webp","images/weapon_034.webp","2","Adventurer Bible
+คัมภีร์ · Lv. 1 · 4 ช่องการ์ด
+ATK
+5
+MATK
+10
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Fieldbound Scripture","คัมภีร์","","ไม่จำกัดเลเวล","4","10","16","ความเสียหายเวท +5%","","Hemeralis West Field 1","https://ageofsylvanus.com/codex/assets/f8f609f0b333f90a.webp","images/weapon_035.webp","2","Fieldbound Scripture
+คัมภีร์ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+10
+MATK
+16
+ความเสียหายเวท +5%
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 1"
+"Galeheart Twinbow","ธนู","","ไม่จำกัดเลเวล","4","32","7","Double Shot Damage +10% | Arrow of the ความเสียหายธาตุลม +10% | ความเสียหายธาตุลม +5%","","Yggdra North Forest 2","https://ageofsylvanus.com/codex/assets/421010b1073040bd.webp","images/weapon_036.webp","2","Galeheart Twinbow
+ธนู · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+32
+MATK
+7
+Double Shot Damage +10%
+Arrow of the ความเสียหายธาตุลม +10%
+ความเสียหายธาตุลม +5%
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 2"
+"Glassbreaker Bow","ธนู","","ไม่จำกัดเลเวล","4","34","3","Shatter Arrow Damage +15% | Shatter Arrow AoE Radius +1","","Yggdra East Forest 1","https://ageofsylvanus.com/codex/assets/da9c63d520ec17f4.webp","images/weapon_037.webp","2","Glassbreaker Bow
+ธนู · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+34
+MATK
+3
+Shatter Arrow Damage +15%
+Shatter Arrow AoE Radius +1
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 1"
+"Cyclone Spiralbow","ธนู","","ไม่จำกัดเลเวล","4","34","7","Spiral Shot Damage +15% | ความเสียหายธาตุลม +5%","","Yggdra East Forest 2","https://ageofsylvanus.com/codex/assets/32c313548b80e4b0.webp","images/weapon_038.webp","2","Cyclone Spiralbow
+ธนู · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+34
+MATK
+7
+Spiral Shot Damage +15%
+ความเสียหายธาตุลม +5%
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 2"
+"Stormline Repeater","ธนู","50","Lv. 50","4","49","10","Arrow Barrage Damage +15% | ความเสียหายระยะไกล +5%","","Snowland West Field 2","https://ageofsylvanus.com/codex/assets/bb2549e513448ad6.webp","images/weapon_039.webp","2","Stormline Repeater
+ธนู · Lv. 50 · 4 ช่องการ์ด
+ATK
+49
+MATK
+10
+Arrow Barrage Damage +15%
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Ironwood Warbow","ธนู","50","Lv. 50","4","53","7","ATK +5% | ความเสียหายระยะไกล +10% | ความเสียหายคริติคอล +10%","","Yggdra South Forest 2","https://ageofsylvanus.com/codex/assets/3ae194685892a2c3.webp","images/weapon_040.webp","2","Ironwood Warbow
+ธนู · Lv. 50 · 4 ช่องการ์ด
+ATK
+53
+MATK
+7
+ATK +5%
+ความเสียหายระยะไกล +10%
+ความเสียหายคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2"
+"Beastbond Greatbow","ธนู","50","Lv. 50","4","48","24","STR +5 | INT +5 | ความเสียหายของมินเนียน +15%","","Soloden East Forest 2","https://ageofsylvanus.com/codex/assets/1b5d454169f9b1ae.webp","images/weapon_041.webp","2","Beastbond Greatbow
+ธนู · Lv. 50 · 4 ช่องการ์ด
+ATK
+48
+MATK
+24
+STR +5
+INT +5
+ความเสียหายของมินเนียน +15%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Tempest Crown Bow","ธนู","100","Lv. 100","3","65","17","Arrow Storm Damage +20% | Arrow Storm คูลดาวน์ -1s | ความเสียหายระยะไกล +5% | Arrow Storm Damage +2% ต่อระดับตีบวก","Arrow Storm Damage +2% ต่อระดับตีบวก","The Shattering Crystal 2","https://ageofsylvanus.com/codex/assets/52c82d3332c08d1d.webp","images/weapon_042.webp","2","Tempest Crown Bow
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+65
+MATK
+17
+Arrow Storm Damage +20%
+Arrow Storm คูลดาวน์ -1s
+ความเสียหายระยะไกล +5%
+ต่อระดับตีบวก
+Arrow Storm Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Far Horizon","ธนู","100","Lv. 100","3","66","10","Focus Aimed Damage +15% | ความเสียหายคริติคอล +20% | Attack Range +1 | Focus Aimed เวลาร่าย -1s | Focus Aimed Damage +2% ต่อระดับตีบวก","Focus Aimed Damage +2% ต่อระดับตีบวก","The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/ddaf53b40b332f2d.webp","images/weapon_043.webp","2","Far Horizon
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+66
+MATK
+10
+Focus Aimed Damage +15%
+ความเสียหายคริติคอล +20%
+Attack Range +1
+Focus Aimed เวลาร่าย -1s
+ต่อระดับตีบวก
+Focus Aimed Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Titanstring Warbow","ธนู","100","Lv. 100","3","71","7","ATK +15% | ความเสียหายระยะไกล +10% | ความเสียหายกายภาพ +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","The Falling Heaven 1 | The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/ecf33fe27447dd45.webp","images/weapon_044.webp","2","Titanstring Warbow
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+7
+ATK +15%
+ความเสียหายระยะไกล +10%
+ความเสียหายกายภาพ +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1
+The Falling Heaven 2"
+"Bloodfang Pactbow","ธนู","100","Lv. 100","3","61","10","Warg Attack / Warg Fang Damage +20% | อัตราคริติคอล +15 | ความเร็วโจมตี +15% | Warg Attack / Warg Fang Damage +2% ต่อระดับตีบวก","Warg Attack / Warg Fang Damage +2% ต่อระดับตีบวก","The Burrow 3","https://ageofsylvanus.com/codex/assets/1dc0bca7f2e30d63.webp","images/weapon_045.webp","3","Bloodfang Pactbow
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+61
+MATK
+10
+Warg Attack / Warg Fang Damage +20%
+อัตราคริติคอล +15
+ความเร็วโจมตี +15%
+ต่อระดับตีบวก
+Warg Attack / Warg Fang Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Burrow 3"
+"Astral Owlwing","ธนู","100","Lv. 100","3","51","41","INT +10 | Owl's Feather / Owl's Storm Damage +20% | Owl's Storm คูลดาวน์ -1s | Owl's Feather / Owl's Storm Damage +2% ต่อระดับตีบวก","Owl's Feather / Owl's Storm Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/ff1fce0e55878367.webp","images/weapon_046.webp","3","Astral Owlwing
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+51
+MATK
+41
+INT +10
+Owl's Feather / Owl's Storm Damage +20%
+Owl's Storm คูลดาวน์ -1s
+ต่อระดับตีบวก
+Owl's Feather / Owl's Storm Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Ranger Bow","ธนู","1","Lv. 1","4","19","3","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/98d113218c89bf44.webp","images/weapon_047.webp","3","Ranger Bow
+ธนู · Lv. 1 · 4 ช่องการ์ด
+ATK
+19
+MATK
+3
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Willowbranch Bow","ธนู","","ไม่จำกัดเลเวล","4","29","7","ความเสียหายระยะไกล +5%","","Ruin Desert 1","https://ageofsylvanus.com/codex/assets/f1f3e41c74dc680e.webp","images/weapon_048.webp","3","Willowbranch Bow
+ธนู · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+29
+MATK
+7
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Ruin Desert 1"
+"Crimson Hunt Bow","ธนู","100","Lv. 100","3","65","17","อัตราคริติคอล +10% | Bleeding ระยะเวลา +30% | Direct attack ความเสียหายต่อ Bleeding targets +10%, +1% ต่อระดับตีบวก","Direct attack ความเสียหายต่อ Bleeding targets +10%, +1% ต่อระดับตีบวก","The Lost Island 2","","","3","⚔
+Crimson Hunt Bow
+ธนู · Lv. 100 · 3 ช่องการ์ด
+ATK
+65
+MATK
+17
+อัตราคริติคอล +10%
+Bleeding ระยะเวลา +30%
+ต่อระดับตีบวก
+Direct attack ความเสียหายต่อ Bleeding targets +10%, +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Whisperwind Lute","พิณ","","ไม่จำกัดเลเวล","3","5","18","Smooth Melody Damage +10% | Song of the ความเสียหายธาตุลม +10% | ความเสียหายธาตุลม +5%","","Yggdra East Forest 2","https://ageofsylvanus.com/codex/assets/cf26a61b8beb462c.webp","images/weapon_049.webp","3","Whisperwind Lute
+พิณ · ไม่จำกัดเลเวล · 3 ช่องการ์ด
+ATK
+5
+MATK
+18
+Smooth Melody Damage +10%
+Song of the ความเสียหายธาตุลม +10%
+ความเสียหายธาตุลม +5%
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 2"
+"Tempest Chord Lyre","พิณ","50","Lv. 50","3","10","30","Sonic Tempest Damage +15% | ความเสียหายธาตุลม +5% | Sonic Tempest Silence โอกาส +5%","","Yggdra South Forest 2","https://ageofsylvanus.com/codex/assets/bd76fbf08739d316.webp","images/weapon_050.webp","3","Tempest Chord Lyre
+พิณ · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+30
+Sonic Tempest Damage +15%
+ความเสียหายธาตุลม +5%
+Sonic Tempest Silence โอกาส +5%
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2"
+"Arcane Resonance Lute","พิณ","50","Lv. 50","3","8","32","MATK +10% | ความเสียหายเวท +10% | ความเร็วร่าย +10%","","Crystalland West Field 1","https://ageofsylvanus.com/codex/assets/11b31ec4ab643dd1.webp","images/weapon_051.webp","3","Arcane Resonance Lute
+พิณ · Lv. 50 · 3 ช่องการ์ด
+ATK
+8
+MATK
+32
+MATK +10%
+ความเสียหายเวท +10%
+ความเร็วร่าย +10%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 1"
+"Echoes Without End","พิณ","100","Lv. 100","2","12","40","Voice Echo Damage +20% | Voice Echo MP Cost -10% | Voice Echo AoE Radius +1 | Voice Echo Damage +2% ต่อระดับตีบวก","Voice Echo Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/05927a17aadbb907.webp","images/weapon_052.webp","3","Echoes Without End
+พิณ · Lv. 100 · 2 ช่องการ์ด
+ATK
+12
+MATK
+40
+Voice Echo Damage +20%
+Voice Echo MP Cost -10%
+Voice Echo AoE Radius +1
+ต่อระดับตีบวก
+Voice Echo Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Finale of the Last Star","พิณ","100","Lv. 100","2","14","42","Symphony of The End Damage +20% | Symphony of The End คูลดาวน์ -0.5s | ความเสียหายเวท +5% | Symphony of The End Damage +2% ต่อระดับตีบวก","Symphony of The End Damage +2% ต่อระดับตีบวก","The Falling Heaven 1","https://ageofsylvanus.com/codex/assets/8dca07f89a41111b.webp","images/weapon_053.webp","3","Finale of the Last Star
+พิณ · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+42
+Symphony of The End Damage +20%
+Symphony of The End คูลดาวน์ -0.5s
+ความเสียหายเวท +5%
+ต่อระดับตีบวก
+Symphony of The End Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1"
+"Archon's Grand Harp","พิณ","100","Lv. 100","2","8","46","MATK +20% | MATK +2% ต่อระดับตีบวก","MATK +2% ต่อระดับตีบวก","The Falling Heaven 1 | The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/9fe7549d03c5e1ff.webp","images/weapon_054.webp","3","Archon's Grand Harp
+พิณ · Lv. 100 · 2 ช่องการ์ด
+ATK
+8
+MATK
+46
+MATK +20%
+ต่อระดับตีบวก
+MATK +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1
+The Falling Heaven 2"
+"Covenant of the Golden Choir","พิณ","100","Lv. 100","2","8","38","DEF / MDEF +10% | Buff / Debuff Effect +15% | Aura Effect +15% | Support Effect +2% ต่อระดับตีบวก","Support Effect +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/95ec4aff60dc5300.webp","images/weapon_055.webp","3","Covenant of the Golden Choir
+พิณ · Lv. 100 · 2 ช่องการ์ด
+ATK
+8
+MATK
+38
+DEF / MDEF +10%
+Buff / Debuff Effect +15%
+Aura Effect +15%
+ต่อระดับตีบวก
+Support Effect +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Ranger Lute","พิณ","1","Lv. 1","4","9","17","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/bd3475cc92eb2e9d.webp","images/weapon_056.webp","3","Ranger Lute
+พิณ · Lv. 1 · 4 ช่องการ์ด
+ATK
+9
+MATK
+17
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Meadowlark Lute","พิณ","","ไม่จำกัดเลเวล","4","17","27","ความเสียหายเวท +5%","","Hemeralis West Field 2","https://ageofsylvanus.com/codex/assets/98fcdba59fbbfc92.webp","images/weapon_057.webp","3","Meadowlark Lute
+พิณ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+17
+MATK
+27
+ความเสียหายเวท +5%
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 2"
+"Ashen Comet Staff","คทา","1","Lv. 1","3","6","28","ความเสียหายธาตุไฟ +10% | Firebolt Damage +20%","","North Road","https://ageofsylvanus.com/codex/assets/31bc29d0a22a7487.webp","images/weapon_058.webp","3","Ashen Comet Staff
+คทา · Lv. 1 · 3 ช่องการ์ด
+ATK
+6
+MATK
+28
+ความเสียหายธาตุไฟ +10%
+Firebolt Damage +20%
+ไม่มีโบนัสครบชุด
+North Road"
+"Frosttide Staff","คทา","1","Lv. 1","3","6","28","ความเสียหายธาตุน้ำ +10% | Coldbolt Damage +20%","","Anima East Swamp 2","https://ageofsylvanus.com/codex/assets/73064a14cabd5aed.webp","images/weapon_059.webp","3","Frosttide Staff
+คทา · Lv. 1 · 3 ช่องการ์ด
+ATK
+6
+MATK
+28
+ความเสียหายธาตุน้ำ +10%
+Coldbolt Damage +20%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 2"
+"Zephyrbranch Staff","คทา","1","Lv. 1","3","6","28","ความเสียหายธาตุลม +10% | Lightningbolt Damage +20%","","Hemeralis East Field 2","https://ageofsylvanus.com/codex/assets/da734b20c42754e3.webp","images/weapon_060.webp","3","Zephyrbranch Staff
+คทา · Lv. 1 · 3 ช่องการ์ด
+ATK
+6
+MATK
+28
+ความเสียหายธาตุลม +10%
+Lightningbolt Damage +20%
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 2"
+"Stoneheart Staff","คทา","1","Lv. 1","3","6","28","ความเสียหายธาตุดิน +10% | Earthbolt Damage +20%","","Anima East Swamp 1","https://ageofsylvanus.com/codex/assets/e3e0d413a7ddf293.webp","images/weapon_061.webp","3","Stoneheart Staff
+คทา · Lv. 1 · 3 ช่องการ์ด
+ATK
+6
+MATK
+28
+ความเสียหายธาตุดิน +10%
+Earthbolt Damage +20%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 1"
+"Sage's Arcane Staff","คทา","1","Lv. 1","3","8","31","MATK +10% | ความเร็วร่าย +10%","","Anima North Swamp 1","https://ageofsylvanus.com/codex/assets/4c7dbd47b99a7fc2.webp","images/weapon_062.webp","3","Sage's Arcane Staff
+คทา · Lv. 1 · 3 ช่องการ์ด
+ATK
+8
+MATK
+31
+MATK +10%
+ความเร็วร่าย +10%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 1"
+"Pillar of the Crimson Sun","คทา","50","Lv. 50","3","10","35","Flame Pillar Damage +20% | Fire Ball Damage +20% | ความเสียหายธาตุไฟ +10%","","Ancient Pyramid 1","https://ageofsylvanus.com/codex/assets/7a03481c55b77f01.webp","images/weapon_063.webp","3","Pillar of the Crimson Sun
+คทา · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+35
+Flame Pillar Damage +20%
+Fire Ball Damage +20%
+ความเสียหายธาตุไฟ +10%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Zephyrous Arcstaff","คทา","50","Lv. 50","3","10","35","Ark Lightning Damage +20% | Zephyrous Wing คูลดาวน์ -2s | ความเสียหายธาตุลม +10%","","Crystalland North Field 2","https://ageofsylvanus.com/codex/assets/069d68bccd88c7f7.webp","images/weapon_064.webp","3","Zephyrous Arcstaff
+คทา · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+35
+Ark Lightning Damage +20%
+Zephyrous Wing คูลดาวน์ -2s
+ความเสียหายธาตุลม +10%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Scepter of the Frozen Sea","คทา","50","Lv. 50","3","10","35","Breath of Ocean Damage +20% | Winter Storm Damage +20% | ความเสียหายธาตุน้ำ +10%","","Crystalland West Field 2","https://ageofsylvanus.com/codex/assets/880aa4c91977f42c.webp","images/weapon_065.webp","3","Scepter of the Frozen Sea
+คทา · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+35
+Breath of Ocean Damage +20%
+Winter Storm Damage +20%
+ความเสียหายธาตุน้ำ +10%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 2"
+"Atlas Petrifying Staff","คทา","50","Lv. 50","3","10","35","Wall of Atlas Damage +20% | Stone Curse โอกาส +10 percentage points | ความเสียหายธาตุดิน +10%","","Crystalland West Field 1","https://ageofsylvanus.com/codex/assets/65e17934e195f5cd.webp","images/weapon_066.webp","3","Atlas Petrifying Staff
+คทา · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+35
+Wall of Atlas Damage +20%
+Stone Curse โอกาส +10 percentage points
+ความเสียหายธาตุดิน +10%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 1"
+"High Arcanist Staff","คทา","50","Lv. 50","3","10","37","MATK +10% | ความเสียหายเวท +10% | ความเร็วร่าย +15%","","Crystalland North Field 1","https://ageofsylvanus.com/codex/assets/8c5a31b2487338fe.webp","images/weapon_067.webp","3","High Arcanist Staff
+คทา · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+37
+MATK +10%
+ความเสียหายเวท +10%
+ความเร็วร่าย +15%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Crown of the Falling Stars","คทา","100","Lv. 100","2","14","44","Meteor Storm Damage +20% | ความเสียหายธาตุไฟ +10% | Meteor Storm Damage +2% ต่อระดับตีบวก","Meteor Storm Damage +2% ต่อระดับตีบวก","The Falling Heaven 1","https://ageofsylvanus.com/codex/assets/49eed24453d1647b.webp","images/weapon_068.webp","4","Crown of the Falling Stars
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Meteor Storm Damage +20%
+ความเสียหายธาตุไฟ +10%
+ต่อระดับตีบวก
+Meteor Storm Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1"
+"Heart of the Eternal Winter","คทา","100","Lv. 100","2","14","44","Freezing Field Damage +20% | ความเสียหายธาตุน้ำ +10% | Freezing Field Damage +2% ต่อระดับตีบวก","Freezing Field Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/86a60765d0583558.webp","images/weapon_069.webp","4","Heart of the Eternal Winter
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Freezing Field Damage +20%
+ความเสียหายธาตุน้ำ +10%
+ต่อระดับตีบวก
+Freezing Field Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Thunderwraith Scepter","คทา","100","Lv. 100","2","14","44","Wraith of Thunder Damage +20% | ความเสียหายธาตุลม +10% | Wraith of Thunder Damage +2% ต่อระดับตีบวก","Wraith of Thunder Damage +2% ต่อระดับตีบวก","The Shattering Crystal 1","https://ageofsylvanus.com/codex/assets/1f868abdf648c667.webp","images/weapon_070.webp","4","Thunderwraith Scepter
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Wraith of Thunder Damage +20%
+ความเสียหายธาตุลม +10%
+ต่อระดับตีบวก
+Wraith of Thunder Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Worldvein Earthstrain Staff","คทา","100","Lv. 100","2","14","44","Earthstrain Damage +20% | ความเสียหายธาตุดิน +10% | Earthstrain Damage +2% ต่อระดับตีบวก","Earthstrain Damage +2% ต่อระดับตีบวก","The Falling Heaven 2","https://ageofsylvanus.com/codex/assets/4c1393e8d1ef8a91.webp","images/weapon_071.webp","4","Worldvein Earthstrain Staff
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Earthstrain Damage +20%
+ความเสียหายธาตุดิน +10%
+ต่อระดับตีบวก
+Earthstrain Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Axis of Elemental Convergence","คทา","100","Lv. 100","2","14","45","Elemental Vertex Explosion Damage +20% | Elemental Damage +10% | Elemental Vertex Explosion Damage +2% ต่อระดับตีบวก","Elemental Vertex Explosion Damage +2% ต่อระดับตีบวก","The Shattering Crystal 2","https://ageofsylvanus.com/codex/assets/60e219d6b838c31c.webp","images/weapon_072.webp","4","Axis of Elemental Convergence
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+45
+Elemental Vertex Explosion Damage +20%
+Elemental Damage +10%
+ต่อระดับตีบวก
+Elemental Vertex Explosion Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Solomon's Grand Arcanum","คทา","100","Lv. 100","2","14","46","MATK +10% | ความเสียหายเวท +10% | ความเร็วร่าย +15% | ความเสียหายเวท +2% ต่อระดับตีบวก","ความเสียหายเวท +2% ต่อระดับตีบวก","Orc Den","https://ageofsylvanus.com/codex/assets/829071589ac2812c.webp","images/weapon_073.webp","4","Solomon's Grand Arcanum
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+46
+MATK +10%
+ความเสียหายเวท +10%
+ความเร็วร่าย +15%
+ต่อระดับตีบวก
+ความเสียหายเวท +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Mage Staff","คทา","1","Lv. 1","4","3","20","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/952c745e0fcc8bc6.webp","images/weapon_074.webp","4","Mage Staff
+คทา · Lv. 1 · 4 ช่องการ์ด
+ATK
+3
+MATK
+20
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Mosswood Staff","คทา","","ไม่จำกัดเลเวล","4","7","31","ความเสียหายเวท +5%","","Hemeralis East Field 1","https://ageofsylvanus.com/codex/assets/552dea13072bc879.webp","images/weapon_075.webp","4","Mosswood Staff
+คทา · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+7
+MATK
+31
+ความเสียหายเวท +5%
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 1"
+"Caldera Archstaff","คทา","100","Lv. 100","2","14","44","Weapon Element: Fire | Fire Blast Damage +20%; Ring of ความเสียหายธาตุไฟ +20% | ความเสียหายธาตุไฟ +10% | Fire Skill Damage +2% ต่อระดับตีบวก","Fire Skill Damage +2% ต่อระดับตีบวก","The Volcano 2","https://ageofsylvanus.com/codex/assets/83db9d990a5acf4c.webp","images/weapon_076.webp","4","Caldera Archstaff
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+Weapon Element: Fire
+Fire Blast Damage +20%; Ring of ความเสียหายธาตุไฟ +20%
+ความเสียหายธาตุไฟ +10%
+ต่อระดับตีบวก
+Fire Skill Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Chaola’s Forbidden Grimoire","คทา","100","Lv. 100","1","18","52","ความเสียหายเคออส +15% | ความเสียหายจากสถานะผิดปกติ +15% | ความเร็วร่าย +15% | Chaos Orb Allowed; Max Card Slots: 2 | ความเสียหายเคออส +1% ต่อระดับตีบวก","ความเสียหายเคออส +1% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/29b0e968d2d3c9a7.webp","images/weapon_077.webp","4","Chaola’s Forbidden Grimoire
+คทา · Lv. 100 · 1 ช่องการ์ด
+ATK
+18
+MATK
+52
+ความเสียหายเคออส +15%
+ความเสียหายจากสถานะผิดปกติ +15%
+ความเร็วร่าย +15%
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ความเสียหายเคออส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Resonance Cascade Staff","คทา","100","Lv. 100","2","14","44","MATK +10% | Exposure Effect +20% | On successfully inflicting Exposure: 20% โอกาส +2 percentage points ต่อระดับตีบวก to apply one other missing Fire/Water/Wind/Earth Exposure; copy base magnitude and ระยะเวลา, apply Exposure Effect once; generated Exposure cannot trigger this effect","On successfully inflicting Exposure: 20% โอกาส +2 percentage points ต่อระดับตีบวก to apply one other missing Fire/Water/Wind/Earth Exposure; copy base magnitude and ระยะเวลา, apply Exposure Effect once; generated Exposure cannot trigger this effect","The Lost Island 1","","","4","⚔
+Resonance Cascade Staff
+คทา · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+MATK +10%
+Exposure Effect +20%
+ต่อระดับตีบวก
+On successfully inflicting Exposure: 20% โอกาส +2 percentage points ต่อระดับตีบวก to apply one other missing Fire/Water/Wind/Earth Exposure; copy base magnitude and ระยะเวลา, apply Exposure Effect once; generated Exposure cannot trigger this effect
+ไม่มีโบนัสครบชุด
+The Lost Island 1"
+"Crystal of Accelerated Sorcery","คริสตัล","50","Lv. 50","3","12","32","MATK +10% | ASPD +15%","","Snowland East Field 2","https://ageofsylvanus.com/codex/assets/7ca479ee922f6fbc.webp","images/weapon_078.webp","4","Crystal of Accelerated Sorcery
+คริสตัล · Lv. 50 · 3 ช่องการ์ด
+ATK
+12
+MATK
+32
+MATK +10%
+ASPD +15%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Emberheart Crystal","คริสตัล","50","Lv. 50","3","10","33","ความเสียหายธาตุไฟ +10% | Firebolt Damage +20% | INT +5","","Atlan Beach","https://ageofsylvanus.com/codex/assets/edc8a0adbcd881d8.webp","images/weapon_079.webp","4","Emberheart Crystal
+คริสตัล · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+33
+ความเสียหายธาตุไฟ +10%
+Firebolt Damage +20%
+INT +5
+ไม่มีโบนัสครบชุด
+Atlan Beach"
+"Tideglass Crystal","คริสตัล","50","Lv. 50","3","10","33","ความเสียหายธาตุน้ำ +10% | Coldbolt Damage +20% | INT +5","","Atlan Beach","https://ageofsylvanus.com/codex/assets/c21391427ebd59e8.webp","images/weapon_080.webp","4","Tideglass Crystal
+คริสตัล · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+33
+ความเสียหายธาตุน้ำ +10%
+Coldbolt Damage +20%
+INT +5
+ไม่มีโบนัสครบชุด
+Atlan Beach"
+"Stormeye Crystal","คริสตัล","50","Lv. 50","3","10","33","ความเสียหายธาตุลม +10% | Lightningbolt Damage +20% | INT +5","","Crystalland West Field 2","https://ageofsylvanus.com/codex/assets/0c9f87d1bc8a8bcd.webp","images/weapon_081.webp","4","Stormeye Crystal
+คริสตัล · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+33
+ความเสียหายธาตุลม +10%
+Lightningbolt Damage +20%
+INT +5
+ไม่มีโบนัสครบชุด
+Crystalland West Field 2"
+"Terraheart Crystal","คริสตัล","50","Lv. 50","3","10","33","ความเสียหายธาตุดิน +10% | Earthbolt Damage +20% | INT +5","","The Burrow 2","https://ageofsylvanus.com/codex/assets/62581a7c4f556496.webp","images/weapon_082.webp","4","Terraheart Crystal
+คริสตัล · Lv. 50 · 3 ช่องการ์ด
+ATK
+10
+MATK
+33
+ความเสียหายธาตุดิน +10%
+Earthbolt Damage +20%
+INT +5
+ไม่มีโบนัสครบชุด
+The Burrow 2"
+"Prism of the Fourfold Enchantment","คริสตัล","100","Lv. 100","2","18","40","Magic Enchant Auto-Cast โอกาส +10 percentage points | All Bolt Damage +20% | All Bolt Damage +2% ต่อระดับตีบวก","All Bolt Damage +2% ต่อระดับตีบวก","The Shattering Crystal 1","https://ageofsylvanus.com/codex/assets/46fdb167687ceae1.webp","images/weapon_083.webp","4","Prism of the Fourfold Enchantment
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+18
+MATK
+40
+Magic Enchant Auto-Cast โอกาส +10 percentage points
+All Bolt Damage +20%
+ต่อระดับตีบวก
+All Bolt Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Resonance Core of the Elemental Wave","คริสตัล","100","Lv. 100","2","15","42","Elemental Wave Damage +20% | Elemental Wave คูลดาวน์ -1.5s | Elemental Damage +10% | Elemental Wave Damage +2% ต่อระดับตีบวก","Elemental Wave Damage +2% ต่อระดับตีบวก","The Shattering Crystal 2","https://ageofsylvanus.com/codex/assets/4881dcd6f6e0f1dc.webp","images/weapon_084.webp","4","Resonance Core of the Elemental Wave
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+15
+MATK
+42
+Elemental Wave Damage +20%
+Elemental Wave คูลดาวน์ -1.5s
+Elemental Damage +10%
+ต่อระดับตีบวก
+Elemental Wave Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Archmage Chronocrystal","คริสตัล","100","Lv. 100","2","14","44","MATK +10% | ความเสียหายเวท +10% | ความเร็วร่าย +15% | ความเสียหายเวท +2% ต่อระดับตีบวก","ความเสียหายเวท +2% ต่อระดับตีบวก","Orc Den","https://ageofsylvanus.com/codex/assets/7f7764197b79e08a.webp","images/weapon_085.webp","4","Archmage Chronocrystal
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+14
+MATK
+44
+MATK +10%
+ความเสียหายเวท +10%
+ความเร็วร่าย +15%
+ต่อระดับตีบวก
+ความเสียหายเวท +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Warcaster's Blood Prism","คริสตัล","100","Lv. 100","2","36","36","ASPD +20% | ASPD Limit +1 | Physical ความเสียหายคริติคอล +20% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/a01cdd5b4dbb70f6.webp","images/weapon_086.webp","4","Warcaster's Blood Prism
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+36
+ASPD +20%
+ASPD Limit +1
+Physical ความเสียหายคริติคอล +20%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Pyroclast Resonance Core","คริสตัล","100","Lv. 100","2","20","42","Weapon Element: Fire | Fire Bolt Damage +20% | Magic Enchant: Fire Proc โอกาส +10 percentage points; ความเสียหายธาตุไฟ +10% | Fire Bolt Damage +2% ต่อระดับตีบวก","Fire Bolt Damage +2% ต่อระดับตีบวก","The Volcano 2","https://ageofsylvanus.com/codex/assets/56eef34ff0226683.webp","images/weapon_087.webp","4","Pyroclast Resonance Core
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+20
+MATK
+42
+Weapon Element: Fire
+Fire Bolt Damage +20%
+Magic Enchant: Fire Proc โอกาส +10 percentage points; ความเสียหายธาตุไฟ +10%
+ต่อระดับตีบวก
+Fire Bolt Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Resonance Rupture Crystal","คริสตัล","100","Lv. 100","2","18","40","ASPD +15% | ATK +5% | MATK +5% | ความเสียหายต่อ targets weak to the actual attack element +10%, +2% ต่อระดับตีบวก; does not consume Exposure","ความเสียหายต่อ targets weak to the actual attack element +10%, +2% ต่อระดับตีบวก; does not consume Exposure","The Lost Island 1","","","4","⚔
+Resonance Rupture Crystal
+คริสตัล · Lv. 100 · 2 ช่องการ์ด
+ATK
+18
+MATK
+40
+ASPD +15%
+ATK +5%
+MATK +5%
+ต่อระดับตีบวก
+ความเสียหายต่อ targets weak to the actual attack element +10%, +2% ต่อระดับตีบวก; does not consume Exposure
+ไม่มีโบนัสครบชุด
+The Lost Island 1"
+"Horn of the Wild Covenant","แตรเขาสัตว์","1","Lv. 1","3","10","10","ความเสียหายของมินเนียน +10% | Summon ATK / MATK +5%","","Anima East Swamp 2","https://ageofsylvanus.com/codex/assets/4b1523fc590d16e0.webp","images/weapon_088.webp","4","Horn of the Wild Covenant
+แตรเขาสัตว์ · Lv. 1 · 3 ช่องการ์ด
+ATK
+10
+MATK
+10
+ความเสียหายของมินเนียน +10%
+Summon ATK / MATK +5%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 2"
+"Moonfang Packhorn","แตรเขาสัตว์","1","Lv. 1","3","10","10","Summon Wolf Pack Damage +20% | Wolf Pack ASPD +10% | Wolf Pack อัตราคริติคอล +10%","","Anima East Swamp 1","https://ageofsylvanus.com/codex/assets/81555e51e568ca35.webp","images/weapon_089.webp","4","Moonfang Packhorn
+แตรเขาสัตว์ · Lv. 1 · 3 ช่องการ์ด
+ATK
+10
+MATK
+10
+Summon Wolf Pack Damage +20%
+Wolf Pack ASPD +10%
+Wolf Pack อัตราคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 1"
+"Ironhide Warhorn","แตรเขาสัตว์","1","Lv. 1","3","10","10","Summon Boar Damage +20% | Summon Boar HP สูงสุด +15% | Summon Boar DEF / MDEF +10%","","Anima North Swamp 1","https://ageofsylvanus.com/codex/assets/d48e77d19450a011.webp","images/weapon_090.webp","5","Ironhide Warhorn
+แตรเขาสัตว์ · Lv. 1 · 3 ช่องการ์ด
+ATK
+10
+MATK
+10
+Summon Boar Damage +20%
+Summon Boar HP สูงสุด +15%
+Summon Boar DEF / MDEF +10%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 1"
+"Primal Echo Horn","แตรเขาสัตว์","1","Lv. 1","3","12","8","Summon Ape Damage +20% | Summon Ape ATK +10% | Summon Ape ความเสียหายคริติคอล +15%","","Anima North Swamp 2","https://ageofsylvanus.com/codex/assets/f99d5c0154a51541.webp","images/weapon_091.webp","5","Primal Echo Horn
+แตรเขาสัตว์ · Lv. 1 · 3 ช่องการ์ด
+ATK
+12
+MATK
+8
+Summon Ape Damage +20%
+Summon Ape ATK +10%
+Summon Ape ความเสียหายคริติคอล +15%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 2"
+"Horn of Kindred Spirits","แตรเขาสัตว์","50","Lv. 50","3","24","24","ความเสียหายของมินเนียน +15% | Summon All Stat +2 | Summon HP สูงสุด +10%","","Snowland West Field 2","https://ageofsylvanus.com/codex/assets/e10b6b2efaa5141a.webp","images/weapon_092.webp","5","Horn of Kindred Spirits
+แตรเขาสัตว์ · Lv. 50 · 3 ช่องการ์ด
+ATK
+24
+MATK
+24
+ความเสียหายของมินเนียน +15%
+Summon All Stat +2
+Summon HP สูงสุด +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Verdant Renewal Horn","แตรเขาสัตว์","50","Lv. 50","3","20","28","Natural Mend การฟื้นฟู HP +20% | Natural Mend Death Recovery +20% | Natural Mend ระยะเวลา +3s","","Yggdra South Forest 2","https://ageofsylvanus.com/codex/assets/fc9052832ad43f0a.webp","images/weapon_093.webp","5","Verdant Renewal Horn
+แตรเขาสัตว์ · Lv. 50 · 3 ช่องการ์ด
+ATK
+20
+MATK
+28
+Natural Mend การฟื้นฟู HP +20%
+Natural Mend Death Recovery +20%
+Natural Mend ระยะเวลา +3s
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2"
+"Bulwark of the Guardian","แตรเขาสัตว์","100","Lv. 100","2","32","24","Guardian Bear HP สูงสุด +20% | Guardian Bear DEF / MDEF +15% | Bear Stomp Damage +20% | Bear Stomp Damage +2% ต่อระดับตีบวก","Bear Stomp Damage +2% ต่อระดับตีบวก","Cemetery Underground 2nd Floor","https://ageofsylvanus.com/codex/assets/5a04ce029a312c02.webp","images/weapon_094.webp","5","Bulwark of the Guardian
+แตรเขาสัตว์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+24
+Guardian Bear HP สูงสุด +20%
+Guardian Bear DEF / MDEF +15%
+Bear Stomp Damage +20%
+ต่อระดับตีบวก
+Bear Stomp Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 2nd Floor"
+"Tuskhorn of the Alpha","แตรเขาสัตว์","100","Lv. 100","2","32","24","Alpha Boar Damage +20% | Alpha Boar ASPD +15% | Beast Scratch Damage +20% | Alpha Boar Damage +2% ต่อระดับตีบวก","Alpha Boar Damage +2% ต่อระดับตีบวก","The Volcano 1","https://ageofsylvanus.com/codex/assets/6f77be3f7a88c34b.webp","images/weapon_095.webp","5","Tuskhorn of the Alpha
+แตรเขาสัตว์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+24
+Alpha Boar Damage +20%
+Alpha Boar ASPD +15%
+Beast Scratch Damage +20%
+ต่อระดับตีบวก
+Alpha Boar Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Warcall of the Primate King","แตรเขาสัตว์","100","Lv. 100","2","34","20","Primate Ape ATK +10% | Primate Ape Command Damage +20% | Primate Ape อัตราคริติคอล +10% | Primate Ape Damage +2% ต่อระดับตีบวก","Primate Ape Damage +2% ต่อระดับตีบวก","ไม่พบแหล่งดรอป","https://ageofsylvanus.com/codex/assets/6f047dd95fc25d63.webp","images/weapon_096.webp","5","Warcall of the Primate King
+แตรเขาสัตว์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+34
+MATK
+20
+Primate Ape ATK +10%
+Primate Ape Command Damage +20%
+Primate Ape อัตราคริติคอล +10%
+ต่อระดับตีบวก
+Primate Ape Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Antler Horn of the Spirit Grove","แตรเขาสัตว์","100","Lv. 100","2","20","34","Spiritual Stag MATK +10% | Spiritual Stag ความเร็วร่าย +15% | Nature's Punishment Damage +20% | Spiritual Stag Damage +2% ต่อระดับตีบวก","Spiritual Stag Damage +2% ต่อระดับตีบวก","ไม่พบแหล่งดรอป","https://ageofsylvanus.com/codex/assets/ab622420cf6fd567.webp","images/weapon_097.webp","5","Antler Horn of the Spirit Grove
+แตรเขาสัตว์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+20
+MATK
+34
+Spiritual Stag MATK +10%
+Spiritual Stag ความเร็วร่าย +15%
+Nature's Punishment Damage +20%
+ต่อระดับตีบวก
+Spiritual Stag Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Horn of the Primal Convergence","แตรเขาสัตว์","100","Lv. 100","2","32","32","ความเสียหายของมินเนียน +20% | Summon All Stat +2 | Summon HP สูงสุด +15% | ความเสียหายของมินเนียน +2% ต่อระดับตีบวก","ความเสียหายของมินเนียน +2% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/ed8846624d715e2f.webp","images/weapon_098.webp","5","Horn of the Primal Convergence
+แตรเขาสัตว์ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+32
+ความเสียหายของมินเนียน +20%
+Summon All Stat +2
+Summon HP สูงสุด +15%
+ต่อระดับตีบวก
+ความเสียหายของมินเนียน +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Tamer Horn","แตรเขาสัตว์","1","Lv. 1","4","10","17","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/1e726e55f5a3a6a7.webp","images/weapon_099.webp","5","Tamer Horn
+แตรเขาสัตว์ · Lv. 1 · 4 ช่องการ์ด
+ATK
+10
+MATK
+17
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Wildgrove Horn","แตรเขาสัตว์","","ไม่จำกัดเลเวล","4","17","27","ความเสียหายของมินเนียน +5%","","Hemeralis West Field 1","https://ageofsylvanus.com/codex/assets/c4bb99b3b2107b7c.webp","images/weapon_100.webp","5","Wildgrove Horn
+แตรเขาสัตว์ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+17
+MATK
+27
+ความเสียหายของมินเนียน +5%
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 1"
+"Clawmark Talisman","เครื่องราง","1","Lv. 1","3","12","8","Beast Claw Damage +20% | Weakness Exposed Bonus Damage +20% | Beast Claw คูลดาวน์ -0.5s","","Yggdra North Forest 1","https://ageofsylvanus.com/codex/assets/e6105c8bf9515cba.webp","images/weapon_101.webp","5","Clawmark Talisman
+เครื่องราง · Lv. 1 · 3 ช่องการ์ด
+ATK
+12
+MATK
+8
+Beast Claw Damage +20%
+Weakness Exposed Bonus Damage +20%
+Beast Claw คูลดาวน์ -0.5s
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 1"
+"Talisman of the Twin Instinct","เครื่องราง","1","Lv. 1","3","10","10","ความเสียหายของมินเนียน +10% | ความเสียหายกายภาพ +10% | ATK +10%","","Anima East Swamp 2","https://ageofsylvanus.com/codex/assets/3b91535ef8d54bf7.webp","images/weapon_102.webp","5","Talisman of the Twin Instinct
+เครื่องราง · Lv. 1 · 3 ช่องการ์ด
+ATK
+10
+MATK
+10
+ความเสียหายของมินเนียน +10%
+ความเสียหายกายภาพ +10%
+ATK +10%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 2"
+"Savage Heart Talisman","เครื่องราง","50","Lv. 50","3","26","20","ATK +10% | ความเสียหายกายภาพ +10% | Form Damage +10%","","Soloden East Forest 1","https://ageofsylvanus.com/codex/assets/3008564482062a73.webp","images/weapon_103.webp","5","Savage Heart Talisman
+เครื่องราง · Lv. 50 · 3 ช่องการ์ด
+ATK
+26
+MATK
+20
+ATK +10%
+ความเสียหายกายภาพ +10%
+Form Damage +10%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Talisman of Many Souls","เครื่องราง","50","Lv. 50","3","24","24","อัตราคริติคอล +10% | ความเสียหายคริติคอล +15% | All Stat +2","","Snowland East Field 1","https://ageofsylvanus.com/codex/assets/9e992b8e4367b75b.webp","images/weapon_104.webp","5","Talisman of Many Souls
+เครื่องราง · Lv. 50 · 3 ช่องการ์ด
+ATK
+24
+MATK
+24
+อัตราคริติคอล +10%
+ความเสียหายคริติคอล +15%
+All Stat +2
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Ursa's Earthshaker Totem","เครื่องราง","100","Lv. 100","2","34","20","STR +8 | Stun โอกาส +10% | Stomp / Brutal Charge Damage +20% | Stomp / Brutal Charge Damage +2% ต่อระดับตีบวก","Stomp / Brutal Charge Damage +2% ต่อระดับตีบวก","The Shattering Crystal 2","https://ageofsylvanus.com/codex/assets/76f61209d4efbc42.webp","images/weapon_105.webp","5","Ursa's Earthshaker Totem
+เครื่องราง · Lv. 100 · 2 ช่องการ์ด
+ATK
+34
+MATK
+20
+STR +8
+Stun โอกาส +10%
+Stomp / Brutal Charge Damage +20%
+ต่อระดับตีบวก
+Stomp / Brutal Charge Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Moonclaw Panther Seal","เครื่องราง","100","Lv. 100","2","32","22","AGI +8 | อัตราคริติคอล +10% / ความเสียหายคริติคอล +20% | Panther's Claw / Tear Apart Damage +20% | Panther's Claw / Tear Apart Damage +2% ต่อระดับตีบวก","Panther's Claw / Tear Apart Damage +2% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/96229db46e789ba3.webp","images/weapon_106.webp","5","Moonclaw Panther Seal
+เครื่องราง · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+22
+AGI +8
+อัตราคริติคอล +10% / ความเสียหายคริติคอล +20%
+Panther's Claw / Tear Apart Damage +20%
+ต่อระดับตีบวก
+Panther's Claw / Tear Apart Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Venomheart Talisman","เครื่องราง","100","Lv. 100","2","30","30","INT +8 | ความเสียหายธาตุพิษ +20% | Toxin Splash / Acid Toxin Damage +20% | ความเสียหายธาตุพิษ +2% ต่อระดับตีบวก","ความเสียหายธาตุพิษ +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/a309a15c865c9043.webp","images/weapon_107.webp","5","Venomheart Talisman
+เครื่องราง · Lv. 100 · 2 ช่องการ์ด
+ATK
+30
+MATK
+30
+INT +8
+ความเสียหายธาตุพิษ +20%
+Toxin Splash / Acid Toxin Damage +20%
+ต่อระดับตีบวก
+ความเสียหายธาตุพิษ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Totem of the Primal Apex","เครื่องราง","100","Lv. 100","2","36","20","ATK +10% | ความเสียหายกายภาพ +10% | Form Damage +15% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Cemetery Underground 2nd Floor","https://ageofsylvanus.com/codex/assets/d47551d57a2dcb76.webp","images/weapon_108.webp","5","Totem of the Primal Apex
+เครื่องราง · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+ATK +10%
+ความเสียหายกายภาพ +10%
+Form Damage +15%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 2nd Floor"
+"Tamer Talisman","เครื่องราง","1","Lv. 1","4","10","6","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/71b0d87ce5e896af.webp","images/weapon_109.webp","5","Tamer Talisman
+เครื่องราง · Lv. 1 · 4 ช่องการ์ด
+ATK
+10
+MATK
+6
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Verdant Beast Charm","เครื่องราง","","ไม่จำกัดเลเวล","4","16","10","ความเสียหายกายภาพ +5%","","ไม่พบแหล่งดรอป","https://ageofsylvanus.com/codex/assets/11b2bfe71b1b0dd7.webp","images/weapon_110.webp","5","Verdant Beast Charm
+เครื่องราง · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+16
+MATK
+10
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Warbreaker’s Bone Talisman","เครื่องราง","100","Lv. 100","2","44","28","Ignore Block 25% | ASPD +20% / อัตราคริติคอล +10% | ความเสียหายกายภาพ against shield-equipped targets +15% | ความเสียหายกายภาพ against shield-equipped targets +1% ต่อระดับตีบวก","ความเสียหายกายภาพ against shield-equipped targets +1% ต่อระดับตีบวก","The Cursed Swamp","","","5","⚔
+Warbreaker’s Bone Talisman
+เครื่องราง · Lv. 100 · 2 ช่องการ์ด
+ATK
+44
+MATK
+28
+Ignore Block 25%
+ASPD +20% / อัตราคริติคอล +10%
+ความเสียหายกายภาพ against shield-equipped targets +15%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ against shield-equipped targets +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Argent Verdict","ปืนพก","1","Lv. 1","3","14","2","Silver Bullet Damage +20% | Weakness Exposed ระยะเวลา +2s | Silver Bullet คูลดาวน์ -0.75s","","Atlan Beach","https://ageofsylvanus.com/codex/assets/ed7a881741783e3d.webp","images/weapon_111.webp","5","Argent Verdict
+ปืนพก · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+2
+Silver Bullet Damage +20%
+Weakness Exposed ระยะเวลา +2s
+Silver Bullet คูลดาวน์ -0.75s
+ไม่มีโบนัสครบชุด
+Atlan Beach"
+"Frontier Lawbringer","ปืนพก","50","Lv. 50","3","30","10","ATK +10% | ความเสียหายระยะไกล +8% | DEX +5","","Snowland West Field 1","https://ageofsylvanus.com/codex/assets/0a053461876d242c.webp","images/weapon_112.webp","5","Frontier Lawbringer
+ปืนพก · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+10
+ATK +10%
+ความเสียหายระยะไกล +8%
+DEX +5
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Quickdraw Seraph","ปืนพก","100","Lv. 100","2","39","16","ASPD +20% | อัตราคริติคอล +10% | ความเสียหายคริติคอล +20% | ความเสียหายระยะไกล +2% ต่อระดับตีบวก","ความเสียหายระยะไกล +2% ต่อระดับตีบวก","Lava Mine 1 | Lava Mine 2","https://ageofsylvanus.com/codex/assets/5df7171ef9fc1f02.webp","images/weapon_113.webp","6","Quickdraw Seraph
+ปืนพก · Lv. 100 · 2 ช่องการ์ด
+ATK
+39
+MATK
+16
+ASPD +20%
+อัตราคริติคอล +10%
+ความเสียหายคริติคอล +20%
+ต่อระดับตีบวก
+ความเสียหายระยะไกล +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1
+Lava Mine 2"
+"Cerberus Sweeper","ปืนพก","100","Lv. 100","2","39","16","Sweep Shot Damage +20% | Sweep Shot คูลดาวน์ -1.5s | อัตราคริติคอล +10% | Sweep Shot Damage +2% ต่อระดับตีบวก","Sweep Shot Damage +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/4ded8763b6ac1806.webp","images/weapon_114.webp","6","Cerberus Sweeper
+ปืนพก · Lv. 100 · 2 ช่องการ์ด
+ATK
+39
+MATK
+16
+Sweep Shot Damage +20%
+Sweep Shot คูลดาวน์ -1.5s
+อัตราคริติคอล +10%
+ต่อระดับตีบวก
+Sweep Shot Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Technician Pistol","ปืนพก","1","Lv. 1","4","10","2","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/154b2398da77d70e.webp","images/weapon_115.webp","6","Technician Pistol
+ปืนพก · Lv. 1 · 4 ช่องการ์ด
+ATK
+10
+MATK
+2
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Copperleaf Pistol","ปืนพก","","ไม่จำกัดเลเวล","4","16","4","ความเสียหายระยะไกล +5%","","Atlan East Desert 2","https://ageofsylvanus.com/codex/assets/9b16a5dff37fe2d7.webp","images/weapon_116.webp","6","Copperleaf Pistol
+ปืนพก · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+16
+MATK
+4
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Atlan East Desert 2"
+"Resonance Infuser Pistol","ปืนพก","100","Lv. 100","2","39","16","ASPD +10% | อัตราคริติคอล +10% | On successful original normal attack or direct damaging skill hit by the wielder (Physical or Magical): 20% โอกาส +3 percentage points ต่อระดับตีบวก (maximum 100%) to inflict matching Fire/Water/Wind/Earth Exposure based on the resolved hit element, base magnitude 10%, ระยะเวลา 5 sec; refresh matching Exposure; not limited to auto attacks; excludes DoT, Reflect and ความเสียหายของมินเนียน; no recursive proc from generated hits","On successful original normal attack or direct damaging skill hit by the wielder (Physical or Magical): 20% โอกาส +3 percentage points ต่อระดับตีบวก (maximum 100%) to inflict matching Fire/Water/Wind/Earth Exposure based on the resolved hit element, base magnitude 10%, ระยะเวลา 5 sec; refresh matching Exposure; not limited to auto attacks; excludes DoT, Reflect and ความเสียหายของมินเนียน; no recursive proc from generated hits","The Lost Island 1","","","6","⚔
+Resonance Infuser Pistol
+ปืนพก · Lv. 100 · 2 ช่องการ์ด
+ATK
+39
+MATK
+16
+ASPD +10%
+อัตราคริติคอล +10%
+ต่อระดับตีบวก
+On successful original normal attack or direct damaging skill hit by the wielder (Physical or Magical): 20% โอกาส +3 percentage points ต่อระดับตีบวก (maximum 100%) to inflict matching Fire/Water/Wind/Earth Exposure based on the resolved hit element, base magnitude 10%, ระยะเวลา 5 sec; refresh matching Exposure; not limited to auto attacks; excludes DoT, Reflect and ความเสียหายของมินเนียน; no recursive proc from generated hits
+ไม่มีโบนัสครบชุด
+The Lost Island 1"
+"Cloudburst Rotary","ปืนกล","1","Lv. 1","4","24","3","Bullet Rain Damage +20% | Bullet Rain AoE Radius +1 | Bullet Rain คูลดาวน์ -1s","","North Road","https://ageofsylvanus.com/codex/assets/08c7f4f566573738.webp","images/weapon_117.webp","6","Cloudburst Rotary
+ปืนกล · Lv. 1 · 4 ช่องการ์ด
+ATK
+24
+MATK
+3
+Bullet Rain Damage +20%
+Bullet Rain AoE Radius +1
+Bullet Rain คูลดาวน์ -1s
+ไม่มีโบนัสครบชุด
+North Road"
+"Ironstorm Gatling","ปืนกล","50","Lv. 50","4","51","17","ATK +10% | ความเสียหายระยะไกล +10% | Hit +10","","Snowland West Field 1","https://ageofsylvanus.com/codex/assets/b3064f151635db0e.webp","images/weapon_118.webp","6","Ironstorm Gatling
+ปืนกล · Lv. 50 · 4 ช่องการ์ด
+ATK
+51
+MATK
+17
+ATK +10%
+ความเสียหายระยะไกล +10%
+Hit +10
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Tempest Streetcleaner","ปืนกล","100","Lv. 100","3","68","24","Sweep Shot Damage +20% | Sweep Shot AoE Radius +1 | Sweep Shot คูลดาวน์ -1.5s | Sweep Shot Damage +2% ต่อระดับตีบวก","Sweep Shot Damage +2% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/9d0be1a744efbf06.webp","images/weapon_119.webp","6","Tempest Streetcleaner
+ปืนกล · Lv. 100 · 3 ช่องการ์ด
+ATK
+68
+MATK
+24
+Sweep Shot Damage +20%
+Sweep Shot AoE Radius +1
+Sweep Shot คูลดาวน์ -1.5s
+ต่อระดับตีบวก
+Sweep Shot Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Echo Chamber Infinity","ปืนกล","100","Lv. 100","3","68","24","Ricochet Bullet Damage +20% | Maximum Ricochet Targets +2 | Ricochet Search Radius +1 | Ricochet Bullet Damage +2% ต่อระดับตีบวก","Ricochet Bullet Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/76f8776faa0a8e3f.webp","images/weapon_120.webp","6","Echo Chamber Infinity
+ปืนกล · Lv. 100 · 3 ช่องการ์ด
+ATK
+68
+MATK
+24
+Ricochet Bullet Damage +20%
+Maximum Ricochet Targets +2
+Ricochet Search Radius +1
+ต่อระดับตีบวก
+Ricochet Bullet Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Atlan War Cycler","ปืนกล","100","Lv. 100","3","71","20","ATK +10% | ความเสียหายระยะไกล +15% | ASPD +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/03516784c2509a50.webp","images/weapon_121.webp","6","Atlan War Cycler
+ปืนกล · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+20
+ATK +10%
+ความเสียหายระยะไกล +15%
+ASPD +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Technician Gatling","ปืนกล","1","Lv. 1","4","15","2","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/06c67542e544c1b6.webp","images/weapon_122.webp","6","Technician Gatling
+ปืนกล · Lv. 1 · 4 ช่องการ์ด
+ATK
+15
+MATK
+2
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Prairie Storm Gatling","ปืนกล","","ไม่จำกัดเลเวล","4","26","5","ความเสียหายระยะไกล +5%","","Hemeralis West Field 2","https://ageofsylvanus.com/codex/assets/47fb5d9476d7f383.webp","images/weapon_123.webp","6","Prairie Storm Gatling
+ปืนกล · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+26
+MATK
+5
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 2"
+"Clockwork Annihilator","ปืนกล","100","Lv. 100","3","88","24","ATK +10% | Range Damage +10% | ASPD +15% | ความเสียหายคริติคอล +2% ต่อระดับตีบวก","ความเสียหายคริติคอล +2% ต่อระดับตีบวก","Atlas's Workshop","https://ageofsylvanus.com/codex/assets/5ebd73aa548ef28a.webp","images/weapon_124.webp","6","Clockwork Annihilator
+ปืนกล · Lv. 100 · 3 ช่องการ์ด
+ATK
+88
+MATK
+24
+ATK +10%
+Range Damage +10%
+ASPD +15%
+ต่อระดับตีบวก
+ความเสียหายคริติคอล +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Cinderstorm Rotary Gun","ปืนกล","100","Lv. 100","3","71","20","Weapon Element: Fire | ATK +10%; ASPD +15% | ความเสียหายธาตุไฟ +10% | ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก","ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก","The Volcano 2","https://ageofsylvanus.com/codex/assets/ca79d64ea6299ecb.webp","images/weapon_125.webp","6","Cinderstorm Rotary Gun
+ปืนกล · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+20
+Weapon Element: Fire
+ATK +10%; ASPD +15%
+ความเสียหายธาตุไฟ +10%
+ต่อระดับตีบวก
+ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Petroleum Howitzer","ปืนใหญ่","50","Lv. 50","4","54","14","ATK +10% | Oil Barrage Damage +20% | Oil Barrage Ignite ความเสียหายที่ได้รับ +10%","","Soloden East Forest 2","https://ageofsylvanus.com/codex/assets/e76089caf90e32fe.webp","images/weapon_126.webp","6","Petroleum Howitzer
+ปืนใหญ่ · Lv. 50 · 4 ช่องการ์ด
+ATK
+54
+MATK
+14
+ATK +10%
+Oil Barrage Damage +20%
+Oil Barrage Ignite ความเสียหายที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Bastion Breacher","ปืนใหญ่","100","Lv. 100","3","71","20","Siege Cannon Damage +20% | Area Damage +15% | Siege Cannon คูลดาวน์ -1s | Siege Cannon Damage +2% ต่อระดับตีบวก","Siege Cannon Damage +2% ต่อระดับตีบวก","Lava Mine 3","https://ageofsylvanus.com/codex/assets/da22d4c6f369335d.webp","images/weapon_127.webp","6","Bastion Breacher
+ปืนใหญ่ · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+20
+Siege Cannon Damage +20%
+Area Damage +15%
+Siege Cannon คูลดาวน์ -1s
+ต่อระดับตีบวก
+Siege Cannon Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Stormrail Accelerator","ปืนใหญ่","100","Lv. 100","3","71","24","Railgun Charge Damage +20% | ความเร็วร่าย +15% | Railgun Charge คูลดาวน์ -3s | Railgun Charge Damage +2% ต่อระดับตีบวก","Railgun Charge Damage +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/bc35c1e282aef03d.webp","images/weapon_128.webp","6","Stormrail Accelerator
+ปืนใหญ่ · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+24
+Railgun Charge Damage +20%
+ความเร็วร่าย +15%
+Railgun Charge คูลดาวน์ -3s
+ต่อระดับตีบวก
+Railgun Charge Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Celestial Bombard","ปืนใหญ่","100","Lv. 100","3","68","27","Shooting Stars Damage +20% | Area Damage +15% | Shooting Stars คูลดาวน์ -2s | Shooting Stars Damage +2% ต่อระดับตีบวก","Shooting Stars Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/7a4a335fb8530c20.webp","images/weapon_129.webp","6","Celestial Bombard
+ปืนใหญ่ · Lv. 100 · 3 ช่องการ์ด
+ATK
+68
+MATK
+27
+Shooting Stars Damage +20%
+Area Damage +15%
+Shooting Stars คูลดาวน์ -2s
+ต่อระดับตีบวก
+Shooting Stars Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Worldbreaker Artillery","ปืนใหญ่","100","Lv. 100","3","75","17","ATK +10% | ความเสียหายกายภาพ +10% | Area Damage +15% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Atlas's Workshop","https://ageofsylvanus.com/codex/assets/3a3fba720fbcac0c.webp","images/weapon_130.webp","6","Worldbreaker Artillery
+ปืนใหญ่ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+17
+ATK +10%
+ความเสียหายกายภาพ +10%
+Area Damage +15%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Furnaceheart Bombard","ปืนใหญ่","100","Lv. 100","3","75","24","Weapon Element: Fire | Oil Barrage Damage +20% | Ignite Damage +20%; ความเสียหายธาตุไฟ +10% | Oil Barrage Damage +2% ต่อระดับตีบวก","Oil Barrage Damage +2% ต่อระดับตีบวก","The Volcano 1","https://ageofsylvanus.com/codex/assets/18c80dc2152e11e6.webp","images/weapon_131.webp","6","Furnaceheart Bombard
+ปืนใหญ่ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+24
+Weapon Element: Fire
+Oil Barrage Damage +20%
+Ignite Damage +20%; ความเสียหายธาตุไฟ +10%
+ต่อระดับตีบวก
+Oil Barrage Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Meteorhead Wrench","ประแจ","1","Lv. 1","3","12","8","Heavy Throw Damage +20% | Heavy Throw Stun โอกาส +10% | Heavy Throw Range +1","","Atlan Beach","https://ageofsylvanus.com/codex/assets/d636bcf1e12d9542.webp","images/weapon_132.webp","6","Meteorhead Wrench
+ประแจ · Lv. 1 · 3 ช่องการ์ด
+ATK
+12
+MATK
+8
+Heavy Throw Damage +20%
+Heavy Throw Stun โอกาส +10%
+Heavy Throw Range +1
+ไม่มีโบนัสครบชุด
+Atlan Beach"
+"Hookmaster Torque Wrench","ประแจ","1","Lv. 1","3","14","6","ATK +10% | ความเสียหายกายภาพ +10% | Grappling Hook คูลดาวน์ -2s","","Anima North Swamp 2","https://ageofsylvanus.com/codex/assets/ddcd47bb3a087f02.webp","images/weapon_133.webp","6","Hookmaster Torque Wrench
+ประแจ · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+6
+ATK +10%
+ความเสียหายกายภาพ +10%
+Grappling Hook คูลดาวน์ -2s
+ไม่มีโบนัสครบชุด
+Anima North Swamp 2"
+"Automaton Conductor","ประแจ","50","Lv. 50","3","22","26","ความเสียหายของมินเนียน +15% | ความเร็วร่าย +15% | INT +5","","Atlan South Desert 2","https://ageofsylvanus.com/codex/assets/8161ec2c6a970842.webp","images/weapon_134.webp","6","Automaton Conductor
+ประแจ · Lv. 50 · 3 ช่องการ์ด
+ATK
+22
+MATK
+26
+ความเสียหายของมินเนียน +15%
+ความเร็วร่าย +15%
+INT +5
+ไม่มีโบนัสครบชุด
+Atlan South Desert 2"
+"Ironclad Breaker","ประแจ","50","Lv. 50","3","28","18","ATK +10% | ความเสียหายกายภาพ +10% | STR +5","","Snowland West Field 1","https://ageofsylvanus.com/codex/assets/f01a6aeb2c3968d8.webp","images/weapon_135.webp","6","Ironclad Breaker
+ประแจ · Lv. 50 · 3 ช่องการ์ด
+ATK
+28
+MATK
+18
+ATK +10%
+ความเสียหายกายภาพ +10%
+STR +5
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Infernal Forge Key","ประแจ","100","Lv. 100","2","28","34","Flame Turret Damage +20% | Ignite Damage +20% | ความเร็วร่าย +15% | Flame Turret Damage +2% ต่อระดับตีบวก","Flame Turret Damage +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/658eb2e2439f956a.webp","images/weapon_136.webp","7","Infernal Forge Key
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+28
+MATK
+34
+Flame Turret Damage +20%
+Ignite Damage +20%
+ความเร็วร่าย +15%
+ต่อระดับตีบวก
+Flame Turret Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Ninefold Drone Controller","ประแจ","100","Lv. 100","2","32","32","Drone Fleet Damage +20% | Drone Fleet คูลดาวน์ -3s | ความเสียหายของมินเนียน +10% | Drone Fleet Damage +2% ต่อระดับตีบวก","Drone Fleet Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/2796a7919926b3fe.webp","images/weapon_137.webp","7","Ninefold Drone Controller
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+32
+Drone Fleet Damage +20%
+Drone Fleet คูลดาวน์ -3s
+ความเสียหายของมินเนียน +10%
+ต่อระดับตีบวก
+Drone Fleet Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Plasma Edge Spanner","ประแจ","100","Lv. 100","2","36","24","Beam Saber Strike Damage +20% | ASPD +15% | Beam Saber Heat Generation -10% | Beam Saber Strike Damage +2% ต่อระดับตีบวก","Beam Saber Strike Damage +2% ต่อระดับตีบวก","The Volcano 1","https://ageofsylvanus.com/codex/assets/282a9a99ef0b0046.webp","images/weapon_138.webp","7","Plasma Edge Spanner
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+24
+Beam Saber Strike Damage +20%
+ASPD +15%
+Beam Saber Heat Generation -10%
+ต่อระดับตีบวก
+Beam Saber Strike Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Pulsefire Calibration Key","ประแจ","100","Lv. 100","2","30","34","Laser Pulse Damage +20% | Laser Pulse คูลดาวน์ -2s | Laser Pulse Heat Generation -10% | Laser Pulse Damage +2% ต่อระดับตีบวก","Laser Pulse Damage +2% ต่อระดับตีบวก","Lava Mine 3","https://ageofsylvanus.com/codex/assets/dd87f24137d5ae69.webp","images/weapon_139.webp","7","Pulsefire Calibration Key
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+30
+MATK
+34
+Laser Pulse Damage +20%
+Laser Pulse คูลดาวน์ -2s
+Laser Pulse Heat Generation -10%
+ต่อระดับตีบวก
+Laser Pulse Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Atlas Bastion Wrench","ประแจ","100","Lv. 100","2","32","32","HP สูงสุด +20% | DEF / MDEF +10% | ATK +10% | HP สูงสุด +2% ต่อระดับตีบวก","HP สูงสุด +2% ต่อระดับตีบวก","Lava Mine 2","https://ageofsylvanus.com/codex/assets/1d71fe61aa2bf6ed.webp","images/weapon_140.webp","7","Atlas Bastion Wrench
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+32
+MATK
+32
+HP สูงสุด +20%
+DEF / MDEF +10%
+ATK +10%
+ต่อระดับตีบวก
+HP สูงสุด +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Technician Wrench","ประแจ","1","Lv. 1","4","10","5","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/6dbde01f8b2c6b20.webp","images/weapon_141.webp","7","Technician Wrench
+ประแจ · Lv. 1 · 4 ช่องการ์ด
+ATK
+10
+MATK
+5
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Fieldwork Wrench","ประแจ","","ไม่จำกัดเลเวล","4","16","10","ความเสียหายกายภาพ +5%","","Atlan East Desert 2","https://ageofsylvanus.com/codex/assets/8639a3429dfff7d8.webp","images/weapon_142.webp","7","Fieldwork Wrench
+ประแจ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+16
+MATK
+10
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Atlan East Desert 2"
+"Furnace Dominion Wrench","ประแจ","100","Lv. 100","2","38","30","INT +8 | ATK +10% | ความเสียหายกายภาพ +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","The Grand Smelter 1","https://ageofsylvanus.com/codex/assets/097ce9b34565437f.webp","images/weapon_143.webp","7","Furnace Dominion Wrench
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+38
+MATK
+30
+INT +8
+ATK +10%
+ความเสียหายกายภาพ +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Atlas Prime Wrench","ประแจ","100","Lv. 100","2","48","42","ATK +10% | ความเสียหายของมินเนียน +10% | ความเร็วร่าย +15% | ความเสียหายของมินเนียน +1% ต่อระดับตีบวก","ความเสียหายของมินเนียน +1% ต่อระดับตีบวก","Atlas's Workshop","https://ageofsylvanus.com/codex/assets/69070d67faac4847.webp","images/weapon_144.webp","7","Atlas Prime Wrench
+ประแจ · Lv. 100 · 2 ช่องการ์ด
+ATK
+48
+MATK
+42
+ATK +10%
+ความเสียหายของมินเนียน +10%
+ความเร็วร่าย +15%
+ต่อระดับตีบวก
+ความเสียหายของมินเนียน +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Iron Vanguard Hatchet","ขวาน","1","Lv. 1","3","14","2","ATK +10% | ความเสียหายกายภาพ +10%","","Crossroad","https://ageofsylvanus.com/codex/assets/9b6196d267edb9f3.webp","images/weapon_145.webp","7","Iron Vanguard Hatchet
+ขวาน · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+2
+ATK +10%
+ความเสียหายกายภาพ +10%
+ไม่มีโบนัสครบชุด
+Crossroad"
+"Mountainbreaker Greataxe","ขวาน","1","Lv. 1","4","27","3","Heavy Swing Damage +20% | Heavy Swing ความเสียหายคริติคอล +15% | Hit +5","","North Road","https://ageofsylvanus.com/codex/assets/59ad56480ab15d40.webp","images/weapon_146.webp","7","Mountainbreaker Greataxe
+ขวาน · Lv. 1 · 4 ช่องการ์ด
+ATK
+27
+MATK
+3
+Heavy Swing Damage +20%
+Heavy Swing ความเสียหายคริติคอล +15%
+Hit +5
+ไม่มีโบนัสครบชุด
+North Road"
+"Cyclone Reaver","ขวาน","1","Lv. 1","4","27","3","Round Slash Damage +20% | Round Slash AoE Radius +1 | ความเสียหายที่ได้รับ -10% during Round Slash","","Yggdra East Forest 2","https://ageofsylvanus.com/codex/assets/bbfc84a42bc38776.webp","images/weapon_147.webp","7","Cyclone Reaver
+ขวาน · Lv. 1 · 4 ช่องการ์ด
+ATK
+27
+MATK
+3
+Round Slash Damage +20%
+Round Slash AoE Radius +1
+ความเสียหายที่ได้รับ -10% during Round Slash
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 2"
+"Bloodrush Hatchet","ขวาน","50","Lv. 50","3","30","10","ATK +10% | ASPD +15% | อัตราคริติคอล +10%","","Snowland West Field 2","https://ageofsylvanus.com/codex/assets/a10de941799ff142.webp","images/weapon_148.webp","7","Bloodrush Hatchet
+ขวาน · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+10
+ATK +10%
+ASPD +15%
+อัตราคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Colossus Executioner","ขวาน","50","Lv. 50","4","58","14","ATK +10% | ความเสียหายกายภาพ +10% | STR +5","","Snowland East Field 1","https://ageofsylvanus.com/codex/assets/bec9c705d1213c37.webp","images/weapon_149.webp","7","Colossus Executioner
+ขวาน · Lv. 50 · 4 ช่องการ์ด
+ATK
+58
+MATK
+14
+ATK +10%
+ความเสียหายกายภาพ +10%
+STR +5
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Crimson Cyclone Axe","ขวาน","50","Lv. 50","4","54","14","Whirlwind Axe Damage +20% | ASPD +10% | Move Speed during Whirlwind Axe +10%","","Yggdra South Forest 2 | Yggdra South Forest 1","https://ageofsylvanus.com/codex/assets/a1644190964236b2.webp","images/weapon_150.webp","7","Crimson Cyclone Axe
+ขวาน · Lv. 50 · 4 ช่องการ์ด
+ATK
+54
+MATK
+14
+Whirlwind Axe Damage +20%
+ASPD +10%
+Move Speed during Whirlwind Axe +10%
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2
+Yggdra South Forest 1"
+"Maelstrom of Blood","ขวาน","100","Lv. 100","3","75","20","Whirlwind Axe / Blood Tornado Damage +20% | Whirlwind Axe คูลดาวน์ -1s | Whirlwind Axe / Blood Tornado Damage +2% ต่อระดับตีบวก","Whirlwind Axe / Blood Tornado Damage +2% ต่อระดับตีบวก","Lava Mine 3","https://ageofsylvanus.com/codex/assets/3faedae4e581171a.webp","images/weapon_151.webp","7","Maelstrom of Blood
+ขวาน · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+20
+Whirlwind Axe / Blood Tornado Damage +20%
+Whirlwind Axe คูลดาวน์ -1s
+ต่อระดับตีบวก
+Whirlwind Axe / Blood Tornado Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Razorstorm Beheader","ขวาน","100","Lv. 100","3","75","17","Razor Breeze Damage +20% | Razor Breeze Radius +1 | Bleeding Damage +10% | Razor Breeze Damage +2% ต่อระดับตีบวก","Razor Breeze Damage +2% ต่อระดับตีบวก","Lava Mine 2","https://ageofsylvanus.com/codex/assets/389be86ac47834a1.webp","images/weapon_152.webp","7","Razorstorm Beheader
+ขวาน · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+17
+Razor Breeze Damage +20%
+Razor Breeze Radius +1
+Bleeding Damage +10%
+ต่อระดับตีบวก
+Razor Breeze Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Twinflight Tomahawk","ขวาน","100","Lv. 100","2","39","14","Tomahawk Spin Damage +20% | ASPD +15% | อัตราคริติคอล +10% | Tomahawk Spin Damage +2% ต่อระดับตีบวก","Tomahawk Spin Damage +2% ต่อระดับตีบวก","The Falling Heaven 3","https://ageofsylvanus.com/codex/assets/f5b89f8d6fa45b50.webp","images/weapon_153.webp","7","Twinflight Tomahawk
+ขวาน · Lv. 100 · 2 ช่องการ์ด
+ATK
+39
+MATK
+14
+Tomahawk Spin Damage +20%
+ASPD +15%
+อัตราคริติคอล +10%
+ต่อระดับตีบวก
+Tomahawk Spin Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Worldsplitter Greataxe","ขวาน","100","Lv. 100","3","78","14","ATK +10% | ความเสียหายกายภาพ +10% | ความเสียหายระยะประชิด +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Orc Village","https://ageofsylvanus.com/codex/assets/f6c77db64d3369f8.webp","images/weapon_154.webp","7","Worldsplitter Greataxe
+ขวาน · Lv. 100 · 3 ช่องการ์ด
+ATK
+78
+MATK
+14
+ATK +10%
+ความเสียหายกายภาพ +10%
+ความเสียหายระยะประชิด +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Warrior Axe","ขวาน","1","Lv. 1","4","12","1","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/9bf9a92996adc3c6.webp","images/weapon_155.webp","7","Warrior Axe
+ขวาน · Lv. 1 · 4 ช่องการ์ด
+ATK
+12
+MATK
+1
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Timberline Axe","ขวาน","","ไม่จำกัดเลเวล","4","18","3","ความเสียหายกายภาพ +5%","","Ruin Desert 2","https://ageofsylvanus.com/codex/assets/43c04a1f60fafcd4.webp","images/weapon_156.webp","7","Timberline Axe
+ขวาน · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+18
+MATK
+3
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Ruin Desert 2"
+"Molten Worldcleaver","ขวาน","100","Lv. 100","3","78","14","Weapon Element: Fire | ATK +10%; ความเสียหายระยะประชิด +10% | Bleeding inflicted by attacks is converted to Ignite; Damage to Ignited Targets +15% | ความเสียหายระยะประชิด +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","ความเสียหายระยะประชิด +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","The Volcano 3","https://ageofsylvanus.com/codex/assets/618b0ff036b2317a.webp","images/weapon_157.webp","7","Molten Worldcleaver
+ขวาน · Lv. 100 · 3 ช่องการ์ด
+ATK
+78
+MATK
+14
+Weapon Element: Fire
+ATK +10%; ความเสียหายระยะประชิด +10%
+Bleeding inflicted by attacks is converted to Ignite; Damage to Ignited Targets +15%
+ต่อระดับตีบวก
+ความเสียหายระยะประชิด +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage
+Ignite โอกาส +5% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Glacier Worldcleaver","ขวาน","100","Lv. 100","3","92","20","Weapon Element: Water | ความเสียหายต่อ Frozen targets +30% | On Hit: 2% โอกาส ต่อระดับตีบวก to inflict Frozen for 7s","On Hit: 2% โอกาส ต่อระดับตีบวก to inflict Frozen for 7s","The Ancient Battlefield","","","7","⚔
+Glacier Worldcleaver
+ขวาน · Lv. 100 · 3 ช่องการ์ด
+ATK
+92
+MATK
+20
+Weapon Element: Water
+ความเสียหายต่อ Frozen targets +30%
+ต่อระดับตีบวก
+On Hit: 2% โอกาส ต่อระดับตีบวก to inflict Frozen for 7s
+ไม่มีโบนัสครบชุด
+The Ancient Battlefield"
+"Tremor Knuckle","กระบอง","1","Lv. 1","3","14","2","Heavy Impact Damage +20% | Heavy Impact Stun โอกาส +10% | Heavy Impact คูลดาวน์ -0.5s","","North Road","https://ageofsylvanus.com/codex/assets/2b069166102b5da7.webp","images/weapon_158.webp","7","Tremor Knuckle
+กระบอง · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+2
+Heavy Impact Damage +20%
+Heavy Impact Stun โอกาส +10%
+Heavy Impact คูลดาวน์ -0.5s
+ไม่มีโบนัสครบชุด
+North Road"
+"Ironblood Crusher","กระบอง","1","Lv. 1","3","16","2","ATK +10% | ความเสียหายกายภาพ +10%","","Anima North Swamp 1","https://ageofsylvanus.com/codex/assets/64b8636769b85495.webp","images/weapon_159.webp","8","Ironblood Crusher
+กระบอง · Lv. 1 · 3 ช่องการ์ด
+ATK
+16
+MATK
+2
+ATK +10%
+ความเสียหายกายภาพ +10%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 1"
+"Skullshaker Mace","กระบอง","1","Lv. 1","3","14","2","Faceshaker Damage +20% | Faceshaker Stun โอกาส +10% | ความเสียหายคริติคอล +15%","","Anima East Swamp 1","https://ageofsylvanus.com/codex/assets/fc6aaae389677ce5.webp","images/weapon_160.webp","8","Skullshaker Mace
+กระบอง · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+2
+Faceshaker Damage +20%
+Faceshaker Stun โอกาส +10%
+ความเสียหายคริติคอล +15%
+ไม่มีโบนัสครบชุด
+Anima East Swamp 1"
+"Fist of the Crimson Path","กระบอง","50","Lv. 50","3","30","10","ATK +10% | ความเสียหายกายภาพ +10% | STR +5","","Soloden South Forest 2","https://ageofsylvanus.com/codex/assets/c27de3216855419e.webp","images/weapon_161.webp","8","Fist of the Crimson Path
+กระบอง · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+10
+ATK +10%
+ความเสียหายกายภาพ +10%
+STR +5
+ไม่มีโบนัสครบชุด
+Soloden South Forest 2"
+"Bloodwell Crusher","กระบอง","50","Lv. 50","3","30","10","Bloodburst Damage +20% | Bleeding โอกาส +10% | Bloodburst Healing +10 percentage points","","Ancient Pyramid 1","https://ageofsylvanus.com/codex/assets/41e125312f174690.webp","images/weapon_162.webp","8","Bloodwell Crusher
+กระบอง · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+10
+Bloodburst Damage +20%
+Bleeding โอกาส +10%
+Bloodburst Healing +10 percentage points
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Chalice of the Blood Drinker","กระบอง","50","Lv. 50","3","30","12","Vampiric Strike Damage +20% | Vampiric Strike Healing +10 percentage points | Vampiric Strike คูลดาวน์ -1.5s","","ไม่พบแหล่งดรอป","https://ageofsylvanus.com/codex/assets/38c3c852f6b9628d.webp","images/weapon_163.webp","8","Chalice of the Blood Drinker
+กระบอง · Lv. 50 · 3 ช่องการ์ด
+ATK
+30
+MATK
+12
+Vampiric Strike Damage +20%
+Vampiric Strike Healing +10 percentage points
+Vampiric Strike คูลดาวน์ -1.5s
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Heartbeat of Carnage","กระบอง","100","Lv. 100","2","49","16","Rampage เวลาร่าย -2s | Rampage HP Cost -20% | Rampage After Cast Delay -20% | Rampage เวลาร่าย -2% ต่อระดับตีบวก","Rampage เวลาร่าย -2% ต่อระดับตีบวก","Orc Village","https://ageofsylvanus.com/codex/assets/03b9538ef76329bb.webp","images/weapon_164.webp","8","Heartbeat of Carnage
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+49
+MATK
+16
+Rampage เวลาร่าย -2s
+Rampage HP Cost -20%
+Rampage After Cast Delay -20%
+ต่อระดับตีบวก
+Rampage เวลาร่าย -2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Five-Droplet Repeater","กระบอง","100","Lv. 100","2","50","14","Blood Bullet Damage +20% | Blood Bullet อัตราคริติคอล +10% | Blood Bullet Range +1 | Blood Bullet Damage +2% ต่อระดับตีบวก","Blood Bullet Damage +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/17752dec29e9d269.webp","images/weapon_165.webp","8","Five-Droplet Repeater
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+50
+MATK
+14
+Blood Bullet Damage +20%
+Blood Bullet อัตราคริติคอล +10%
+Blood Bullet Range +1
+ต่อระดับตีบวก
+Blood Bullet Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Palm of the War Deity","กระบอง","100","Lv. 100","2","51","12","Asura Palm Damage +20% | Asura Palm AoE Radius +1 | Asura Palm คูลดาวน์ -1.5s | Asura Palm Damage +2% ต่อระดับตีบวก","Asura Palm Damage +2% ต่อระดับตีบวก","Lava Mine 2","https://ageofsylvanus.com/codex/assets/53c289ed3b155bcc.webp","images/weapon_166.webp","8","Palm of the War Deity
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+51
+MATK
+12
+Asura Palm Damage +20%
+Asura Palm AoE Radius +1
+Asura Palm คูลดาวน์ -1.5s
+ต่อระดับตีบวก
+Asura Palm Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Arbiter of the Final Breath","กระบอง","100","Lv. 100","2","49","18","Judgement of Asura Damage +20% | Judgement of Asura เวลาร่าย -1s | Judgement of Asura คูลดาวน์ -3s | Judgement of Asura เวลาร่าย -2% ต่อระดับตีบวก","Judgement of Asura เวลาร่าย -2% ต่อระดับตีบวก","Lava Mine 3","https://ageofsylvanus.com/codex/assets/0ba1ca619f92a486.webp","images/weapon_167.webp","8","Arbiter of the Final Breath
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+49
+MATK
+18
+Judgement of Asura Damage +20%
+Judgement of Asura เวลาร่าย -1s
+Judgement of Asura คูลดาวน์ -3s
+ต่อระดับตีบวก
+Judgement of Asura เวลาร่าย -2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Crimson Godbreaker","กระบอง","100","Lv. 100","2","53","10","ATK +10% | อัตราคริติคอล +10% | ความเสียหายคริติคอล +20% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","The Grand Smelter 1","https://ageofsylvanus.com/codex/assets/8aadc88f8ae8e779.webp","images/weapon_168.webp","8","Crimson Godbreaker
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+53
+MATK
+10
+ATK +10%
+อัตราคริติคอล +10%
+ความเสียหายคริติคอล +20%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Warrior Mace","กระบอง","1","Lv. 1","4","11","3","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/a4d9287b2a738db7.webp","images/weapon_169.webp","8","Warrior Mace
+กระบอง · Lv. 1 · 4 ช่องการ์ด
+ATK
+11
+MATK
+3
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Stonefield Mace","กระบอง","","ไม่จำกัดเลเวล","4","17","5","ความเสียหายกายภาพ +5%","","Hemeralis West Field 1","https://ageofsylvanus.com/codex/assets/e61bcb23c3a9f3a0.webp","images/weapon_170.webp","8","Stonefield Mace
+กระบอง · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+17
+MATK
+5
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 1"
+"Wreckbreaker Anchor","กระบอง","100","Lv. 100","2","42","14","Ground Breaker Damage +25% | Ground Breaker AoE Radius +1 cell | Ground Breaker Damage +2% ต่อระดับตีบวก","Ground Breaker Damage +2% ต่อระดับตีบวก","Sunken Ship 1","","","8","⚔
+Wreckbreaker Anchor
+กระบอง · Lv. 100 · 2 ช่องการ์ด
+ATK
+42
+MATK
+14
+Ground Breaker Damage +25%
+Ground Breaker AoE Radius +1 cell
+ต่อระดับตีบวก
+Ground Breaker Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 1"
+"Voidstain Dagger","มีดสั้น","1","Lv. 1","3","14","4","Dark Blade Damage +20% | ความเสียหายเคออส +10% | Dark Blade การฟื้นฟู HP Reduction +10 percentage points","","Soloden East Forest 1","https://ageofsylvanus.com/codex/assets/6e87df9ff8d98f32.webp","images/weapon_171.webp","8","Voidstain Dagger
+มีดสั้น · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+4
+Dark Blade Damage +20%
+ความเสียหายเคออส +10%
+Dark Blade การฟื้นฟู HP Reduction +10 percentage points
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Quickfang Dirk","มีดสั้น","1","Lv. 1","3","16","2","ATK +10% | ความเสียหายกายภาพ +10% | ASPD +15%","","Soloden South Forest 2","https://ageofsylvanus.com/codex/assets/8dc0494c2dc68273.webp","images/weapon_172.webp","8","Quickfang Dirk
+มีดสั้น · Lv. 1 · 3 ช่องการ์ด
+ATK
+16
+MATK
+2
+ATK +10%
+ความเสียหายกายภาพ +10%
+ASPD +15%
+ไม่มีโบนัสครบชุด
+Soloden South Forest 2"
+"Veilpiercer Knife","มีดสั้น","1","Lv. 1","3","14","4","Shadow Meld คูลดาวน์ -1s | Shadow Meld ระยะเวลา +1s | Shadow Meld Exit ความเสียหายคริติคอล +20%","","Crossroad","https://ageofsylvanus.com/codex/assets/e86add6cc227a563.webp","images/weapon_173.webp","8","Veilpiercer Knife
+มีดสั้น · Lv. 1 · 3 ช่องการ์ด
+ATK
+14
+MATK
+4
+Shadow Meld คูลดาวน์ -1s
+Shadow Meld ระยะเวลา +1s
+Shadow Meld Exit ความเสียหายคริติคอล +20%
+ไม่มีโบนัสครบชุด
+Crossroad"
+"Nightstalker Fang","มีดสั้น","50","Lv. 50","3","28","12","ATK +10% | ความเสียหายกายภาพ +10% | AGI +5","","Soloden South Forest 1","https://ageofsylvanus.com/codex/assets/81d45c9147e65853.webp","images/weapon_174.webp","8","Nightstalker Fang
+มีดสั้น · Lv. 50 · 3 ช่องการ์ด
+ATK
+28
+MATK
+12
+ATK +10%
+ความเสียหายกายภาพ +10%
+AGI +5
+ไม่มีโบนัสครบชุด
+Soloden South Forest 1"
+"Mantle of the Moonless Edge","มีดสั้น","50","Lv. 50","3","26","14","Shadow Cloak ระยะเวลา +2s | Shadow Cloak Move Speed +10% | Shadow Cloak คูลดาวน์ -2s","","ไม่พบแหล่งดรอป","https://ageofsylvanus.com/codex/assets/2332b37739e67db1.webp","images/weapon_175.webp","8","Mantle of the Moonless Edge
+มีดสั้น · Lv. 50 · 3 ช่องการ์ด
+ATK
+26
+MATK
+14
+Shadow Cloak ระยะเวลา +2s
+Shadow Cloak Move Speed +10%
+Shadow Cloak คูลดาวน์ -2s
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Chain of the Living Shadow","มีดสั้น","50","Lv. 50","3","28","12","Shadow Bind ระยะเวลา +0.5s | Shadow Bind Range +1 | Shadow Bind คูลดาวน์ -2s","","Soloden East Forest 2","https://ageofsylvanus.com/codex/assets/bd88585783845b7f.webp","images/weapon_176.webp","8","Chain of the Living Shadow
+มีดสั้น · Lv. 50 · 3 ช่องการ์ด
+ATK
+28
+MATK
+12
+Shadow Bind ระยะเวลา +0.5s
+Shadow Bind Range +1
+Shadow Bind คูลดาวน์ -2s
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Crescent of the Chaotic Moon","มีดสั้น","100","Lv. 100","2","36","20","Chaotic Cut Damage +20% | อัตราคริติคอล +10% | Chaotic Cut Range +1 | Chaotic Cut Damage +2% ต่อระดับตีบวก","Chaotic Cut Damage +2% ต่อระดับตีบวก","Cemetery Underground 1st Floor","https://ageofsylvanus.com/codex/assets/aa2c8889b5d416df.webp","images/weapon_177.webp","8","Crescent of the Chaotic Moon
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+Chaotic Cut Damage +20%
+อัตราคริติคอล +10%
+Chaotic Cut Range +1
+ต่อระดับตีบวก
+Chaotic Cut Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Abyssal Kingslayer","มีดสั้น","100","Lv. 100","2","40","14","ATK +10% | ความเสียหายกายภาพ +10% | ความเสียหายระยะประชิด +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Orc Den","https://ageofsylvanus.com/codex/assets/6f7f70a5cdc95d95.webp","images/weapon_178.webp","8","Abyssal Kingslayer
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+40
+MATK
+14
+ATK +10%
+ความเสียหายกายภาพ +10%
+ความเสียหายระยะประชิด +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Mirage Detonator","มีดสั้น","100","Lv. 100","2","36","20","Illusion Bomb Damage +20% | Illusion Bomb Stun ระยะเวลา +0.5s | Illusion Bomb คูลดาวน์ -2s | Illusion Bomb Damage +2% ต่อระดับตีบวก","Illusion Bomb Damage +2% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/3558edc757a85989.webp","images/weapon_179.webp","8","Mirage Detonator
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+Illusion Bomb Damage +20%
+Illusion Bomb Stun ระยะเวลา +0.5s
+Illusion Bomb คูลดาวน์ -2s
+ต่อระดับตีบวก
+Illusion Bomb Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Rogue Dagger","มีดสั้น","1","Lv. 1","4","9","2","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/b317c45df8fd4071.webp","images/weapon_180.webp","8","Rogue Dagger
+มีดสั้น · Lv. 1 · 4 ช่องการ์ด
+ATK
+9
+MATK
+2
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Briar Dagger","มีดสั้น","","ไม่จำกัดเลเวล","4","15","4","ความเสียหายกายภาพ +5%","","Ruin Desert 2","https://ageofsylvanus.com/codex/assets/1dff791ce8a66e6d.webp","images/weapon_181.webp","8","Briar Dagger
+มีดสั้น · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+15
+MATK
+4
+ความเสียหายกายภาพ +5%
+ไม่มีโบนัสครบชุด
+Ruin Desert 2"
+"Plaguefang Dagger","มีดสั้น","100","Lv. 100","2","36","20","ATK +5% | Poison ระยะเวลา +30% | Leech +5% on direct Physical attack/skill ความเสียหายต่อ targets affected by Poison inflicted by the wearer; excludes status ticks","","The Lost Island 2","","","9","⚔
+Plaguefang Dagger
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+ATK +5%
+Poison ระยะเวลา +30%
+Leech +5% on direct Physical attack/skill ความเสียหายต่อ targets affected by Poison inflicted by the wearer; excludes status ticks
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Nightfall Fang","มีดสั้น","100","Lv. 100","2","36","20","Night Trap คูลดาวน์ -1.5s | Night Trap Damage +15% | Night Trap Damage +2% ต่อระดับตีบวก","Night Trap Damage +2% ต่อระดับตีบวก","Sunken Ship 2","","","9","⚔
+Nightfall Fang
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+Night Trap คูลดาวน์ -1.5s
+Night Trap Damage +15%
+ต่อระดับตีบวก
+Night Trap Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Maw of Chaos","มีดสั้น","100","Lv. 100","2","36","20","Chaos Devouring คูลดาวน์ -1.5s | Chaos Devouring Damage +15% | Chaos Devouring Damage +2% ต่อระดับตีบวก","Chaos Devouring Damage +2% ต่อระดับตีบวก","Hellgate","","","9","⚔
+Maw of Chaos
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+36
+MATK
+20
+Chaos Devouring คูลดาวน์ -1.5s
+Chaos Devouring Damage +15%
+ต่อระดับตีบวก
+Chaos Devouring Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Castaway’s Fang","มีดสั้น","100","Lv. 100","2","38","14","AGI +5 | ASPD +10% | Brick and Bat คูลดาวน์ -2s | Brick and Bat Success โอกาส +2 percentage points ต่อระดับตีบวก","Brick and Bat Success โอกาส +2 percentage points ต่อระดับตีบวก","Sunken Ship 2","","","9","⚔
+Castaway’s Fang
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+38
+MATK
+14
+AGI +5
+ASPD +10%
+Brick and Bat คูลดาวน์ -2s
+ต่อระดับตีบวก
+Brick and Bat Success โอกาส +2 percentage points ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Venomroot Ritual Dagger","มีดสั้น","100","Lv. 100","2","44","24","Poison ความเสียหายจากสถานะผิดปกติ +20% | Venomous Attack Damage +20% | Venomous Attack Base ความเสียหายธาตุพิษ +20% | Poison ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก","Poison ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก","The Cursed Swamp","","","9","⚔
+Venomroot Ritual Dagger
+มีดสั้น · Lv. 100 · 2 ช่องการ์ด
+ATK
+44
+MATK
+24
+Poison ความเสียหายจากสถานะผิดปกติ +20%
+Venomous Attack Damage +20%
+Venomous Attack Base ความเสียหายธาตุพิษ +20%
+ต่อระดับตีบวก
+Poison ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Threefold Requiem","หน้าไม้","1","Lv. 1","4","26","3","Death Dealer Damage +20% | Death Dealer Range +1 | อัตราคริติคอล +10%","","Soloden South Forest 2","https://ageofsylvanus.com/codex/assets/be0c574cff4731bd.webp","images/weapon_182.webp","9","Threefold Requiem
+หน้าไม้ · Lv. 1 · 4 ช่องการ์ด
+ATK
+26
+MATK
+3
+Death Dealer Damage +20%
+Death Dealer Range +1
+อัตราคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Soloden South Forest 2"
+"Silent Eclipse Crossbow","หน้าไม้","1","Lv. 1","4","26","7","Shadow Meld ระยะเวลา +1s | Shadow Meld คูลดาวน์ -1s | Shadow Meld Exit ความเสียหายคริติคอล +20%","","Crossroad","https://ageofsylvanus.com/codex/assets/ac078545da850f8b.webp","images/weapon_183.webp","9","Silent Eclipse Crossbow
+หน้าไม้ · Lv. 1 · 4 ช่องการ์ด
+ATK
+26
+MATK
+7
+Shadow Meld ระยะเวลา +1s
+Shadow Meld คูลดาวน์ -1s
+Shadow Meld Exit ความเสียหายคริติคอล +20%
+ไม่มีโบนัสครบชุด
+Crossroad"
+"Blackpowder Scatterbow","หน้าไม้","50","Lv. 50","4","49","17","Shotgun Shot Damage +20% | Close-range Bonus Damage +20 percentage points | Shotgun Shot คูลดาวน์ -1.5s","","Soloden South Forest 1","https://ageofsylvanus.com/codex/assets/995128b0b3d0be76.webp","images/weapon_184.webp","9","Blackpowder Scatterbow
+หน้าไม้ · Lv. 50 · 4 ช่องการ์ด
+ATK
+49
+MATK
+17
+Shotgun Shot Damage +20%
+Close-range Bonus Damage +20 percentage points
+Shotgun Shot คูลดาวน์ -1.5s
+ไม่มีโบนัสครบชุด
+Soloden South Forest 1"
+"Moonveil Repeater","หน้าไม้","50","Lv. 50","4","46","20","Shadow Cloak ระยะเวลา +2s | Shadow Cloak Move Speed +10% | Shadow Cloak คูลดาวน์ -2s","","Ancient Pyramid 2","https://ageofsylvanus.com/codex/assets/fb45147285c2f262.webp","images/weapon_185.webp","9","Moonveil Repeater
+หน้าไม้ · Lv. 50 · 4 ช่องการ์ด
+ATK
+46
+MATK
+20
+Shadow Cloak ระยะเวลา +2s
+Shadow Cloak Move Speed +10%
+Shadow Cloak คูลดาวน์ -2s
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Ninefold Executioner","หน้าไม้","100","Lv. 100","3","63","31","Rapid Shot Damage +20% | ASPD +15% | Rapid Shot คูลดาวน์ -1.5s | Rapid Shot Damage +2% ต่อระดับตีบวก","Rapid Shot Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/b7fefb0668d7294d.webp","images/weapon_186.webp","9","Ninefold Executioner
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+63
+MATK
+31
+Rapid Shot Damage +20%
+ASPD +15%
+Rapid Shot คูลดาวน์ -1.5s
+ต่อระดับตีบวก
+Rapid Shot Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Sovereign Nightpiercer","หน้าไม้","100","Lv. 100","3","68","24","ATK +10% | ความเสียหายกายภาพ +10% | ความเสียหายระยะไกล +10% | ความเสียหายกายภาพ +2% ต่อระดับตีบวก","ความเสียหายกายภาพ +2% ต่อระดับตีบวก","Cemetery Underground 2nd Floor","https://ageofsylvanus.com/codex/assets/5e0ca118d869401b.webp","images/weapon_187.webp","9","Sovereign Nightpiercer
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+68
+MATK
+24
+ATK +10%
+ความเสียหายกายภาพ +10%
+ความเสียหายระยะไกล +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 2nd Floor"
+"Nocturne Trapcaster","หน้าไม้","100","Lv. 100","3","60","37","Night Trap Damage +20% | ความเร็วร่าย +15% | Night Trap AoE Radius +1 | Night Trap Damage +2% ต่อระดับตีบวก","Night Trap Damage +2% ต่อระดับตีบวก","Shadowfen Cemetery","https://ageofsylvanus.com/codex/assets/8e52a0577b1f39f8.webp","images/weapon_188.webp","9","Nocturne Trapcaster
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+60
+MATK
+37
+Night Trap Damage +20%
+ความเร็วร่าย +15%
+Night Trap AoE Radius +1
+ต่อระดับตีบวก
+Night Trap Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Shadowfen Cemetery"
+"Maw of the Devouring Night","หน้าไม้","100","Lv. 100","3","63","37","Chaos Devouring Damage +20% | ความเร็วร่าย +15% | Chaos Devouring Range +1 | Chaos Devouring Damage +2% ต่อระดับตีบวก","Chaos Devouring Damage +2% ต่อระดับตีบวก","Solomon's Laboratory","https://ageofsylvanus.com/codex/assets/4cfdcc8bad6163af.webp","images/weapon_189.webp","9","Maw of the Devouring Night
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+63
+MATK
+37
+Chaos Devouring Damage +20%
+ความเร็วร่าย +15%
+Chaos Devouring Range +1
+ต่อระดับตีบวก
+Chaos Devouring Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Solomon's Laboratory"
+"Rogue Crossbow","หน้าไม้","1","Lv. 1","4","19","2","","","Hemeralis South Field 1","https://ageofsylvanus.com/codex/assets/042ccffb04485050.webp","images/weapon_190.webp","9","Rogue Crossbow
+หน้าไม้ · Lv. 1 · 4 ช่องการ์ด
+ATK
+19
+MATK
+2
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Hawthorn Crossbow","หน้าไม้","","ไม่จำกัดเลเวล","4","29","5","ความเสียหายระยะไกล +5%","","Atlan East Desert 2","https://ageofsylvanus.com/codex/assets/fc29f153efcecb8a.webp","images/weapon_191.webp","9","Hawthorn Crossbow
+หน้าไม้ · ไม่จำกัดเลเวล · 4 ช่องการ์ด
+ATK
+29
+MATK
+5
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Atlan East Desert 2"
+"Duskweaver Crossbow","หน้าไม้","100","Lv. 100","3","60","37","Night Trap คูลดาวน์ -2s | Night Trap Damage +25% | Night Trap Damage +2% ต่อระดับตีบวก","Night Trap Damage +2% ต่อระดับตีบวก","Sunken Ship 2","","","9","⚔
+Duskweaver Crossbow
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+60
+MATK
+37
+Night Trap คูลดาวน์ -2s
+Night Trap Damage +25%
+ต่อระดับตีบวก
+Night Trap Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Voidmaw Crossbow","หน้าไม้","100","Lv. 100","3","63","37","Chaos Devouring คูลดาวน์ -1.5s | Chaos Devouring Damage +25% | Chaos Devouring Damage +2% ต่อระดับตีบวก","Chaos Devouring Damage +2% ต่อระดับตีบวก","Hellgate","","","9","⚔
+Voidmaw Crossbow
+หน้าไม้ · Lv. 100 · 3 ช่องการ์ด
+ATK
+63
+MATK
+37
+Chaos Devouring คูลดาวน์ -1.5s
+Chaos Devouring Damage +25%
+ต่อระดับตีบวก
+Chaos Devouring Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Death Sentence","หน้าไม้","100","Lv. 100","2","75","24","Chaos Devouring Damage +40% | ละเลย DEF +15% | Chaos Orb Allowed; Max Card Slots: 3 | Chaos Devouring Damage +3% ต่อระดับตีบวก","Chaos Devouring Damage +3% ต่อระดับตีบวก","The Burrow 3","","","9","⚔
+Death Sentence
+หน้าไม้ · Lv. 100 · 2 ช่องการ์ด
+ATK
+75
+MATK
+24
+Chaos Devouring Damage +40%
+ละเลย DEF +15%
+Chaos Orb Allowed; Max Card Slots: 3
+ต่อระดับตีบวก
+Chaos Devouring Damage +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Burrow 3"
+"Crimson Fang of Precision","กาตาร์","50","Lv. 50","4","60","17","ATK +10% | อัตราคริติคอล +10% | ความเสียหายคริติคอล +15%","","Soloden South Forest 1","https://ageofsylvanus.com/codex/assets/cda88dcc6923193f.webp","images/weapon_192.webp","9","Crimson Fang of Precision
+กาตาร์ · Lv. 50 · 4 ช่องการ์ด
+ATK
+60
+MATK
+17
+ATK +10%
+อัตราคริติคอล +10%
+ความเสียหายคริติคอล +15%
+ไม่มีโบนัสครบชุด
+Soloden South Forest 1"
+"Resonant Sonic Katar","กาตาร์","50","Lv. 50","4","58","17","Sonic Slash Damage +20% | Sonic Slash คูลดาวน์ -1s | ความเสียหายคริติคอล +15%","","Soloden East Forest 1","https://ageofsylvanus.com/codex/assets/ac2e72797477f6f4.webp","images/weapon_193.webp","9","Resonant Sonic Katar
+กาตาร์ · Lv. 50 · 4 ช่องการ์ด
+ATK
+58
+MATK
+17
+Sonic Slash Damage +20%
+Sonic Slash คูลดาวน์ -1s
+ความเสียหายคริติคอล +15%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Venomheart Claws","กาตาร์","50","Lv. 50","4","56","20","ความเสียหายธาตุพิษ +10% | ความเสียหายจากสถานะผิดปกติ +10% | AGI +5","","Ancient Pyramid 1","https://ageofsylvanus.com/codex/assets/e1b09eca76b4ea25.webp","images/weapon_194.webp","9","Venomheart Claws
+กาตาร์ · Lv. 50 · 4 ช่องการ์ด
+ATK
+56
+MATK
+20
+ความเสียหายธาตุพิษ +10%
+ความเสียหายจากสถานะผิดปกติ +10%
+AGI +5
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Nightfall Shadow Talons","กาตาร์","100","Lv. 100","3","75","24","Shadow Strike Damage +20% | Shadow Stack ระยะเวลา +2s | Shadow Strike Damage +2% ต่อระดับตีบวก","Shadow Strike Damage +2% ต่อระดับตีบวก","Cemetery Underground 1st Floor","https://ageofsylvanus.com/codex/assets/7c70a319adb43377.webp","images/weapon_195.webp","9","Nightfall Shadow Talons
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+24
+Shadow Strike Damage +20%
+Shadow Stack ระยะเวลา +2s
+ต่อระดับตีบวก
+Shadow Strike Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Avatarfang Repeater","กาตาร์","100","Lv. 100","3","71","24","ASPD +20% | Shadow Avatar Proc โอกาส +10 percentage points | Shadow Avatar Damage +20% | Shadow Avatar Damage +2% ต่อระดับตีบวก","Shadow Avatar Damage +2% ต่อระดับตีบวก","Hellgate","https://ageofsylvanus.com/codex/assets/815567ae701cd872.webp","images/weapon_196.webp","9","Avatarfang Repeater
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+24
+ASPD +20%
+Shadow Avatar Proc โอกาส +10 percentage points
+Shadow Avatar Damage +20%
+ต่อระดับตีบวก
+Shadow Avatar Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Sovereign Execution Katar","กาตาร์","100","Lv. 100","3","78","20","ATK +10% | ความเสียหายระยะประชิด +10% | STR +8 | ATK +2% ต่อระดับตีบวก","ATK +2% ต่อระดับตีบวก","Orc Village","https://ageofsylvanus.com/codex/assets/34107eb95c98e3a0.webp","images/weapon_197.webp","9","Sovereign Execution Katar
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+78
+MATK
+20
+ATK +10%
+ความเสียหายระยะประชิด +10%
+STR +8
+ต่อระดับตีบวก
+ATK +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Fangs of the Endless Venom","กาตาร์","100","Lv. 100","3","73","27","Venomous Attack Damage +20% | ความเสียหายธาตุพิษ +10% | Venomous Attack PoisonBase +20% | Venomous Attack Damage +2% ต่อระดับตีบวก","Venomous Attack Damage +2% ต่อระดับตีบวก","Shadowfen Cemetery","https://ageofsylvanus.com/codex/assets/a7e940a95470687d.webp","images/weapon_198.webp","10","Fangs of the Endless Venom
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+73
+MATK
+27
+Venomous Attack Damage +20%
+ความเสียหายธาตุพิษ +10%
+Venomous Attack PoisonBase +20%
+ต่อระดับตีบวก
+Venomous Attack Damage +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Shadowfen Cemetery"
+"Toxin Sovereign Claws","กาตาร์","100","Lv. 100","3","70","31","Anti-Life / Silent Toxin ระยะเวลา +3s | Smoking Toxin ระยะเวลา +2s | Toxin ระยะเวลา +2% ต่อระดับตีบวก","Toxin ระยะเวลา +2% ต่อระดับตีบวก","Lava Mine 1","https://ageofsylvanus.com/codex/assets/1fecb9985c5ccfc2.webp","images/weapon_199.webp","10","Toxin Sovereign Claws
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+70
+MATK
+31
+Anti-Life / Silent Toxin ระยะเวลา +3s
+Smoking Toxin ระยะเวลา +2s
+ต่อระดับตีบวก
+Toxin ระยะเวลา +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Ashen Phoenix Talons","กาตาร์","100","Lv. 100","3","75","24","Weapon Element: Fire | ความเสียหายธาตุไฟ +10% | อัตราคริติคอล +10%; Damage to Ignited Targets +15% | ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage | Ignite โอกาส +5% ต่อระดับตีบวก","The Volcano 3","https://ageofsylvanus.com/codex/assets/0e12343b922d1084.webp","images/weapon_200.webp","10","Ashen Phoenix Talons
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+24
+Weapon Element: Fire
+ความเสียหายธาตุไฟ +10%
+อัตราคริติคอล +10%; Damage to Ignited Targets +15%
+ต่อระดับตีบวก
+ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก; On successful normal attacks or weapon attack skill hits: 5% โอกาส ต่อระดับตีบวก to inflict Ignite for 5 sec (maximum 100%); excludes DoT and reflected damage
+Ignite โอกาส +5% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Venomrot Katar","กาตาร์","100","Lv. 100","3","75","24","ASPD +10% | Poison ความเสียหายจากสถานะผิดปกติ +40% | Poison ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก","Poison ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก","The Lost Island 2","","","10","⚔
+Venomrot Katar
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+75
+MATK
+24
+ASPD +10%
+Poison ความเสียหายจากสถานะผิดปกติ +40%
+ต่อระดับตีบวก
+Poison ความเสียหายจากสถานะผิดปกติ +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Venomwake Katar","กาตาร์","100","Lv. 100","3","71","24","ASPD +15% | Venomous Attack Damage +30% | Venomous Attack Poison Base x2 | Chaos Orb Allowed; Max Card Slots: 4 | Venomous Attack Damage +3% ต่อระดับตีบวก","Venomous Attack Damage +3% ต่อระดับตีบวก","Sunken Ship 2","","","10","⚔
+Venomwake Katar
+กาตาร์ · Lv. 100 · 3 ช่องการ์ด
+ATK
+71
+MATK
+24
+ASPD +15%
+Venomous Attack Damage +30%
+Venomous Attack Poison Base x2
+Chaos Orb Allowed; Max Card Slots: 4
+ต่อระดับตีบวก
+Venomous Attack Damage +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"

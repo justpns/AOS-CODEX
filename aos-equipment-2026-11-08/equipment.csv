@@ -1,0 +1,3199 @@
+﻿"name","category","type","level","levelRequirement","cardSlots","def","mdef","baseStats","bonuses","refineBonuses","setBonus","dropAreas","imageUrl","imageFile","page","position","rawText"
+"Wayfarer's Coat","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""HP สูงสุด +75"",""ครบชุด · Wayfarer's Unity Set"",""ค่าสถานะทั้งหมด +3"",""Hemeralis South Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/c210ee5e4e07312e.webp","images/equipment_001.webp","1","1","Wayfarer's Coat
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+HP สูงสุด +75
+ครบชุด · Wayfarer's Unity Set
+ค่าสถานะทั้งหมด +3
+Hemeralis South Field 1"
+"Wellspring Robe","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""HP สูงสุด +150"",""ครบชุด · Wellspring Ward Set"",""HP สูงสุด +200"",""MP สูงสุด +80"",""Hemeralis South Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/e13b57cec82fec3b.webp","images/equipment_002.webp","1","2","Wellspring Robe
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+HP สูงสุด +150
+ครบชุด · Wellspring Ward Set
+HP สูงสุด +200
+MP สูงสุด +80
+Hemeralis South Field 2"
+"Vanguard Cuirass","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","7","2","{""DEF"":7,""MDEF"":2}","[""ATK +4"",""ครบชุด · Vanguard's Assault Set"",""ATK Percent +5%"",""Ruin Desert 1"",""Ruin Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/09ea941e7d1dcc56.webp","images/equipment_003.webp","1","3","Vanguard Cuirass
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+7
+MDEF
+2
+ATK +4
+ครบชุด · Vanguard's Assault Set
+ATK Percent +5%
+Ruin Desert 1
+Ruin Desert 2"
+"Arcanist Robe","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","7","{""DEF"":2,""MDEF"":7}","[""MATK +4"",""ครบชุด · Arcanist's Insight Set"",""MATK Percent +5%"",""Forest Steppe 1"",""Forest Steppe 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/a94156372d986f1c.webp","images/equipment_004.webp","1","4","Arcanist Robe
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+7
+MATK +4
+ครบชุด · Arcanist's Insight Set
+MATK Percent +5%
+Forest Steppe 1
+Forest Steppe 2"
+"Ironclad Duelist Cuirass","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","8","2","{""DEF"":8,""MDEF"":2}","[""ATK +10"",""HP สูงสุด +100"",""ครบชุด · Ironclad Duelist Set"",""STR +5"",""ATK Percent +5%"",""ความเสียหายระยะประชิด +10%"",""Atlan South Desert 1"",""Atlan South Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/dfc6d1a86289b1ea.webp","images/equipment_005.webp","1","5","Ironclad Duelist Cuirass
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+8
+MDEF
+2
+ATK +10
+HP สูงสุด +100
+ครบชุด · Ironclad Duelist Set
+STR +5
+ATK Percent +5%
+ความเสียหายระยะประชิด +10%
+Atlan South Desert 1
+Atlan South Desert 2"
+"Farstrider Jerkin","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""ATK +10"",""HP สูงสุด +75"",""ครบชุด · Farstrider Set"",""DEX +5"",""ATK Percent +5%"",""ความเสียหายระยะไกล +10%"",""Yggdra East Forest 1"",""Yggdra East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/941531349a26ef35.webp","images/equipment_006.webp","1","6","Farstrider Jerkin
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+ATK +10
+HP สูงสุด +75
+ครบชุด · Farstrider Set
+DEX +5
+ATK Percent +5%
+ความเสียหายระยะไกล +10%
+Yggdra East Forest 1
+Yggdra East Forest 2"
+"Arcane Conduit Robe","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","8","{""DEF"":2,""MDEF"":8}","[""MATK +10"",""MP สูงสุด +50"",""ครบชุด · Arcane Conduit Set"",""INT +5"",""MATK Percent +5%"",""ความเสียหายเวท +10%"",""Crystalland West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/2e45e87cd545edbc.webp","images/equipment_007.webp","1","7","Arcane Conduit Robe
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+8
+MATK +10
+MP สูงสุด +50
+ครบชุด · Arcane Conduit Set
+INT +5
+MATK Percent +5%
+ความเสียหายเวท +10%
+Crystalland West Field 2"
+"Beastbound Covenant Vestment","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""Summon HP สูงสุด +10%"",""ATK +5"",""MATK +5"",""ครบชุด · Beastbound Covenant Set"",""ค่าสถานะทั้งหมด +2"",""ความเสียหายของมินเนียน +15%"",""Anima North Swamp 1"",""Anima North Swamp 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/5292d3911637a782.webp","images/equipment_008.webp","1","8","Beastbound Covenant Vestment
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+Summon HP สูงสุด +10%
+ATK +5
+MATK +5
+ครบชุด · Beastbound Covenant Set
+ค่าสถานะทั้งหมด +2
+ความเสียหายของมินเนียน +15%
+Anima North Swamp 1
+Anima North Swamp 2"
+"Saint's Mercy Vestment","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","7","{""DEF"":3,""MDEF"":7}","[""MATK +10"",""MP สูงสุด +50"",""ครบชุด · Saint's Mercy Set"",""INT +5"",""Healing +10%"",""Crystalland North Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/2a94b03f5a5e1ad5.webp","images/equipment_009.webp","1","9","Saint's Mercy Vestment
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+7
+MATK +10
+MP สูงสุด +50
+ครบชุด · Saint's Mercy Set
+INT +5
+Healing +10%
+Crystalland North Field 1"
+"Fatal Eclipse Cuirass","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","6","2","{""DEF"":6,""MDEF"":2}","[""ATK +10"",""HP สูงสุด +75"",""ครบชุด · Fatal Eclipse Set"",""อัตราคริติคอล +10 percentage points"",""ความเสียหายคริติคอล +20%"",""Soloden South Forest 2"",""Soloden South Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/4e1864376de3e7f3.webp","images/equipment_010.webp","1","10","Fatal Eclipse Cuirass
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+6
+MDEF
+2
+ATK +10
+HP สูงสุด +75
+ครบชุด · Fatal Eclipse Set
+อัตราคริติคอล +10 percentage points
+ความเสียหายคริติคอล +20%
+Soloden South Forest 2
+Soloden South Forest 1"
+"Tempest Rhythm Vest","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""ATK +5"",""MATK +5"",""ครบชุด · Tempest Rhythm Set"",""ASPD +20%"",""ASPD Limit +1"",""Yggdra South Forest 2"",""Yggdra South Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/e61616435e3c80d5.webp","images/equipment_011.webp","1","11","Tempest Rhythm Vest
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+ATK +5
+MATK +5
+ครบชุด · Tempest Rhythm Set
+ASPD +20%
+ASPD Limit +1
+Yggdra South Forest 2
+Yggdra South Forest 1"
+"Everflow Vestment","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""HP สูงสุด +150"",""MP สูงสุด +60"",""ครบชุด · Everflow Set"",""การฟื้นฟู HP +50%"",""การฟื้นฟู MP +50%"",""Snowland East Field 2"",""Snowland East Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/220f5b3692aa979b.webp","images/equipment_012.webp","1","12","Everflow Vestment
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+HP สูงสุด +150
+MP สูงสุด +60
+ครบชุด · Everflow Set
+การฟื้นฟู HP +50%
+การฟื้นฟู MP +50%
+Snowland East Field 2
+Snowland East Field 1"
+"Heroic Concord Armor","EQUIPMENT","เสื้อ","50","เสื้อ · Lv. 50 · 1 ช่องการ์ด","1","12","10","{""DEF"":12,""MDEF"":10}","[""HP สูงสุด +10%"",""MP สูงสุด +10%"",""ครบชุด · Heroic Concord Set"",""ค่าสถานะทั้งหมด +7"",""Snowland West Field 2"",""Snowland West Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/73b9f3609075d146.webp","images/equipment_013.webp","1","13","Heroic Concord Armor
+เสื้อ · Lv. 50 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+10
+HP สูงสุด +10%
+MP สูงสุด +10%
+ครบชุด · Heroic Concord Set
+ค่าสถานะทั้งหมด +7
+Snowland West Field 2
+Snowland West Field 1"
+"Sovereign Equilibrium Armor","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""HP สูงสุด +10%"",""MP สูงสุด +10%"",""ต้านทานทุกธาตุ +5%"",""ครบชุด · Sovereign Equilibrium Set"",""HP สูงสุด Percent +15%"",""MP สูงสุด Percent +15%"",""ATK Percent +3%"",""MATK Percent +3%"",""Orc Village""]","[]","","[]","https://ageofsylvanus.com/codex/assets/9f122ee32e313276.webp","images/equipment_014.webp","1","14","Sovereign Equilibrium Armor
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต้านทานทุกธาตุ +5%
+ครบชุด · Sovereign Equilibrium Set
+HP สูงสุด Percent +15%
+MP สูงสุด Percent +15%
+ATK Percent +3%
+MATK Percent +3%
+Orc Village"
+"Runeforged Cuirass of Might","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""STR +1 ต่อระดับตีบวก"",""ATK +2 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/f26ea2707990382a.webp","images/equipment_015.webp","1","15","Runeforged Cuirass of Might
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+STR +1 ต่อระดับตีบวก
+ATK +2 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runeforged Plate of Fortitude","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""VIT +1 ต่อระดับตีบวก"",""HP สูงสุด +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/4cfee098bb61210b.webp","images/equipment_016.webp","1","16","Runeforged Plate of Fortitude
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+VIT +1 ต่อระดับตีบวก
+HP สูงสุด +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runeforged Robe of Wisdom","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""INT +1 ต่อระดับตีบวก"",""MATK +2 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/10cd04c2b3dabeec.webp","images/equipment_017.webp","1","17","Runeforged Robe of Wisdom
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+MATK +2 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Runeforged Coat of Precision","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""DEX +1 ต่อระดับตีบวก"",""ATK +2 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/061a195a35011e9c.webp","images/equipment_018.webp","1","18","Runeforged Coat of Precision
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+DEX +1 ต่อระดับตีบวก
+ATK +2 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runeforged Vest of Swiftness","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""AGI +1 ต่อระดับตีบวก"",""ASPD +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/84bb96b4d1d86b6f.webp","images/equipment_019.webp","1","19","Runeforged Vest of Swiftness
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+AGI +1 ต่อระดับตีบวก
+ASPD +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Runeforged Garb of Fortune","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""LUK +1 ต่อระดับตีบวก"",""ความเสียหายคริติคอล +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/b54cfd5fdbb64c65.webp","images/equipment_020.webp","1","20","Runeforged Garb of Fortune
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+LUK +1 ต่อระดับตีบวก
+ความเสียหายคริติคอล +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runeforged Vestments of Beastmind","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""INT +1 ต่อระดับตีบวก"",""ทุก 2 ระดับตีบวก"",""ความเสียหายของมินเนียน +1% ต่อทุก 2 ระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/dfacd658afa132bf.webp","images/equipment_021.webp","1","21","Runeforged Vestments of Beastmind
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+ทุก 2 ระดับตีบวก
+ความเสียหายของมินเนียน +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runeforged Cuirass of Packmight","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""MP สูงสุด +10%""]","[""STR +1 ต่อระดับตีบวก"",""ทุก 2 ระดับตีบวก"",""ความเสียหายของมินเนียน +1% ต่อทุก 2 ระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/afac1110c00ea1d9.webp","images/equipment_022.webp","1","22","Runeforged Cuirass of Packmight
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+MP สูงสุด +10%
+ต่อระดับตีบวก
+STR +1 ต่อระดับตีบวก
+ทุก 2 ระดับตีบวก
+ความเสียหายของมินเนียน +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Stonecore Cuirass","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","8","4","{""DEF"":8,""MDEF"":4}","[""HP สูงสุด +100"",""ครบชุด · Stonecore Bulwark Set"",""HP สูงสุด Percent +5%"",""DEF Percent +5%"",""MDEF Percent +5%"",""Atlan East Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/d707ff6880948718.webp","images/equipment_023.webp","1","23","Stonecore Cuirass
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+8
+MDEF
+4
+HP สูงสุด +100
+ครบชุด · Stonecore Bulwark Set
+HP สูงสุด Percent +5%
+DEF Percent +5%
+MDEF Percent +5%
+Atlan East Desert 2"
+"Crimson Carapace Armor","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","10","5","{""DEF"":10,""MDEF"":5}","[""HP สูงสุด +150"",""ครบชุด · Crimson Carapace Set"",""ATK Percent +5%"",""ความเสียหายกายภาพ +5%"",""Atlan East Desert 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/916cc5dc1e45af99.webp","images/equipment_024.webp","1","24","Crimson Carapace Armor
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+10
+MDEF
+5
+HP สูงสุด +150
+ครบชุด · Crimson Carapace Set
+ATK Percent +5%
+ความเสียหายกายภาพ +5%
+Atlan East Desert 1"
+"Gravehunter Cuirass","EQUIPMENT","เสื้อ","50","เสื้อ · Lv. 50 · 1 ช่องการ์ด","1","12","10","{""DEF"":12,""MDEF"":10}","[""Damage to Undead +10%"",""HP สูงสุด +5%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/b267491f7084fabd.webp","images/equipment_025.webp","2","1","Gravehunter Cuirass
+เสื้อ · Lv. 50 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+10
+Damage to Undead +10%
+HP สูงสุด +5%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Wellspring Pilgrim Robe","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","5","{""DEF"":2,""MDEF"":5}","[""MP สูงสุด +50"",""ครบชุด · Wellspring Pilgrim Set"",""MP สูงสุด +50"",""การฟื้นฟู MP +20%"",""Soloden East Forest 1"",""Soloden East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/fab8b36a352c5910.webp","images/equipment_026.webp","2","2","Wellspring Pilgrim Robe
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+5
+MP สูงสุด +50
+ครบชุด · Wellspring Pilgrim Set
+MP สูงสุด +50
+การฟื้นฟู MP +20%
+Soloden East Forest 1
+Soloden East Forest 2"
+"Trailblazer Coat","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","3","{""DEF"":4,""MDEF"":3}","[""HP สูงสุด +100"",""ครบชุด · Trailblazer Set"",""ความเร็วเคลื่อนที่ +5%"",""ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%"",""Crossroad""]","[]","","[]","https://ageofsylvanus.com/codex/assets/d9f0913ccb052b2b.webp","images/equipment_027.webp","2","3","Trailblazer Coat
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+3
+HP สูงสุด +100
+ครบชุด · Trailblazer Set
+ความเร็วเคลื่อนที่ +5%
+ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%
+Crossroad"
+"Steadfast Sprout Garb","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","4","{""DEF"":4,""MDEF"":4}","[""ต้านทานสถานะผิดปกติ +5%"",""ครบชุด · Steadfast Sprout Set"",""ต้านทานสถานะผิดปกติ +10%"",""Hemeralis West Field 1"",""Hemeralis West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/bbea5bf8da50f4ad.webp","images/equipment_028.webp","2","4","Steadfast Sprout Garb
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+4
+ต้านทานสถานะผิดปกติ +5%
+ครบชุด · Steadfast Sprout Set
+ต้านทานสถานะผิดปกติ +10%
+Hemeralis West Field 1
+Hemeralis West Field 2"
+"Fortune Forager Coat","EQUIPMENT","เสื้อ","","เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""HP สูงสุด +50"",""MP สูงสุด +30"",""ครบชุด · Fortune Forager Set"",""อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%"",""อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%"",""Hemeralis East Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/dd57e4c44fa6d950.webp","images/equipment_029.webp","2","5","Fortune Forager Coat
+เสื้อ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+HP สูงสุด +50
+MP สูงสุด +30
+ครบชุด · Fortune Forager Set
+อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%
+อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%
+Hemeralis East Field 1"
+"Worldforge Assault Plate","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","20","15","{""DEF"":20,""MDEF"":15}","[""HP สูงสุด +10%; MP สูงสุด +10%"",""ATK +8%; ความเสียหายกายภาพ +5%""]","[""ATK +2 ต่อระดับตีบวก"",""DEF -1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/0682d899e2a15284.webp","images/equipment_030.webp","2","6","Worldforge Assault Plate
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+20
+MDEF
+15
+HP สูงสุด +10%; MP สูงสุด +10%
+ATK +8%; ความเสียหายกายภาพ +5%
+ต่อระดับตีบวก
+ATK +2 ต่อระดับตีบวก
+DEF -1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Worldforge Arcanum Robe","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","15","20","{""DEF"":15,""MDEF"":20}","[""HP สูงสุด +10%; MP สูงสุด +10%"",""MATK +8%; ความเสียหายเวท +5%""]","[""MATK +2 ต่อระดับตีบวก"",""MDEF -1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/0dcc1ad877cd96cf.webp","images/equipment_031.webp","2","7","Worldforge Arcanum Robe
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+20
+HP สูงสุด +10%; MP สูงสุด +10%
+MATK +8%; ความเสียหายเวท +5%
+ต่อระดับตีบวก
+MATK +2 ต่อระดับตีบวก
+MDEF -1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Adamant Furnace Cuirass","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","25","25","{""DEF"":25,""MDEF"":25}","[""HP สูงสุด +20%"",""ต้านทานทุกธาตุ +10% (except Neutral)"",""การฟื้นฟูที่ได้รับ -20%"",""ความเร็วเคลื่อนที่ -5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/c28125ba87119ab4.webp","images/equipment_032.webp","2","8","Adamant Furnace Cuirass
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+25
+MDEF
+25
+HP สูงสุด +20%
+ต้านทานทุกธาตุ +10% (except Neutral)
+การฟื้นฟูที่ได้รับ -20%
+ความเร็วเคลื่อนที่ -5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Heartroot Carapace","EQUIPMENT","เสื้อ","55","เสื้อ · Lv. 55 · 0 ช่องการ์ด","0","15","10","{""DEF"":15,""MDEF"":10}","[""HP สูงสุด +10%"",""การฟื้นฟู HP +15%"",""ความเสียหายกายภาพ Reduction +10%"",""ความเสียหายเวท Reduction +10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra South Forest 2""]","https://ageofsylvanus.com/codex/assets/fa47cfa14eb60755.webp","images/equipment_033.webp","2","9","Heartroot Carapace
+เสื้อ · Lv. 55 · 0 ช่องการ์ด
+DEF
+15
+MDEF
+10
+HP สูงสุด +10%
+การฟื้นฟู HP +15%
+ความเสียหายกายภาพ Reduction +10%
+ความเสียหายเวท Reduction +10%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2"
+"Phantomhide Vest","EQUIPMENT","เสื้อ","50","เสื้อ · Lv. 50 · 1 ช่องการ์ด","1","10","3","{""DEF"":10,""MDEF"":3}","[""FLEE +25"",""ATK +5%"",""ครบชุด · Phantomhide Set""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""Atlan Beach""]","","","2","10","⚔
+Phantomhide Vest
+เสื้อ · Lv. 50 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+3
+FLEE +25
+ATK +5%
+ครบชุด · Phantomhide Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+Atlan Beach"
+"Resonance Channeler Robe","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""ความเร็วร่าย +10%"",""Exposure Effect +30%""]","[""MATK +1% ต่อระดับตีบวก"",""ครบชุด · Resonance Channeler Set""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","2","11","⚔
+Resonance Channeler Robe
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+ความเร็วร่าย +10%
+Exposure Effect +30%
+ต่อระดับตีบวก
+MATK +1% ต่อระดับตีบวก
+ครบชุด · Resonance Channeler Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Resonance Spellweaver Vest","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""ASPD +10%"",""Exposure Effect +30%""]","[""ATK +1% ต่อระดับตีบวก"",""ครบชุด · Resonance Spellweaver Set""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","2","12","⚔
+Resonance Spellweaver Vest
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+ASPD +10%
+Exposure Effect +30%
+ต่อระดับตีบวก
+ATK +1% ต่อระดับตีบวก
+ครบชุด · Resonance Spellweaver Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Venomrot Vest","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""HP สูงสุด +10%"",""Poison ความเสียหายจากสถานะผิดปกติ +30%""]","[""Poison ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","2","13","⚔
+Venomrot Vest
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+HP สูงสุด +10%
+Poison ความเสียหายจากสถานะผิดปกติ +30%
+ต่อระดับตีบวก
+Poison ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Bloodrend Vest","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""HP สูงสุด +10%"",""Bleeding ความเสียหายจากสถานะผิดปกติ +30%""]","[""Bleeding ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","2","14","⚔
+Bloodrend Vest
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+HP สูงสุด +10%
+Bleeding ความเสียหายจากสถานะผิดปกติ +30%
+ต่อระดับตีบวก
+Bleeding ความเสียหายจากสถานะผิดปกติ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Abyssal Suit","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""HP สูงสุด +15%"",""Demi-Human Resistance +10%""]","[]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","2","15","⚔
+Abyssal Suit
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+HP สูงสุด +15%
+Demi-Human Resistance +10%
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Barnacle Carapace","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","18","18","{""DEF"":18,""MDEF"":18}","[""HP สูงสุด +10%"",""Poison / Bleeding / Ignite Status ความเสียหายที่ได้รับ -25%""]","[]","ไม่มีโบนัสครบชุด","[""Sunken Ship 1""]","","","2","16","⚔
+Barnacle Carapace
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+18
+MDEF
+18
+HP สูงสุด +10%
+Poison / Bleeding / Ignite Status ความเสียหายที่ได้รับ -25%
+ไม่มีโบนัสครบชุด
+Sunken Ship 1"
+"Hollow Ritualist Robe","EQUIPMENT","เสื้อ","100","เสื้อ · Lv. 100 · 1 ช่องการ์ด","1","16","24","{""DEF"":16,""MDEF"":24}","[""ความเสียหายเคออส +15%""]","[""ความเสียหายเคออส +1% ต่อระดับตีบวก"",""ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Cursed Swamp""]","","","2","17","⚔
+Hollow Ritualist Robe
+เสื้อ · Lv. 100 · 1 ช่องการ์ด
+DEF
+16
+MDEF
+24
+ความเสียหายเคออส +15%
+ต่อระดับตีบวก
+ความเสียหายเคออส +1% ต่อระดับตีบวก
+ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Cursed Swamp"
+"Wayfarer's Trousers","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","4","{""DEF"":4,""MDEF"":4}","[""การฟื้นฟู HP +10%"",""การฟื้นฟู MP +10%"",""ครบชุด · Wayfarer's Unity Set"",""ค่าสถานะทั้งหมด +3"",""Hemeralis South Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/ded7445749d52112.webp","images/equipment_034.webp","2","18","Wayfarer's Trousers
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+4
+การฟื้นฟู HP +10%
+การฟื้นฟู MP +10%
+ครบชุด · Wayfarer's Unity Set
+ค่าสถานะทั้งหมด +3
+Hemeralis South Field 1"
+"Wellspring Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","4","{""DEF"":4,""MDEF"":4}","[""การฟื้นฟู HP +15%"",""การฟื้นฟู MP +15%"",""ครบชุด · Wellspring Ward Set"",""HP สูงสุด +200"",""MP สูงสุด +80"",""Hemeralis South Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/427a624954d3608b.webp","images/equipment_035.webp","2","19","Wellspring Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+4
+การฟื้นฟู HP +15%
+การฟื้นฟู MP +15%
+ครบชุด · Wellspring Ward Set
+HP สูงสุด +200
+MP สูงสุด +80
+Hemeralis South Field 2"
+"Vanguard Greaves","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","2","{""DEF"":5,""MDEF"":2}","[""ASPD +8%"",""ครบชุด · Vanguard's Assault Set"",""ATK Percent +5%"",""Ruin Desert 1"",""Ruin Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/d8752d1d6381c79e.webp","images/equipment_036.webp","2","20","Vanguard Greaves
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+2
+ASPD +8%
+ครบชุด · Vanguard's Assault Set
+ATK Percent +5%
+Ruin Desert 1
+Ruin Desert 2"
+"Arcanist Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","5","{""DEF"":2,""MDEF"":5}","[""ความเร็วร่าย +8%"",""ครบชุด · Arcanist's Insight Set"",""MATK Percent +5%"",""Forest Steppe 1"",""Forest Steppe 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/a3bbcfdfa3dae6b5.webp","images/equipment_037.webp","2","21","Arcanist Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+5
+ความเร็วร่าย +8%
+ครบชุด · Arcanist's Insight Set
+MATK Percent +5%
+Forest Steppe 1
+Forest Steppe 2"
+"Ironclad Duelist Greaves","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","6","2","{""DEF"":6,""MDEF"":2}","[""ASPD +10%"",""Flee +5"",""ครบชุด · Ironclad Duelist Set"",""STR +5"",""ATK Percent +5%"",""ความเสียหายระยะประชิด +10%"",""Atlan South Desert 1"",""Atlan South Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/2c42c16e482028b0.webp","images/equipment_038.webp","2","22","Ironclad Duelist Greaves
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+6
+MDEF
+2
+ASPD +10%
+Flee +5
+ครบชุด · Ironclad Duelist Set
+STR +5
+ATK Percent +5%
+ความเสียหายระยะประชิด +10%
+Atlan South Desert 1
+Atlan South Desert 2"
+"Farstrider Legguards","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","3","{""DEF"":4,""MDEF"":3}","[""ASPD +10%"",""HIT +5"",""ครบชุด · Farstrider Set"",""DEX +5"",""ATK Percent +5%"",""ความเสียหายระยะไกล +10%"",""Yggdra East Forest 1"",""Yggdra East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/fc79a66910e22e28.webp","images/equipment_039.webp","2","23","Farstrider Legguards
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+3
+ASPD +10%
+HIT +5
+ครบชุด · Farstrider Set
+DEX +5
+ATK Percent +5%
+ความเสียหายระยะไกล +10%
+Yggdra East Forest 1
+Yggdra East Forest 2"
+"Arcane Conduit Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","6","{""DEF"":2,""MDEF"":6}","[""ความเร็วร่าย +10%"",""การฟื้นฟู MP +15%"",""ครบชุด · Arcane Conduit Set"",""INT +5"",""MATK Percent +5%"",""ความเสียหายเวท +10%"",""Crystalland West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/8a7a4289e0cb19ca.webp","images/equipment_040.webp","2","24","Arcane Conduit Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+6
+ความเร็วร่าย +10%
+การฟื้นฟู MP +15%
+ครบชุด · Arcane Conduit Set
+INT +5
+MATK Percent +5%
+ความเสียหายเวท +10%
+Crystalland West Field 2"
+"Beastbound Covenant Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","4","{""DEF"":4,""MDEF"":4}","[""Summon ASPD +10%"",""Summon การฟื้นฟู HP +15%"",""ครบชุด · Beastbound Covenant Set"",""ค่าสถานะทั้งหมด +2"",""ความเสียหายของมินเนียน +15%"",""Anima North Swamp 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/15f87e9e039d6452.webp","images/equipment_041.webp","3","1","Beastbound Covenant Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+4
+Summon ASPD +10%
+Summon การฟื้นฟู HP +15%
+ครบชุด · Beastbound Covenant Set
+ค่าสถานะทั้งหมด +2
+ความเสียหายของมินเนียน +15%
+Anima North Swamp 1"
+"Saint's Mercy Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","6","{""DEF"":3,""MDEF"":6}","[""ความเร็วร่าย +15%"",""การฟื้นฟู MP +20%"",""ครบชุด · Saint's Mercy Set"",""INT +5"",""Healing +10%"",""Crystalland North Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/e3a35c3019f188f2.webp","images/equipment_042.webp","3","2","Saint's Mercy Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+6
+ความเร็วร่าย +15%
+การฟื้นฟู MP +20%
+ครบชุด · Saint's Mercy Set
+INT +5
+Healing +10%
+Crystalland North Field 1"
+"Fatal Eclipse Legguards","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","2","{""DEF"":4,""MDEF"":2}","[""ASPD +10%"",""อัตราคริติคอล +5"",""ครบชุด · Fatal Eclipse Set"",""อัตราคริติคอล +10 percentage points"",""ความเสียหายคริติคอล +20%"",""Soloden South Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/fab74d4f83bb3503.webp","images/equipment_043.webp","3","3","Fatal Eclipse Legguards
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+2
+ASPD +10%
+อัตราคริติคอล +5
+ครบชุด · Fatal Eclipse Set
+อัตราคริติคอล +10 percentage points
+ความเสียหายคริติคอล +20%
+Soloden South Forest 2"
+"Tempest Rhythm Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","3","{""DEF"":4,""MDEF"":3}","[""ASPD +15%"",""Flee +5"",""ครบชุด · Tempest Rhythm Set"",""ASPD +20%"",""ASPD Limit +1"",""Yggdra South Forest 2"",""Yggdra South Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/63d9a2dbd56b4fa5.webp","images/equipment_044.webp","3","4","Tempest Rhythm Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+3
+ASPD +15%
+Flee +5
+ครบชุด · Tempest Rhythm Set
+ASPD +20%
+ASPD Limit +1
+Yggdra South Forest 2
+Yggdra South Forest 1"
+"Everflow Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","4","{""DEF"":4,""MDEF"":4}","[""การฟื้นฟู HP +25%"",""การฟื้นฟู MP +25%"",""ครบชุด · Everflow Set"",""การฟื้นฟู HP +50%"",""การฟื้นฟู MP +50%"",""Snowland East Field 2"",""Snowland East Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/ddbfccabcd95913d.webp","images/equipment_045.webp","3","5","Everflow Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+4
+การฟื้นฟู HP +25%
+การฟื้นฟู MP +25%
+ครบชุด · Everflow Set
+การฟื้นฟู HP +50%
+การฟื้นฟู MP +50%
+Snowland East Field 2
+Snowland East Field 1"
+"Heroic Concord Legguards","EQUIPMENT","กางเกง","50","กางเกง · Lv. 50 · 1 ช่องการ์ด","1","9","8","{""DEF"":9,""MDEF"":8}","[""ASPD +10%"",""ความเร็วร่าย +10%"",""ครบชุด · Heroic Concord Set"",""ค่าสถานะทั้งหมด +7"",""Snowland West Field 2"",""Snowland West Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/cb18e89687e215d4.webp","images/equipment_046.webp","3","6","Heroic Concord Legguards
+กางเกง · Lv. 50 · 1 ช่องการ์ด
+DEF
+9
+MDEF
+8
+ASPD +10%
+ความเร็วร่าย +10%
+ครบชุด · Heroic Concord Set
+ค่าสถานะทั้งหมด +7
+Snowland West Field 2
+Snowland West Field 1"
+"Sovereign Equilibrium Legguards","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ATK +10"",""MATK +10"",""HP / การฟื้นฟู MP +25%"",""ครบชุด · Sovereign Equilibrium Set"",""HP สูงสุด Percent +15%"",""MP สูงสุด Percent +15%"",""ATK Percent +3%"",""MATK Percent +3%"",""Orc Village""]","[]","","[]","https://ageofsylvanus.com/codex/assets/d1f25c9a0137f7b5.webp","images/equipment_047.webp","3","7","Sovereign Equilibrium Legguards
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ATK +10
+MATK +10
+HP / การฟื้นฟู MP +25%
+ครบชุด · Sovereign Equilibrium Set
+HP สูงสุด Percent +15%
+MP สูงสุด Percent +15%
+ATK Percent +3%
+MATK Percent +3%
+Orc Village"
+"Runeforged Legguards of Momentum","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""HP สูงสุด +10%"",""MP สูงสุด +10%"",""ASPD +10%""]","[""ATK +1% ต่อระดับตีบวก"",""ASPD +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/f17026bb6c7b6f3c.webp","images/equipment_048.webp","3","8","Runeforged Legguards of Momentum
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+HP สูงสุด +10%
+MP สูงสุด +10%
+ASPD +10%
+ต่อระดับตีบวก
+ATK +1% ต่อระดับตีบวก
+ASPD +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Runeforged Leggings of Invocation","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""HP สูงสุด +10%"",""MP สูงสุด +10%"",""ความเร็วร่าย +10%""]","[""MATK +1% ต่อระดับตีบวก"",""ความเร็วร่าย +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/fa7f40c7810012b3.webp","images/equipment_049.webp","3","9","Runeforged Leggings of Invocation
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+HP สูงสุด +10%
+MP สูงสุด +10%
+ความเร็วร่าย +10%
+ต่อระดับตีบวก
+MATK +1% ต่อระดับตีบวก
+ความเร็วร่าย +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Runebound Legguards of Might","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""STR +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/c983909a9ff0a847.webp","images/equipment_050.webp","3","10","Runebound Legguards of Might
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+STR +5
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Runebound Leggings of Insight","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""INT +5""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 2""]","https://ageofsylvanus.com/codex/assets/6a86218bd5c2ba2a.webp","images/equipment_051.webp","3","11","Runebound Leggings of Insight
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+INT +5
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Runebound Legguards of Endurance","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""VIT +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/80cedf3686279ee1.webp","images/equipment_052.webp","3","12","Runebound Legguards of Endurance
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+VIT +5
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Runebound Leggings of Precision","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""DEX +5""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 1""]","https://ageofsylvanus.com/codex/assets/89845f040196d717.webp","images/equipment_053.webp","3","13","Runebound Leggings of Precision
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+DEX +5
+ไม่มีโบนัสครบชุด
+The Burrow 1"
+"Runebound Leggings of Swiftness","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""AGI +5""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/9d641c6f988b2025.webp","images/equipment_054.webp","3","14","Runebound Leggings of Swiftness
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+AGI +5
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Runebound Leggings of Fortune","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""การฟื้นฟู MP +10%"",""LUK +5""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 1""]","https://ageofsylvanus.com/codex/assets/ae0e5d7c0634b2ab.webp","images/equipment_055.webp","3","15","Runebound Leggings of Fortune
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+การฟื้นฟู MP +10%
+LUK +5
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Stonecore Greaves","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","6","4","{""DEF"":6,""MDEF"":4}","[""DEF +3%"",""MDEF +3%"",""ครบชุด · Stonecore Bulwark Set"",""HP สูงสุด Percent +5%"",""DEF Percent +5%"",""MDEF Percent +5%"",""Atlan East Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/eadf17a50dd82cca.webp","images/equipment_056.webp","3","16","Stonecore Greaves
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+6
+MDEF
+4
+DEF +3%
+MDEF +3%
+ครบชุด · Stonecore Bulwark Set
+HP สูงสุด Percent +5%
+DEF Percent +5%
+MDEF Percent +5%
+Atlan East Desert 2"
+"Crimson Carapace Greaves","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","8","5","{""DEF"":8,""MDEF"":5}","[""ATK +6"",""ครบชุด · Crimson Carapace Set"",""ATK Percent +5%"",""ความเสียหายกายภาพ +5%"",""Atlan East Desert 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/c7954ec63025764d.webp","images/equipment_057.webp","3","17","Crimson Carapace Greaves
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+8
+MDEF
+5
+ATK +6
+ครบชุด · Crimson Carapace Set
+ATK Percent +5%
+ความเสียหายกายภาพ +5%
+Atlan East Desert 1"
+"Gravebreaker Legguards","EQUIPMENT","กางเกง","50","กางเกง · Lv. 50 · 1 ช่องการ์ด","1","9","8","{""DEF"":9,""MDEF"":8}","[""Damage to Undead +5%"",""Undead Race Resistance +10%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/654834a8a604aefd.webp","images/equipment_058.webp","3","18","Gravebreaker Legguards
+กางเกง · Lv. 50 · 1 ช่องการ์ด
+DEF
+9
+MDEF
+8
+Damage to Undead +5%
+Undead Race Resistance +10%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Wellspring Pilgrim Leggings","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","4","{""DEF"":2,""MDEF"":4}","[""การฟื้นฟู MP +15%"",""ครบชุด · Wellspring Pilgrim Set"",""MP สูงสุด +50"",""การฟื้นฟู MP +20%"",""Soloden East Forest 1"",""Soloden East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/88c03709642d8ae1.webp","images/equipment_059.webp","3","19","Wellspring Pilgrim Leggings
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+4
+การฟื้นฟู MP +15%
+ครบชุด · Wellspring Pilgrim Set
+MP สูงสุด +50
+การฟื้นฟู MP +20%
+Soloden East Forest 1
+Soloden East Forest 2"
+"Trailblazer Trousers","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""FLEE +5"",""ครบชุด · Trailblazer Set"",""ความเร็วเคลื่อนที่ +5%"",""ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%"",""Yggdra North Forest 2"",""Yggdra North Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/9f63605318550f8e.webp","images/equipment_060.webp","3","20","Trailblazer Trousers
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+FLEE +5
+ครบชุด · Trailblazer Set
+ความเร็วเคลื่อนที่ +5%
+ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%
+Yggdra North Forest 2
+Yggdra North Forest 1"
+"Steadfast Sprout Legguards","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""HP สูงสุด +100"",""ครบชุด · Steadfast Sprout Set"",""ต้านทานสถานะผิดปกติ +10%"",""Hemeralis West Field 1"",""Hemeralis West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/d2d21a60cbfa8a27.webp","images/equipment_061.webp","3","21","Steadfast Sprout Legguards
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+HP สูงสุด +100
+ครบชุด · Steadfast Sprout Set
+ต้านทานสถานะผิดปกติ +10%
+Hemeralis West Field 1
+Hemeralis West Field 2"
+"Fortune Forager Trousers","EQUIPMENT","กางเกง","","กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[""การฟื้นฟู HP +10%"",""การฟื้นฟู MP +10%"",""ครบชุด · Fortune Forager Set"",""อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%"",""อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%"",""Hemeralis East Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/ff3672a2b511b913.webp","images/equipment_062.webp","3","22","Fortune Forager Trousers
+กางเกง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+การฟื้นฟู HP +10%
+การฟื้นฟู MP +10%
+ครบชุด · Fortune Forager Set
+อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%
+อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%
+Hemeralis East Field 1"
+"Overdrive Forged Legguards","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","12","10","{""DEF"":12,""MDEF"":10}","[""HP สูงสุด +10%"",""ASPD +15%; ความเร็วร่าย +15%"",""คูลดาวน์ Recovery +5%"",""MP Cost +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/4db97c37fe7201f0.webp","images/equipment_063.webp","3","23","Overdrive Forged Legguards
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+10
+HP สูงสุด +10%
+ASPD +15%; ความเร็วร่าย +15%
+คูลดาวน์ Recovery +5%
+MP Cost +10%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Phantomhide Leggings","EQUIPMENT","กางเกง","50","กางเกง · Lv. 50 · 1 ช่องการ์ด","1","6","2","{""DEF"":6,""MDEF"":2}","[""Leech +5%"",""ASPD +10%"",""ครบชุด · Phantomhide Set""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""Atlan Beach""]","","","3","24","⚔
+Phantomhide Leggings
+กางเกง · Lv. 50 · 1 ช่องการ์ด
+DEF
+6
+MDEF
+2
+Leech +5%
+ASPD +10%
+ครบชุด · Phantomhide Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+Atlan Beach"
+"Plaguefang Leggings","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ASPD +15%"",""Poison ความเสียหายจากสถานะผิดปกติ +20%"",""Poison ระยะเวลา +20%""]","[]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","4","1","⚔
+Plaguefang Leggings
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ASPD +15%
+Poison ความเสียหายจากสถานะผิดปกติ +20%
+Poison ระยะเวลา +20%
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Bloodrend Leggings","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ASPD +15%"",""Bleeding ความเสียหายจากสถานะผิดปกติ +20%"",""Bleeding ระยะเวลา +20%""]","[]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","4","2","⚔
+Bloodrend Leggings
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ASPD +15%
+Bleeding ความเสียหายจากสถานะผิดปกติ +20%
+Bleeding ระยะเวลา +20%
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Resonance Channeler Leggings","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","8","12","{""DEF"":8,""MDEF"":12}","[""Exposure Effect +10 percentage points"",""ความเสียหายเวท against targets affected by Exposure +10%""]","[""ความเสียหายเวท against targets affected by Exposure +1% ต่อระดับตีบวก"",""ครบชุด · Resonance Channeler Set""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","4","3","⚔
+Resonance Channeler Leggings
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+8
+MDEF
+12
+Exposure Effect +10 percentage points
+ความเสียหายเวท against targets affected by Exposure +10%
+ต่อระดับตีบวก
+ความเสียหายเวท against targets affected by Exposure +1% ต่อระดับตีบวก
+ครบชุด · Resonance Channeler Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Resonance Spellweaver Trousers","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","12","8","{""DEF"":12,""MDEF"":8}","[""Exposure Effect +10 percentage points"",""ความเสียหายกายภาพ against targets affected by Exposure +10%""]","[""ความเสียหายกายภาพ against targets affected by Exposure +1% ต่อระดับตีบวก"",""ครบชุด · Resonance Spellweaver Set""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","4","4","⚔
+Resonance Spellweaver Trousers
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+8
+Exposure Effect +10 percentage points
+ความเสียหายกายภาพ against targets affected by Exposure +10%
+ต่อระดับตีบวก
+ความเสียหายกายภาพ against targets affected by Exposure +1% ต่อระดับตีบวก
+ครบชุด · Resonance Spellweaver Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Hollow Ritualist Leggings","EQUIPMENT","กางเกง","100","กางเกง · Lv. 100 · 1 ช่องการ์ด","1","10","16","{""DEF"":10,""MDEF"":16}","[""Chaos Weakness Effect +20%""]","[""Chaos Weakness Effect +1% ต่อระดับตีบวก"",""ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.""]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Cursed Swamp""]","","","4","5","⚔
+Hollow Ritualist Leggings
+กางเกง · Lv. 100 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+16
+Chaos Weakness Effect +20%
+ต่อระดับตีบวก
+Chaos Weakness Effect +1% ต่อระดับตีบวก
+ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Cursed Swamp"
+"Wayfarer's Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Wayfarer's Unity Set"",""ค่าสถานะทั้งหมด +3"",""Hemeralis South Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/bfd97ea531f49bec.webp","images/equipment_064.webp","4","6","Wayfarer's Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Wayfarer's Unity Set
+ค่าสถานะทั้งหมด +3
+Hemeralis South Field 1"
+"Wellspring Shoes","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""MP สูงสุด +60"",""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Wellspring Ward Set"",""HP สูงสุด +200"",""MP สูงสุด +80"",""Hemeralis South Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/30461afd229fb732.webp","images/equipment_065.webp","4","7","Wellspring Shoes
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+MP สูงสุด +60
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Wellspring Ward Set
+HP สูงสุด +200
+MP สูงสุด +80
+Hemeralis South Field 2"
+"Vanguard Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","1","{""DEF"":4,""MDEF"":1}","[""HIT +5"",""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Vanguard's Assault Set"",""ATK Percent +5%"",""Ruin Desert 1"",""Ruin Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/90189697109cb716.webp","images/equipment_066.webp","4","8","Vanguard Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+1
+HIT +5
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Vanguard's Assault Set
+ATK Percent +5%
+Ruin Desert 1
+Ruin Desert 2"
+"Arcanist Shoes","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","4","{""DEF"":1,""MDEF"":4}","[""MP สูงสุด +30"",""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Arcanist's Insight Set"",""MATK Percent +5%"",""Forest Steppe 1"",""Forest Steppe 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/40212c496e699ded.webp","images/equipment_067.webp","4","9","Arcanist Shoes
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+4
+MP สูงสุด +30
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Arcanist's Insight Set
+MATK Percent +5%
+Forest Steppe 1
+Forest Steppe 2"
+"Ironclad Duelist Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","1","{""DEF"":4,""MDEF"":1}","[""ความเร็วเคลื่อนที่ +5%"",""อัตราคริติคอล +5"",""ครบชุด · Ironclad Duelist Set"",""STR +5"",""ATK Percent +5%"",""ความเสียหายระยะประชิด +10%"",""Atlan South Desert 1"",""Atlan South Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/0518617fdd95037d.webp","images/equipment_068.webp","4","10","Ironclad Duelist Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+1
+ความเร็วเคลื่อนที่ +5%
+อัตราคริติคอล +5
+ครบชุด · Ironclad Duelist Set
+STR +5
+ATK Percent +5%
+ความเสียหายระยะประชิด +10%
+Atlan South Desert 1
+Atlan South Desert 2"
+"Farstrider Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","2","{""DEF"":3,""MDEF"":2}","[""ความเร็วเคลื่อนที่ +7%"",""Flee +5"",""ครบชุด · Farstrider Set"",""DEX +5"",""ATK Percent +5%"",""ความเสียหายระยะไกล +10%"",""Yggdra East Forest 1"",""Yggdra East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/ec7de7e909edb340.webp","images/equipment_069.webp","4","11","Farstrider Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+2
+ความเร็วเคลื่อนที่ +7%
+Flee +5
+ครบชุด · Farstrider Set
+DEX +5
+ATK Percent +5%
+ความเสียหายระยะไกล +10%
+Yggdra East Forest 1
+Yggdra East Forest 2"
+"Arcane Conduit Shoes","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","4","{""DEF"":1,""MDEF"":4}","[""ความเร็วเคลื่อนที่ +5%"",""คูลดาวน์ Recovery +5%"",""ครบชุด · Arcane Conduit Set"",""INT +5"",""MATK Percent +5%"",""ความเสียหายเวท +10%"",""Crystalland West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/ae7fd4f8eb02b348.webp","images/equipment_070.webp","4","12","Arcane Conduit Shoes
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+4
+ความเร็วเคลื่อนที่ +5%
+คูลดาวน์ Recovery +5%
+ครบชุด · Arcane Conduit Set
+INT +5
+MATK Percent +5%
+ความเสียหายเวท +10%
+Crystalland West Field 2"
+"Beastbound Covenant Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ความเร็วเคลื่อนที่ +5%"",""Summon ความเร็วเคลื่อนที่ +10%"",""ครบชุด · Beastbound Covenant Set"",""ค่าสถานะทั้งหมด +2"",""ความเสียหายของมินเนียน +15%"",""Anima North Swamp 1"",""Anima North Swamp 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/e23e226054fb7c93.webp","images/equipment_071.webp","4","13","Beastbound Covenant Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ความเร็วเคลื่อนที่ +5%
+Summon ความเร็วเคลื่อนที่ +10%
+ครบชุด · Beastbound Covenant Set
+ค่าสถานะทั้งหมด +2
+ความเสียหายของมินเนียน +15%
+Anima North Swamp 1
+Anima North Swamp 2"
+"Saint's Mercy Shoes","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","4","{""DEF"":2,""MDEF"":4}","[""ความเร็วเคลื่อนที่ +5%"",""MP Cost -10%"",""ครบชุด · Saint's Mercy Set"",""INT +5"",""Healing +10%"",""Crystalland North Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/5f2839cb1fd76af3.webp","images/equipment_072.webp","4","14","Saint's Mercy Shoes
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+4
+ความเร็วเคลื่อนที่ +5%
+MP Cost -10%
+ครบชุด · Saint's Mercy Set
+INT +5
+Healing +10%
+Crystalland North Field 1"
+"Fatal Eclipse Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","1","{""DEF"":3,""MDEF"":1}","[""ความเร็วเคลื่อนที่ +5%"",""ความเสียหายคริติคอล +10%"",""ครบชุด · Fatal Eclipse Set"",""อัตราคริติคอล +10 percentage points"",""ความเสียหายคริติคอล +20%"",""Soloden South Forest 2"",""Soloden South Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/062296f0195b702c.webp","images/equipment_073.webp","4","15","Fatal Eclipse Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+1
+ความเร็วเคลื่อนที่ +5%
+ความเสียหายคริติคอล +10%
+ครบชุด · Fatal Eclipse Set
+อัตราคริติคอล +10 percentage points
+ความเสียหายคริติคอล +20%
+Soloden South Forest 2
+Soloden South Forest 1"
+"Tempest Rhythm Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","2","{""DEF"":3,""MDEF"":2}","[""ความเร็วเคลื่อนที่ +7%"",""HIT +5"",""ครบชุด · Tempest Rhythm Set"",""ASPD +20%"",""ASPD Limit +1"",""Yggdra South Forest 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/bc9679766ed6b14b.webp","images/equipment_074.webp","4","16","Tempest Rhythm Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+2
+ความเร็วเคลื่อนที่ +7%
+HIT +5
+ครบชุด · Tempest Rhythm Set
+ASPD +20%
+ASPD Limit +1
+Yggdra South Forest 1"
+"Everflow Shoes","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ความเร็วเคลื่อนที่ +5%"",""การฟื้นฟูที่ได้รับ +10%"",""ครบชุด · Everflow Set"",""การฟื้นฟู HP +50%"",""การฟื้นฟู MP +50%"",""Snowland East Field 2"",""Snowland East Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/8ee794a86aab2ca5.webp","images/equipment_075.webp","4","17","Everflow Shoes
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ความเร็วเคลื่อนที่ +5%
+การฟื้นฟูที่ได้รับ +10%
+ครบชุด · Everflow Set
+การฟื้นฟู HP +50%
+การฟื้นฟู MP +50%
+Snowland East Field 2
+Snowland East Field 1"
+"Heroic Concord Boots","EQUIPMENT","รองเท้า","50","รองเท้า · Lv. 50 · 1 ช่องการ์ด","1","7","6","{""DEF"":7,""MDEF"":6}","[""ความเร็วเคลื่อนที่ +8%"",""Flee +10"",""ครบชุด · Heroic Concord Set"",""ค่าสถานะทั้งหมด +7"",""Snowland West Field 2"",""Snowland West Field 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/1009fe7c088f47e1.webp","images/equipment_076.webp","4","18","Heroic Concord Boots
+รองเท้า · Lv. 50 · 1 ช่องการ์ด
+DEF
+7
+MDEF
+6
+ความเร็วเคลื่อนที่ +8%
+Flee +10
+ครบชุด · Heroic Concord Set
+ค่าสถานะทั้งหมด +7
+Snowland West Field 2
+Snowland West Field 1"
+"Sovereign Equilibrium Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","10","10","{""DEF"":10,""MDEF"":10}","[""ความเร็วเคลื่อนที่ +10%"",""ASPD +10%"",""Flee +10"",""ครบชุด · Sovereign Equilibrium Set"",""HP สูงสุด Percent +15%"",""MP สูงสุด Percent +15%"",""ATK Percent +3%"",""MATK Percent +3%"",""Orc Village""]","[]","","[]","https://ageofsylvanus.com/codex/assets/71cd6dc2809d21f2.webp","images/equipment_077.webp","4","19","Sovereign Equilibrium Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+10
+ความเร็วเคลื่อนที่ +10%
+ASPD +10%
+Flee +10
+ครบชุด · Sovereign Equilibrium Set
+HP สูงสุด Percent +15%
+MP สูงสุด Percent +15%
+ATK Percent +3%
+MATK Percent +3%
+Orc Village"
+"Trailblazer Boots of Might","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""STR +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/56dfa218cfef5690.webp","images/equipment_078.webp","4","20","Trailblazer Boots of Might
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+STR +5
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Trailblazer Boots of Insight","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""INT +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/8d8d22238afa4cdf.webp","images/equipment_079.webp","4","21","Trailblazer Boots of Insight
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+INT +5
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Trailblazer Boots of Endurance","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""VIT +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/4dcb2f27b3d1ad9d.webp","images/equipment_080.webp","4","22","Trailblazer Boots of Endurance
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+VIT +5
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Trailblazer Boots of Precision","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""DEX +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/8f1f6990f37b0384.webp","images/equipment_081.webp","4","23","Trailblazer Boots of Precision
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+DEX +5
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Trailblazer Boots of Swiftness","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""AGI +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/977522ed42258982.webp","images/equipment_082.webp","4","24","Trailblazer Boots of Swiftness
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+AGI +5
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Trailblazer Boots of Fortune","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""ความเร็วเคลื่อนที่ +10%"",""LUK +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/af323ba3aedbc664.webp","images/equipment_083.webp","5","1","Trailblazer Boots of Fortune
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ความเร็วเคลื่อนที่ +10%
+LUK +5
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Stonecore Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","3","{""DEF"":4,""MDEF"":3}","[""ความเร็วเคลื่อนที่ +5%"",""ต้านทานธาตุดินance +5%"",""ครบชุด · Stonecore Bulwark Set"",""HP สูงสุด Percent +5%"",""DEF Percent +5%"",""MDEF Percent +5%"",""Atlan East Desert 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/2544f64975081a19.webp","images/equipment_084.webp","5","2","Stonecore Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+3
+ความเร็วเคลื่อนที่ +5%
+ต้านทานธาตุดินance +5%
+ครบชุด · Stonecore Bulwark Set
+HP สูงสุด Percent +5%
+DEF Percent +5%
+MDEF Percent +5%
+Atlan East Desert 2"
+"Crimson Carapace Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","6","4","{""DEF"":6,""MDEF"":4}","[""ความเร็วเคลื่อนที่ +5%"",""อัตราคริติคอล +3%"",""ครบชุด · Crimson Carapace Set"",""ATK Percent +5%"",""ความเสียหายกายภาพ +5%"",""Atlan East Desert 1""]","[]","","[]","https://ageofsylvanus.com/codex/assets/c1dacab84f8c2852.webp","images/equipment_085.webp","5","3","Crimson Carapace Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+6
+MDEF
+4
+ความเร็วเคลื่อนที่ +5%
+อัตราคริติคอล +3%
+ครบชุด · Crimson Carapace Set
+ATK Percent +5%
+ความเสียหายกายภาพ +5%
+Atlan East Desert 1"
+"Tombstrider Boots","EQUIPMENT","รองเท้า","50","รองเท้า · Lv. 50 · 1 ช่องการ์ด","1","7","6","{""DEF"":7,""MDEF"":6}","[""Damage to Undead +5%"",""ความเร็วเคลื่อนที่ +8%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/780f86eb6bf8a4d3.webp","images/equipment_086.webp","5","4","Tombstrider Boots
+รองเท้า · Lv. 50 · 1 ช่องการ์ด
+DEF
+7
+MDEF
+6
+Damage to Undead +5%
+ความเร็วเคลื่อนที่ +8%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Wellspring Pilgrim Sandals","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","3","{""DEF"":1,""MDEF"":3}","[""MP Cost -3%"",""ครบชุด · Wellspring Pilgrim Set"",""MP สูงสุด +50"",""การฟื้นฟู MP +20%"",""Soloden East Forest 1"",""Soloden East Forest 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/a7c8d0307a2abe2b.webp","images/equipment_087.webp","5","5","Wellspring Pilgrim Sandals
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+3
+MP Cost -3%
+ครบชุด · Wellspring Pilgrim Set
+MP สูงสุด +50
+การฟื้นฟู MP +20%
+Soloden East Forest 1
+Soloden East Forest 2"
+"Trailblazer Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Trailblazer Set"",""ความเร็วเคลื่อนที่ +5%"",""ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%"",""North Road""]","[]","","[]","https://ageofsylvanus.com/codex/assets/57ba0a084870723a.webp","images/equipment_088.webp","5","6","Trailblazer Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Trailblazer Set
+ความเร็วเคลื่อนที่ +5%
+ระยะเวลาสถานะผิดปกติที่ได้รับ StatusEffect = Slow%
+North Road"
+"Steadfast Sprout Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[""ระยะเวลาสถานะผิดปกติที่ได้รับ -5%"",""ครบชุด · Steadfast Sprout Set"",""ต้านทานสถานะผิดปกติ +10%"",""Hemeralis West Field 1"",""Hemeralis West Field 2""]","[]","","[]","https://ageofsylvanus.com/codex/assets/45745b8195e36a39.webp","images/equipment_089.webp","5","7","Steadfast Sprout Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+ระยะเวลาสถานะผิดปกติที่ได้รับ -5%
+ครบชุด · Steadfast Sprout Set
+ต้านทานสถานะผิดปกติ +10%
+Hemeralis West Field 1
+Hemeralis West Field 2"
+"Fortune Forager Boots","EQUIPMENT","รองเท้า","","รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","2","{""DEF"":1,""MDEF"":2}","[""ความเร็วเคลื่อนที่ +5%"",""ครบชุด · Fortune Forager Set"",""อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%"",""อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%"",""ไม่พบแหล่งดรอป""]","[]","","[]","https://ageofsylvanus.com/codex/assets/67af27dac90a474f.webp","images/equipment_090.webp","5","8","Fortune Forager Boots
+รองเท้า · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+2
+ความเร็วเคลื่อนที่ +5%
+ครบชุด · Fortune Forager Set
+อัตราดรอปโกลด์ EligibleSource = Normal or Giant Monster%
+อัตราดรอปวัตถุดิบ DropCategory = Material; Exclude Equipment, Card, Sigil and Boss Drop%
+ไม่พบแหล่งดรอป"
+"Worldforge Overdrive Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","10","10","{""DEF"":10,""MDEF"":10}","[""ความเร็วเคลื่อนที่ +12%"",""ASPD +10%"",""ความเร็วร่าย +10%"",""ความเสียหายทั้งหมดที่ได้รับ +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/ab7e5a6300c6cd32.webp","images/equipment_091.webp","5","9","Worldforge Overdrive Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+10
+ความเร็วเคลื่อนที่ +12%
+ASPD +10%
+ความเร็วร่าย +10%
+ความเสียหายทั้งหมดที่ได้รับ +5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Adamant Anchor Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","15","15","{""DEF"":15,""MDEF"":15}","[""HP สูงสุด +10%"",""Knockback Resistance +100%"",""ความเร็วเคลื่อนที่ -5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/f9ba74ad8df02227.webp","images/equipment_092.webp","5","10","Adamant Anchor Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+15
+MDEF
+15
+HP สูงสุด +10%
+Knockback Resistance +100%
+ความเร็วเคลื่อนที่ -5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Lanar Trail Boots","EQUIPMENT","รองเท้า","25","รองเท้า · Lv. 25 · 0 ช่องการ์ด","0","5","3","{""DEF"":5,""MDEF"":3}","[""Flee +10"",""ความเร็วเคลื่อนที่ +15%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""ASPD +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Hemeralis West Field 1""]","https://ageofsylvanus.com/codex/assets/ffb610d00e7b4870.webp","images/equipment_093.webp","5","11","Lanar Trail Boots
+รองเท้า · Lv. 25 · 0 ช่องการ์ด
+DEF
+5
+MDEF
+3
+Flee +10
+ความเร็วเคลื่อนที่ +15%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+ASPD +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hemeralis West Field 1"
+"Phantomhide Boots","EQUIPMENT","รองเท้า","50","รองเท้า · Lv. 50 · 1 ช่องการ์ด","1","4","2","{""DEF"":4,""MDEF"":2}","[""ความเร็วเคลื่อนที่ +15%"",""AGI +3"",""ครบชุด · Phantomhide Set""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""Atlan Beach""]","","","5","12","⚔
+Phantomhide Boots
+รองเท้า · Lv. 50 · 1 ช่องการ์ด
+DEF
+4
+MDEF
+2
+ความเร็วเคลื่อนที่ +15%
+AGI +3
+ครบชุด · Phantomhide Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+Atlan Beach"
+"Resonance Channeler Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","10","10","{""DEF"":10,""MDEF"":10}","[""ความเร็วร่าย +10%"",""ความเร็วเคลื่อนที่ +15%"",""Exposure Effect +10%"",""ครบชุด · Resonance Channeler Set""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","5","13","⚔
+Resonance Channeler Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+10
+ความเร็วร่าย +10%
+ความเร็วเคลื่อนที่ +15%
+Exposure Effect +10%
+ครบชุด · Resonance Channeler Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Resonance Spellweaver Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","10","10","{""DEF"":10,""MDEF"":10}","[""ASPD +10%"",""ความเร็วเคลื่อนที่ +15%"",""Exposure Effect +10%"",""ครบชุด · Resonance Spellweaver Set""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Lost Island 1""]","","","5","14","⚔
+Resonance Spellweaver Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+10
+MDEF
+10
+ASPD +10%
+ความเร็วเคลื่อนที่ +15%
+Exposure Effect +10%
+ครบชุด · Resonance Spellweaver Set
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Lost Island 1"
+"Hollow Ritualist Boots","EQUIPMENT","รองเท้า","100","รองเท้า · Lv. 100 · 1 ช่องการ์ด","1","8","12","{""DEF"":8,""MDEF"":12}","[""ความเร็วเคลื่อนที่ +10%"",""ASPD +10%"",""MP Cost -10%"",""ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.""]","[]","ยังไม่พบรายละเอียดโบนัสครบชุด","[""The Cursed Swamp""]","","","5","15","⚔
+Hollow Ritualist Boots
+รองเท้า · Lv. 100 · 1 ช่องการ์ด
+DEF
+8
+MDEF
+12
+ความเร็วเคลื่อนที่ +10%
+ASPD +10%
+MP Cost -10%
+ครบชุด · Hollow Ritualist (3 pieces): Chaos hits have30% chance to apply Chaos Weakness for4s; base effect5% +1 percentage point per summed refine of these3 pieces; apply Chaos Weakness Effect bonuses once.
+ยังไม่พบรายละเอียดโบนัสครบชุด
+The Cursed Swamp"
+"Ring of the Iron Vanguard","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +10%"",""DEF / MDEF +5%""]","[]","ไม่มีโบนัสครบชุด","[""Atlan East Desert 2""]","https://ageofsylvanus.com/codex/assets/f69346d1e93bb7a5.webp","images/equipment_094.webp","5","16","Ring of the Iron Vanguard
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +10%
+DEF / MDEF +5%
+ไม่มีโบนัสครบชุด
+Atlan East Desert 2"
+"Crimson Fang Ring","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะประชิด +5%""]","[]","ไม่มีโบนัสครบชุด","[""Atlan South Desert 1""]","https://ageofsylvanus.com/codex/assets/757502b86b29994a.webp","images/equipment_095.webp","5","17","Crimson Fang Ring
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะประชิด +5%
+ไม่มีโบนัสครบชุด
+Atlan South Desert 1"
+"Hawkeye Signet","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะไกล +5%""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra North Forest 2"",""Yggdra North Forest 1""]","https://ageofsylvanus.com/codex/assets/51e65463bfdeb67f.webp","images/equipment_096.webp","5","18","Hawkeye Signet
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 2
+Yggdra North Forest 1"
+"Arcane Prism Ring","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายเวท +5%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 2""]","https://ageofsylvanus.com/codex/assets/cfc1ca71c69bd073.webp","images/equipment_097.webp","5","19","Arcane Prism Ring
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายเวท +5%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Beastlord's Claw","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายของมินเนียน +10%"",""Minion HP สูงสุด +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/895d2378c891f1c2.webp","images/equipment_098.webp","5","20","Beastlord's Claw
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายของมินเนียน +10%
+Minion HP สูงสุด +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Ring of Swift Talons","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ASPD +10%"",""Flee +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 1""]","https://ageofsylvanus.com/codex/assets/68d67283f4cebe7f.webp","images/equipment_099.webp","5","21","Ring of Swift Talons
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ASPD +10%
+Flee +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Star of Fortune","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""อัตราคริติคอล +5%"",""ความเสียหายคริติคอล +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/4be38ecf805f2197.webp","images/equipment_100.webp","5","22","Star of Fortune
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+อัตราคริติคอล +5%
+ความเสียหายคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Saint's Prayer Beads","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Healing +10%"",""MP Cost -5%""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 1""]","https://ageofsylvanus.com/codex/assets/c3236dbea01678fd.webp","images/equipment_101.webp","5","23","Saint's Prayer Beads
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Healing +10%
+MP Cost -5%
+ไม่มีโบนัสครบชุด
+The Burrow 1"
+"Guardian's Oath Seal","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ต้านทานทุกธาตุ +5%"",""ต้านทานสถานะผิดปกติ +5%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/05e2cd24b9406696.webp","images/equipment_102.webp","5","24","Guardian's Oath Seal
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ต้านทานทุกธาตุ +5%
+ต้านทานสถานะผิดปกติ +5%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Echo of the Hourglass","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเร็วร่าย +10%"",""คูลดาวน์ Recovery +5%""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 2""]","https://ageofsylvanus.com/codex/assets/b0bcbe45be272ac2.webp","images/equipment_103.webp","6","1","Echo of the Hourglass
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเร็วร่าย +10%
+คูลดาวน์ Recovery +5%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Prismatic Signet of Might","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะประชิด +5%"",""Right Accessory Slot Only""]","[""STR +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 2""]","https://ageofsylvanus.com/codex/assets/c7529ad07992363b.webp","images/equipment_104.webp","6","2","Prismatic Signet of Might
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะประชิด +5%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+STR +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Prismatic Signet of Swiftness","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ASPD +10%"",""Flee +10%"",""Right Accessory Slot Only""]","[""AGI +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 2""]","https://ageofsylvanus.com/codex/assets/54f961efc98caa5b.webp","images/equipment_105.webp","6","3","Prismatic Signet of Swiftness
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ASPD +10%
+Flee +10%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+AGI +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Prismatic Signet of Wisdom","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายเวท +5%"",""Right Accessory Slot Only""]","[""INT +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 2""]","https://ageofsylvanus.com/codex/assets/ab321883e0350a05.webp","images/equipment_106.webp","6","4","Prismatic Signet of Wisdom
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายเวท +5%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Prismatic Signet of Fortitude","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +10%"",""DEF / MDEF +5%"",""Right Accessory Slot Only""]","[""VIT +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 3""]","https://ageofsylvanus.com/codex/assets/eb9f2fb35734cc22.webp","images/equipment_107.webp","6","5","Prismatic Signet of Fortitude
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +10%
+DEF / MDEF +5%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+VIT +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Prismatic Signet of Precision","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะไกล +5%"",""Right Accessory Slot Only""]","[""DEX +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1"",""The Shattering Crystal 2""]","https://ageofsylvanus.com/codex/assets/ca2ce91ab80ac617.webp","images/equipment_108.webp","6","6","Prismatic Signet of Precision
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะไกล +5%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+DEX +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1
+The Shattering Crystal 2"
+"Prismatic Signet of Fortune","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""อัตราคริติคอล +5%"",""ความเสียหายคริติคอล +10%"",""Right Accessory Slot Only""]","[""LUK +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1""]","https://ageofsylvanus.com/codex/assets/a9a49ee18a7d736e.webp","images/equipment_109.webp","6","7","Prismatic Signet of Fortune
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+อัตราคริติคอล +5%
+ความเสียหายคริติคอล +10%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+LUK +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Beastmaster's Command Seal","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายของมินเนียน +5%"",""Command Skill Damage +5%""]","[]","ไม่มีโบนัสครบชุด","[""Anima North Swamp 2""]","https://ageofsylvanus.com/codex/assets/d5a7d52f9b539907.webp","images/equipment_110.webp","6","8","Beastmaster's Command Seal
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายของมินเนียน +5%
+Command Skill Damage +5%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 2"
+"Heart of the Great Herd","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Minion HP สูงสุด +15%"",""Minion การฟื้นฟูที่ได้รับ +15%""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 3""]","https://ageofsylvanus.com/codex/assets/4d3614433239909b.webp","images/equipment_111.webp","6","9","Heart of the Great Herd
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Minion HP สูงสุด +15%
+Minion การฟื้นฟูที่ได้รับ +15%
+ไม่มีโบนัสครบชุด
+The Burrow 3"
+"Wildcaller's Hourglass","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Summon Skill ความเร็วร่าย +15%"",""Summon Reเวลาร่าย -10%""]","[]","ไม่มีโบนัสครบชุด","[""Anima North Swamp 1""]","https://ageofsylvanus.com/codex/assets/e02d443724b05481.webp","images/equipment_112.webp","6","10","Wildcaller's Hourglass
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Summon Skill ความเร็วร่าย +15%
+Summon Reเวลาร่าย -10%
+ไม่มีโบนัสครบชุด
+Anima North Swamp 1"
+"Bloodwell Loop","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""HP on Kill +2%"",""การฟื้นฟู HP +20%""]","[]","ไม่มีโบนัสครบชุด","[""Cemetery Underground 1st Floor""]","https://ageofsylvanus.com/codex/assets/f74ffed96f197f40.webp","images/equipment_113.webp","6","11","Bloodwell Loop
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP on Kill +2%
+การฟื้นฟู HP +20%
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Manastream Loop","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Mana on Hit +2"",""การฟื้นฟู MP +20%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 2""]","https://ageofsylvanus.com/codex/assets/b86dfb15fd1a47d9.webp","images/equipment_114.webp","6","12","Manastream Loop
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Mana on Hit +2
+การฟื้นฟู MP +20%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Crimson Siphon Talisman","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Siphon HP +10""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 1""]","https://ageofsylvanus.com/codex/assets/7ae210242ec8384c.webp","images/equipment_115.webp","6","13","Crimson Siphon Talisman
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Siphon HP +10
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Azure Siphon Talisman","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Siphon MP +10""]","[]","ไม่มีโบนัสครบชุด","[""Atlan Beach""]","https://ageofsylvanus.com/codex/assets/f89abe6c03b7c3a6.webp","images/equipment_116.webp","6","14","Azure Siphon Talisman
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Siphon MP +10
+ไม่มีโบนัสครบชุด
+Atlan Beach"
+"Crimson Hemorrhage Seal","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Bleeding Damage +20%"",""Bleeding ระยะเวลา +10%""]","[]","ไม่มีโบนัสครบชุด","[""Cemetery Underground 1st Floor""]","https://ageofsylvanus.com/codex/assets/329ad16b2a1c1ead.webp","images/equipment_117.webp","6","15","Crimson Hemorrhage Seal
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Bleeding Damage +20%
+Bleeding ระยะเวลา +10%
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Viridian Venom Seal","EQUIPMENT","เครื่องประดับ","","เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุพิษ +10%"",""Poison ระยะเวลา +10%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 1""]","https://ageofsylvanus.com/codex/assets/1925a11067839da8.webp","images/equipment_118.webp","6","16","Viridian Venom Seal
+เครื่องประดับ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุพิษ +10%
+Poison ระยะเวลา +10%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Emberbrand Seal","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Ignite Damage +20%"",""Ignite ระยะเวลา +10%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 1""]","https://ageofsylvanus.com/codex/assets/98e62dcf2a543544.webp","images/equipment_119.webp","6","17","Emberbrand Seal
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Ignite Damage +20%
+Ignite ระยะเวลา +10%
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Heart of the Caldera","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุไฟ +5%"",""Ignite Damage +10%"",""MATK +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 1""]","https://ageofsylvanus.com/codex/assets/c376ec986f2aa967.webp","images/equipment_120.webp","6","18","Heart of the Caldera
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุไฟ +5%
+Ignite Damage +10%
+MATK +5%
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Brand of Ash","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุไฟ +5%"",""Damage to Ignited Targets +10%"",""ATK +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 2""]","https://ageofsylvanus.com/codex/assets/b0d931a960d6b60b.webp","images/equipment_121.webp","6","19","Brand of Ash
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุไฟ +5%
+Damage to Ignited Targets +10%
+ATK +5%
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Phoenix Earing","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ต้านทานธาตุไฟance +10%"",""HP สูงสุด +10%"",""When HP is below 30%: Ignite ความเสียหายที่ได้รับ -50% (does not stack)""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 3""]","https://ageofsylvanus.com/codex/assets/0f19662a77557eeb.webp","images/equipment_122.webp","6","20","Phoenix Earing
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ต้านทานธาตุไฟance +10%
+HP สูงสุด +10%
+When HP is below 30%: Ignite ความเสียหายที่ได้รับ -50% (does not stack)
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Seal of the Living Flame","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุไฟ +5%"",""Ignite โอกาส +10%"",""Ignite ระยะเวลา +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 3""]","https://ageofsylvanus.com/codex/assets/c04587a8505c8edb.webp","images/equipment_123.webp","6","21","Seal of the Living Flame
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุไฟ +5%
+Ignite โอกาส +10%
+Ignite ระยะเวลา +10%
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Core of the Worldforge","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ATK +8%"",""MATK +8%"",""Physical / ความเสียหายเวท +5%"",""ความเสียหายทั้งหมดที่ได้รับ +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/f592aa394497aef0.webp","images/equipment_124.webp","6","22","Core of the Worldforge
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ATK +8%
+MATK +8%
+Physical / ความเสียหายเวท +5%
+ความเสียหายทั้งหมดที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Molten Gearheart","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ASPD +15%"",""ความเร็วร่าย +15%"",""คูลดาวน์ Recovery +8%"",""MP Cost +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/7180b041c21c9106.webp","images/equipment_125.webp","6","23","Molten Gearheart
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ASPD +15%
+ความเร็วร่าย +15%
+คูลดาวน์ Recovery +8%
+MP Cost +10%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Seal of Perfect Tempering","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""อัตราคริติคอล +8%"",""ความเสียหายคริติคอล +15%"",""Damage to Boss +5%"",""การฟื้นฟูที่ได้รับ -15%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/b2820c519c9db3e8.webp","images/equipment_126.webp","6","24","Seal of Perfect Tempering
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+อัตราคริติคอล +8%
+ความเสียหายคริติคอล +15%
+Damage to Boss +5%
+การฟื้นฟูที่ได้รับ -15%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Heart of the Adamant Furnace","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +15%"",""DEF +10%"",""MDEF +10%"",""ความเร็วเคลื่อนที่ -5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/cc1f061550fbb277.webp","images/equipment_127.webp","7","1","Heart of the Adamant Furnace
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +15%
+DEF +10%
+MDEF +10%
+ความเร็วเคลื่อนที่ -5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Command Core of the Grand Forge","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายของมินเนียน +15%"",""Command Skill Damage +10%"",""Minion HP สูงสุด +15%"",""Player Damage -10%""]","[]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/fc371b9dac097299.webp","images/equipment_128.webp","7","2","Command Core of the Grand Forge
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายของมินเนียน +15%
+Command Skill Damage +10%
+Minion HP สูงสุด +15%
+Player Damage -10%
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Atlanette’s Final Equation","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""คูลดาวน์ Recovery +15%"",""MP Cost -10%"",""ความเสียหายต่อ Boss +15%"",""HP สูงสุด -15%"",""Chaos Orb Allowed; Max Card Slots: 2""]","[]","ไม่มีโบนัสครบชุด","[""Atlas's Workshop""]","https://ageofsylvanus.com/codex/assets/cbf2309813ab7cba.webp","images/equipment_129.webp","7","3","Atlanette’s Final Equation
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+คูลดาวน์ Recovery +15%
+MP Cost -10%
+ความเสียหายต่อ Boss +15%
+HP สูงสุด -15%
+Chaos Orb Allowed; Max Card Slots: 2
+ไม่มีโบนัสครบชุด
+Atlas's Workshop"
+"Signet of the Deathless Queen","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +15%"",""Immune to Curse"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Hellgate""]","https://ageofsylvanus.com/codex/assets/29384d3f6d2ccc84.webp","images/equipment_130.webp","7","4","Signet of the Deathless Queen
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +15%
+Immune to Curse
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Champion’s Wind Banner","EQUIPMENT","เครื่องประดับ","60","เครื่องประดับ · Lv. 60 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุลม +10%"",""Damage to Demi-Human +5%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""HP สูงสุด +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 1""]","https://ageofsylvanus.com/codex/assets/a498324c6b8e96ca.webp","images/equipment_131.webp","7","5","Champion’s Wind Banner
+เครื่องประดับ · Lv. 60 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุลม +10%
+Damage to Demi-Human +5%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+HP สูงสุด +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Yoh’s Echoing Fang","EQUIPMENT","เครื่องประดับ","50","เครื่องประดับ · Lv. 50 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Basic attacks chain to 1 additional target"",""ความเสียหายคริติคอล +20%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""North Road""]","https://ageofsylvanus.com/codex/assets/2de1d86fe7c5c016.webp","images/equipment_132.webp","7","6","Yoh’s Echoing Fang
+เครื่องประดับ · Lv. 50 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Basic attacks chain to 1 additional target
+ความเสียหายคริติคอล +20%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+North Road"
+"Shattered Seraph Halo","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายเคออส +15%"",""ความเสียหายต่อ Angel +15%"",""MP สูงสุด +10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""MATK +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 3""]","","","7","7","⚔
+Shattered Seraph Halo
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายเคออส +15%
+ความเสียหายต่อ Angel +15%
+MP สูงสุด +10%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+MATK +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Venomrot Signet","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Poison ความเสียหายจากสถานะผิดปกติ +20%"",""Right Accessory Slot Only""]","[""INT +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","7","8","⚔
+Venomrot Signet
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Poison ความเสียหายจากสถานะผิดปกติ +20%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Bloodrend Signet","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Bleeding ความเสียหายจากสถานะผิดปกติ +20%"",""Right Accessory Slot Only""]","[""STR +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Lost Island 2""]","","","7","9","⚔
+Bloodrend Signet
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Bleeding ความเสียหายจากสถานะผิดปกติ +20%
+Right Accessory Slot Only
+ต่อระดับตีบวก
+STR +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Lost Island 2"
+"Pirate Medal","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""STR +3"",""ATK +5%""]","[]","ไม่มีโบนัสครบชุด","[""Sunken Ship 2""]","","","7","10","⚔
+Pirate Medal
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+STR +3
+ATK +5%
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Deadman’s Pocket Watch","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""คูลดาวน์ Reduction +10%""]","[""DEX +1 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Sunken Ship 1""]","","","7","11","⚔
+Deadman’s Pocket Watch
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+คูลดาวน์ Reduction +10%
+ต่อระดับตีบวก
+DEX +1 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 1"
+"Frozen Knuckle","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 3 ช่องการ์ด","3","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะประชิด +15%"",""ASPD -10%"",""Accepts Weapon Cards instead of Accessory Cards"",""Asura only (ClassID 52)"",""While any weapon is equipped, all Frozen Knuckle item and socketed card effects are inactive"",""Left Accessory Slot Only""]","[]","ไม่มีโบนัสครบชุด","[""The Ancient Battlefield""]","","","7","12","⚔
+Frozen Knuckle
+เครื่องประดับ · Lv. 100 · 3 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะประชิด +15%
+ASPD -10%
+Accepts Weapon Cards instead of Accessory Cards
+Asura only (ClassID 52)
+While any weapon is equipped, all Frozen Knuckle item and socketed card effects are inactive
+Left Accessory Slot Only
+ไม่มีโบนัสครบชุด
+The Ancient Battlefield"
+"Abyssal Amulet","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2"",""ทุก 2 ระดับตีบวก"",""ค่าสถานะทั้งหมด +1 ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","13","⚔
+Abyssal Amulet
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ทุก 2 ระดับตีบวก
+ค่าสถานะทั้งหมด +1 ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Abyssal Star","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""ความเสียหายเวท +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","14","⚔
+Abyssal Star
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ความเสียหายเวท +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Abyssal Gaunlet","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""ความเสียหายระยะประชิด +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","15","⚔
+Abyssal Gaunlet
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ความเสียหายระยะประชิด +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Abyssal Glove","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""ความเสียหายระยะไกล +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","16","⚔
+Abyssal Glove
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ความเสียหายระยะไกล +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Abyssal Bracelet","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""ละเลย MDEF +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","17","⚔
+Abyssal Bracelet
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ละเลย MDEF +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Abyssal Ring","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Right Accessory Slot Only"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""ละเลย DEF +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","7","18","⚔
+Abyssal Ring
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Right Accessory Slot Only
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ละเลย DEF +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Cinderwraith Ring","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""INT +5"",""HP สูงสุด -10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""Ignite Damage +8% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Volcano 3""]","","","7","19","⚔
+Cinderwraith Ring
+เครื่องประดับ · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+INT +5
+HP สูงสุด -10%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+Ignite Damage +8% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Bottle of Cure","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเร็วร่าย +10%"",""MATK +5%"",""Grants Heal Lv.5""]","[]","ไม่มีโบนัสครบชุด","[""Sunken Ship 1""]","","","7","20","⚔
+Bottle of Cure
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเร็วร่าย +10%
+MATK +5%
+Grants Heal Lv.5
+ไม่มีโบนัสครบชุด
+Sunken Ship 1"
+"Venomkeeper’s Vessel","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Poison ความเสียหายจากสถานะผิดปกติ +15%"",""HP สูงสุด +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Cursed Swamp""]","","","7","21","⚔
+Venomkeeper’s Vessel
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Poison ความเสียหายจากสถานะผิดปกติ +15%
+HP สูงสุด +5%
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Twisted Spirit Fetish","EQUIPMENT","เครื่องประดับ","100","เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""Chaos Weakness Effect +20%"",""MP สูงสุด +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Cursed Swamp""]","","","7","22","⚔
+Twisted Spirit Fetish
+เครื่องประดับ · Lv. 100 · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Chaos Weakness Effect +20%
+MP สูงสุด +5%
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Crown of Six Virtues","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ค่าสถานะทั้งหมด +1""]","[]","ไม่มีโบนัสครบชุด","[""Forest Steppe 1""]","https://ageofsylvanus.com/codex/assets/3254cd3f42532e61.webp","images/equipment_133.webp","7","23","Crown of Six Virtues
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ค่าสถานะทั้งหมด +1
+ไม่มีโบนัสครบชุด
+Forest Steppe 1"
+"Ember Diadem","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 1""]","https://ageofsylvanus.com/codex/assets/0ff414fed6f6b78f.webp","images/equipment_134.webp","7","24","Ember Diadem
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุไฟ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Tideglass Crown","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุน้ำ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Snowland East Field 2""]","https://ageofsylvanus.com/codex/assets/4082526d85cbd3b7.webp","images/equipment_135.webp","8","1","Tideglass Crown
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุน้ำ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Zephyr Halo","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุลม +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 2""]","https://ageofsylvanus.com/codex/assets/ba4225a95f5242dd.webp","images/equipment_136.webp","8","2","Zephyr Halo
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุลม +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Stoneheart Circlet","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุดิน +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1""]","https://ageofsylvanus.com/codex/assets/4e380863ab6527d2.webp","images/equipment_137.webp","8","3","Stoneheart Circlet
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุดิน +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Halo of Hemera","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุศักดิ์สิทธิ์ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Hemeralis East Field 2""]","https://ageofsylvanus.com/codex/assets/bc58fea04caed55b.webp","images/equipment_138.webp","8","4","Halo of Hemera
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุศักดิ์สิทธิ์ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 2"
+"Abyssal Chaos Crown","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายเคออส +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/f9e3d12197d78a4a.webp","images/equipment_139.webp","8","5","Abyssal Chaos Crown
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายเคออส +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Venomthorn Mask","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""ความเสียหายธาตุพิษ +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 1""]","https://ageofsylvanus.com/codex/assets/a85b67a9c29a7c3d.webp","images/equipment_140.webp","8","6","Venomthorn Mask
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายธาตุพิษ +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Aegis Crown","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[]","[""DEF +1% ต่อระดับตีบวก"",""MDEF +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/e79e2f2f3b57eb95.webp","images/equipment_141.webp","8","7","Aegis Crown
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+ต่อระดับตีบวก
+DEF +1% ต่อระดับตีบวก
+MDEF +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Saintweave Mitre","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[]","[""INT +1 ต่อระดับตีบวก"",""VIT +1 ต่อระดับตีบวก"",""Healing +2% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 1""]","https://ageofsylvanus.com/codex/assets/f8f24ff1927f7a5a.webp","images/equipment_142.webp","8","8","Saintweave Mitre
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+VIT +1 ต่อระดับตีบวก
+Healing +2% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Eclipse Visor","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[]","[""อัตราคริติคอล +2 ต่อระดับตีบวก"",""ความเสียหายคริติคอล +3% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Shadowfen Cemetery""]","https://ageofsylvanus.com/codex/assets/361e239c0b724d2e.webp","images/equipment_143.webp","8","9","Eclipse Visor
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ต่อระดับตีบวก
+อัตราคริติคอล +2 ต่อระดับตีบวก
+ความเสียหายคริติคอล +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Shadowfen Cemetery"
+"Bloodfang War Hood","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ATK +10"",""Bleeding Damage +10%""]","[""Bleeding โอกาส +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Cemetery Underground 1st Floor""]","https://ageofsylvanus.com/codex/assets/f98832f51bc4fac1.webp","images/equipment_144.webp","8","10","Bloodfang War Hood
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ATK +10
+Bleeding Damage +10%
+ต่อระดับตีบวก
+Bleeding โอกาส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Crown of the Crimson Hunt","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""STR +5"",""Bleeding Damage +20%""]","[""Damage to Bleeding targets +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Cemetery Underground 1st Floor""]","https://ageofsylvanus.com/codex/assets/6ec5f20b294006a6.webp","images/equipment_145.webp","8","11","Crown of the Crimson Hunt
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+STR +5
+Bleeding Damage +20%
+ต่อระดับตีบวก
+Damage to Bleeding targets +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Venomcaller Hood","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""INT +3"",""AGI +3"",""ความเสียหายธาตุพิษ +10%""]","[""Poison โอกาส +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 2""]","https://ageofsylvanus.com/codex/assets/e40e153b3658a3df.webp","images/equipment_146.webp","8","12","Venomcaller Hood
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+INT +3
+AGI +3
+ความเสียหายธาตุพิษ +10%
+ต่อระดับตีบวก
+Poison โอกาส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Crown of the Plague Sovereign","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","5","{""DEF"":3,""MDEF"":5}","[""INT +5"",""ความเสียหายธาตุพิษ +20%""]","[""Damage to Poisoned targets +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Burrow 2""]","https://ageofsylvanus.com/codex/assets/c46aa435ccc85243.webp","images/equipment_147.webp","8","13","Crown of the Plague Sovereign
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+5
+INT +5
+ความเสียหายธาตุพิษ +20%
+ต่อระดับตีบวก
+Damage to Poisoned targets +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Burrow 2"
+"Cinderborn Circlet","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""MATK +10"",""Ignite Damage +10%""]","[""Ignite โอกาส +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 2""]","https://ageofsylvanus.com/codex/assets/cc3603b4735b2fa4.webp","images/equipment_148.webp","8","14","Cinderborn Circlet
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+MATK +10
+Ignite Damage +10%
+ต่อระดับตีบวก
+Ignite โอกาส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Crown of the Everlasting Pyre","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","5","{""DEF"":3,""MDEF"":5}","[""INT +5"",""ความเสียหายธาตุไฟ +10%"",""Ignite Damage +20%""]","[""Damage to Ignited targets +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 2""]","https://ageofsylvanus.com/codex/assets/2a9a9f27e5c67c27.webp","images/equipment_149.webp","8","15","Crown of the Everlasting Pyre
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+5
+INT +5
+ความเสียหายธาตุไฟ +10%
+Ignite Damage +20%
+ต่อระดับตีบวก
+Damage to Ignited targets +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Feathered Pathfinder Hat","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","1","{""DEF"":5,""MDEF"":1}","[""ความเสียหายระยะไกล +10%"",""Attack Range +1""]","[]","ไม่มีโบนัสครบชุด","[""Crossroad""]","https://ageofsylvanus.com/codex/assets/5a4d82bae196cc43.webp","images/equipment_150.webp","8","16","Feathered Pathfinder Hat
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+1
+ความเสียหายระยะไกล +10%
+Attack Range +1
+ไม่มีโบนัสครบชุด
+Crossroad"
+"Falcon Sight Band","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""HIT +20"",""อัตราคริติคอล +3""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/6da2f82e0d803979.webp","images/equipment_151.webp","8","17","Falcon Sight Band
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+HIT +20
+อัตราคริติคอล +3
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Sharktooth War Hood","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ATK +10"",""ความเสียหายระยะประชิด +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 3""]","https://ageofsylvanus.com/codex/assets/3ea224409f2ce951.webp","images/equipment_152.webp","8","18","Sharktooth War Hood
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ATK +10
+ความเสียหายระยะประชิด +5%
+ไม่มีโบนัสครบชุด
+The Burrow 3"
+"Hexweaver's Hat","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","5","{""DEF"":1,""MDEF"":5}","[""ความเสียหายจากสถานะผิดปกติ +10%""]","[""ความเสียหายเคออส +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/a9addae9dc067e1f.webp","images/equipment_153.webp","8","19","Hexweaver's Hat
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+5
+ความเสียหายจากสถานะผิดปกติ +10%
+ต่อระดับตีบวก
+ความเสียหายเคออส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Spellweave Crown","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","5","{""DEF"":1,""MDEF"":5}","[""MATK +10"",""ความเร็วร่าย +10%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland West Field 1""]","https://ageofsylvanus.com/codex/assets/db791b6a0e2a212e.webp","images/equipment_154.webp","8","20","Spellweave Crown
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+5
+MATK +10
+ความเร็วร่าย +10%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 1"
+"Quickstep Veil","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""ASPD +10%"",""Flee +10""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 1""]","https://ageofsylvanus.com/codex/assets/afe3e52447713504.webp","images/equipment_155.webp","8","21","Quickstep Veil
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ASPD +10%
+Flee +10
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Lifebloom Crown","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","3","5","{""DEF"":3,""MDEF"":5}","[""HP สูงสุด +10%"",""การฟื้นฟูที่ได้รับ +10%""]","[]","ไม่มีโบนัสครบชุด","[""Hemeralis East Field 1""]","https://ageofsylvanus.com/codex/assets/4712cbca5308adcb.webp","images/equipment_156.webp","8","22","Lifebloom Crown
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+3
+MDEF
+5
+HP สูงสุด +10%
+การฟื้นฟูที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 1"
+"Echoing Familiar Hat","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""Echo Damage = 30%"",""Bolt Echo repeats the same Bolt at the same Rank and target; works with manual casts and AutoCast"",""Echo repeats the complete Bolt skill; Echo cannot trigger further Echoes""]","[""Bolt Echo โอกาส +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Anima North Swamp 2""]","https://ageofsylvanus.com/codex/assets/c9ac97b983e013b4.webp","images/equipment_157.webp","8","23","Echoing Familiar Hat
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+Echo Damage = 30%
+Bolt Echo repeats the same Bolt at the same Rank and target; works with manual casts and AutoCast
+Echo repeats the complete Bolt skill; Echo cannot trigger further Echoes
+ต่อระดับตีบวก
+Bolt Echo โอกาส +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Anima North Swamp 2"
+"Bulwark Commander Helm","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","7","3","{""DEF"":7,""MDEF"":3}","[""Block +5%"",""On Hit: Damage Reduction +10% for 3s"",""Proc โอกาส 5% / ICD 10s""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/bf7682504e6632d3.webp","images/equipment_158.webp","8","24","Bulwark Commander Helm
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+7
+MDEF
+3
+Block +5%
+On Hit: Damage Reduction +10% for 3s
+Proc โอกาส 5% / ICD 10s
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Sage's Meditation Mask","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","5","{""DEF"":1,""MDEF"":5}","[""MP สูงสุด +10%"",""MP Cost -5%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 1""]","https://ageofsylvanus.com/codex/assets/58d0322d9f448c13.webp","images/equipment_159.webp","9","1","Sage's Meditation Mask
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+5
+MP สูงสุด +10%
+MP Cost -5%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 1"
+"Helm of the Molten Warlord","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","7","3","{""DEF"":7,""MDEF"":3}","[""STR +5"",""ความเสียหายธาตุไฟ +10%"",""ความเสียหายระยะประชิด +5%""]","[""Damage to Ignited Targets +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Volcano 1""]","https://ageofsylvanus.com/codex/assets/fb1a0e9118331ba1.webp","images/equipment_160.webp","9","2","Helm of the Molten Warlord
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+7
+MDEF
+3
+STR +5
+ความเสียหายธาตุไฟ +10%
+ความเสียหายระยะประชิด +5%
+ต่อระดับตีบวก
+Damage to Ignited Targets +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Crown of the Grand Artificer","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","8","8","{""DEF"":8,""MDEF"":8}","[""ATK +5%"",""MATK +5%"",""HP สูงสุด -10%"",""ทุก 2 ระดับตีบวก"",""ATK / MATK +1% ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/1842d2d0237506e8.webp","images/equipment_161.webp","9","3","Crown of the Grand Artificer
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+8
+MDEF
+8
+ATK +5%
+MATK +5%
+HP สูงสุด -10%
+ทุก 2 ระดับตีบวก
+ATK / MATK +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Helm of Unyielding Steel","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","12","8","{""DEF"":12,""MDEF"":8}","[""HP สูงสุด +15%"",""Critical ความเสียหายที่ได้รับ -15%; ความเร็วร่าย -10%""]","[""DEF +1% ต่อระดับตีบวก"",""MDEF +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/58b1db31ea874288.webp","images/equipment_162.webp","9","4","Helm of Unyielding Steel
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+8
+HP สูงสุด +15%
+Critical ความเสียหายที่ได้รับ -15%; ความเร็วร่าย -10%
+ต่อระดับตีบวก
+DEF +1% ต่อระดับตีบวก
+MDEF +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Royal Bloom Garland","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","3","3","{""DEF"":3,""MDEF"":3}","[""HP สูงสุด +10%"",""ต้านทานธาตุดินance +10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Hemeralis South Field 1""]","https://ageofsylvanus.com/codex/assets/d70db1ac6ef0ba6f.webp","images/equipment_163.webp","9","5","Royal Bloom Garland
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+3
+MDEF
+3
+HP สูงสุด +10%
+ต้านทานธาตุดินance +10%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 1"
+"Empress Frostheart Circlet","EQUIPMENT","เครื่องประดับศีรษะ","","เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","4","8","{""DEF"":4,""MDEF"":8}","[""Immune to Frozen"",""ความเสียหายธาตุน้ำ +10%"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""MATK +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/6bd6e86e1a1fb0f9.webp","images/equipment_164.webp","9","6","Empress Frostheart Circlet
+เครื่องประดับศีรษะ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+4
+MDEF
+8
+Immune to Frozen
+ความเสียหายธาตุน้ำ +10%
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+MATK +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Pirate Hat","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","3","3","{""DEF"":3,""MDEF"":3}","[""ATK +10"",""ทุก 2 ระดับตีบวก"",""STR +1 ต่อทุก 2 ระดับตีบวก"",""AGI +1 ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""Sunken Ship 2""]","","","9","7","⚔
+Pirate Hat
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+3
+MDEF
+3
+ATK +10
+ทุก 2 ระดับตีบวก
+STR +1 ต่อทุก 2 ระดับตีบวก
+AGI +1 ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+Sunken Ship 2"
+"Abyssal Diving Helm","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","5","5","{""DEF"":5,""MDEF"":5}","[""MP สูงสุด +15%"",""Cast interruption from damage prevented"",""ความเร็วร่าย -10%""]","[]","ไม่มีโบนัสครบชุด","[""Sunken Ship 1""]","","","9","8","⚔
+Abyssal Diving Helm
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+5
+MP สูงสุด +15%
+Cast interruption from damage prevented
+ความเร็วร่าย -10%
+ไม่มีโบนัสครบชุด
+Sunken Ship 1"
+"Frozen Crown","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","4","8","{""DEF"":4,""MDEF"":8}","[""ความเสียหายต่อ Frozen targets +50%"",""Chaos Orb Allowed; Max Card Slots: 2""]","[""INT +1 ต่อระดับตีบวก"",""MATK +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Ancient Battlefield""]","","","9","9","⚔
+Frozen Crown
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+4
+MDEF
+8
+ความเสียหายต่อ Frozen targets +50%
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+INT +1 ต่อระดับตีบวก
+MATK +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Ancient Battlefield"
+"Kobold Warcrown","EQUIPMENT","เครื่องประดับศีรษะ","50","เครื่องประดับศีรษะ · Lv. 50 · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""Chaos Orb Allowed; Max Card Slots: 2""]","[""ความเสียหายคริติคอล +3% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Crystalland West Field 2""]","","","9","10","⚔
+Kobold Warcrown
+เครื่องประดับศีรษะ · Lv. 50 · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+Chaos Orb Allowed; Max Card Slots: 2
+ต่อระดับตีบวก
+ความเสียหายคริติคอล +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Crystalland West Field 2"
+"Molten Crown","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 0 ช่องการ์ด","0","5","3","{""DEF"":5,""MDEF"":3}","[""ความเสียหายต่อ Ignite targets +50%"",""STR +1"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""ATK +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 1""]","","","9","11","⚔
+Molten Crown
+เครื่องประดับศีรษะ · Lv. 100 · 0 ช่องการ์ด
+DEF
+5
+MDEF
+3
+ความเสียหายต่อ Ignite targets +50%
+STR +1
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+ATK +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Veil of the Hollow Shaman","EQUIPMENT","เครื่องประดับศีรษะ","100","เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด","1","6","8","{""DEF"":6,""MDEF"":8}","[""ความเสียหายเคออส against targets affected by Curse +15%""]","[""ความเสียหายเคออส against targets affected by Curse +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Cursed Swamp""]","","","9","12","⚔
+Veil of the Hollow Shaman
+เครื่องประดับศีรษะ · Lv. 100 · 1 ช่องการ์ด
+DEF
+6
+MDEF
+8
+ความเสียหายเคออส against targets affected by Curse +15%
+ต่อระดับตีบวก
+ความเสียหายเคออส against targets affected by Curse +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Glasses","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายเวท +2%""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 2""]","https://ageofsylvanus.com/codex/assets/57db356b3c0d23c1.webp","images/equipment_165.webp","9","13","Glasses
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายเวท +2%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Sunglasses","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","0","0","{""DEF"":0,""MDEF"":0}","[""ต้านทานตาบอด +50%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 2""]","https://ageofsylvanus.com/codex/assets/b3b8a4f1b6afc2e4.webp","images/equipment_166.webp","9","14","Sunglasses
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ต้านทานตาบอด +50%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Hawkeye Monocle","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""HIT +15"",""ความเสียหายระยะไกล +5%""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra South Forest 1""]","https://ageofsylvanus.com/codex/assets/c8303208ccc063ee.webp","images/equipment_167.webp","9","15","Hawkeye Monocle
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+HIT +15
+ความเสียหายระยะไกล +5%
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 1"
+"Crimson Appraisal Lens","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""อัตราคริติคอล +5"",""ความเสียหายคริติคอล +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/7d33b8464b4db11b.webp","images/equipment_168.webp","9","16","Crimson Appraisal Lens
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+อัตราคริติคอล +5
+ความเสียหายคริติคอล +10%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Quickdraw Goggles","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""ASPD +8%"",""Flee +5""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra East Forest 1""]","https://ageofsylvanus.com/codex/assets/046f6ca9f499faf4.webp","images/equipment_169.webp","9","17","Quickdraw Goggles
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ASPD +8%
+Flee +5
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 1"
+"Arcane Prism Ear","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","3","{""DEF"":1,""MDEF"":3}","[""MATK +5%"",""ความเร็วร่าย +8%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland West Field 2""]","https://ageofsylvanus.com/codex/assets/fa27b33c098ffe60.webp","images/equipment_170.webp","9","18","Arcane Prism Ear
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+3
+MATK +5%
+ความเร็วร่าย +8%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 2"
+"Sentinel's Black Visor","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[""ต้านทานตาบอด +50%"",""HIT +10""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/c62b13173bb4568f.webp","images/equipment_171.webp","9","19","Sentinel's Black Visor
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+ต้านทานตาบอด +50%
+HIT +10
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Bloodreader Lens","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""Bleeding โอกาส +5%"",""Damage to Bleeding Targets +10%""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 1""]","https://ageofsylvanus.com/codex/assets/bf0ea583512cbfa4.webp","images/equipment_172.webp","9","20","Bloodreader Lens
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+Bleeding โอกาส +5%
+Damage to Bleeding Targets +10%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Venom Analyst Goggles","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","2","{""DEF"":1,""MDEF"":2}","[""ต้านทานธาตุพิษ +20%"",""Damage to Poisoned Targets +10%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 1""]","https://ageofsylvanus.com/codex/assets/121f12cb33e97bc1.webp","images/equipment_173.webp","9","21","Venom Analyst Goggles
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+2
+ต้านทานธาตุพิษ +20%
+Damage to Poisoned Targets +10%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Cinderwatch Eyepiece","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","2","{""DEF"":1,""MDEF"":2}","[""ต้านทานธาตุไฟ +10%"",""Ignite Damage +10%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 2""]","https://ageofsylvanus.com/codex/assets/ac8b54db398a70ad.webp","images/equipment_174.webp","9","22","Cinderwatch Eyepiece
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+2
+ต้านทานธาตุไฟ +10%
+Ignite Damage +10%
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Beastmaster's Gaze","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[""ความเสียหายของมินเนียน +10%"",""Summon HIT +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/fc9cd8a6e1a002f4.webp","images/equipment_175.webp","9","23","Beastmaster's Gaze
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ความเสียหายของมินเนียน +10%
+Summon HIT +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Sharpshooter Calibration Lens","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[]","[""HIT +2 ต่อระดับตีบวก"",""อัตราคริติคอล +0.5 ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Snowland West Field 1""]","https://ageofsylvanus.com/codex/assets/88ae0b2bc517e37f.webp","images/equipment_176.webp","9","24","Sharpshooter Calibration Lens
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ต่อระดับตีบวก
+HIT +2 ต่อระดับตีบวก
+อัตราคริติคอล +0.5 ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Etherflow Blindfold","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","2","{""DEF"":1,""MDEF"":2}","[]","[""MP สูงสุด +1% ต่อระดับตีบวก"",""การฟื้นฟู MP +3% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 2""]","https://ageofsylvanus.com/codex/assets/26a3215c1a8e333a.webp","images/equipment_177.webp","10","1","Etherflow Blindfold
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+2
+ต่อระดับตีบวก
+MP สูงสุด +1% ต่อระดับตีบวก
+การฟื้นฟู MP +3% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Adaptive Ward Visor","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[]","[""ต้านทานทุกธาตุ (except Neutral) +0.5% ต่อระดับตีบวก"",""Status Resist +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Lava Mine 3""]","https://ageofsylvanus.com/codex/assets/8c2bc1982959ba72.webp","images/equipment_178.webp","10","2","Adaptive Ward Visor
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+ต่อระดับตีบวก
+ต้านทานทุกธาตุ (except Neutral) +0.5% ต่อระดับตีบวก
+Status Resist +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Predator Tracking Goggles","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","1","{""DEF"":1,""MDEF"":1}","[]","[""Damage to Targets Below 30% HP +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/c66c9b315c20bb0f.webp","images/equipment_179.webp","10","3","Predator Tracking Goggles
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ต่อระดับตีบวก
+Damage to Targets Below 30% HP +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Elemental Spectrum Lens","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","1","3","{""DEF"":1,""MDEF"":3}","[]","[""ความเสียหายเวท +0.5% ต่อระดับตีบวก"",""ความเร็วร่าย +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Hemeralis East Field 2""]","https://ageofsylvanus.com/codex/assets/00a379cb8fa65916.webp","images/equipment_180.webp","10","4","Elemental Spectrum Lens
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+1
+MDEF
+3
+ต่อระดับตีบวก
+ความเสียหายเวท +0.5% ต่อระดับตีบวก
+ความเร็วร่าย +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 2"
+"Duelist's Battle Eyepatch","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","1","{""DEF"":2,""MDEF"":1}","[""ATK +5"",""ความเสียหายระยะประชิด +5%""]","[]","ไม่มีโบนัสครบชุด","[""Crossroad""]","https://ageofsylvanus.com/codex/assets/ba98aa8281bba84f.webp","images/equipment_181.webp","10","5","Duelist's Battle Eyepatch
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+1
+ATK +5
+ความเสียหายระยะประชิด +5%
+ไม่มีโบนัสครบชุด
+Crossroad"
+"Bloodforged Combat Visor","EQUIPMENT","ส่วนศีรษะกลาง","","ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","1","{""DEF"":2,""MDEF"":1}","[]","[""ความเสียหายระยะประชิด +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlan South Desert 2""]","https://ageofsylvanus.com/codex/assets/5eff87371acb10d4.webp","images/equipment_182.webp","10","6","Bloodforged Combat Visor
+ส่วนศีรษะกลาง · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+1
+ต่อระดับตีบวก
+ความเสียหายระยะประชิด +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlan South Desert 2"
+"Ears of Ember","EQUIPMENT","ส่วนศีรษะกลาง","100","ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด","1","1","3","{""DEF"":1,""MDEF"":3}","[""ความเสียหายธาตุไฟ +5%"",""ความเร็วร่าย +10%"",""ทุก 2 ระดับตีบวก"",""ละเลย MDEF +1% ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 1""]","https://ageofsylvanus.com/codex/assets/7c8b99704a64f183.webp","images/equipment_183.webp","10","7","Ears of Ember
+ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด
+DEF
+1
+MDEF
+3
+ความเสียหายธาตุไฟ +5%
+ความเร็วร่าย +10%
+ทุก 2 ระดับตีบวก
+ละเลย MDEF +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 1"
+"Mask of Ignis","EQUIPMENT","ส่วนศีรษะกลาง","100","ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด","1","2","1","{""DEF"":2,""MDEF"":1}","[""อัตราคริติคอล +5%"",""Damage to Ignited Targets +10%"",""ทุก 2 ระดับตีบวก"",""ละเลย DEF +1% ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 2""]","https://ageofsylvanus.com/codex/assets/ef0513b84d117d73.webp","images/equipment_184.webp","10","8","Mask of Ignis
+ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด
+DEF
+2
+MDEF
+1
+อัตราคริติคอล +5%
+Damage to Ignited Targets +10%
+ทุก 2 ระดับตีบวก
+ละเลย DEF +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Forgemaster's Calculation Lens","EQUIPMENT","ส่วนศีรษะกลาง","100","ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด","1","2","2","{""DEF"":2,""MDEF"":2}","[""ASPD +10%"",""ความเร็วร่าย +10%"",""คูลดาวน์ Recovery +5%"",""ความเสียหายทั้งหมดที่ได้รับ +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/2920640b72b1c36a.webp","images/equipment_185.webp","10","9","Forgemaster's Calculation Lens
+ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด
+DEF
+2
+MDEF
+2
+ASPD +10%
+ความเร็วร่าย +10%
+คูลดาวน์ Recovery +5%
+ความเสียหายทั้งหมดที่ได้รับ +5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Eye of the Final Calibration","EQUIPMENT","ส่วนศีรษะกลาง","100","ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด","1","1","3","{""DEF"":1,""MDEF"":3}","[""อัตราคริติคอล +5%"",""ความเสียหายคริติคอล +10%"",""ทุก 2 ระดับตีบวก"",""ละเลย DEF +1% ต่อทุก 2 ระดับตีบวก"",""ละเลย MDEF +1% ต่อทุก 2 ระดับตีบวก""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/e3494bb453c072dd.webp","images/equipment_186.webp","10","10","Eye of the Final Calibration
+ส่วนศีรษะกลาง · Lv. 100 · 1 ช่องการ์ด
+DEF
+1
+MDEF
+3
+อัตราคริติคอล +5%
+ความเสียหายคริติคอล +10%
+ทุก 2 ระดับตีบวก
+ละเลย DEF +1% ต่อทุก 2 ระดับตีบวก
+ละเลย MDEF +1% ต่อทุก 2 ระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Mask of Anubis","EQUIPMENT","ส่วนศีรษะกลาง","80","ส่วนศีรษะกลาง · Lv. 80 · 0 ช่องการ์ด","0","2","5","{""DEF"":2,""MDEF"":5}","[""ความเสียหายต่อ Demon +10%"",""ความเสียหายต่อ Undead +10%"",""HIT +15"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 1""]","https://ageofsylvanus.com/codex/assets/fb006503daa9fa3f.webp","images/equipment_187.webp","10","11","Mask of Anubis
+ส่วนศีรษะกลาง · Lv. 80 · 0 ช่องการ์ด
+DEF
+2
+MDEF
+5
+ความเสียหายต่อ Demon +10%
+ความเสียหายต่อ Undead +10%
+HIT +15
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 1"
+"Dawnpetal Keepsake","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ATK +5""]","[]","ไม่มีโบนัสครบชุด","[""Hemeralis East Field 2""]","https://ageofsylvanus.com/codex/assets/012354a3106adb57.webp","images/equipment_188.webp","10","12","Dawnpetal Keepsake
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ATK +5
+ไม่มีโบนัสครบชุด
+Hemeralis East Field 2"
+"Sylvan Whisperleaf","EQUIPMENT","Sylvan Whisperleaf","","Sylvan Whisperleaf","","0","0","{""DEF"":0,""MDEF"":0}","[""ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด"",""DEF"",""0"",""MDEF"",""0"",""MATK +5""]","[]","ไม่มีโบนัสครบชุด","[""Forest Steppe 1""]","https://ageofsylvanus.com/codex/assets/06af61cafba41e09.webp","images/equipment_189.webp","10","13","Sylvan Whisperleaf
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+MATK +5
+ไม่มีโบนัสครบชุด
+Forest Steppe 1"
+"Crimson Siphon Fang","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Health on Hit +5"",""Siphon HP +5""]","[]","ไม่มีโบนัสครบชุด","[""Orc Den""]","https://ageofsylvanus.com/codex/assets/39d6c16c19fb1b62.webp","images/equipment_190.webp","10","14","Crimson Siphon Fang
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Health on Hit +5
+Siphon HP +5
+ไม่มีโบนัสครบชุด
+Orc Den"
+"Moonlit Mana Reed","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Mana on Hit +3"",""Siphon MP +5""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 2""]","https://ageofsylvanus.com/codex/assets/fca881916b82d352.webp","images/equipment_191.webp","10","15","Moonlit Mana Reed
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Mana on Hit +3
+Siphon MP +5
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Seedling Mercy Sprig","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Healing +15%"",""MP Cost -10%""]","[]","ไม่มีโบนัสครบชุด","[""Forest Steppe 2""]","https://ageofsylvanus.com/codex/assets/112278d0968ae788.webp","images/equipment_192.webp","10","16","Seedling Mercy Sprig
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Healing +15%
+MP Cost -10%
+ไม่มีโบนัสครบชุด
+Forest Steppe 2"
+"Wilderness Traveler Pipe","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Weight Limit +1000"",""ความเร็วเคลื่อนที่ +5%""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra East Forest 2""]","https://ageofsylvanus.com/codex/assets/600b7a86bd4bd61d.webp","images/equipment_193.webp","10","17","Wilderness Traveler Pipe
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Weight Limit +1000
+ความเร็วเคลื่อนที่ +5%
+ไม่มีโบนัสครบชุด
+Yggdra East Forest 2"
+"Ironroot Guard Pipe","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +10%"",""Knockback Resistance +50%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 3""]","https://ageofsylvanus.com/codex/assets/81fff2a0aba8af5f.webp","images/equipment_194.webp","10","18","Ironroot Guard Pipe
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +10%
+Knockback Resistance +50%
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Beastcaller Whistle","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Minion HP สูงสุด +15%"",""Command Skill คูลดาวน์ Recovery +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/a571af2b9d318e12.webp","images/equipment_195.webp","10","19","Beastcaller Whistle
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Minion HP สูงสุด +15%
+Command Skill คูลดาวน์ Recovery +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Phoenix Feather in Mouth","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""Survive lethal damage at 1 HP"",""Recover HP / MP 10%"",""Internal คูลดาวน์ 120s""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 2""]","https://ageofsylvanus.com/codex/assets/2b3aa046cc8573dc.webp","images/equipment_196.webp","10","20","Phoenix Feather in Mouth
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+Survive lethal damage at 1 HP
+Recover HP / MP 10%
+Internal คูลดาวน์ 120s
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Sage's Incense Holder","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเร็วร่าย +10%"",""การฟื้นฟู MP +25%"",""Cast Interruption Resistance +20%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland North Field 2""]","https://ageofsylvanus.com/codex/assets/8e210db122eb2c79.webp","images/equipment_197.webp","10","21","Sage's Incense Holder
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเร็วร่าย +10%
+การฟื้นฟู MP +25%
+Cast Interruption Resistance +20%
+ไม่มีโบนัสครบชุด
+Crystalland North Field 2"
+"Four-Leaf Fortune Charm","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""LUK +5"",""Perfect Dodge +5"",""Item Drop Rate +5%""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra North Forest 2"",""Yggdra North Forest 1""]","https://ageofsylvanus.com/codex/assets/7bbdbf1458dd7a67.webp","images/equipment_198.webp","10","22","Four-Leaf Fortune Charm
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+LUK +5
+Perfect Dodge +5
+Item Drop Rate +5%
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 2
+Yggdra North Forest 1"
+"Heart Vessel Pendant","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +500"",""การฟื้นฟู HP +25%"",""การฟื้นฟูที่ได้รับ +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/1eccc978f253bef9.webp","images/equipment_199.webp","10","23","Heart Vessel Pendant
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +500
+การฟื้นฟู HP +25%
+การฟื้นฟูที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Fang of the Close Hunt","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""STR +5"",""ความเสียหายระยะประชิด +10%""]","[]","ไม่มีโบนัสครบชุด","[""Orc Village""]","https://ageofsylvanus.com/codex/assets/17eacc4ac141f82f.webp","images/equipment_200.webp","10","24","Fang of the Close Hunt
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+STR +5
+ความเสียหายระยะประชิด +10%
+ไม่มีโบนัสครบชุด
+Orc Village"
+"Windwhistle Reed","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายระยะไกล +10%"",""Attack Range +1""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra South Forest 2""]","https://ageofsylvanus.com/codex/assets/670d146fc6dacd1b.webp","images/equipment_201.webp","11","1","Windwhistle Reed
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายระยะไกล +10%
+Attack Range +1
+ไม่มีโบนัสครบชุด
+Yggdra South Forest 2"
+"Arcane Incantation Scroll","EQUIPMENT","ส่วนศีรษะล่าง","","ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายเวท +10%"",""ความเร็วร่าย +10%""]","[]","ไม่มีโบนัสครบชุด","[""Crystalland West Field 2""]","https://ageofsylvanus.com/codex/assets/4e877a7e7140cb28.webp","images/equipment_202.webp","11","2","Arcane Incantation Scroll
+ส่วนศีรษะล่าง · ไม่จำกัดเลเวล · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายเวท +10%
+ความเร็วร่าย +10%
+ไม่มีโบนัสครบชุด
+Crystalland West Field 2"
+"Breath of Flame","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","1","1","{""DEF"":1,""MDEF"":1}","[""ความเสียหายธาตุไฟ +5%"",""Ignite ระยะเวลา +10%"",""MP Cost -5%""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 2""]","https://ageofsylvanus.com/codex/assets/f27c3824417038db.webp","images/equipment_203.webp","11","3","Breath of Flame
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+1
+MDEF
+1
+ความเสียหายธาตุไฟ +5%
+Ignite ระยะเวลา +10%
+MP Cost -5%
+ไม่มีโบนัสครบชุด
+The Volcano 2"
+"Smoldering Wyrm Fang","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","2","0","{""DEF"":2,""MDEF"":0}","[""Damage to Ignited Targets +10%"",""ความเสียหายคริติคอล +10%"",""Fire ความเสียหายที่ได้รับ +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Volcano 3""]","https://ageofsylvanus.com/codex/assets/356485c4059cfa26.webp","images/equipment_204.webp","11","4","Smoldering Wyrm Fang
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+2
+MDEF
+0
+Damage to Ignited Targets +10%
+ความเสียหายคริติคอล +10%
+Fire ความเสียหายที่ได้รับ +5%
+ไม่มีโบนัสครบชุด
+The Volcano 3"
+"Breath of the Worldforge","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายกายภาพ +5%"",""ความเสียหายเวท +5%"",""MP Cost +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 2""]","https://ageofsylvanus.com/codex/assets/f00aaa4fb9b7df15.webp","images/equipment_205.webp","11","5","Breath of the Worldforge
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายกายภาพ +5%
+ความเสียหายเวท +5%
+MP Cost +5%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 2"
+"Grand Smelter Respirator","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ต้านทานธาตุไฟ +7%"",""ต้านทานธาตุพิษ +7%"",""Ignite Resist +30%"",""ความเร็วเคลื่อนที่ -3%""]","[]","ไม่มีโบนัสครบชุด","[""The Grand Smelter 1""]","https://ageofsylvanus.com/codex/assets/64b913bb2d0f31c4.webp","images/equipment_206.webp","11","6","Grand Smelter Respirator
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ต้านทานธาตุไฟ +7%
+ต้านทานธาตุพิษ +7%
+Ignite Resist +30%
+ความเร็วเคลื่อนที่ -3%
+ไม่มีโบนัสครบชุด
+The Grand Smelter 1"
+"Pharaoh’s Funeral Veil","EQUIPMENT","ส่วนศีรษะล่าง","90","ส่วนศีรษะล่าง · Lv. 90 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""HP สูงสุด +12%"",""ความเสียหายที่ได้รับ from Undead -12%"",""Curse Resist +25%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","https://ageofsylvanus.com/codex/assets/c369b243f018bb4d.webp","images/equipment_207.webp","11","7","Pharaoh’s Funeral Veil
+ส่วนศีรษะล่าง · Lv. 90 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+HP สูงสุด +12%
+ความเสียหายที่ได้รับ from Undead -12%
+Curse Resist +25%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Crown of the Flamebound Tyrant","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ความเสียหายธาตุไฟ +15%"",""ละเลย DEF +10%"",""ละเลย MDEF +10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 3""]","https://ageofsylvanus.com/codex/assets/b00ba469db1cbe30.webp","images/equipment_208.webp","11","8","Crown of the Flamebound Tyrant
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ความเสียหายธาตุไฟ +15%
+ละเลย DEF +10%
+ละเลย MDEF +10%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Magic Skull Charm","EQUIPMENT","ส่วนศีรษะล่าง","100","ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด","0","0","0","{""DEF"":0,""MDEF"":0}","[""ละเลย MDEF +10%"",""Status Effect +20%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""ละเลย MDEF +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""The Cursed Swamp""]","","","11","9","⚔
+Magic Skull Charm
+ส่วนศีรษะล่าง · Lv. 100 · 0 ช่องการ์ด
+DEF
+0
+MDEF
+0
+ละเลย MDEF +10%
+Status Effect +20%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+ละเลย MDEF +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+The Cursed Swamp"
+"Ironwall Buckler","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","10","2","{""DEF"":10,""MDEF"":2}","[""DEF +5%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 1""]","https://ageofsylvanus.com/codex/assets/1ea1c628f0a6dde0.webp","images/equipment_209.webp","11","10","Ironwall Buckler
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+10
+MDEF
+2
+DEF +5%
+ไม่มีโบนัสครบชุด
+Snowland West Field 1"
+"Moonveil Shield","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","2","10","{""DEF"":2,""MDEF"":10}","[""MDEF +5%"",""ความเสียหายเวท Reduction +5%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 2""]","https://ageofsylvanus.com/codex/assets/a4268598f9aea0a4.webp","images/equipment_210.webp","11","11","Moonveil Shield
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+2
+MDEF
+10
+MDEF +5%
+ความเสียหายเวท Reduction +5%
+ไม่มีโบนัสครบชุด
+Snowland East Field 2"
+"Guardian's Round Shield","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","7","7","{""DEF"":7,""MDEF"":7}","[""DEF +3%"",""MDEF +3%""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 2""]","https://ageofsylvanus.com/codex/assets/6df532cd242a444b.webp","images/equipment_211.webp","11","12","Guardian's Round Shield
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+7
+MDEF
+7
+DEF +3%
+MDEF +3%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 2"
+"Returning Fang Shield","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""Throwing Shield Damage +20%"",""Throwing Shield คูลดาวน์ Recovery +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 3""]","https://ageofsylvanus.com/codex/assets/a3f8864682ea148a.webp","images/equipment_212.webp","11","13","Returning Fang Shield
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+Throwing Shield Damage +20%
+Throwing Shield คูลดาวน์ Recovery +10%
+ไม่มีโบนัสครบชุด
+The Burrow 3"
+"Chalice of Restoration","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 1 ช่องการ์ด","1","9","9","{""DEF"":9,""MDEF"":9}","[""การฟื้นฟูที่ได้รับ +15%"",""การฟื้นฟู HP +20%""]","[]","ไม่มีโบนัสครบชุด","[""The Burrow 2""]","https://ageofsylvanus.com/codex/assets/51e5157b9d4aa231.webp","images/equipment_213.webp","11","14","Chalice of Restoration
+โล่ · Lv. 50 · 1 ช่องการ์ด
+DEF
+9
+MDEF
+9
+การฟื้นฟูที่ได้รับ +15%
+การฟื้นฟู HP +20%
+ไม่มีโบนัสครบชุด
+The Burrow 2"
+"Farwatch Bastion","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 1 ช่องการ์ด","1","12","7","{""DEF"":12,""MDEF"":7}","[""ความเสียหายระยะไกล Reduction +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland West Field 2""]","https://ageofsylvanus.com/codex/assets/0dde45bfa81b9a35.webp","images/equipment_214.webp","11","15","Farwatch Bastion
+โล่ · Lv. 50 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+7
+ความเสียหายระยะไกล Reduction +10%
+ไม่มีโบนัสครบชุด
+Snowland West Field 2"
+"Beastwarden Shield","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 1 ช่องการ์ด","1","11","8","{""DEF"":11,""MDEF"":8}","[""Brute Race Resistance +10%""]","[]","ไม่มีโบนัสครบชุด","[""Snowland East Field 1""]","https://ageofsylvanus.com/codex/assets/2dda24cd10b941f6.webp","images/equipment_215.webp","11","16","Beastwarden Shield
+โล่ · Lv. 50 · 1 ช่องการ์ด
+DEF
+11
+MDEF
+8
+Brute Race Resistance +10%
+ไม่มีโบนัสครบชุด
+Snowland East Field 1"
+"Aegis of the Eternal Return","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","10","{""DEF"":14,""MDEF"":10}","[""Shield Boomerang Damage +20%"",""Shield Boomerang Chain +1"",""Shield Boomerang คูลดาวน์ -1s""]","[]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 3""]","https://ageofsylvanus.com/codex/assets/6676f46eb348869c.webp","images/equipment_216.webp","11","17","Aegis of the Eternal Return
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+10
+Shield Boomerang Damage +20%
+Shield Boomerang Chain +1
+Shield Boomerang คูลดาวน์ -1s
+ไม่มีโบนัสครบชุด
+The Falling Heaven 3"
+"Adamant Fortress Shield","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","20","20","{""DEF"":20,""MDEF"":20}","[""DEF +10%"",""MDEF +10%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 2""]","https://ageofsylvanus.com/codex/assets/8815ad745f1e1e53.webp","images/equipment_217.webp","11","18","Adamant Fortress Shield
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+20
+MDEF
+20
+DEF +10%
+MDEF +10%
+ไม่มีโบนัสครบชุด
+Lava Mine 2"
+"Prismatic Bulwark","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานทุกธาตุance +10%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 3""]","https://ageofsylvanus.com/codex/assets/0f3e769470ff6859.webp","images/equipment_218.webp","11","19","Prismatic Bulwark
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานทุกธาตุance +10%
+ไม่มีโบนัสครบชุด
+Lava Mine 3"
+"Seal of the Unbroken Mind","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","16","{""DEF"":14,""MDEF"":16}","[""ต้านทานสถานะผิดปกติ +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 2""]","https://ageofsylvanus.com/codex/assets/36264fc9eddf46a7.webp","images/equipment_219.webp","11","20","Seal of the Unbroken Mind
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+16
+ต้านทานสถานะผิดปกติ +10%
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Colossus Heartshield","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","17","11","{""DEF"":17,""MDEF"":11}","[""HP สูงสุด +15%"",""การฟื้นฟูที่ได้รับ +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 2""]","https://ageofsylvanus.com/codex/assets/ad1f6545e9184bcb.webp","images/equipment_220.webp","11","21","Colossus Heartshield
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+17
+MDEF
+11
+HP สูงสุด +15%
+การฟื้นฟูที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+The Falling Heaven 2"
+"Aegis of the Radiant Covenant","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","12","18","{""DEF"":12,""MDEF"":18}","[""ความเสียหายธาตุศักดิ์สิทธิ์ +10%"",""MATK +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 1""]","https://ageofsylvanus.com/codex/assets/54361539ca1541f8.webp","images/equipment_221.webp","11","22","Aegis of the Radiant Covenant
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+18
+ความเสียหายธาตุศักดิ์สิทธิ์ +10%
+MATK +10%
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1"
+"Salamander Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุไฟance +25%"",""Ignite ระยะเวลา Received -25%""]","[]","ไม่มีโบนัสครบชุด","[""Lava Mine 1""]","https://ageofsylvanus.com/codex/assets/7eff5c91663ac34d.webp","images/equipment_222.webp","11","23","Salamander Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุไฟance +25%
+Ignite ระยะเวลา Received -25%
+ไม่มีโบนัสครบชุด
+Lava Mine 1"
+"Leviathan Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุน้ำance +25%"",""Freeze ระยะเวลา Received -25%""]","[]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1""]","https://ageofsylvanus.com/codex/assets/474cf72af970b0b1.webp","images/equipment_223.webp","11","24","Leviathan Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุน้ำance +25%
+Freeze ระยะเวลา Received -25%
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Tempest Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุลมance +25%"",""ความเร็วเคลื่อนที่ +5%""]","[]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1""]","https://ageofsylvanus.com/codex/assets/f7ffce8a49715cc6.webp","images/equipment_224.webp","12","1","Tempest Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุลมance +25%
+ความเร็วเคลื่อนที่ +5%
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Gaia Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุดินance +25%"",""Knockback Resistance +50%""]","[]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 1""]","https://ageofsylvanus.com/codex/assets/95279d3e1e55ee36.webp","images/equipment_225.webp","12","2","Gaia Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุดินance +25%
+Knockback Resistance +50%
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 1"
+"Seraphic Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุศักดิ์สิทธิ์ance +25%"",""การฟื้นฟูที่ได้รับ +10%""]","[]","ไม่มีโบนัสครบชุด","[""The Falling Heaven 1""]","https://ageofsylvanus.com/codex/assets/fd32e4e6b3a57b97.webp","images/equipment_226.webp","12","3","Seraphic Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุศักดิ์สิทธิ์ance +25%
+การฟื้นฟูที่ได้รับ +10%
+ไม่มีโบนัสครบชุด
+The Falling Heaven 1"
+"Abyssal Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานเคออสance +25%"",""Curse ระยะเวลา Received -25%""]","[]","ไม่มีโบนัสครบชุด","[""Hellgate""]","https://ageofsylvanus.com/codex/assets/3307c2f1e00003a5.webp","images/equipment_227.webp","12","4","Abyssal Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานเคออสance +25%
+Curse ระยะเวลา Received -25%
+ไม่มีโบนัสครบชุด
+Hellgate"
+"Venomroot Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานธาตุพิษance +25%"",""Poison ระยะเวลา Received -25%""]","[]","ไม่มีโบนัสครบชุด","[""Cemetery Underground 1st Floor""]","https://ageofsylvanus.com/codex/assets/b7914eeafb5bb73c.webp","images/equipment_228.webp","12","5","Venomroot Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานธาตุพิษance +25%
+Poison ระยะเวลา Received -25%
+ไม่มีโบนัสครบชุด
+Cemetery Underground 1st Floor"
+"Voidsteel Ward","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[""ต้านทานไร้ธาตุance +15%"",""DEF +5"",""MDEF +5""]","[]","ไม่มีโบนัสครบชุด","[""The Shattering Crystal 2""]","https://ageofsylvanus.com/codex/assets/7cf73bba365f1df9.webp","images/equipment_229.webp","12","6","Voidsteel Ward
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต้านทานไร้ธาตุance +15%
+DEF +5
+MDEF +5
+ไม่มีโบนัสครบชุด
+The Shattering Crystal 2"
+"Sand Spirit Aegis","EQUIPMENT","โล่","30","โล่ · Lv. 30 · 0 ช่องการ์ด","0","10","10","{""DEF"":10,""MDEF"":10}","[""Knockback Resistance +30%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[""DEF +1% ต่อระดับตีบวก"",""MDEF +1% ต่อระดับตีบวก""]","ไม่มีโบนัสครบชุด","[""Atlan East Desert 2""]","https://ageofsylvanus.com/codex/assets/258d06c1faddf3bf.webp","images/equipment_230.webp","12","7","Sand Spirit Aegis
+โล่ · Lv. 30 · 0 ช่องการ์ด
+DEF
+10
+MDEF
+10
+Knockback Resistance +30%
+Chaos Orb Allowed; Max Card Slots: 1
+ต่อระดับตีบวก
+DEF +1% ต่อระดับตีบวก
+MDEF +1% ต่อระดับตีบวก
+ไม่มีโบนัสครบชุด
+Atlan East Desert 2"
+"Trailguard Buckler","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","5","3","{""DEF"":5,""MDEF"":3}","[""HP สูงสุด +150""]","[]","ไม่มีโบนัสครบชุด","[""Hemeralis South Field 2""]","","","12","8","⚔
+Trailguard Buckler
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+5
+MDEF
+3
+HP สูงสุด +150
+ไม่มีโบนัสครบชุด
+Hemeralis South Field 2"
+"Barkbound Guard","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","8","5","{""DEF"":8,""MDEF"":5}","[""HP สูงสุด +250"",""การฟื้นฟู HP +10%""]","[]","ไม่มีโบนัสครบชุด","[""Yggdra North Forest 1""]","","","12","9","⚔
+Barkbound Guard
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+8
+MDEF
+5
+HP สูงสุด +250
+การฟื้นฟู HP +10%
+ไม่มีโบนัสครบชุด
+Yggdra North Forest 1"
+"Dunewatch Shield","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","11","7","{""DEF"":11,""MDEF"":7}","[""HP สูงสุด +400"",""DEF +5%""]","[]","ไม่มีโบนัสครบชุด","[""Atlan South Desert 1""]","","","12","10","⚔
+Dunewatch Shield
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+11
+MDEF
+7
+HP สูงสุด +400
+DEF +5%
+ไม่มีโบนัสครบชุด
+Atlan South Desert 1"
+"Runewoven Shield","EQUIPMENT","โล่","","โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด","1","7","11","{""DEF"":7,""MDEF"":11}","[""HP สูงสุด +300"",""MDEF +5%""]","[]","ไม่มีโบนัสครบชุด","[""North Road""]","","","12","11","⚔
+Runewoven Shield
+โล่ · ไม่จำกัดเลเวล · 1 ช่องการ์ด
+DEF
+7
+MDEF
+11
+HP สูงสุด +300
+MDEF +5%
+ไม่มีโบนัสครบชุด
+North Road"
+"Ironroot Bulwark","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 1 ช่องการ์ด","1","14","10","{""DEF"":14,""MDEF"":10}","[""HP สูงสุด +600"",""การฟื้นฟูที่ได้รับ +5%""]","[]","ไม่มีโบนัสครบชุด","[""Soloden East Forest 1""]","","","12","12","⚔
+Ironroot Bulwark
+โล่ · Lv. 50 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+10
+HP สูงสุด +600
+การฟื้นฟูที่ได้รับ +5%
+ไม่มีโบนัสครบชุด
+Soloden East Forest 1"
+"Frostveil Guard","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 1 ช่องการ์ด","1","12","16","{""DEF"":12,""MDEF"":16}","[""HP สูงสุด +800"",""ต้านทานธาตุน้ำance +10%""]","[]","ไม่มีโบนัสครบชุด","[""Ancient Pyramid 2""]","","","12","13","⚔
+Frostveil Guard
+โล่ · Lv. 50 · 1 ช่องการ์ด
+DEF
+12
+MDEF
+16
+HP สูงสุด +800
+ต้านทานธาตุน้ำance +10%
+ไม่มีโบนัสครบชุด
+Ancient Pyramid 2"
+"Abyssal Encounter","EQUIPMENT","โล่","100","โล่ · Lv. 100 · 1 ช่องการ์ด","1","14","14","{""DEF"":14,""MDEF"":14}","[]","[""On received Physical or Magical hit: 1% โอกาส ต่อระดับตีบวก to reflect 30% of damage received""]","ไม่มีโบนัสครบชุด","[""ไม่พบแหล่งดรอป""]","","","12","14","⚔
+Abyssal Encounter
+โล่ · Lv. 100 · 1 ช่องการ์ด
+DEF
+14
+MDEF
+14
+ต่อระดับตีบวก
+On received Physical or Magical hit: 1% โอกาส ต่อระดับตีบวก to reflect 30% of damage received
+ไม่มีโบนัสครบชุด
+ไม่พบแหล่งดรอป"
+"Verdant Bulwark","EQUIPMENT","โล่","50","โล่ · Lv. 50 · 0 ช่องการ์ด","0","10","6","{""DEF"":10,""MDEF"":6}","[""Physical Reflect Damage +10%"",""HP สูงสุด +10%"",""Chaos Orb Allowed; Max Card Slots: 1""]","[]","ไม่มีโบนัสครบชุด","[""Soloden South Forest 2""]","","","12","15","⚔
+Verdant Bulwark
+โล่ · Lv. 50 · 0 ช่องการ์ด
+DEF
+10
+MDEF
+6
+Physical Reflect Damage +10%
+HP สูงสุด +10%
+Chaos Orb Allowed; Max Card Slots: 1
+ไม่มีโบนัสครบชุด
+Soloden South Forest 2"

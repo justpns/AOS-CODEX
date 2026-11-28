@@ -1,0 +1,36 @@
+import { esc, fmt, heading, panel, table, status } from './common.js';
+
+let selectedStat = 'hp';
+export function setMonsterStat(value){selectedStat=value}
+const STATS = [['hp','HP','stats.hp'],['mp','MP','stats.mp'],['atk','ATK','stats.atk'],['matk','MATK','stats.matk'],['def','DEF','stats.def'],['mdef','MDEF','stats.mdef'],['baseExp','Base EXP','rewards.baseExp'],['jobExp','Job EXP','rewards.jobExp'],['goldMin','Gold Min','rewards.goldMin'],['goldMax','Gold Max','rewards.goldMax'],['level','Level','level']];
+export function renderMonsters(c, mode = 'all') {
+  const state = c.store.getState(), bossOnly = mode === 'mvp' || mode === 'abyss', title = mode === 'mvp' ? 'MVP Boss Balance' : mode === 'abyss' ? 'Abyss Boss Balance' : mode === 'normal' ? 'Normal Monster Balance' : 'Monster Database';
+  const desc = bossOnly ? (mode === 'mvp' ? '22 in-map MVPs · HP proposal uses the MVP handoff; party size never scales boss HP.' : '7 Abyss bosses · reference HP is retained by default; no MVP rebalance rules are applied.') : 'Source-preserving monster editor. Original, proposed, custom and effective values stay traceable by Monster ID.';
+  const actions = `<button class="button" data-action="undo">Undo</button><button class="button" data-action="redo">Redo</button><button class="button" data-action="reset-filtered">Reset Filtered</button><button class="button subtle" data-action="restore-original">Restore Original</button>`;
+  const active = c.monsters;
+  let rows = active.filter(m => {
+    if (mode === 'normal' && m.boss) return false;
+    if (mode === 'mvp' && (!m.boss || m.metadata?.tier === 'Abyss')) return false;
+    if (mode === 'abyss' && (!m.boss || m.metadata?.tier !== 'Abyss')) return false;
+    return true;
+  });
+  const f = state.filters;
+  rows = rows.filter(m => (!f.search || `${m.name} ${m.id}`.toLowerCase().includes(f.search.toLowerCase())) && m.level >= Number(f.minLevel || 1) && m.level <= Number(f.maxLevel || 999) && (f.element === 'all' || m.element === f.element) && (f.race === 'all' || m.race === f.race) && (f.aggro === 'all' || m.aggro === f.aggro) && (f.map === 'all' || (m.maps || []).some(x => x.name === f.map)) && (f.archetype === 'all' || m.metadata?.archetype === f.archetype));
+  rows.sort((a,b)=>a.level-b.level || a.name.localeCompare(b.name));
+  const elements = unique(active.map(m=>m.element)), races = unique(active.map(m=>m.race)), archetypes = unique(active.map(m=>m.metadata?.archetype).filter(Boolean)), maps=unique(active.flatMap(m=>(m.maps||[]).map(x=>x.name)));
+  const p = state.tablePage || 0, size = 50, shown=rows.slice(p*size,(p+1)*size);
+  const stat=STATS.find(x=>x[0]===selectedStat)||STATS[0], path=stat[2];
+  const body = `<div class="toolbar">${status('PROPOSED',state.mode.toUpperCase()+' DATASET')}<label class="field">Comparison field<select class="control" id="stat-choice">${STATS.map(s=>`<option value="${s[0]}" ${s[0]===selectedStat?'selected':''}>${s[1]}</option>`).join('')}</select></label><label class="field">Adjustment type<select class="control" id="bulk-operation"><option value="percent">Percent</option><option value="absolute">Absolute</option></select></label><label class="field">Adjustment amount<input class="control" id="bulk-amount" type="number" value="5" step="any"></label><button class="button" data-action="bulk-adjust">Apply to filtered · ${rows.length}</button><button class="button subtle" data-action="export-current-csv">Export filtered CSV</button></div>
+    <div class="filters"><input class="filter-control" data-filter="search" placeholder="Search name or Monster ID" value="${esc(f.search)}"><span class="range"><input class="filter-control" data-filter="minLevel" type="number" aria-label="Minimum level" value="${esc(f.minLevel)}"><span>to</span><input class="filter-control" data-filter="maxLevel" type="number" aria-label="Maximum level" value="${esc(f.maxLevel)}"></span><select class="filter-control" data-filter="element"><option value="all">All elements</option>${elements.map(x=>`<option ${f.element===x?'selected':''}>${esc(x)}</option>`).join('')}</select><select class="filter-control" data-filter="race"><option value="all">All races</option>${races.map(x=>`<option ${f.race===x?'selected':''}>${esc(x)}</option>`).join('')}</select><select class="filter-control" data-filter="aggro"><option value="all">All aggro</option>${unique(active.map(x=>x.aggro)).map(x=>`<option ${f.aggro===x?'selected':''}>${esc(x)}</option>`).join('')}</select><select class="filter-control" data-filter="archetype"><option value="all">All archetypes</option>${archetypes.map(x=>`<option ${f.archetype===x?'selected':''}>${esc(x)}</option>`).join('')}</select><select class="filter-control" data-filter="map"><option value="all">All maps</option>${maps.map(x=>`<option ${f.map===x?'selected':''}>${esc(x)}</option>`).join('')}</select></div>
+    ${table(['Monster · ID','Lv','Race / Element','Archetype',`${stat[1]} Original`,`${stat[1]} Proposed`,`${stat[1]} Custom`,`${stat[1]} Effective`,`Δ Original`,`Edit Effective`],shown.map(m=>{
+      const original=c.original.monsters.find(o=>String(o.id)===String(m.id)), proposed=state.proposal.records[String(m.id)], custom=state.custom[String(m.id)];
+      const ov=valueAt(original,path), pv=valueAt(mergePreview(original,proposed),path), cv=valueAt(mergePreview(mergePreview(original,proposed),custom),path), ev=valueAt(m,path), delta=Number(ov)?(Number(ev)/Number(ov)-1)*100:null;
+      return `<tr data-row-id="${esc(m.id)}"><td><button class="row-link" data-action="monster-detail" data-id="${esc(m.id)}">${esc(m.name)}</button><div class="source-flag">${esc(m.id)} · ${m.boss?'BOSS':'NORMAL'}</div></td><td>${fmt(m.level,0)}</td><td>${esc(m.race)} / ${esc(m.element)}</td><td>${esc(m.metadata?.archetype||'—')}</td><td>${fmt(ov,0)}</td><td>${fmt(pv,0)}</td><td>${fmt(cv,0)}</td><td><b>${fmt(ev,0)}</b></td><td class="delta ${delta==null?'same':delta>0?'up':delta<0?'down':'same'}">${delta==null?'—':`${delta>0?'+':''}${fmt(delta,1)}%`}</td><td><input data-edit="${path}" data-id="${esc(m.id)}" aria-label="Edit ${esc(m.name)} ${stat[1]}" type="${typeof ev==='number'?'number':'text'}" value="${esc(ev)}"></td></tr>`;
+    }))}
+    <div class="pagination"><span>${rows.length ? `${p*size+1}–${Math.min(rows.length,(p+1)*size)} of ${rows.length} records`:'0 records'} · ID is canonical</span><span><button class="button" data-action="page-prev" ${p===0?'disabled':''}>Previous</button><button class="button" data-action="page-next" ${((p+1)*size>=rows.length)?'disabled':''}>Next</button></span></div>
+    <p class="small muted">Edits write to Custom overrides; source records and rewards remain recoverable. Proposal status and exact source are shown in each record profile.</p>`;
+  return `${heading(title,desc,actions)}${panel('Balance records',body)}`;
+}
+function unique(a){return [...new Set(a.filter(x=>x!=null&&x!==''))].sort((a,b)=>String(a).localeCompare(String(b)))}
+function valueAt(x,path){return path.split('.').reduce((o,k)=>o?.[k],x)}
+function mergePreview(a,b){const r=structuredClone(a||{});if(!b)return r;for(const g of ['stats','attributes','rewards','metadata'])if(b[g])r[g]={...(r[g]||{}),...b[g]};if(b.level!=null)r.level=b.level;return r}
